@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-11-15T11:52:28+00:00">
+  <iati-organisation last-updated-datetime="2016-11-15T11:52:28+00:00" xml:lang="" default-currency="">
+    <organisation-identifier>NG-CAC-RC481360</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">THE CONVENTION ON BUSINESS INTEGRITY LTD (GTE)</narrative>
+    </name>
+    <reporting-org type="22" ref="NG-CAC-RC481360">
+      <narrative xml:lang="en">The Convention on Business Integrity</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

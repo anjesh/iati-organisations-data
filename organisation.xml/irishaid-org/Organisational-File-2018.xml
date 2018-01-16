@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-12-19T16:10:40+00:00">
+  <iati-organisation last-updated-datetime="2017-12-19T16:10:40+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>XM-DAC-21-1</organisation-identifier>
+    <name>
+      <narrative>Ireland - Department of Foreign Affairs and Trade</narrative>
+    </name>
+    <reporting-org type="10" ref="XM-DAC-21-1">
+      <narrative>Ireland - Department of Foreign Affairs and Trade</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">486614000.00</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">486431000.00</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2015-01-01">476623000.00</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value value-date="2014-01-01">479163000.00</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01">498020000.00</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01">518185874.00</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">500126000.00</value>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2020-01-01">27200000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">
+        <narrative>Kenya 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">800000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">12798000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone Budget 2018</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">6500000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">6740000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2020-01-01">15100000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">27200000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2020-01-01">6700000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">15200000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">14950000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi 2017 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">13700000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">13725000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2020-01-01">20000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">20000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">21000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania 2017 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">20000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">21685000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2020-01-01">15500000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">15600000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">18400000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda 2017 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">17000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">16200000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN">
+        <narrative>Vietnam 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2020-01-01">10000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN">
+        <narrative>Vietnam 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">10000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN">
+        <narrative>Vietnam 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">10000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN">
+        <narrative>Vietnam 2017 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">10000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN">
+        <narrative>Vietnam Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">11000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA">
+        <narrative>South Africa Budget 2017</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">1700000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA">
+        <narrative>South Africa Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">2800000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW">
+        <narrative>Zimbabwe Budget 2017</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">3500000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW">
+        <narrative>Zimbabwe Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">2800000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR">
+        <narrative>Liberia Budget 2017</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">5890000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR">
+        <narrative>Liberia Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">5890000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">
+        <narrative>Kenya Budget 2017</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">450000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">
+        <narrative>Kenya Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">450000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia Budget 2018</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">30000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia 2017 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">27030000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia Budget 2016</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">27030000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone Budget 2017</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">6700000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">6700000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2020-01-01">26000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">26000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">23000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique 2017 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">26000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia 2020 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2020-01-01">10000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia 2019 Forward Indicative Commitment</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2019-01-01">10000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR">
+        <narrative>Liberia 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">3050000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia 2017 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">10000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">8000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA">
+        <narrative>South Africa 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">2000000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW">
+        <narrative>Zimbabwe 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">3500000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique 2016 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">30800000.00</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG">
+        <narrative>Nigeria 2018 Budget</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">80000.00</value>
+    </recipient-country-budget>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaidpublications/Irish-Aid-Annual-Report-2016.pdf">
+      <title>
+        <narrative>Irish Aid Annual Report 2016</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2017-09-26"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/one-world-one-future-irelands-new-policy.pdf">
+      <title>
+        <narrative>One World One Future</narrative>
+      </title>
+      <category code="B02"/>
+      <document-date iso-date="2013-05-02"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/Action-for-Framework.pdf">
+      <title>
+        <narrative>Framework for Action</narrative>
+      </title>
+      <category code="B04"/>
+      <document-date iso-date="2014-09-17"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/Ethiopia-Country-Strategy-Paper-2014-2018.pdf">
+      <title>
+        <narrative>Ethiopia Country Strategy 2014-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2015-02-19"/>
+      <recipient-country code="ET"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/Zambia-CSP-Approved-External-Copy-2015.pdf">
+      <title>
+        <narrative>Zambia Country Strategy 2013-2017</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2015-02-25"/>
+      <recipient-country code="ZM"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/FINAL-Uganda-CSP-print-version.pdf">
+      <title>
+        <narrative>Uganda Country Strategy 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2016-11-25"/>
+      <recipient-country code="UG"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/30whatwedo/20170502-Malawi-CSP-FINAL-PUBLIC-VERSION-for-HQ-Publication.pdf">
+      <title>
+        <narrative>Malawi Country Strategy 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2017-05-02"/>
+      <recipient-country code="MW"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/60aboutirishaid/IA-DevEd-Strategy-English.pdf">
+      <title>
+        <narrative>Irish Aid Development Education Strategy 2017-2023</narrative>
+      </title>
+      <category code="B11"/>
+      <document-date iso-date="2016-12-21"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/Malawi-CSP-2015-Final-Report.pdf">
+      <title>
+        <narrative>Malawi CSP Evaluation Report 2010-2014</narrative>
+      </title>
+      <category code="B10"/>
+      <document-date iso-date="2016-11-25"/>
+      <recipient-country code="MW"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/30whatwedo/IA_UgandaCSP_FinalReport_Final_05-05-2015.pdf">
+      <title>
+        <narrative>Uganda CSP Evaluation Report 2010-2014</narrative>
+      </title>
+      <category code="B10"/>
+      <document-date iso-date="2016-11-10"/>
+      <recipient-country code="UG"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.audgen.gov.ie/documents/annualreports/2016/appacc/en/vote%2027.pdf">
+      <title>
+        <narrative>Comptroller and Auditor General Report on the accounts of the public services 2016, Appropriation Account 2016: Vote 27 International Co-operation</narrative>
+      </title>
+      <category code="B06"/>
+      <document-date iso-date="2017-09-26"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/s-2947/IA-Social-Protection-Strategy-2017.pdf">
+      <title>
+        <narrative>Irish Aid Social Protection Strategy</narrative>
+      </title>
+      <category code="B11"/>
+      <document-date iso-date="2017-09-15"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/Irish-Aid-Research-Strategy-2015-2019.pdf">
+      <title>
+        <narrative>Irish Aid Research Strategy 2015-2019</narrative>
+      </title>
+      <category code="B11"/>
+      <document-date iso-date="2015-08-25"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/sierra-leone-evaluation-report-country-strategy-paper-2011-2013.pdf">
+      <title>
+        <narrative>Sierra Leone Country Strategy 2011-2013 Evaluation Report</narrative>
+      </title>
+      <category code="B10"/>
+      <document-date iso-date="2014-08-14"/>
+      <recipient-country code="SL"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/tanzania-csp-summary-2011-2015.pdf">
+      <title>
+        <narrative>Tanzania Country Strategy 2011-2015 Summary</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2013-10-03"/>
+      <recipient-country code="TZ"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/irish-aid-mozambique-csp-2012-2016.pdf">
+      <title>
+        <narrative>Mozambique Country Strategy 2012-2016</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2012-11-23"/>
+      <recipient-country code="MZ"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/irish-aid-vietnam-csp-2011-2015.pdf">
+      <title>
+        <narrative>Vietnam Country Strategy 2011-2015</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2012-11-30"/>
+      <recipient-country code="VN"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/evaluation-of-the-irish-aid-ethiopia-country-strategy-2008-2012-main-report.pdf">
+      <title>
+        <narrative>Evaluation of the Irish Aid Ethiopia Country Strategy 2008-2012</narrative>
+      </title>
+      <category code="B10"/>
+      <document-date iso-date="2013-05-13"/>
+      <recipient-country code="ET"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/evaluation-irish-aid-lesotho-country-strategy-paper-2008-2012-final-report.pdf">
+      <title>
+        <narrative>Evaluation of the Irish Aid Lesotho Country Strategy 2008-2012</narrative>
+      </title>
+      <category code="B10"/>
+      <document-date iso-date="2013-02-13"/>
+      <recipient-country code="LS"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/irish-aid-south-africa-country-strategy-paper-evaluation-final-report.pdf">
+      <title>
+        <narrative>Irish Aid South Africa Country Strategy Paper (2008-2012) Evaluation</narrative>
+      </title>
+      <category code="B10"/>
+      <document-date iso-date="2013-01-29"/>
+      <recipient-country code="ZA"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/20newsandpublications/publicationpdfsenglish/zambia-csp-2007-2010-evaluation.pdf">
+      <title>
+        <narrative>Evaluation of the Irish Aid Zambia Country Strategy Paper 2007-2010</narrative>
+      </title>
+      <category code="B10"/>
+      <document-date iso-date="2012-12-05"/>
+      <recipient-country code="ZM"/>
+    </document-link>
+    <document-link format="application/http" url="https://www.irishaid.ie/about-us/procurement-opportunities">
+      <title>
+        <narrative>Procurement</narrative>
+      </title>
+      <category code="B05"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.irishaid.ie/media/irishaid/allwebsitemedia/30whatwedo/Pretoria-Strategy-2017-2021.pdf">
+      <title>
+        <narrative>Ireland in South Africa and the Southern African Sub-Region Embassy Pretoria Strategy 2017-2021</narrative>
+      </title>
+      <category code="B03"/>
+      <document-date iso-date="2017-10-31"/>
+      <recipient-country code="ZA"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

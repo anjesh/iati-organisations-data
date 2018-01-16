@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<iati-organisations generated-datetime="2017-08-18T12:13:08" version="2.01">
+  <iati-organisation last-updated-datetime="2017-08-18T12:13:08" xml:lang="en" default-currency="XDR">
+    <organisation-identifier>46002</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">African Development Bank Group</narrative>
+    </name>
+    <reporting-org ref="46002" type="40">
+      <narrative>African Development Bank Group</narrative>
+      <narrative xml:lang="fr">Groupe de le Banque Africaine de Développement</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2016-01-01"></period-start>
+      <period-end iso-date="2016-12-31"></period-end>
+      <value value-date="2016-01-01">4348000300.00</value>
+      <budget-line>
+        <value value-date="2016-01-01">4348000300.00</value>
+        <narrative>Disbursements trajectory</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2017-01-01"></period-start>
+      <period-end iso-date="2017-12-31"></period-end>
+      <value value-date="2017-01-01">368350016.00</value>
+      <budget-line>
+        <value value-date="2017-01-01">368350016.00</value>
+        <narrative>Administrative Budget</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2017-01-01"></period-start>
+      <period-end iso-date="2017-12-31"></period-end>
+      <value value-date="2017-01-01">5651999700.00</value>
+      <budget-line>
+        <value value-date="2017-01-01">5651999700.00</value>
+        <narrative>Disbursements trajectory</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2018-01-01"></period-start>
+      <period-end iso-date="2018-12-31"></period-end>
+      <value value-date="2018-01-01">392240000.00</value>
+      <budget-line>
+        <value value-date="2018-01-01">392240000.00</value>
+        <narrative>Administrative Budget</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2018-01-01"></period-start>
+      <period-end iso-date="2018-12-31"></period-end>
+      <value value-date="2018-01-01">6303000100.00</value>
+      <budget-line>
+        <value value-date="2018-01-01">6303000100.00</value>
+        <narrative>Disbursements trajectory</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2019-01-01"></period-start>
+      <period-end iso-date="2019-12-31"></period-end>
+      <value value-date="2019-01-01">397880000.00</value>
+      <budget-line>
+        <value value-date="2019-01-01">397880000.00</value>
+        <narrative>Administrative Budget</narrative>
+      </budget-line>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">13000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">9000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">135000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">55000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">73900000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">15000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">22360000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CG"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">24900000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">90000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">60000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">80000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">688000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">398000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">295000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">210000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM"/>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2019-01-01">355000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CV"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">69000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CV"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">5000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DJ"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">6000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DJ"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">10000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DZ"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">811069760</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DZ"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">738475140</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DZ"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">820000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">461000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">497360000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">470000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ER"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">25650000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">135000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">195750000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">344600000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">367400000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET"/>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2019-01-01">219000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET"/>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="XDR" value-date="2020-01-01">106000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GA"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">510600000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GA"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">281000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GA"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">70000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GA"/>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2019-01-01">140000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GM"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">800000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">14100000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">36800000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">1500000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">70000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">175000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KM"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">15000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KM"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">25000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR"/>
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2014-01-01">120000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LS"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">8100000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">320000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">320000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">370000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">360000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA"/>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2019-01-01">370000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">27610000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">16510000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">100000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">120000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">23000500</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">7000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">8000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MU"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">104300000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">55000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">31000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">50000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">30000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">32000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">190000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">380169984</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW"/>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2019-01-01">112500000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">500000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SC"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">10000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SC"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">22000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL"/>
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2014-01-01">252000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SZ"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">26500000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SZ"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">2500000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">15365000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">32492000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">60750000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">48000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD"/>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="XDR" value-date="2020-01-01">49425000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">84146000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">28000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">95000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">15000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG"/>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2019-01-01">5000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">440000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">440000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN"/>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2019-01-01">430000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">196000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">565500030</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ"/>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="XDR" value-date="2018-01-01">662000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="XDR" value-date="2017-01-01">150000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">630000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW"/>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="XDR" value-date="2015-01-01">42000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="XDR" value-date="2016-01-01">4650000</value>
+    </recipient-country-budget>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Development_Effectiveness_Review_2017/ADER__2017_EN.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">ADER- Annual Development Effectiveness Review 2017. Transforming Africa - Unlocking agriculture?s potential</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/BAD_Rapport_annuel_2016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Rapport annuel 2016 du groupe de la Banque Africaine de Développement</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/AfDB_Annual_Report_2016_EN.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">AfDB Group Annual Report 2016</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Policy-Documents/AfDB%20Strategy%20for%202013%E2%80%932022%20-%20At%20the%20Center%20of%20Africa%E2%80%99s%20Transformation.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">African Development Bank Group, At the Center of Africa?s Transformation, Strategy for 2013 -2022</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Policy-Documents/Strat%C3%A9gie%20de%20la%20BAD%20pour%20la%20p%C3%A9riode%202013-2022%20-%20Au%20centre%20de%20la%20transformation%20de%20l%E2%80%99Afrique.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Groupe de la Banque africaine de développement,  Au centre de la transformation de l?Afrique, Stratégie pour la période 2013-2022</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Publications/Trust_Fund_Annual_Report_-_2012-13.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Trust funds annual report 2012-2013</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Boards-Documents/Second_ADF-13_Replenishment_Meeting_-_Resource_Allocation_Framework.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Second ADF-13 Replenishment Meeting - Resource Allocation Framework</narrative>
+      </title>
+      <category code="B04"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Policy-Documents/Bank%20Group%20Policy%20on%20Program-Based%20Operations%20-%20LOTB%20Approved.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">AFRICAN DEVELOPMENT BANK GROUP , Bank Group Policy on Program-Based Operations</narrative>
+      </title>
+      <category code="B04"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Boards-Documents/Deuxi%C3%A8me_r%C3%A9union_de_la_reconstitution_du_FAD-13_-_Cadre_d%E2%80%99allocation_des_ressources.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Deuxième réunion de la reconstitution du FAD-13 - Cadre d?allocation des ressources</narrative>
+      </title>
+      <category code="B04"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Boards-Documents/Troisi%C3%A8me_r%C3%A9union_de_la_reconstitution_du_FAD-13_-_Note_technique_sur_les_propositions_d%E2%80%99ajustements_du_syst%C3%A8me_d%E2%80%99allocation_bas%C3%A9e_sur_la_performance" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Note technique sur les propositions d?ajustements du système d?allocation basée sur la performance du Groupe de la Banque</narrative>
+      </title>
+      <category code="B04"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Boards-Documents/Third_ADF-13_Replenishment_Meeting_-_Technical_Note_on_Proposed_Adjustments_to_the_Bank_Group%E2%80%99s_Performance-Based_Allocation_System.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Technical Note on Proposed Adjustments to The Bank Group?s Performance-Based Allocation System</narrative>
+      </title>
+      <category code="B04"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/en/projects-and-operations/procurement/" format="text/html">
+      <title>
+        <narrative xml:lang="en">Procurement</narrative>
+      </title>
+      <category code="A10"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Financial-Information/2014_-_AfDB_Financial_Statements.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Financial Statements</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Financial-Information/2014_-_Etat_Financier_de_la_BAD.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Etats Financiers</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://operationsevaluation.afdb.org/en/evaluations-publications/?tx_llcatalog_pi%5Bfilters%5D%5Btype%5D=CORPORATE" format="text/html">
+      <title>
+        <narrative xml:lang="en">Corporate Evaluation</narrative>
+      </title>
+      <category code="B09"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Budget-Documents/Plan_Triennal_glissant_et_Budgets_2015%E2%80%932017.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Plan Triennal glissant et Budgets 2015-2017 , Vers une organisation efficiente, efficace et capable de s'adapter</narrative>
+      </title>
+      <category code="A05"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Budget-Documents/Work_Programme_and_Budet_Document-1__version_English_Final_.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2017?2019 Work programme and budget document</narrative>
+      </title>
+      <category code="A05"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Boards-Documents/ADF-13_-_Report_on_the_Thirteenth_General_Replenishment_of_the_Resources_of_the_ADF.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Report on the Thirteenth General Replenishment of the Resources of the African Development Fund (ADF-13)</narrative>
+      </title>
+      <category code="A05"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/Rules%20and%20Procedures%20for%20the%20Use%20of%20Consultants%20%28May%202008%20Edition%20Revised%20July%202012%29.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">AfDB, Rules and Procedures for the Use of Consultants</narrative>
+      </title>
+      <category code="B05"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-related-Procurement/Rules%20and%20Procedures%20for%20Procurement%20of%20Goods%20and%20Works%20%28May%202008%20Edition%20Revised%20July%202012%29.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Rules and Procedures for Procurement of Goods and Works</narrative>
+      </title>
+      <category code="B05"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://independentevaluation.afdb.org/en/evaluations-publications/?tx_llcatalog_pi%5Bfilters%5D%5Btype%5D=COUNTRY" format="text/html">
+      <title>
+        <narrative xml:lang="en">Country Assistance Evaluation</narrative>
+      </title>
+      <category code="B10"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://independentevaluation.afdb.org/fileadmin/uploads/opev/Documents/African_Development_Bank_Independent_Evaluation_Strategy_2013_-_2017.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">African Development Bank Independent Evaluation Strategy 2013 - 2017</narrative>
+      </title>
+      <category code="B14"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="www.afdb.org" format="text/html">
+      <title>
+        <narrative xml:lang="en">African Development Bank Website</narrative>
+      </title>
+      <category code="B16"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fr/countries/" format="text/html">
+      <title>
+        <narrative xml:lang="fr">Pages Pays/Régions</narrative>
+      </title>
+      <category code="B17"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/en/countries/" format="text/html">
+      <title>
+        <narrative xml:lang="en">Country/Region WebPage</narrative>
+      </title>
+      <category code="B17"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/en/topics-and-sectors/" format="text/html">
+      <title>
+        <narrative xml:lang="en">Sector web page</narrative>
+      </title>
+      <category code="B18"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fr/topics-and-sectors/" format="text/html">
+      <title>
+        <narrative xml:lang="fr">Pages Web Sur les secteurs</narrative>
+      </title>
+      <category code="B18"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://operationsevaluation.afdb.org/en/evaluations-publications/?tx_llcatalog_pi%5Bfilters%5D%5Btype%5D=PROJECT" format="text/html">
+      <title>
+        <narrative xml:lang="en">Evaluation reports</narrative>
+      </title>
+      <category code="A07"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/en/documents/project-operations/projectprogramme-completion-reports/" format="text/html">
+      <title>
+        <narrative xml:lang="en">Project/Programme Completion Reports</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fr/documents/strategy-documents/" format="text/html">
+      <title>
+        <narrative xml:lang="en">Strategy documents</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fr/documents/strategy-documents/" format="text/html">
+      <title>
+        <narrative xml:lang="en">Thematic Strategy Documents</narrative>
+      </title>
+      <category code="B12"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2014-2018_-_Cape_Verde_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Cape Verde Country Strategy Paper 2014-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2014-2018_-_Namibia_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Namibia Country Strategy Paper 2014-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2014-2018_-_Kenya_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Kenya Country Strategy Paper 2014-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Tunisia-1-_Country_Strategy_Paper_2017-2021.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Tunisia Country Strategy Paper 2017-2021</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2014-2018_-_Mauritius_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Mauritius Country Strategy Paper 2014-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Niger_-_Combined_2013-2017_Country_Strategy_Paper_and_Portfolio_Review.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Niger - Combined 2013-2017 Country Strategy Paper and Portfolio Review</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2013-2015_-_Somalia_-_Addendum_to_Country_Brief.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2015 - Somalia - Addendum to Country Brief</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/C%C3%B4te_d_Ivoire_-_Combined_2013-2017_Country_Strategy_Paper_and_2013_Portfolio_Review.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Côte d'Ivoire - Combined 2013-2017 Country Strategy Paper and 2013 Portfolio Review</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2014-2018_-_Swaziland_Country_Strategy_Paper__Draft_Version_.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2014-2018 - Swaziland Country Strategy Paper (Draft Version)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Zimbabwe__-_Country_Brief_Update_2014__2016_-_12_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2014-2016 - Zimbabwe - Country Brief</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Zimbabwe__-_Mise_%C3%A0_jour_de_la_fiche-pays_2014-2016_-_12_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Zimbabwe - Mise à jour de la fiche-pays 2014-2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2013-2017%20-%20Sierra%20Leone%20Country%20Strategy%20Paper_01.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - Sierra Leone Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Democratic%20Republic%20of%20Congo%20-%202013-2017%20-%20Country%20Strategy%20Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - Democratic Republic of Congo - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Equatorial_Guinea_-_2013-2017_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - Equatorial Guinea - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Liberia%20-%202013-2017%20-%20Country%20Strategy%20Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - Liberia Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Egypt-CSP-2015-2019.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Egypt - Country Strategy Paper 2015 - 2019</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Senegal_-_Combined_Report_on_the_2010-2015_CSP_Mid-Term_Review_and_2012_Country_Portfolio_Performance_Review.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Senegal - Combined Report on the 2010-2015 CSP Mid-Term Review and 2012 Country Portfolio Performance Review</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Gambia_-_2012-2015_-_AfDB-World_Bank_Joint_Assistance_Strategy.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2015 - Gambia - AfDB/World Bank Joint Assistance Strategy</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2013-2017%20-%20Lesotho%20-%20Country%20Strategy%20Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - Lesotho - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Nigeria%20-%202013-2017%20-%20Country%20Strategy%20Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - Nigeria - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2013-2017%20-%20Malawi%20-%20Country%20Strategy%20Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - Malawi- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2013-2017_-_Congo_-_Document_de_strat%C3%A9gie_pays.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">2013-2017 - Congo - Document de stratégie pays</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2013-2017_-_South_Africa_-_Country_Strategy_Paper_01.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013-2017 - South Africa - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Afrique_du_Sud_-_2013-2017_-_Document_de_strat%C3%A9gie_pays.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">2013-2017 - Afrique du Sud - Document de stratégie pays</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/2012-2014%20-%20South%20Sudan%20-%20Interim%20Country%20Strategy%20Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2014 - South Sudan - Interim Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Benin%20-%20Country%20Strategy%20Paper%202012-2016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2016 - Benin - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/STP%20-%20CSP%202012%20-%202016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2016 - São Tomé &amp; Príncipe - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Ghana%20-%20CSP%202012%20-%202016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2016 -Ghana- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Burkina%20Faso%20DSP%202012-2016%20-%2016%20mai%202012%20RDof%20version%20TRADUCTION%205%20CLEAN%20EDITED%20FR.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Burkina Faso- Document de Stratégie pays- 2012-2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Morocco_-_Combined_report_-_Country_strategy_paper__2012-2016_CSP__mid-term_review_and_2014_Country_portfolio_performance_review_%E2%80%93_11_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Morocco - Combined report - Country strategy paper (2012-2016 CSP) mid-term review and 2014 Country portfolio performance review ? 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Maroc-_Rapport_combin%C3%A9_-_Revue_%C3%A0_mi-parcours_du_DSP_2012-2016____Revue_de_la_performance_du_portefeuille_pays_2014_%E2%80%93_11_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Maroc- Rapport combiné - Revue à mi-parcours du DSP 2012-2016 &amp; Revue de la performance du portefeuille pays 2014 ? 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Guinea%20-%20CSP%202012-16.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2016 -Guinea- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Burundi%20-%20CSP%202012-16.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2016 -Burundi- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/COMOROS%20CSP%202011-2015%20%28English%20Version%29%2014%2011%202011%20RR.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2011-2015 - Comoros - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Rwanda%20-%20CSP%202012-2016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2012-2016 - Rwanda - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Gabon%20-%202011-2015%20Country%20Strategy%20Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2011-2015 - Gabon- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Policy-Documents/Mozambique%20-%202011-15%20CSP.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2011-2015 - Mozambique - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Djibouti%20-%20CSP%202011-15.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2011-2015 - Djibouti - Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Ethiopia-2011-2015%20CSP%20ENG1.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2011-2015 -Ethiopia- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Seychelles%20-%20CSP%20%202011-2015.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2011-2015 -Seychelles- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Angola_-__Country_Strategy_Paper_2017-2021.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Angola - Country Strategy Paper 2017-2021</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/ZAMBIA%20-CSP%202011-2015.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2011-2015 -Zambia- Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Cameroon_-_Joint_2015-2020_Country_Strategy_Paper_and_Country_Portfolio_Performance_Review_report_%E2%80%93_06_2015.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Cameroon - Joint 2015-2020 Country Strategy Paper and Country Portfolio Performance Review report</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Guinea-Bissau__-_2015-2019_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">GUINEA-BISSAU - Country Strategy Paper 2015-2019</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Togo_-Combined_Mid-Term_Review_Country_Strategy_Paper_2011-2015_Rev_APRV.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Togo - Combined Mid-Term Review Country Strategy Paper 2011-2015_Rev_APRV - 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Togo_%E2%80%93_Rapport_combin%C3%A9_de_revue_%C3%A0_mi-parcours_du_document_de_strat%C3%A9gie_pays_2011-2015_Rev_APRV.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Togo ? Rapport combiné de revue à mi-parcours du document de stratégie pays 2011-2015 - Rev_APRV - 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Madagascar_-_Combined_report_on_the_2014-2016_interim_country_strategy_paper__I-CSP__and_the_country_portfolio_performance_review__CPPR__%E2%80%93_11_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Madagascar - Combined report on the 2014-2016 interim country Strategy paper (I-CSP) and the country portfolio Performance review (CPPR) ? 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Madagascar_-__Rapport_combin%C3%A9_du_document_de_strat%C3%A9gie_pays__DSP__int%C3%A9rimaire_2014-2016_et_de_revue_de_la_performance_du_portefeuille__RPPP__%E2%80%93_11_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Madagascar - Rapport combiné du document de stratégie pays (DSP) intérimaire 2014-2016 et de revue de la performance du portefeuille (RPPP) ? 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Eritrea___Interim_Country_Strategy_Paper__I-CSP__2014-2016_-_11_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Eritrea - Interim Country Strategy Paper (I-CSP) 2014-2016 - 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Erythr%C3%A9e___Document_int%C3%A9rimaire_de_strat%C3%A9gie_pays__DSP-I__2014-2016_-_11_2014.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Erythrée _ Document intérimaire de stratégie pays (DSP-I) 2014-2016 - 11 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/CAR_-_Interim_Assistance_Paper_for_the_Transition_2014-2016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">CAR - Interim Assistance Paper for the Transition 2014-2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/RCA_-_Document_d_assistance_int%C3%A9rimaire_%C3%A0_la_transition_2014-2016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">RCA - Document d'assistance intérimaire à la transition 2014-2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Libya_-_Country_Re-Engagement_Note_2014-2016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2014-2016 - Libya - Country Re-Engagement Note</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="http://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Libye_-_Note_de_r%C3%A9engagement_2014-2016.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">2014-2016 - Libye - Note de réengagement</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Maroc_-_Document_de_strat%C3%A9gie_pays_2017-2021.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Maroc - Document de stratégie pays - 2017-2021</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Morocco_-_Country_Strategy_Paper_2017-2021.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Morocco - Country Strategy Paper - 2017-2021</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Rwanda_CSP_2017-21_EN.PDF" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">RWANDA - Bank Group Country Strategy Paper 2017 - 2021</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Rwanda1_DSP_2017-21_FR.PDF" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">RWANDA - Document de stratégie pays du Groupe de la Banque pour la période 2017 - 2021</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Togo_-_2016-2020_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Togo - 2016-2020 Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Togo_-_Document_de_strat%C3%A9gie_pays_2016-2020.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Togo - Document de stratégie pays 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Algeria_-_Interim_Country_Strategy_Paper__ICSP__-_People%E2%80%99s_democratic_republic_of_Algeria_-_2016-2018.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Algeria - Interim Country Strategy Paper (ICSP) - 2016-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Alg%C3%A9rie_-_Document_de_Strat%C3%A9gie_Pays_Int%C3%A9rimaire__DSP_%E2%80%93_I_.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Algérie - Document de Stratégie Pays Intérimaire (DSP ? I) 2016-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Mauritania_-_CSP_2016-2020.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Mauritania - Country Strategy Paper 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Mauritanie_-_DSP_2016-2020.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Mauritanie - Document de stratégie pays 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/CHAD_-_CSP_2015-2020___Addendum.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Chad ? Country Strategy Paper 2015 - 2020 + Addendum</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/TCHAD_-_DSP_2015-2020___Addendum.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Tchad ? Document de stratégie pays 2015-2020 + Addendum</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Gabon-_Joint_2016-2020_Country_Strategy_Paper__CSP__and_Country_Portfoli....pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Gabon - Joint 2016-2020 Country Strategy Paper (CSP) and Country Portfolio Performance Review (CPPR) Report</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Gabon_-Rapport__Combin%C3%A9_du_Document_de_strat%C3%A9gie_pays__DSP__2016-2020_et_de_revue_de_la_performance_du_portefeuille__RPPP_.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Gabon - Rapport combiné du document de stratégie pays (DSP) 2016-2020 et de revue de la performance du portefeuille (RPPP)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/ETHIOPIA_CSP_BPPS_EN.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">ETHIOPIA - 2016 - 2020 Country Strategy Paper "Promoting Green Economic Transformation</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/ETHIOPIE_DSP_2016-2020_FR.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">ETHIOPIE - Document de stratégie pays 2016 - 2020 "Promouvoir la transformation économique verte</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/COMOROS_-_2016-2020_Country_Strategy_Paper.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">COMOROS - 2016-2020 Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/COMORES_-_Document_de_strat%C3%A9gie_pays_2016-2020.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">COMORES - Document de stratégie pays 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Djibouti__Country_Strategy_Paper__CSP__2016-2020.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Djibouti - Country Strategy Paper (CSP) 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Djibouti__Document_de_strat%C3%A9gie_pays__DSP__2016-2020.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Djibouti - Document de stratégie pays (DSP) 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/SEYCHELLES_-_CSP_2016-2020_-_FINAL.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Seychelles - Country Strategy Paper 2016-2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/SEYCHELLES_DSP_2016-2020_-_FINAL.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Seychelles - Document de stratégie pays 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/TANZANIA1_-_CSP_2016-2020.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Tanzania - Country Strategy Paper 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Tanzanie_1-_DSP_2016-2020_-_FR.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Tanzanie - Document de stratégie pays 2016-2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Mali_CSP_2015-2019.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">MALI - Bank Group 2015 -2019 Country Strategy Paper</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url="https://www.afdb.org/fileadmin/uploads/afdb/Documents/Project-and-Operations/Mali_DSP_2015-2019.pdf" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">MALI - Document de stratégie pays du Groupe de la Banque 2015 ? 2019</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

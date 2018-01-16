@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-04-18T15:05:18+00:00">
+  <iati-organisation last-updated-datetime="2016-04-18T15:05:18+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>CO-CCB-00159397</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Urgent Action Fund Latin America</narrative>
+    </name>
+    <reporting-org type="23" ref="CO-CCB-00159397">
+      <narrative xml:lang="en">Urgent Action Fund Latin America</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

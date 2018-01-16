@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iati-organisations generated-datetime="2016-03-10T07:15:37Z" version="2.01">
+  <!--iati-organisation starts-->
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-05-31T07:15:37Z" xml:lang="en">
+    <!--organisation-identifier starts-->
+    <organisation-identifier>NL-KVK-41223308</organisation-identifier>
+    <name>
+      <narrative>SOMO</narrative>
+      <narrative xml:lang="en">SOMO</narrative>
+    </name>
+    <reporting-org ref="NL-KVK-41223308" type="22" secondary-reporter="0">
+      <narrative>SOMO</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value currency="EUR" value-date="2016-02-11">4110000</value>
+    </total-budget>
+    <document-link format="application/pdf" url="https://www.somo.nl/somo-annual-report-2016/">
+      <title>
+        <narrative>Annual Report 2016</narrative>
+      </title>
+      <category code="B01" />
+      <language code="en" />
+    </document-link>
+    <document-link format="application/pdf" url="https://www.somo.nl/annual-report-2015/">
+      <title>
+        <narrative>Annual Report 2015</narrative>
+      </title>
+      <category code="B01" />
+      <language code="en" />
+    </document-link>
+    <document-link format="application/pdf" url="https://www.somo.nl/annual-report-2014/">
+      <title>
+        <narrative>Annual Report 2014</narrative>
+      </title>
+      <category code="B01" />
+      <language code="en" />
+    </document-link>
+    <document-link format="text/html" url="https://www.somo.nl/about-somo/">
+      <title>
+        <narrative>About SOMO</narrative>
+      </title>
+      <category code="B16" />
+      <language code="en" />
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

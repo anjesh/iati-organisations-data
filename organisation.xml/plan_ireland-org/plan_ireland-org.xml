@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-03-05T14:30:11+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="EUR" last-updated-datetime="2014-03-05T02:29:57+00:00">
+    <reporting-org ref="IE-CHY-15037" type="21" xml:lang="en">Plan Ireland Charitable Assistance Limited</reporting-org>
+    <iati-identifier>IE-CHY-15037</iati-identifier>
+    <name>Plan Ireland Charitable Assistance Limited</name>
+    <document-link url="http://plan.ie/files/annual-report-2013-2" format="application/pdf">
+      <language>en</language>
+      <category code="B01">Annual Report and Audited Accounts 1st July 2013- 30th June 2013</category>
+      <title>Annual Report 2013</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

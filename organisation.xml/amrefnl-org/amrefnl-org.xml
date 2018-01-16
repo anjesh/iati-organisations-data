@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-07-05T07:03:08+00:00">
+  <iati-organisation last-updated-datetime="2017-07-05T07:03:08+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41150298</organisation-identifier>
+    <name>
+      <narrative>Amref Flying Doctors</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41150298">
+      <narrative xml:lang="nl">Amref Flying Doctors</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">28097136</value>
+    </total-budget>
+    <document-link format="application/pdf" url="https://view.publitas.com/amref-flying-doctors/jaarverslag-2014-amref-flying-doctors/page/1">
+      <title>
+        <narrative>Op de toekomst gericht - Jaarverslag 2014</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+    </document-link>
+    <document-link format="application/http" url="https://view.publitas.com/amref-flying-doctors/jaarverslag-2015/">
+      <title>
+        <narrative xml:lang="nl">Jaarverslag 2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2016-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.amref.nl/images/actueel/publicaties/jaarverslag-2016-amref-flying-doctors.pdf">
+      <title>
+        <narrative xml:lang="nl">Jaarverslag 2016</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2017-07-05"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

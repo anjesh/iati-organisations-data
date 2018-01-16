@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-01-10T11:09:14+00:00">
+  <iati-organisation last-updated-datetime="2017-01-10T11:09:14+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>XI-IATI-WAI</organisation-identifier>
+    <name>
+      <narrative>WASH Alliance International</narrative>
+    </name>
+    <reporting-org type="21" ref="XI-IATI-WAI">
+      <narrative xml:lang="en">WASH Alliance International</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

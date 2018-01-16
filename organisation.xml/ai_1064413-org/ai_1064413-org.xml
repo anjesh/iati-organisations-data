@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-04-04T19:32:28+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-04-04T19:31:57+00:00" default-currency="GBP">
+    <reporting-org ref="GB-CHC-1064413" type="21" xml:lang="en">African Initiatives</reporting-org>
+    <iati-identifier>GB-CHC-1064413</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-12-05T06:06:18+00:00">
+  <iati-organisation last-updated-datetime="2017-12-05T06:06:18+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>ZW-PVO-WO1789</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Family AIDS Caring Trust</narrative>
+    </name>
+    <reporting-org type="22" ref="ZW-PVO-WO1789">
+      <narrative xml:lang="en">Family Aids Caring Trust</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2015-10-01"/>
+      <period-end iso-date="2018-09-30"/>
+      <value currency="GBP" value-date="2018-09-30">697148</value>
+      <budget-line ref="IMP129">
+        <value currency="GBP" value-date="2018-09-30">697148</value>
+        <narrative xml:lang="en">For the whole project</narrative>
+      </budget-line>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW">
+        <narrative xml:lang="en">ZIMBABWE</narrative>
+      </recipient-country>
+      <period-start iso-date="2015-10-01"/>
+      <period-end iso-date="2018-09-30"/>
+      <value currency="GBP" value-date="2018-09-30">697148</value>
+    </recipient-country-budget>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2017-12-19T13:52:37Z" version="2.01">
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-12-19T13:52:37Z" xml:lang="en">
+    <organisation-identifier>XI-IATI-EBRD</organisation-identifier>
+    <name>
+      <narrative>European Bank for Reconstruction and Development</narrative>
+      <narrative xml:lang="fr">Banque Européenne pour la Reconstruction et le Développement</narrative>
+    </name>
+    <reporting-org ref="XI-IATI-EBRD" type="40" secondary-reporter="0">
+      <narrative>European Bank for Reconstruction and Development</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value currency="EUR" value-date="2016-01-01">8800000000</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value currency="EUR" value-date="2016-01-01">9100000000</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value currency="EUR" value-date="2016-01-01">9650000000</value>
+    </total-budget>
+    <document-link format="text/html" url="http://www.ebrd.com">
+      <title>
+        <narrative>European Bank for Reconstruction and Development Web Site</narrative>
+      </title>
+      <category code="B16"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ebrd.com/documents/comms-and-bis/pdf-environmental-and-social-policy.pdf">
+      <title>
+        <narrative>Environmental and Social Policy</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ebrd.com/downloads/about/evaluation/1003.pdf">
+      <title>
+        <narrative>EBRD Evaluation Policy</narrative>
+      </title>
+      <category code="B09"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ebrd.com/documents/procurement/procurement-policies-and-rules-2014.pdf">
+      <title>
+        <narrative>EBRD's Procurement Policies and Rules</narrative>
+      </title>
+      <category code="B05"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.ebrd.com/what-we-do/strategies-and-policies.html">
+      <title>
+        <narrative>EBRD's Strategies and Policies</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ebrd.com/what-we-do/strategies-and-policies/strategic-and-capital-framework.pdf">
+      <title>
+        <narrative>Strategic and Capital Framework 2016-2020</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ebrd.com/cs/Satellite?c=Content&amp;cid=1395236452323&amp;d=&amp;pagename=EBRD%2FContent%2FDownloadDocument">
+      <title>
+        <narrative>Public Information Policy</narrative>
+      </title>
+      <category code="B15"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ebrd.com/documents/comms-and-bis/pdf-annual-report-2016-english.pdf">
+      <title>
+        <narrative>Annual Report 2016</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.ebrd.com/what-we-do/strategies-and-policies.html">
+      <title>
+        <narrative>Country Strategies</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.ebrd.com/news/publications/financial-report/financial-report-2016.html">
+      <title>
+        <narrative>Financial Report 2016</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>
+

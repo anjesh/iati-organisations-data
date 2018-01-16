@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-11-22T13:59:33+00:00">
+  <iati-organisation last-updated-datetime="2016-11-22T13:59:33+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41207580</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Health Action International</narrative>
+    </name>
+    <reporting-org type="22" ref="NL-KVK-41207580">
+      <narrative xml:lang="nl">Stichting Health Action International</narrative>
+      <narrative xml:lang="en">Health Action International</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-08-25">1069311</value>
+      <budget-line ref="NL-KVK-41150298">
+        <value currency="EUR" value-date="2016-08-25">1069311</value>
+        <narrative>All budgets</narrative>
+      </budget-line>
+    </total-budget>
+    <recipient-org-budget status="2">
+      <recipient-org ref="HAI-KVK-41207580">
+        <narrative>Stichting Health Action International</narrative>
+      </recipient-org>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-08-22">1069311</value>
+      <budget-line ref="NL-KVK-41207580">
+        <value currency="EUR" value-date="2016-08-22">1069311</value>
+        <narrative>For all projects + HAI HQ</narrative>
+      </budget-line>
+    </recipient-org-budget>
+    <recipient-region-budget status="1">
+      <recipient-region vocabulary="1" code="298"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-05-01">1069311</value>
+      <budget-line ref="NL-KVK-41207580">
+        <value currency="EUR" value-date="2016-05-01">1069311</value>
+        <narrative>All projects + HAI HQ</narrative>
+      </budget-line>
+    </recipient-region-budget>
+    <recipient-country-budget>
+      <recipient-country code="NL"/>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-05-01">1069311</value>
+      <budget-line ref="NL-KVK-41207580">
+        <value currency="EUR" value-date="2016-07-13">1069311</value>
+        <narrative>All projects + HAI HQ</narrative>
+      </budget-line>
+    </recipient-country-budget>
+    <total-expenditure>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-05-01">1069311</value>
+      <expense-line ref="NL-KVK-41150298">
+        <value currency="EUR" value-date="2016-05-01">1069311</value>
+        <narrative>All projects + HAI HQ</narrative>
+      </expense-line>
+    </total-expenditure>
+  </iati-organisation>
+</iati-organisations>

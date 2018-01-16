@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-03-20T09:15:46+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-12-06T10:31:30+00:00">
+    <reporting-org ref="GB-CHC-1074937" type="21" xml:lang="en">ADRA-UK</reporting-org>
+    <iati-identifier>GB-CHC-1074937</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

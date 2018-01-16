@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2018-01-07T06:48:13Z">
+<iati-organisation last-updated-datetime="2017-11-17T12:56:53Z">
+<organisation-identifier>NL-KVK-41198677</organisation-identifier>
+<name>
+<narrative><![CDATA[Hivos]]></narrative>
+</name>
+<reporting-org ref="NL-KVK-41198677" type="21"><narrative><![CDATA[Hivos]]></narrative></reporting-org>
+<total-budget>
+<period-start iso-date="2018-01-01" />
+<period-end iso-date="2018-12-31" />
+<value currency="EUR" value-date="2017-11-17">74242590</value>
+<budget-line ref="1015409">
+<value currency="EUR" value-date="2017-04-07">6605529</value>
+<narrative xml:lang="en"><![CDATA[HUB SEA Projects]]></narrative>
+</budget-line>
+<budget-line ref="1016800">
+<value currency="EUR" value-date="2017-04-07">5397428</value>
+<narrative xml:lang="en"><![CDATA[HUB SA Projects]]></narrative>
+</budget-line>
+<budget-line ref="1015407">
+<value currency="EUR" value-date="2017-04-07">8179523</value>
+<narrative xml:lang="en"><![CDATA[HUB EA Projects]]></narrative>
+</budget-line>
+<budget-line ref="1015408">
+<value currency="EUR" value-date="2017-04-07">16358394</value>
+<narrative xml:lang="en"><![CDATA[HUB LA Projects]]></narrative>
+</budget-line>
+<budget-line ref="1015406">
+<value currency="EUR" value-date="2017-04-07">4762</value>
+<narrative xml:lang="en"><![CDATA[GO FSC]]></narrative>
+</budget-line>
+<budget-line ref="1015405">
+<value currency="EUR" value-date="2017-04-07">1597666</value>
+<narrative xml:lang="en"><![CDATA[GO SCI]]></narrative>
+</budget-line>
+<budget-line ref="1015402">
+<value currency="EUR" value-date="2017-04-07">8422630</value>
+<narrative xml:lang="en"><![CDATA[GO GREEN]]></narrative>
+</budget-line>
+<budget-line ref="1015403">
+<value currency="EUR" value-date="2017-04-07">19422059</value>
+<narrative xml:lang="en"><![CDATA[GO OPEN]]></narrative>
+</budget-line>
+<budget-line ref="1015404">
+<value currency="EUR" value-date="2017-04-07">8254599</value>
+<narrative xml:lang="en"><![CDATA[MENA at GO]]></narrative>
+</budget-line>
+</total-budget>
+<document-link format="text/html" url="http://hivosannualreport.org/">
+<title>
+<narrative xml:lang="en"><![CDATA[Hivos Annual Report]]></narrative>
+</title>
+<category code="B01"/>
+<language code="en"/>
+<document-date iso-date="2017-11-17"/>
+</document-link>
+</iati-organisation>
+</iati-organisations>

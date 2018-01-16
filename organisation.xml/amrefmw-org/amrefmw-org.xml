@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-02-16T08:17:42+00:00">
+  <iati-organisation last-updated-datetime="2017-02-16T08:17:42+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>MW-NBM-R1527</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Amref Health Africa in Malawi</narrative>
+    </name>
+    <reporting-org type="22" ref="MW-NBM-R1527">
+      <narrative xml:lang="en">Amref Health Africa in Malawi</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

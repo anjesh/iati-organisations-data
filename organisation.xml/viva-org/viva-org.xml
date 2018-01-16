@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-03-05T14:30:07+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-03-05T02:26:57+00:00">
+    <reporting-org ref="GB-CHC-1053389" type="21" xml:lang="en">Viva</reporting-org>
+    <iati-identifier>GB-CHC-1053389</iati-identifier>
+    <name>Viva</name>
+    <document-link url="http://www.viva.org/pdf/Viva-annual-report-2013.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B01">Annual Report 2012-13</category>
+      <title>Viva Annual Report 2012-13</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-10-04T10:17:08+00:00">
+  <iati-organisation last-updated-datetime="2017-10-04T10:17:08+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>XI-IATI-CHE105834763</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">market and employment for peace and stability</narrative>
+    </name>
+    <reporting-org type="21" ref="XI-IATI-CHE105834763">
+      <narrative xml:lang="en">HELVETAS Swiss Intercooperation</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2021-12-31"/>
+      <value currency="EUR" value-date="2017-01-01">3870007</value>
+    </total-budget>
+    <recipient-org-budget status="2">
+      <recipient-org ref="XM-DAC-7-PPR-29435">
+        <narrative xml:lang="en">market and employment for peace and stability</narrative>
+      </recipient-org>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2021-12-31"/>
+      <value currency="EUR" value-date="2017-01-01">200000</value>
+    </recipient-org-budget>
+    <document-link format="application/vnd.ms-excel.sheet.macroEnabled.12" url="https://aidstream.org/files/xml/hsi-activities.xml">
+      <title>
+        <narrative xml:lang="en">Market and employment for peace and stability</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+      <document-date iso-date="2017-08-11"/>
+      <recipient-country code="PK">
+        <narrative xml:lang="en">pakistan</narrative>
+      </recipient-country>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

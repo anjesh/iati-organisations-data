@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-12-11T10:40:59+00:00">
+  <iati-organisation last-updated-datetime="2017-12-11T10:40:59+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41160054</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Cordaid</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41160054">
+      <narrative xml:lang="en">Cordaid</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2017-01-01"/>
+      <value currency="EUR" value-date="2016-01-01">145000000</value>
+    </total-budget>
+  </iati-organisation>
+</iati-organisations>

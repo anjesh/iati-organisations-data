@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<iati-organisations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" generated-datetime="2017-12-31T00:15:00.8127018-08:00" version="2.01">
+  <iati-organisation xml:lang="en" default-currency="USD" last-updated-datetime="2017-12-31T00:15:00.8127018-08:00">
+    <organisation-identifier>US-EIN-941655673</organisation-identifier>
+    <name xml:lang="en">
+      <narrative>The William and Flora Hewlett Foundation</narrative>
+    </name>
+    <reporting-org type="60" ref="US-EIN-941655673">
+      <narrative>The William and Flora Hewlett Foundation</narrative>
+    </reporting-org>
+    <document-link url="http://www.hewlett.org/annual-reports" format="text/html">
+      <title>
+        <narrative>Annual Report</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="http://www.hewlett.org/uploads/Hewlett_Foundations_2016_Audited_Financial_Statements.pdf" format="application/pdf">
+      <title>
+        <narrative>Audited Financial Statements</narrative>
+      </title>
+      <category code="B06" />
+    </document-link>
+    <document-link url="http://www.hewlett.org/sites/default/files/Hewlett_2016_Form_990-PF.pdf" format="application/pdf">
+      <title>
+        <narrative>IRS Form 990PF</narrative>
+      </title>
+      <category code="B06" />
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

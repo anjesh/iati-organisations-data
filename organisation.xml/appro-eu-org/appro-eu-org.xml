@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-10-01T04:16:55+00:00">
+  <iati-organisation last-updated-datetime="2016-10-01T04:16:55+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>BE-GTCF-630789842</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">APPRO-Europe</narrative>
+    </name>
+    <reporting-org type="80" ref="BE-GTCF-630789842">
+      <narrative xml:lang="en">APPRO - Europe</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2015-10-01"/>
+      <period-end iso-date="2016-04-30"/>
+      <value currency="EUR" value-date="2015-10-01">3384954</value>
+    </total-budget>
+  </iati-organisation>
+</iati-organisations>

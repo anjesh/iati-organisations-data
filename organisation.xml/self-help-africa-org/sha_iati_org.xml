@@ -1,0 +1,36 @@
+<iati-organisations generated-datetime="2013-09-16T12:36:22+00:00" version="2.01">
+<iati-organisation xml:lang="en" last-updated-datetime="2013-09-16T12:36:11+00:00" default-currency="EUR">
+ <organisation-identifier>IE-CHY-6663</organisation-identifier>
+  
+  <name>
+	  <narrative xml:lang="en">Self Help Arica</narrative>
+  </name>
+  
+  <reporting-org ref="IE-CHY-6663" type="21" secondary-reporter="0">
+	  <narrative xml:lang="en">Self Help Africa</narrative>	  
+  </reporting-org>
+  
+  <total-budget>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="EUR" value-date="2015-01-01">23500000</value>
+  </total-budget>
+  <!--total-budget ends-->
+
+<document-link url="http://www.selfhelpafrica.org/selfhelp/Files/SHA-Annual-Report-2012-23JULY-small.pdf" format="application/pdf">
+<title>
+    <narrative>Self Help Africa Annual Review 2012</narrative>	   
+   </title>
+   <category code="B01" />
+   <language code="en" />
+  </document-link>
+
+<document-link url="https://na8.salesforce.com/sfc/p/80000000ZwFD/a/C0000000LW7W/N1sOkaOxWcDyEfhkX0.gvtF6YWuU8CzK.IYs3n1Iih8=" format="application/pdf">
+<title>
+    <narrative>Strategic plan 2012-2015</narrative>	   
+   </title>
+   <category code="B02" />
+   <language code="en" /> 
+  </document-link>
+</iati-organisation>
+</iati-organisations>

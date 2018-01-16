@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-04-17T14:40:22+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-04-17T02:39:44+00:00">
+    <reporting-org ref="GB-CHC-261488" type="21" xml:lang="en">Amref Health Africa - UK</reporting-org>
+    <iati-identifier>GB-CHC-261488</iati-identifier>
+    <name xml:lang="en">Amref Health Africa - UK</name>
+    <document-link url="http://www.amrefuk.org/news/publications/item/download/95_0fca0213ace2b46020e987f0926556a0" format="application/pdf">
+      <category code="B01">Amref Health Africa - UK's 2012 annual review.</category>
+      <title>Amref Health Africa - UK's Annual Review 2012</title>
+    </document-link>
+    <document-link url="http://www.amrefuk.org/news/publications/item/download/108_413ba3b837a1d9d784cf3c3b72e1c2bd" format="application/pdf">
+      <category code="B01">Amref Health Africa - UK's audited accounts and financial information for the financial year ending September 2012. </category>
+      <title>Amref Health Africa - UK's report of the trustees and financial statements for the year ended 30th September 2012.</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

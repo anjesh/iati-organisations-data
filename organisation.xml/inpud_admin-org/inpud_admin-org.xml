@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-04-13T14:21:24+00:00">
+  <iati-organisation last-updated-datetime="2017-04-13T14:21:24+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>GB-COH-08828458</organisation-identifier>
+    <name>
+      <narrative>INPUD</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-COH-08828458">
+      <narrative xml:lang="en">INPUD International Network of People who Use Drugs</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

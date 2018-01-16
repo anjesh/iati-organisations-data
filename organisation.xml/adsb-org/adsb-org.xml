@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-10-05T09:00:38+00:00">
+  <iati-organisation last-updated-datetime="2017-10-05T09:00:38+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-33226495</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Atradius Dutch State Business</narrative>
+    </name>
+    <reporting-org type="70" ref="NL-KVK-33226495">
+      <narrative xml:lang="en">Atradius Dutch State Business</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2014-07-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2014-07-01">0</value>
+    </total-budget>
+    <recipient-org-budget status="1">
+      <recipient-org>
+        <narrative>Budget for insurance is allocated by the Ministry of foreign affairs</narrative>
+      </recipient-org>
+      <period-start iso-date="2014-07-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2014-07-01">0</value>
+    </recipient-org-budget>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-04-20T13:44:31+00:00">
+  <iati-organisation last-updated-datetime="2016-04-20T13:44:31+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>US-EIN-47-4128047</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Friends of Publish What You Fund</narrative>
+    </name>
+    <reporting-org type="21" ref="US-EIN-47-4128047">
+      <narrative xml:lang="en">Friends of Publish What You Fund was established in May 2015 with the objective of promoting transparency among donors, users and implementers of international assistance in order to ensure effective spending, evaluation and accountability.  Its particular focus is on U.S. transparency and accountability and it works in partnership with a number of stakeholders with similar objectives.  It also grants to organizations that further its work, including to Publish What You Fund.</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2015-07-01"/>
+      <period-end iso-date="2016-09-30"/>
+      <value currency="USD" value-date="2016-06-20">177690.00</value>
+    </total-budget>
+  </iati-organisation>
+</iati-organisations>

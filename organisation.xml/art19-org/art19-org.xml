@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-11-11T17:50:27+00:00" version="1.02">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-11-11T05:36:12+00:00">
+    <reporting-org ref="GB-CHC-327421" type="21" xml:lang="en">Article 19</reporting-org>
+    <iati-identifier>GB-CHC-327421</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

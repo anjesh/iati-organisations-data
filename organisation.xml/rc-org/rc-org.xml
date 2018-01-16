@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-03-26T14:49:11+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-03-26T02:48:45+00:00" default-currency="GBP">
+    <reporting-org ref="GB-CHC-1058991" type="21" xml:lang="en">Railway Children</reporting-org>
+    <iati-identifier>GB-CHC-1058991</iati-identifier>
+    <name xml:lang="en">Railway Children</name>
+    <document-link url="http://www.railwaychildren.org.uk/about-us/finance/" format="application/pdf">
+      <language>en</language>
+      <category code="B01" xml:lang="en"/>
+      <title xml:lang="en">Report and Financial Statements</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

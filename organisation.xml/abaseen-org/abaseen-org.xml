@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-06-02T08:47:49+00:00">
+  <iati-organisation last-updated-datetime="2016-06-02T08:47:49+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-1157009</organisation-identifier>
+    <name>
+      <narrative>Abaseen Foundation UK</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-1157009">
+      <narrative xml:lang="en">Abaseen Foundation UK</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value currency="GBP" value-date="2014-01-01">102694.04</value>
+      <budget-line ref="Financial Report 7th March 2016 total project budget for years one and two">
+        <value currency="GBP" value-date="2016-03-07">122041.74</value>
+        <narrative xml:lang="en">The project value is the amount transferred that was DiFD funded. The budget figure is for the total budget some of which was funded from sources other than DiFD. The amounts above have been funded and the project implemented within the agreed budget according to the log frame activities</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="2">
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2015-01-01">64884.96</value>
+      <budget-line ref="Financial Report 7th March 2016 total project budget for year three">
+        <value value-date="2016-03-07">77030.81</value>
+        <narrative>The project value is the amount transferred that was DiFD funded. The budget figure is for the total budget some of which was funded from sources other than DiFD. The amounts above have been funded and the project implemented within the agreed budget according to the log frame activities</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="GBP" value-date="2016-03-07">63711.29</value>
+      <budget-line ref="Financial Report 7th March 2016 total project budget for Year Four">
+        <value currency="GBP" value-date="2016-03-07">63711.29</value>
+        <narrative xml:lang="en">This is the final year budget figure</narrative>
+      </budget-line>
+    </total-budget>
+  </iati-organisation>
+</iati-organisations>

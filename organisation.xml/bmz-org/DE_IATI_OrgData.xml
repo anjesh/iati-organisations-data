@@ -1,0 +1,3197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iati-organisations generated-datetime="2017-12-15T15:12:00+01:00" version="1.05">
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-12-15T18:00:00+01:00"
+    xml:lang="en" version="1.05">
+    <reporting-org ref="DE-1" type="10" xml:lang="de">Bundesministerium für wirtschaftliche
+      Zusammenarbeit und Entwicklung (BMZ)</reporting-org>
+    <reporting-org ref="DE-1" type="10" xml:lang="en">Federal Ministry for Economic Cooperation and
+      Development</reporting-org>
+    <iati-identifier>DE-1</iati-identifier>
+    <name xml:lang="de">Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+      (BMZ)</name>
+    <name xml:lang="en">Federal Ministry for Economic Cooperation and Development</name>
+    <total-budget>
+      <period-start iso-date="2017-01-01">2017</period-start>
+      <period-end iso-date="2017-12-31">2017</period-end>
+      <value currency="EUR" value-date="2016-02-26">6767728120</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2018-01-01">2018</period-start>
+      <period-end iso-date="2018-12-31">2018</period-end>
+      <value currency="EUR" value-date="2016-02-26">7072862557</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2019-01-01">2019</period-start>
+      <period-end iso-date="2019-12-31">2019</period-end>
+      <value currency="EUR" value-date="2016-02-26">7393495385</value>
+    </total-budget>
+    <!-- 2017 -->
+    <recipient-country-budget>
+      <recipient-country code="TR" xml:lang="en">Turkey </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">378062647</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="XK" xml:lang="en">Kosovo</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">24517570</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RS" xml:lang="en">Serbia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">50790176</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BA" xml:lang="en">Bosnia-Herzegovina</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5410415</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ME" xml:lang="en">Montenegro</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1267136</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MK" xml:lang="en">Macedonia, FYR</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">63773</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AL" xml:lang="en">Albania</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">9455337</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UA" xml:lang="en">Ukraine</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">128868043</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BY" xml:lang="en">Belarus</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">11981</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MD" xml:lang="en">Moldova</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1426766</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY" xml:lang="en">Libya</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">886708</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA" xml:lang="en">Morocco</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">364670359</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN" xml:lang="en">Tunisia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">76650593</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG" xml:lang="en">Egypt</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">97235490</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA" xml:lang="en">South Africa</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">279643915</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI" xml:lang="en">Burundi</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">20510887</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM" xml:lang="en">Cameroon</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">33038985</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF" xml:lang="en">Central African Republic</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">4101026</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CG" xml:lang="en">Congo, Rep.</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">793392</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD" xml:lang="en">Congo, Dem. Rep.</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">68320736</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BJ" xml:lang="en">Benin</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">37157162</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET" xml:lang="en">Ethiopia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">56505568</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH" xml:lang="en">Ghana</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30848415</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN" xml:lang="en">Guinea</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2957177</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI" xml:lang="en">Côte d'Ivoire</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">8120376</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE" xml:lang="en">Kenya </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">58189086</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LS" xml:lang="en">Lesotho</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1108386</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR" xml:lang="en">Liberia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">28633253</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG" xml:lang="en">Madagascar</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">10965617</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW" xml:lang="en">Malawi</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">36020168</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML" xml:lang="en">Mali</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30878814</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR" xml:lang="en">Mauritania</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">14171642</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ" xml:lang="en">Mozambique</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">87614681</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE" xml:lang="en">Niger</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">21398585</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG" xml:lang="en">Nigeria</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">88587425</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW" xml:lang="en">Zimbabwe</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">7255282</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW" xml:lang="en">Rwanda</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">26680641</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN" xml:lang="en">Senegal</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15517397</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL" xml:lang="en">Sierra Leone</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5173251</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO" xml:lang="en">Somalia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">8269961</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NA" xml:lang="en">Namibia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">40814722</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD" xml:lang="en">Sudan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2032000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS" xml:lang="en">South Sudan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">24258532</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ" xml:lang="en">Tanzania</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">53446248</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG" xml:lang="en">Togo</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15229506</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG" xml:lang="en">Uganda</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">44088109</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF" xml:lang="en">Burkina Faso</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">21655804</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM" xml:lang="en">Zambia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30645728</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" xml:lang="en">El Salvador</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">19859634</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT" xml:lang="en">Guatemala</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">17047948</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT" xml:lang="en">Haiti</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">3990188</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN" xml:lang="en">Honduras</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">20040241</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MX" xml:lang="en">Mexico</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">120831011</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI" xml:lang="en">Nicaragua</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5098573</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AR" xml:lang="en">Argentina</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1638742</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" xml:lang="en">Bolivia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">28304426</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BR" xml:lang="en">Brazil</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">51898198</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CL" xml:lang="en">Chile</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">49490180</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO" xml:lang="en">Colombia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">88422770</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC" xml:lang="en">Ecuador</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15550891</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GY" xml:lang="en">Guyana</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">953212</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" xml:lang="en">Peru</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">45443626</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" xml:lang="en">Uruguay</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">50808918</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VE" xml:lang="en">Venezuela</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">7418</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IR" xml:lang="en">Iran</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">630000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO" xml:lang="en">Jordan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">26102868</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PS" xml:lang="en">Palestinian admin. Areas</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">49834019</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB" xml:lang="en">Lebanon</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2859635</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE" xml:lang="en">Yemen</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">58085614</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AM" xml:lang="en">Armenia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5420005</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AZ" xml:lang="en">Azerbaijan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2216771</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GE" xml:lang="en">Georgia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">6270809</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KZ" xml:lang="en">Kazakhstan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">934617</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KG" xml:lang="en">Kyrgyzstan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">18983239</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TJ" xml:lang="en">Tajikistan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">23360096</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UZ" xml:lang="en">Uzbekistan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">8559449</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF" xml:lang="en">Afghanistan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">313980408</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM" xml:lang="en">Myanmar (Burma)</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">4881064</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LK" xml:lang="en">Sri Lanka</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1640411</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN" xml:lang="en">India </recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">477678119</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP" xml:lang="en">Nepal</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">25351723</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK" xml:lang="en">Pakistan</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">47267956</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD" xml:lang="en">Bangladesh</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">59770809</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH" xml:lang="en">Cambodia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">22638532</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CN" xml:lang="en">China</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">754184347</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ID" xml:lang="en">Indonesia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">303402914</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LA" xml:lang="en">Laos</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">23556371</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MY" xml:lang="en">Malaysia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1162327</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MN" xml:lang="en">Mongolia</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">16384246</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH" xml:lang="en">Philippines</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">3643802</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TH" xml:lang="en">Thailand</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1176241</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TL" xml:lang="en">Timor Leste</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2237081</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN" xml:lang="en">Viet Nam</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">111671339</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PG" xml:lang="en">Papua New Guinea</recipient-country>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">7359</value>
+    </recipient-country-budget>
+    <!-- 2018 -->
+    <recipient-country-budget>
+      <recipient-country code="TR" xml:lang="en">Turkey </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">404764196</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="XK" xml:lang="en">Kosovo</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">25160809</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RS" xml:lang="en">Serbia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">54434497</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BA" xml:lang="en">Bosnia-Herzegovina</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5611352</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ME" xml:lang="en">Montenegro</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1244279</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AL" xml:lang="en">Albania</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">9458157</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UA" xml:lang="en">Ukraine</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">137073548</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MD" xml:lang="en">Moldova</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1423774</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY" xml:lang="en">Libya</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">870713</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA" xml:lang="en">Morocco</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">396018936</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN" xml:lang="en">Tunisia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">82196914</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG" xml:lang="en">Egypt</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">100253558</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA" xml:lang="en">South Africa</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">302502839</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI" xml:lang="en">Burundi</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">20400951</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM" xml:lang="en">Cameroon</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">33118042</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF" xml:lang="en">Central African Republic</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">4027049</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CG" xml:lang="en">Congo, Rep.</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">779080</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD" xml:lang="en">Congo, Dem. Rep.</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">67643042</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BJ" xml:lang="en">Benin</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">37067658</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET" xml:lang="en">Ethiopia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">56025716</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH" xml:lang="en">Ghana</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30654391</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN" xml:lang="en">Guinea</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2903833</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI" xml:lang="en">Côte d'Ivoire</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">7856419</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE" xml:lang="en">Kenya </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">58800334</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LS" xml:lang="en">Lesotho</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1088392</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR" xml:lang="en">Liberia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">28176398</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG" xml:lang="en">Madagascar</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">11107398</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW" xml:lang="en">Malawi</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">35913265</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML" xml:lang="en">Mali</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30724909</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR" xml:lang="en">Mauritania</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">14036312</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ" xml:lang="en">Mozambique</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">89591926</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE" xml:lang="en">Niger</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">21170868</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG" xml:lang="en">Nigeria</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">95117710</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW" xml:lang="en">Zimbabwe</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">7162315</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW" xml:lang="en">Rwanda</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">26478865</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN" xml:lang="en">Senegal</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15237482</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL" xml:lang="en">Sierra Leone</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5079931</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO" xml:lang="en">Somalia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">8158690</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NA" xml:lang="en">Namibia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">40035510</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD" xml:lang="en">Sudan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2055000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS" xml:lang="en">South Sudan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">24205594</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ" xml:lang="en">Tanzania</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">52798562</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG" xml:lang="en">Togo</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15173640</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG" xml:lang="en">Uganda</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">44428547</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF" xml:lang="en">Burkina Faso</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">21453688</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM" xml:lang="en">Zambia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30402032</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" xml:lang="en">El Salvador</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">21221082</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT" xml:lang="en">Guatemala</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">16955989</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT" xml:lang="en">Haiti</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">3918210</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN" xml:lang="en">Honduras</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">19911307</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MX" xml:lang="en">Mexico</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">131520400</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI" xml:lang="en">Nicaragua</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5006601</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AR" xml:lang="en">Argentina</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">157199</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" xml:lang="en">Bolivia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">28108985</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BR" xml:lang="en">Brazil</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">46585733</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CL" xml:lang="en">Chile</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">53608852</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO" xml:lang="en">Colombia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">95151316</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC" xml:lang="en">Ecuador</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15485937</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GY" xml:lang="en">Guyana</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">936017</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" xml:lang="en">Peru</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">47049830</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" xml:lang="en">Uruguay</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">55465584</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IR" xml:lang="en">Iran</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">646197</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO" xml:lang="en">Jordan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">25992769</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PS" xml:lang="en">Palestinian admin. Areas</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">49457195</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB" xml:lang="en">Lebanon</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2808050</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE" xml:lang="en">Yemen</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">57506328</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AM" xml:lang="en">Armenia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5322235</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AZ" xml:lang="en">Azerbaijan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2176783</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GE" xml:lang="en">Georgia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">6148854</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KZ" xml:lang="en">Kazakhstan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">800000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KG" xml:lang="en">Kyrgyzstan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">18848916</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TJ" xml:lang="en">Tajikistan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">23145307</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UZ" xml:lang="en">Uzbekistan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">8494762</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF" xml:lang="en">Afghanistan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">312619074</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM" xml:lang="en">Myanmar (Burma)</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">4788923</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LK" xml:lang="en">Sri Lanka</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1610820</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN" xml:lang="en">India </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">515563179</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP" xml:lang="en">Nepal</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">25184099</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK" xml:lang="en">Pakistan</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">46900125</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD" xml:lang="en">Bangladesh</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">61440090</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH" xml:lang="en">Cambodia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">22565594</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CN" xml:lang="en">China</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">823504792</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ID" xml:lang="en">Indonesia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">329941909</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LA" xml:lang="en">Laos</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">23491433</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MY" xml:lang="en">Malaysia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">531466</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MN" xml:lang="en">Mongolia</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">17113410</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH" xml:lang="en">Philippines</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">3600818</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TL" xml:lang="en">Timor Leste</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2211891</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN" xml:lang="en">Viet Nam</recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">114913301</value>
+    </recipient-country-budget>
+    <!-- 2019 -->
+    <recipient-country-budget>
+      <recipient-country code="TR" xml:lang="en">Turkey </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">437715297</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="XK" xml:lang="en">Kosovo</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">25809464</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RS" xml:lang="en">Serbia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">58306025</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BA" xml:lang="en">Bosnia-Herzegovina</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5864736</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ME" xml:lang="en">Montenegro</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1241824</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AL" xml:lang="en">Albania</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">9448158</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UA" xml:lang="en">Ukraine</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">145514614</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MD" xml:lang="en">Moldova</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1421487</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY" xml:lang="en">Libya</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">868996</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA" xml:lang="en">Morocco</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">429291140</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN" xml:lang="en">Tunisia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">88189763</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG" xml:lang="en">Egypt</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">103875151</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA" xml:lang="en">South Africa</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">326058550</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI" xml:lang="en">Burundi</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">20375194</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM" xml:lang="en">Cameroon</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">33088075</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF" xml:lang="en">Central African Republic</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">4019105</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CG" xml:lang="en">Congo, Rep.</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">777543</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD" xml:lang="en">Congo, Dem. Rep.</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">67538864</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BJ" xml:lang="en">Benin</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">37025565</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET" xml:lang="en">Ethiopia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">55939769</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH" xml:lang="en">Ghana</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30732792</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN" xml:lang="en">Guinea</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2898105</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI" xml:lang="en">Côte d'Ivoire</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">7820962</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE" xml:lang="en">Kenya </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">59533711</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LS" xml:lang="en">Lesotho</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1086245</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR" xml:lang="en">Liberia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">28124872</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG" xml:lang="en">Madagascar</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">10636188</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW" xml:lang="en">Malawi</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">35871915</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML" xml:lang="en">Mali</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30685417</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR" xml:lang="en">Mauritania</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">14014734</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ" xml:lang="en">Mozambique</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">92283572</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE" xml:lang="en">Niger</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">21137535</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG" xml:lang="en">Nigeria</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">102121568</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW" xml:lang="en">Zimbabwe</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">7149721</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW" xml:lang="en">Rwanda</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">26441387</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN" xml:lang="en">Senegal</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15207425</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL" xml:lang="en">Sierra Leone</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5069911</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO" xml:lang="en">Somalia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">8144131</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NA" xml:lang="en">Namibia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">39934470</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD" xml:lang="en">Sudan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2055000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS" xml:lang="en">South Sudan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">24177696</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ" xml:lang="en">Tanzania</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">52711700</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG" xml:lang="en">Togo</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15155406</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG" xml:lang="en">Uganda</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">45022195</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF" xml:lang="en">Burkina Faso</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">21422039</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM" xml:lang="en">Zambia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">30340234</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" xml:lang="en">El Salvador</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">22702591</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT" xml:lang="en">Guatemala</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">16933987</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT" xml:lang="en">Haiti</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">3910481</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN" xml:lang="en">Honduras</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">19884691</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MX" xml:lang="en">Mexico</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">141709308</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI" xml:lang="en">Nicaragua</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">4996726</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" xml:lang="en">Bolivia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">28071332</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BR" xml:lang="en">Brazil</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">46052273</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CL" xml:lang="en">Chile</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">57503606</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO" xml:lang="en">Colombia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">102029498</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC" xml:lang="en">Ecuador</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">15466835</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GY" xml:lang="en">Guyana</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">934170</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" xml:lang="en">Peru</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">48712113</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" xml:lang="en">Uruguay</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">59890249</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IR" xml:lang="en">Iran</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1141921</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO" xml:lang="en">Jordan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">26756163</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PS" xml:lang="en">Palestinian admin. Areas</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">49387720</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB" xml:lang="en">Lebanon</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2802511</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE" xml:lang="en">Yemen</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">57417367</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AM" xml:lang="en">Armenia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">5311736</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AZ" xml:lang="en">Azerbaijan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2172489</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GE" xml:lang="en">Georgia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">6134749</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KZ" xml:lang="en">Kazakhstan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">760000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KG" xml:lang="en">Kyrgyzstan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">18824447</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TJ" xml:lang="en">Tajikistan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">23111096</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UZ" xml:lang="en">Uzbekistan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">8484101</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF" xml:lang="en">Afghanistan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">312352914</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM" xml:lang="en">Myanmar (Burma)</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">4779477</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LK" xml:lang="en">Sri Lanka</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">1607642</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN" xml:lang="en">India </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">554186475</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP" xml:lang="en">Nepal</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">25150456</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK" xml:lang="en">Pakistan</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">46833226</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD" xml:lang="en">Bangladesh</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">63685929</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH" xml:lang="en">Cambodia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">22539696</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CN" xml:lang="en">China</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">894582535</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ID" xml:lang="en">Indonesia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">356025295</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LA" xml:lang="en">Laos</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">23464320</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MY" xml:lang="en">Malaysia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">59079</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MN" xml:lang="en">Mongolia</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">16165102</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH" xml:lang="en">Philippines</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">3594236</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TL" xml:lang="en">Timor Leste</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">2208542</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN" xml:lang="en">Viet Nam</recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="EUR" value-date="2016-02-26">119709805</value>
+    </recipient-country-budget>
+    <!-- Documents -->
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/infobroschueren_flyer/infobroschueren/Materialie245_Afrika_Kochbuch.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="A08"/>
+      <title>Afrika Kochbuch</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/weitere_materialien/index.html"
+      format="application/pdf">
+      <language>de</language>
+      <category code="A08"/>
+      <title>BMZeit Nr.2</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/infobroschueren_flyer/infobroschueren/Materialie251_bmzeit_01_2015.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="A08"/>
+      <title>BMZeit Nr.1</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/archiv/reihen/infobroschueren_flyer/flyer/Faltblatt_FaktenMDG.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Deutsche Entwicklungspolitik in Zahlen und Fakten</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/sonderpublikationen/Umwelterklaerung_2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Umwelterklärung 2014</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/archiv/reihen/infobroschueren_flyer/flyer/Faltblatt_kompakt.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>BMZ Kompakt</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier306_05_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Forms of Development Cooperation Involving the Private Sector</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier306_07_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Aid for Trade in der deutschen Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier307_06_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Strategy for Development Cooperation With Global Development Partners</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier308_07_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Aid for Trade in German Development Policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier309_09_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Aid for Trade (AfT) - Handelsbezogene Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier312_12_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Junge Menschen in der deutschen Entwicklungspolitik - Beitrag zur Umsetzung der Rechte
+        von Kindern und Jugendlichen</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier312_12_20111.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Young people in German development policy - a contribution to the implementation of the
+        rights of children and youth</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier314_14_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Biokraftstoffe - Chancen und Risiken für Entwicklungsländer</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier315_1_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Zehn Ziele für mehr Bildung - BMZ-Bildungsstrategie 2010-2013</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier315_14_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Biofuels - Opportunities and risks for developing countries</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier316_2_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Investitionen in Land und das Phänomen des „Land Grabbing" - Herausforderungen für die
+        Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier317_3_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Ressource Abfall</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier318_4_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Antikorruption und Integrität in der deutschen Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier319_5_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Deutschlands Beitrag zur nachhaltigen Eindämmung von HIV</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier320_01_2012.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Ten Objectives for More Education</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier320_6_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Armut wirksamer bekämpfen - weltweit! - übersektorales Konzept zur
+        Armutsreduzierung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier321_02_2012.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Investments in Land and the Phenomenon of Land Grabbing - Challenges for Development
+        Policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier321_7_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Strategiepapier für die Engagement Global gGmbH - Service für
+        Entwicklungsinitiativen</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier322_8_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Berufliche Bildung in der Entwicklungszusammenarbeit</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier324_05_2012.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Germany`s Contribution to a Sustainable HIV Response</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier325_01_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Aktionsplan zur Inklusion von Menschen mit Behinderungen (Laufzeit 2013-2015)</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier325_06_2012.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Fighting Poverty More Effectively - Worldwide</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier326_02_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Informations- und Kommunikationstechnologien (IKT) - Schlüsseltechnologien für eine
+        nachhaltige Entwicklung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier327_03_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Förderung einer nachhaltigen Landwirtschaft</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier328_04_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Entwicklung für Frieden und Sicherheit</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier330_01_2013.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Action Plan for the Inclusion of Persons with Disabilities (2013–2015)</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier331_07_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Eckpunktepapier für die multilaterale Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier332_08_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Mitmachen, Mitwirken und Mitgestalten</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier333_04_2013.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Development for Peace and Security</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier333_09_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Sektorkonzept Privatwirtschaftsförderung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier334_10_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Bevölkerungsdynamik in der deutschen Entwicklungszusammenarbeit</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier335_06_2013.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Strategy on Transitional Development Assistance</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier336_07_2013.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Guiding principles for multilateral development policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier340_01_2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Weibliche Genitalverstümmelung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/StrategyPaper300_02_2010_en.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Corporate Social Responsibility from a Development Policy Perspective</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/StrategyPaper301_04_2010_en.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Mineral and Energy Resources as a Factor in Development</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/StrategyPaper302_04_2010_en.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Extractive Resources in German Development Cooperation</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/archiv/reihen/infobroschueren_flyer/flyer/Faltblatt_Service.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>BMZ Service</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/archiv/reihen/strategiepapiere/Strategiepapier335_11_2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Ernährungssicherung – Strategische Orientierung für die deutsche
+        Entwicklungspolitik</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/infobroschueren_flyer/flyer/Flyer_Bevoelkerungsdynamik.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Bevölkerungsdynamik und Entwicklungszusammenarbeit</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/infobroschueren_flyer/infobroschueren/Materialie247_textilbuendnis_zumThema.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Zum Thema: Nachhaltige Textilien - was tut die deutsche Entwicklungspolitik</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/infobroschueren_flyer/infobroschueren/Materialie250_zukunftscharta.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Zukunftscharta</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/infobroschueren_flyer/infobroschueren/Materialie255_welt_ohne_hunger.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>EINEWELT ohne Hunger ist möglich</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/strategiepapiere/Strategiepapier341_02_2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Gleichberechtigung der Geschlechter in der deutschen Entwicklungspolitik</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/strategiepapiere/Strategiepapier343_04_2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Good Financial Governance in der deutschen Entwicklungszusammenarbeit</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/strategiepapiere/Strategiepapier343_05_2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Strategie zur Zusammenarbeit von Staat und Zivilgesellschaft in der Entwicklungspolitik
+        der Post-2015-Welt</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/strategiepapiere/Strategiepapier351_02_2015.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Weibliche Genitalverstümmelung</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/strategiepapiere/Strategiepapier352_03_2015.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Zwischenbericht zur Umsetzung des Aktionsplans zur Inklusion von Menschen mit
+        Behinderungen</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/archiv/type_of_publication/strategies/Strategiepapier340_11_2013.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Food security – Strategic guideline for German development policy</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/information_flyer/information_brochures/Materialie239_climate_action.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Climate action in practice</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/information_flyer/information_brochures/Materialie239_ez.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>German Development Cooperation Work</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/information_flyer/information_brochures/Materialie240_textilbuendnis.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Topic: Sustainable textiles: What German development policy is doing</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/strategies/Strategiepapier339_10_2013.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Population dynamics in German development cooperation</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/strategies/Strategiepapier340_02_2014.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Gender Equality in German Development Policy</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/strategies/Strategiepapier343_05_2014.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Strategy on government-civil society cooperation in post-2015 development
+        policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Chancen_schaffen.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Chancen schaffen - Zukunft entwickeln</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/diskurs007en.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Cornerstones of Youth Employment Promotion in Development Cooperation</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/diskurs009en.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Strategies for Employment Promotion in Development Cooperation</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/diskurs010en.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>The Development Dimensions of the Economic Partnership Agreements (EPAs) between the
+        ACP Countries and the EU</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/diskurs013en.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Shaping German Aid for Trade - Past Experience, Lessons Learnt, and the Way
+        Forward</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/diskurs015en.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Development Policy Stance on the Topic of Land Grabbing - the Purchase and Leasing of
+        Large Areas of Land in Developing Countries</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/diskurs016.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Geschäfte für Entwicklung - Bewertung des BoP-Ansatzes aus entwicklungspolitischer
+        Sicht</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept124.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Sektorkonzept Finanzsystementwicklung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept138.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Development-Oriented Emergency and Transitional Aid</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept145.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Sektorkonzept Nachhaltige Energie für Entwicklung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept149.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Entwicklungsorientierte Transformation bei fragiler Staatlichkeit und schlechter
+        Regierungsführung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept152.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Water Sector Strategy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept153.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Development-Oriented Transformation in Conditions of Fragile Statehood and poor
+        Government Performance</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept154.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Sustainable Energy for Development</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept157.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Grundsätze der sozialen und ökologischen Marktwirtschaft in der deutschen
+        Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept158.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Social and Ecological Market Economy Principles in German Development Policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept159.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Entwicklungspolitische Informations- und Bildungsarbeit</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept164.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Biologische Vielfalt</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept165.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Leitlinien für die bilaterale Finanzielle und Technische Zusammenarbeit mit
+        Kooperationspartnern der deutschen Entwicklungszusammenarbeit</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept166.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Biological Diversity</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept172.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Förderung von Good Governance in der deutschen Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Konzept176.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Kleine Beiträge - große Sicherheit - Mikroversicherungen in der
+        Finanzsystementwicklung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept178.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Promotion of Good Governance in German Development Policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept179.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Security at little cost Microinsurance in Financial Systems Development</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept181.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Budget Support in the Framework of Programme-Oriented Joint Financing (PJF)</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept187.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Sector Strategy: German Development Policy in the Health Sector</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept188.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Development Education and Awareness Raising</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept190.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Sector Strategy on Social Protection</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Konzepte143.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Sektorkonzept Wasser</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Konzepte146.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Konzept zur Budgetfinanzierung im Rahmen der Programmorientierten
+        Gemeinschaftsfinanzierung (PGF)</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Konzepte180.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Sektorkonzept Soziale Sicherung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Konzepte183.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Sektorkonzept „Gesundheit in der deutschen Entwicklungspolitik"</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Minds_for_Change.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Minds for Change - Enhancing Opportunities</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/special125.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Sectoral Policy Paper on Financial System Development</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Special136e_web.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Transboundary Water Cooperation</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Special137.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Promoting democracy in German development policy -Supporting political reform processes
+        and popular participation</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Special145.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Observations on Service Delivery in Fragile States and Situations - the German
+        Perspective</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Special146e.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>"Pro-Poor Growth" a focal point of development policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/special152pdf.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Capacity Development for Education for All: Putting Policy into Practice</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial135pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Grenzüberschreitende Wasserkooperation</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial142pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>"Pro Poor Growth" Das entwicklungspolitische Thema - Breitenwirksames Wachstum</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial148pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Sexuelle und Reproduktive Gesundheit und Rechte, Bevölkerungsdynamik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial149pdf.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Sexual and Reproductive Health and Rights, and Population Dynamics</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial157.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>German Development Cooperation in the Sanitation Sector</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial158pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Entwicklungszusammenarbeit im Bereich Siedlungshygiene und Abwassermanagement</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial160.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Monitoring German Contributions in Trade-Related Development Cooperation</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial161pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Wissen für Entwicklung: Hochschulbildung und Wissenschaft in der deutschen
+        Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial162pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Gesundheit und Menschenrechte</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial165.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Health and Human Rights</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial167pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Unternehmerische Verantwortung aus entwicklungspolitischer Perspektive</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial168.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Promoting Resilient States and Constructive State-Society Relations - Legitimacy,
+        Transparency and Accountability</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/strategie140.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Technical and Vocational Education and Training and the Labour Market in Development
+        Cooperation</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier298_01_2010_de.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Die Förderung konstruktiver Staat-Gesellschaft-Beziehungen - Legitimität, Transparenz,
+        Rechenschaft.</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier299_04_2010.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Entwicklungspolitisches Strategiepapier Extraktive Rohstoffe</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier300_01_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Entwicklung ländlicher Räume und ihr Beitrag zur Ernährungssicherung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier301_02_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Der Beitrag des Tourismus zur nachhaltigen Entwicklung und zur Erreichung der
+        Milleniumsentwicklungsziele</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier302_01_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Rural development and its contribution to food security</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier302_03_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Märkte entwickeln, Wohlstand schaffen, Armut reduzieren, Verantwortung übernehmen - Die
+        Wirtschaft als Partner der Entwicklungspolitik - Politisches Eckpunkte-Papier zur
+        Kooperation mit der Wirtschaft</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier303_02_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>The contribution of tourism to sustainable development and achieving the Millennium
+        Development Goals</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier303_04_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Menschenrechte in der deutschen Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier304_03_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Developing markets, creating wealth, reducing poverty, taking responsibility - The
+        private sector as a partner of development policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier304_05_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Kooperation mit dem Privatsektor im Kontext der Entwicklungszusammenarbeit -
+        Kooperationsformen</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier305_04_2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>Human Rights in German Development Policy</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier305_06_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>Konzept der entwicklungspolitischen Zusammenarbeit mit Globalen Entwicklungspartnern
+        (2011-2015)</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/3c_Chapeaupapier_Wasser_Peru_2011_ersetzt_SSP.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Peru - Chapeau-Papier Schwerpunkt "Trinkwasserversorgung und Abwasserentsorgung" in der
+        deutschen Entwicklungszusammenarbeit mit Peru</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/AG_Laenderstrategien_dt_060314.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Afghanistan - Verlässliche Partnerschaft in Zeiten des Umbruchs- Neue
+        entwicklungspolitische Strategie für die Zusammnarbeit mit Afghanistan im Zeitraum
+        2014-2017</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/iati/Annex_VII_-_Joint_Strategy_Tropical_Forests_-_final_13_09_2.pdf"
+      format="application/pdf">
+      <language>pt</language>
+      <category code="B03"/>
+      <title>Brasilien - Documento estratégico para a cooperação Brasil-Alemanha na área de proteção
+        e uso sustentável das florestas tropicais</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/diskurs008.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Regional - Entwickelt Öl? Möglichkeiten der entwicklungsorientierten Nutzung der
+        Öleinnahmen in Subsahara Afrika</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/iati/Estrategia_Desarrollo_Rural_Sostenible_Manejo_Recursos_Natu.pdf"
+      format="application/pdf">
+      <language>es</language>
+      <category code="B03"/>
+      <title>Peru - Desarrollo Rural Sostenible, Gestión de Recursos Naturales y Cambio
+        Climático</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Estrategia_Grupo_Agua.pdf" format="application/pdf">
+      <language>es</language>
+      <category code="B03"/>
+      <title>Peru - Recomendaciones del Grupo Agua para Políticas y Estrategias en Agua y
+        Saneamiento en el Perú</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Konzept139.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Regional - Entwicklungszusammenarbeit mit indigenen Völkern in Lateinamerika und der
+        Karibik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept141.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>Regional - Development Cooperation with Indigenous Peoples in Latin America and the
+        Caribbean</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept156.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Regional - Grundlagen, Schwerpunkte und Perspektiven der deutschen Entwicklungspolitik
+        mit der Region Nahost/Nordafrika</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept161.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Regional - Konzept für die entwicklungspolitische Zusammenarbeit mit den Ländern
+        Lateinamerikas und der Karibik</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept163.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>Regional - Strategy on Development Cooperation with Countries in Latin America and the
+        Caribbean</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept168.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>Regional - Foundations, Priorities and Future Outlook of German Development Policy
+        Regarding the Middle East and North Africa Region</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/konzept171.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>Regional - Foundations, Priorities and Future Outlook of German Development Policy
+        Regarding the Middle East and North Africa Region</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/PER_SSP_Governance_Unterz_2012_0186175.pdf"
+      format="application/pdf">
+      <language>es</language>
+      <category code="B03"/>
+      <title>Peru - Democracia, Sociedad Civil y Administración Pública (2012-2016)</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial_144.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>Regional - Report by the Federal Republic of Germany on Measures Taken to Assist
+        Implementation of the United Nations Convention to Combat Desertification (UNCCD)in Affected
+        Countries in Asia and Latin America</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/spezial143pdf.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Regional - Krisenpräventive Wirkungen der entwicklungspolitischen Zusammenarbeit mit
+        Zentralasien - Aktuelle Debatten über Instrumente und Optionen</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_BOL_Demokratie.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Bolivien - Schwerpunktstrategiepapier (SSP) Staat und Demokratie Bolivien</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_BOL_Laendl_Entw.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Bolivien - Schwerpunktstrategiepapier (SSP) Nachhaltige Landwirtschaftliche Entwicklung
+        Bolivien</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_BOL_Wasser.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Bolivien - Schwerpunktstrategiepapier (SSP) Trinkwasserver- und Abwasserentsorgung
+        Bolivien</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_Dezentralisierung_GHA_eng.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>Ghana - Chapeau - Focal Area Strategy Paper Decentralization Ghana</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_ECU_Umwelt_es.pdf" format="application/pdf">
+      <language>es</language>
+      <category code="B03"/>
+      <title>Ecuador - Estrategia para el Área Prioritaria de la Cooperación Alemana con el Ecuador
+        "Protección del Medio Ambiente y de los Recursos Naturales"</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_NaWi_NAM_deu.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Namibia - Schwerpunktstrategiepapier (SSP) Nachhaltige Wirtschaftsentwicklung in
+        Namibia</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_PER_LaendlicheEntwicklung.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Peru - Schwerpunktstrategiepapier (SSP) Nachhaltige Ländliche Entwicklung, Management
+        Natürlicher Ressourcen und Klimawandel in Peru</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/SSP_Transport_NAM_deu.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Namibia - Schwerpunktstrategiepapier (SSP) Transport in Namibia</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier310_10_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Regional - Deutsche Entwicklungspolitik in Asien</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier311_11_2011.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Regional - Deutsche Entwicklungspolitik in Lateinamerika und der Karibik -
+        Regionalkonzept des BMZ zur entwicklungspolitischen Konkretisierung des
+        Lateinamerikakonzepts der Bundesregierung</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Strategiepapier311_11_20111.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>Regional - German Development Policy in Latin America and the Caribbean</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/reihen/strategiepapiere/Strategiepapier342_03_2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B03"/>
+      <title>Neue entwicklungspolitische Strategie für die Zusammenarbeit mit Afghanistan im
+        Zeitraum 2014 - 2017</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/strategies/Strategiepapier341_03_2014.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B03"/>
+      <title>New Country Strategy for Afghanistan 2014 – 2017</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/archiv/type_of_publication/evaluation/index.html"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B09"/>
+      <title>Strategic evaluations (Summaries)</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/de/mediathek/publikationen/archiv/reihen/evaluierungen/index.html"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B09"/>
+      <title>Projektübergreifende, strategische Evaluierung (Kurzfassungen)</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Weissbuch.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>14. Entwicklungspolitischer Bericht der Bundesregierung- Weißbuch zur
+        Entwicklungspolitik- Kurzfassung</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/special_publications/Weissbuch_large.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>The German GovernmentŽs 14th Development Policy Report- Development Policy White
+        Paper</title>
+    </document-link>
+    <document-link
+      url="http://www.bmz.de/en/publications/type_of_publication/special_publications/Weissbuch.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B02"/>
+      <title>The German GovernmentŽs 14th Development Policy Report- Development Policy White Paper-
+        Executive Summary</title>
+    </document-link>
+    <document-link url="http://www.bmz.de/iati/Weissbuch_lang.pdf" format="application/pdf">
+      <language>de</language>
+      <category code="B02"/>
+      <title>14. Entwicklungspolitischer Bericht der Bundesregierung- Weißbuch zur
+        Entwicklungspolitik</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/ueber_die_giz/516.html" format="application/pdf">
+      <language>de</language>
+      <category code="A07"/>
+      <title>GIZ Projekt Evaluierungsberichte</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/aboutgiz/516.html" format="application/pdf">
+      <language>en</language>
+      <category code="A07"/>
+      <title>GIZ Project evaluation reports</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/workingwithgiz/bidding_procurement.html"
+      format="application/pdf">
+      <language>en</language>
+      <category code="A10"/>
+      <title>Tender</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/workingwithgiz/awarded_contracts.html"
+      format="application/pdf">
+      <language>en</language>
+      <category code="A11"/>
+      <title>Contracts</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2015-de-pcgk-bericht.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Corporate Governance-Bericht 2015</title>
+    </document-link>
+    <document-link
+      url="https://www.giz.de/de/downloads/giz2015-de-pcgk-bericht-GIZ-unterstuetzungskasse-2015.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Corporate Governance Bericht der GIZ Unterstützungskasse GmbH 2015</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-de-beschaffungsbericht-2015.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Beschaffungsbericht 2015</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-de-gc-bericht.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Communication on Progress 2016 on the Global Compact Principles</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-de-PCGK.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Corporate Governance-Bericht 2016</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-de-pcgk-bericht.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Corporate Governance Bericht der GIZ Unterstützungskasse GmbH 2016</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-de-Umwelterklaerung.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Umwelterklärung 2016</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-en-IUB16.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Integrated Company Report 2016</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-Umweltbilanz-2014-DE.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Umweltbilanz 2014</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-Umwelterklaerung.2015-DE.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Umwelterklärung 2015</title>
+    </document-link>
+    <document-link
+      url="https://www.giz.de/de/downloads/giz2017-de-Integrierter-Unternehmensbericht-2016.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Integrierter Unternehmensbericht 2016</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2017-de-umwelterklaerung.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Umwelterklärung 2017</title>
+    </document-link>
+    <document-link url="https://www.giz.de/en/downloads/giz2016-en-procurement-report-2015.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>Report on the procurement of goods and services and the conclusion of financing
+        agreements</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/de/downloads/giz2010-11-global-compact-fortschrittsbericht.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Global Compact Fortschrittsbericht 2010-2011</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/de/downloads/giz2011-12-global-compact-fortschrittsbericht.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Global Compact Fortschrittsbericht 2011-2012</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/en/downloads/giz2013-en-report-on-the-procurement-of-goods-and-services-2012.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>Report on the procurement of goods and services 2012</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2012-de-umweltbericht-2011-web.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Umweltbericht 2011</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-de-Beschaffungsbericht-2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Bericht über die Beschaffung von Waren, Dienstleistungen und den Abschluss von
+        Finanzierungsverträgen 2012</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/de/downloads/giz2013-de-corporate_governance-bericht_2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Corporate Governance-Bericht 2012</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-de-nachhaltigkeitsbericht.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Nachhaltigkeitsbericht 2013</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-en-sustainability-report.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Sustainability Report 2013</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-fr-unternehmensbericht-2012.pdf"
+      format="application/pdf">
+      <language>fr</language>
+      <category code="B01"/>
+      <title>Rapport d'entreprise 2012</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-sp-unternehmensbericht-2012.pdf"
+      format="application/pdf">
+      <language>es</language>
+      <category code="B01"/>
+      <title>Informe de empresa</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/de/downloads/giz2014-de-corporate-governance-bericht-2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Corporate Governance-Bericht 2013</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2014-de-giz-unternehmensbericht(1).pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Unternehmensbericht 2013</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2014-de-pcgk-bericht.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Corporate Governance-Bericht 2014</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2014-en-giz-companyreport.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Company Report 2013</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/de/downloads/giz2014-en-global-ompact_communication-progress.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Global Compact Communication on Progress 2014</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/de/downloads/giz2015-de-integrierter-unternehmensbericht-2014-barrierefrei_02-07-15.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Integrierter Unternehmensbericht 2014</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2015-iub2014-barrierefrei-web-en.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Integrated Company Report 2014</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz-beschaffungsbericht-2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Beschaffungsbericht 2013</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz-beschaffungsbericht-2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>Beschaffungsbericht 2014</title>
+    </document-link>
+    <document-link
+      url="https://www.giz.de/de/downloads/GIZ2015_DE_Fortschrittsbericht_Nachhaltigkeit_Indexlisten.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Fortschrittsbericht Nachhaltigkeit 2015 Indexlisten</title>
+    </document-link>
+    <document-link
+      url="https://www.giz.de/de/downloads/GIZ2015_DE_Fortschrittsbericht_Nachhaltigkeit.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Fortschrittsbericht Nachhaltigkeit 2015</title>
+    </document-link>
+    <document-link url="https://issuu.com/deutschegiz/docs/rz_giz_15001_iub_eng_gesamt_es_150d"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Integrated Company Report 2015</title>
+    </document-link>
+    <document-link
+      url="https://issuu.com/deutschegiz/docs/rz_giz_15001_iub_150dpi_es?e=25378438/36891459"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Integrierter Unternehmensbericht 2015</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2011-de-umweltbilanz-2010-web.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>GIZ Umweltbilanz 2010</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/downloads/giz2012-en-environmental-report-2011.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Environmental Report 2011</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/en/downloads/giz2012-en-communication-on-progress-global-compact.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B01"/>
+      <title>GIZ Global Compact Communication on Progress 2011-2012</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/downloads/en-selection-procedure.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B05"/>
+      <title>Selection procedures for consultating firms and suppliers</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/downloads/wegweiser-consultingdienstleistungen-en.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B05"/>
+      <title>Guide to procurement of consulting services</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/wegweiser-consultingdienstleistungen-de.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B05"/>
+      <title>Wegweiser zum Einkaufen von Consultingleistungen</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2015-de-jahresabschluss.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>GIZ Jahresabschluss 2014</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2016-de-jahresabschluss-2015.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>GIZ Jahresabschluss 2015</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2017-de-jahresabschluss-2016.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>GIZ Jahresabschluss 2016</title>
+    </document-link>
+    <document-link
+      url="https://www.giz.de/de/downloads/giz2017-en-annual-statement-of-accounts-2016.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>Annual Statement of Accounts 2016</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/RZ_GIZ_15001_Jahresabschluss_englisch.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>Annual Statement of Accounts 2015</title>
+    </document-link>
+    <document-link url="https://www.giz.de/en/downloads/giz2015-en-jahresabschluss.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>Annual Statement of Accounts 2014</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2011-4001de-giz-jahresabschluss.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>GIZ Jahresabschluss 2010</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2011-de-jahresabschluss.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>GIZ Jahresabschluss 2011</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-de-jahresabschluss-2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>GIZ Jahresabschluss 2012</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2014-de-jahresabschluss-2013.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>GIZ Jahresabschluss 2013</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/downloads/giz2011-en-jahresabschluss.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>GIZ Management Report 2011</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/downloads/giz2013-en-annual-report-2012.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>GIZ Management Report 2012</title>
+    </document-link>
+    <document-link url="http://www.giz.de/en/downloads/giz2014-en-annual-report-2013.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>GIZ Management Report 2013</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2011-en-policy-transparency.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B08"/>
+      <title>GIZ Policy on Transparency and Information</title>
+    </document-link>
+    <document-link url="https://www.giz.de/de/downloads/giz2011-de-policy-transparenz.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B08"/>
+      <title>GIZ Policy: Transparenz und Informationsaustausch</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-de-evaluierungsbericht-2010-2012.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B09"/>
+      <title>Evaluierungsbericht 2010-2012</title>
+    </document-link>
+    <document-link
+      url="https://www.giz.de/de/downloads/giz2015-de-evaluierungsbericht_2012-2014.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B09"/>
+      <title>Monitoring- und Evaluierungsbericht 2012-2014</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2013-en-evaluierungsbericht-2010-2012.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B09"/>
+      <title>Evaluation report 2010-2012</title>
+    </document-link>
+    <document-link
+      url="http://www.giz.de/de/downloads/giz2012-de-orientierung-zu-den-menschenrechten.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B12"/>
+      <title>GIZ Orientierung zu den Menschenrechten</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2012-en-giz-and-human-rights.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B12"/>
+      <title>GIZ orientation on human rights</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/2014-de-Profil-der_giz.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B15"/>
+      <title>Profil der GIZ</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2014-de-integres-verhalten.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B15"/>
+      <title>GIZ Grundsätze integren Verhaltens</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2014-en-code-of-conduct.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B15"/>
+      <title>GIZ Code of Conduct Basic Principles</title>
+    </document-link>
+    <document-link url="http://www.giz.de/de/downloads/giz2014-en-profil-lang.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B15"/>
+      <title>GIZ Profile</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/International-financing/KfW-Development-Bank/Evaluations/Results/"
+      format="application/pdf">
+      <language>en</language>
+      <category code="A07"/>
+      <title>Ex Post Evaluation Reports A-Z</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/Internationale-Finanzierung/KfW-Entwicklungsbank/Evaluierungen/Ergebnisse/"
+      format="application/pdf">
+      <language>de</language>
+      <category code="A07"/>
+      <title>Ex-Post-Evaluierungsberichte A-Z</title>
+    </document-link>
+    <document-link url="http://www.gtai.de/GTAI/Navigation/EN/Trade/search-kfw-tenders.html"
+      format="application/pdf">
+      <language>en</language>
+      <category code="A10"/>
+      <title>KfW Tender (GTAI)</title>
+    </document-link>
+    <document-link
+      url="http://www.gtai.de/GTAI/Navigation/DE/Trade/Projekte-Ausschreibungen/Ausschreibungen/suche.html"
+      format="application/pdf">
+      <language>de</language>
+      <category code="A10"/>
+      <title>KfW Ausschreibungen (GTAI)</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw.de/PDF/Download-Center/Konzernthemen/Nachhaltigkeit/Faktenupdate-Nachhaltigkeit-2016.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>KfW Nachhaltigkeitsbericht, Fakten-Update 2016</title>
+    </document-link>
+    <document-link
+      url="http://nachhaltigkeit2015.kfw.de/kfw/annual/2015/nb/German/pdf/KfW_Nachhaltigkeitsbericht_2015.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B01"/>
+      <title>KfW Nachhaltigkeitsbericht</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/Download-Center/PDF-Dokumente-Richtlinien/Vergabe-E.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B05"/>
+      <title>Guidelines for Procurement</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/Download-Center/PDF-Dokumente-Richtlinien/Vergabe-P.pdf"
+      format="application/pdf">
+      <language>pt</language>
+      <category code="B05"/>
+      <title>Contratação de fornecimentos de bens e de serviços</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/Download-Center/PDF-Dokumente-Richtlinien/Vergabe-S.pdf"
+      format="application/pdf">
+      <language>es</language>
+      <category code="B05"/>
+      <title>La Adjudicación de Contratos</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/Download-Center/PDF-Dokumente-Richtlinien/Vergabe-F.pdf"
+      format="application/pdf">
+      <language>fr</language>
+      <category code="B05"/>
+      <title>Attribution de marchés</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/Download-Center/PDF-Dokumente-Richtlinien/Vergabe-D.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B05"/>
+      <title>Vergabe von Aufträgen</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/PDF/Download-Center/PDF-Dokumente-Selbstdarstellung/2017_Selbstdarstellung_DE.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>KfW Entwicklungsbank - Zahlen und Fakten (2017)</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/PDF/Download-Center/PDF-Dokumente-Selbstdarstellung/2017_Selbstdarstellung_EN.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>Development Bank - Facts and figures (2017)</title>
+    </document-link>
+    <document-link url="https://www.kfw.de/KfW-Konzern/Über-die-KfW/Geschäftsbericht-2016/"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B06"/>
+      <title>KfW Geschäftsbericht 2016</title>
+    </document-link>
+    <document-link url="https://www.kfw.de/KfW-Group/About-KfW/Geschäftsbericht-2016/"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B06"/>
+      <title>KfW Annual Report 2016</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/PDF/Download-Center/Dokumente-Evaluierung/14_Deutsch.pdf"
+      format="application/pdf">
+      <language>de</language>
+      <category code="B09"/>
+      <title>14. Evaluierungsbericht 2015-2016 - Leben in einer bedrohten Welt - Gefahren wirksam
+        begegnen</title>
+    </document-link>
+    <document-link
+      url="https://www.kfw-entwicklungsbank.de/PDF/Download-Center/Dokumente-Evaluierung/14_Englisch.pdf"
+      format="application/pdf">
+      <language>en</language>
+      <category code="B09"/>
+      <title>14th Evaluation Report 2015-2016 - Living in a threatened world - Effectively
+        responding to hazards</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

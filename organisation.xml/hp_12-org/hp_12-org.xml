@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-04-11T13:19:29+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-04-11T13:19:14+00:00" default-currency="GBP">
+    <reporting-org ref="GB-COH-4887855" type="21" xml:lang="en">HealthProm</reporting-org>
+    <iati-identifier>GB-COH-4887855</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

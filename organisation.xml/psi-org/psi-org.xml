@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-05-09T13:57:39+00:00">
+  <iati-organisation last-updated-datetime="2017-05-09T13:57:39+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>XI-IATI-21032</organisation-identifier>
+    <name>
+      <narrative>Population Services International</narrative>
+    </name>
+    <reporting-org type="21" ref="XI-IATI-21032">
+      <narrative xml:lang="en">Population Services International</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="USD" value-date="2017-01-01">538600000</value>
+    </total-budget>
+    <document-link format="text/html" url="http://psiimpact.com/">
+      <title>
+        <narrative>PSI's Impact - Global health news and commentary</narrative>
+      </title>
+      <category code="B16"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

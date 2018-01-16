@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2017-01-12T10:00:37Z" version="2.02">
+  <iati-organisation default-currency="USD" last-updated-datetime="2016-12-19T09:15:37Z" xml:lang="en">
+    <organisation-identifier>XM-DAC-903</organisation-identifier>
+    <name>
+      <narrative>International Finance Corporation</narrative>
+    </name>
+    <reporting-org ref="XM-DAC-903" type="40" secondary-reporter="0">
+      <narrative>International Finance Corporation</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2015-07-01" />
+      <period-end iso-date="2016-06-30" />
+      <value currency="USD" value-date="2016-01-01">11117000000</value>
+    </total-budget>
+    <document-link format="text/html" url="http://www.ifc.org">
+      <title>
+        <narrative>International Finance Corporation Web Site</narrative>
+      </title>
+      <category code="B16"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ifc.org/wps/wcm/connect/7540778049a792dcb87efaa8c6a8312a/SP_English_2012.pdf?MOD=AJPERES">
+      <title>
+        <narrative>Policy on Environmental and Social Sustainability</narrative>
+      </title>
+      <category code="B15"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ifc.org/wps/wcm/connect/corp_ext_content/ifc_external_corporate_site/about+ifc_new/ifc+governance/investor+relations/ratings+agency+reports">
+      <title>
+        <narrative>Ratings Agency Report</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://siteresources.worldbank.org/INTPROCUREMENT/Resources/Procurement_GLs_English_Final_Jan2011_revised_July1-2014.pdf">
+      <title>
+        <narrative>World Bank Group Procurement Policy and Procedures</narrative>
+      </title>
+      <category code="B05"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.ifc.org/wps/wcm/connect/8d21e87d-8406-4686-94a9-495577291a2c/FY17-19+IFC+SBO+Redaction+Final.pdf?MOD=AJPERES">
+      <title>
+        <narrative>IFC's Strategy and Business Outlook FY17-19</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ifc.org/wps/wcm/connect/0ea989a9-dc74-43c7-969c-671d06c0c5a6/IFC-FY17-Budget-Resources-Bridging-Strategy-and-Delivery.pdf?MOD=AJPERES">
+      <title>
+        <narrative>IFC FY17 Budget</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ifc.org/wps/wcm/connect/98d8ae004997936f9b7bffb2b4b33c15/IFCPolicyDisclosureInformation.pdf?MOD=AJPERES">
+      <title>
+        <narrative>IFC Access to Information Policy</narrative>
+      </title>
+      <category code="B15"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.ifc.org/wps/wcm/connect/bf1bfb0b-216b-4cde-941b-dd55febe9d3a/IFC_AR16_Full_Volume_1.pdf?MOD=AJPERES">
+      <title>
+        <narrative>IFC Annual Report 2016</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.ifc.org/wps/wcm/connect/237ae831-9c34-410a-bb02-84b90a6d23ff/IFC+FY16+MDA+and+FS_Final.pdf?MOD=AJPERES">
+      <title>
+        <narrative>Financial Statements 2016</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2005/05/09/000012009_20050509112554/Rendered/PDF/32261.pdf">
+		<title>
+			<narrative>PACIFIC ISLANDS - Regional engagement framework FY2006-FY2009</narrative>
+		</title>
+		<category code="B03"/>
+		<language code="en"/>
+	</document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/04/02/000386194_20120402013035/Rendered/PDF/668620ISN0P1250Official0Use0Only090.pdf">
+      <title>
+        <narrative>AFGHANISTAN - Interim strategy note for the period FY2012-2014 (Vol. 1 of 2) (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+      <title>
+        <narrative>ANTIGUA AND BARBUDA - Organization of Eastern Caribbean States (OECS) - Regional partnership strategy for the period FY2015 - FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/10/17/000456286_20131017113417/Rendered/PDF/816470CAS0AM0C00Box379845B00PUBLIC0.pdf">
+      <title>
+        <narrative>ARMENIA - Country partnership strategy for the period FY2014 - FY2017</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/06/000442464_20130906093626/Rendered/PDF/762250CAS0Ango0800OUO0900Box379823B.pdf">
+      <title>
+        <narrative>ANGOLA - Country partnership strategy for the period FY2014-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/09/12/000370910_20110912084943/Rendered/PDF/644280CAS0P12502011002820BOX361537B.pdf">
+      <title>
+        <narrative>BOSNIA AND HERZEGOVINA - Country partnership strategy for FY2012-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/11/28/000461832_20131128114112/Rendered/PDF/739830CASP0P14080Box379877B00OUO090.pdf">
+      <title>
+        <narrative>BANGLADESH - Country Assistance Strategy (CAS) progress report for the period FY2011-FY2015</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/10/000442464_20130910102201/Rendered/PDF/787930REVISEDb0IC00IDA0R20130022503.pdf">
+      <title>
+        <narrative>BURKINA FASO - Country Partnership Strategy FY2013-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/10/01/000350881_20121001113803/Rendered/PDF/723340CAS0P1280Official0Use0Only090.pdf">
+      <title>
+        <narrative>BURUNDI - Country assistance strategy for the period FY2013-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/03/20/000356161_20130320114638/Rendered/PDF/757740CASP0P120Official0use0only090.pdf">
+      <title>
+        <narrative>BENIN - Country partnership strategy for the period FY2013-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/11/08/000386194_20111108234124/Rendered/PDF/651080CAS0P122002970MIGA0R201100075.pdf">
+      <title>
+        <narrative>BOLIVIA- Country partnership strategy for FY2012-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/09/03/000442464_20140903111410/Rendered/PDF/885970CPS0P148000Box385310B00OUO090.pdf">
+      <title>
+        <narrative>BHUTAN - Country partnership strategy for the period FY2015-2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/05/16/000350881_20130516171004/Rendered/PDF/661580CAS0Box30C0disclosed050160130.pdf">
+      <title>
+        <narrative>DEMOCRATIC REPUBLIC OF CONGO - Country Assistance Strategy for the period FY2013 - FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/08/11/000334955_20090811015524/Rendered/PDF/495830CAS0P113101Official0Use0Only1.pdf">
+      <title>
+        <narrative>CENTRAL AFRICAN REPUBLIC - Country partnership strategy for the period FY2009-FY2012 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/11/16/000350881_20121116110226/Rendered/PDF/NonAsciiFileName0.pdf">
+      <title>
+        <narrative>REPUBLIC OF CONGO - Country partnership strategy for the period FY2013-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/09/08/090224b0830c6065/1_0/Rendered/PDF/Cote0d0Ivoire00period0FY20160FY2019.pdf">
+      <title>
+        <narrative>Cote d'Ivoire - Country partnership strategy for the period FY2016-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/03/11/000334955_20100311022230/Rendered/PDF/529970CAS0p111101Official0Use0Only1.pdf">
+      <title>
+        <narrative>CAMEROON - Country assistance strategy for the period FY2010-FY2014 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/12/12/000470435_20141212094153/Rendered/PDF/922480REVISED00UPDATE0BOARD0NUMBERS.pdf">
+      <title>
+        <narrative>CAPE VERDE - Country partnership strategy for the period FY2015-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/03/12/000333037_20140312152815/Rendered/PDF/838740REVISED0010Box382156B00OUO090.pdf">
+      <title>
+        <narrative>DJIBOUTI - Country partnership strategy for the period FY2014-2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+      <title>
+        <narrative>DOMINICA - Organization of Eastern Caribbean States (OECS) - Regional partnership strategy for the period FY2015-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/09/09/000442464_20140909111630/Rendered/PDF/895510CPS0P133030Box385316B00OUO090.pdf">
+      <title>
+        <narrative>DOMINICAN REPUBLIC - Country partnership strategy for the period FY2015-FY2018 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2001/03/01/000094946_01011305321761/Rendered/PDF/multi_page.pdf">
+      <title>
+        <narrative>ERITREA - Country assistance strategy : interim support strategy (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/09/05/000386194_20120905035014/Rendered/PDF/718840CAS0P1300se0Only090Box370115B.pdf">
+      <title>
+        <narrative>ETHIOPIA - Country partnership strategy (FY2013-FY2016) (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/08/27/090224b082c25a39/1_0/Rendered/PDF/Fiji000Country0period0FY20150002017.pdf">
+      <title>
+        <narrative>FIJI - Country engagement note for the period FY2015-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/06/05/000456286_20140605121148/Rendered/PDF/878180CPS0REVI00Box385199B00PUBLIC0.pdf">
+      <title>
+        <narrative>MICRONESIA, FEDERATED STATES OF - Country partnership strategy for the period FY2014-FY2017</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+      <title>
+        <narrative>GRENADA - Organization of Eastern Caribbean States (OECS) - Regional partnership strategy for the period FY2015-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/08/20/000334955_20090820040116/Rendered/PDF/489180CAS0p116101Official0Use0only1.pdf">
+      <title>
+        <narrative>GEORGIA - Country partnership strategy for the period FY2014-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/25/000442464_20130925100825/Rendered/PDF/763690CAS0Ghan000PUBLIC00Box379829B.pdf">
+      <title>
+        <narrative>GHANA - Country partnership strategy for the period FY2013-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/18/000350881_20130418085848/Rendered/PDF/721400CAS0REVI00900IDA0R20130006102.pdf">
+      <title>
+        <narrative>GAMBIA - Second joint partnership strategy for FY2013-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/06/000333037_20130906083708/Rendered/PDF/762300CAS0P115000OUO0900Box379823B0.pdf">
+      <title>
+        <narrative>GUINEA - Country partnership strategy for the period FY2014-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/05/28/000333038_20090528002431/Rendered/PDF/484660ISN0p077101Official0Use0Only1.pdf">
+      <title>
+        <narrative>Guinea-Bissau - Country engagement note for the period FY2015-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/05/22/000350881_20090522101401/Rendered/PDF/479830CAS0P106101Official0Use0Only1.pdf">
+      <title>
+        <narrative>GUYANA - Country assistance strategy for the period FY2009-FY2012 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/11/28/000350881_20111128094002/Rendered/PDF/633700CAS0corrigendum0IDA0R20110030901.pdf">
+      <title>
+        <narrative>HONDURAS - Country partnership strategy for the period FY2012-FY2014 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/09/14/000333037_20120914004408/Rendered/PDF/718850ISN0P1310Official0Use0Only090.pdf">
+      <title>
+        <narrative>HAITI - Country partnership framework for the period FY2016-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/15/000350881_20130415145549/Rendered/PDF/7617600CAS0REV0PUBLIC00R20130005004.pdf">
+      <title>
+        <narrative>INDIA - Country partnership strategy for the period FY2013-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/06/25/000442464_20140625105403/Rendered/PDF/889400CAS0P1440Kenya0CPS000Volume02.pdf">
+      <title>
+        <narrative>KENYA - Country partnership strategy for the period FY2014-FY2018 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/07/04/000445729_20130704110056/Rendered/PDF/785000KG0CAS0C00Box0377356B00OUO090.pdf">
+      <title>
+        <narrative>KYRGYZ REPUBLIC- Country partnership strategy for the period FY2014-FY2017</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2005/04/25/000090341_20050425104859/Rendered/PDF/32118.pdf">
+      <title>
+        <narrative>CAMBODIA - Country Assistance Strategy FY2005-FY2011 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/02/07/000333037_20110207232742/Rendered/PDF/593550CAS0IDA11OFFICIAL0USE0ONLY161.pdf">
+      <title>
+        <narrative>KIRIBATI - Country assistance strategy for the period FY2011-FY2014 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/05/06/000334955_20100506032352/Rendered/PDF/525220ISN0Box31only10IDA1R201010124.pdf">
+      <title>
+        <narrative>COMOROS - Country partnership strategy for the period FY2014-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+      <title>
+        <narrative>SAINT KITTS AND NEVIS - Organization of Eastern Caribbean States (OECS) - Regional partnership strategy for the period FY2015-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/02/16/000333037_20120216000625/Rendered/PDF/666920CAS0P1200Official0use0only090.pdf">
+      <title>
+        <narrative>LAO PEOPLE'S DEMOCRATIC REPUBLIC - Country partnership strategy for the period FY2012-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+      <title>
+        <narrative>SAINT LUCIA - Organization of Eastern Caribbean States (OECS) - Regional partnership strategy for the period FY2015-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/05/03/000350881_20120503103220/Rendered/PDF/662860CORRIGENDUM0R20120009601.pdf">
+      <title>
+        <narrative>SRI LANKA - Country partnership strategy for the period FY2013-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/07/29/000112742_20130729094758/Rendered/PDF/746180IDA0R20130019102.pdf">
+      <title>
+        <narrative>LIBERIA - Country partnership strategy for the period FY2013-FY2017</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/05/27/000334955_20100527043901/Rendered/PDF/517870CAS0p112101Official0Use0Only1.pdf">
+      <title>
+        <narrative>LESOTHO- Country assistance strategy for the period FY2010- FY2014) (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/08/16/000333037_20130816110107/Rendered/PDF/797010CAS0R2010p00OUO0900Box379801B.pdf">
+      <title>
+        <narrative>MOLDOVA - Country partnership strategy for the period FY2014-FY2017</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/05/09/000445729_20130509110718/Rendered/PDF/638630ISN0REPL0isclosed020120020270.pdf">
+      <title>
+        <narrative>Madagascar - Interim strategy note for the period FY2012-FY2013</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/27/000356161_20130227121655/Rendered/PDF/695100CAS0P1310Official0Use0Only090.pdf">
+      <title>
+        <narrative>Marshall Islands - Country partnership strategy for the period FY2013-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/05/29/000445729_20130529104839/Rendered/PDF/762330ISN0P119070Box377300B00OUO090.pdf">
+      <title>
+        <narrative>Mali - Interim strategy note for the period FY2014-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="https://www.worldbank.org/content/dam/Worldbank/Publications/eap/myanmar-2015-2017-country-partnership-framework.pdf">
+      <title>
+        <narrative>MYANMAR - Country partnership framework for the period FY2015-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/04/27/000333037_20120427010240/Rendered/PDF/675670CAS0P1250Official0Use0Only090.pdf">
+      <title>
+        <narrative>MONGOLIA - Country partnership strategy for the period FY2013-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/18/000356161_20130918152343/Rendered/PDF/750300CAS0P1280100OUO0900Box379827B.pdf">
+      <title>
+        <narrative>Mauritania - Country partnership strategy for the period FY2014-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2008/01/17/000310607_20080117095202/Rendered/PDF/414000MV.pdf">
+      <title>
+        <narrative>Maldives - Country assistance strategy FY2008-FY2012(English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/08/000350881_20130208104235/Rendered/PDF/741590CORRIGENDUM0IDA0R20130000302.pdf">
+      <title>
+        <narrative>Malawi - Country Assistance Strategy for the period FY2013-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/03/14/000386194_20120314004707/Rendered/PDF/668130CAS0P1240Official0Use0Only090.pdf">
+      <title>
+        <narrative>MOZAMBIQUE - Country Partnership Strategy for the period FY2012 - FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/10/000356161_20130410122506/Rendered/PDF/762320CAS0P127050Box374366B00OUO090.pdf">
+      <title>
+        <narrative>NIGER - Country Partnership Strategy for the period FY2013-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/04/04/000333037_20140404110523/Rendered/PDF/825010CAS0P133040Box385166B00OUO090.pdf">
+      <title>
+        <narrative>NIGERIA - Country partnership strategy for the period FY2014-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/10/24/000386194_20121024011712/Rendered/PDF/692310CAS0P1280Official0Use0Only090.pdf">
+      <title>
+        <narrative>NICARAGUA - Country partnership strategy for the period FY2013-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/08/000442464_20140508100553/Rendered/PDF/831480CAS0P133080Box385199B00OUO090.pdf">
+      <title>
+        <narrative>NEPAL - Country partnership strategy note for the period FY2014-FY2018 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/12/18/000333037_20121218001233/Rendered/PDF/NonAsciiFileName0.pdf">
+      <title>
+        <narrative>PAPUA NEW GUINEA - Country partnership strategy for the period FY2013-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/04/15/000442464_20140415102619/Rendered/PDF/846450CAS0P146090Box385177B00OUO090.pdf">
+      <title>
+        <narrative>PAKISTAN - Country partnership strategy for the period FY2015-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+	<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/15/000333037_20140515101839/Rendered/PDF/870250CPS0P130090Box385211B00OUO090.pdf">
+      <title>
+        <narrative>RWANDA - Country assistance strategy for the period FY2014-FY2018 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/05/23/000333037_20130523091840/Rendered/PDF/763490CAS0P131060Box377300B00OUO090.pdf">
+      <title>
+        <narrative>SOLOMON ISLANDS - Country partnership strategy for the period FY2013-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/04/000445729_20130904113230/Rendered/PDF/800510ISN0SUDA000PUBLIC00Box379815B.pdf">
+      <title>
+        <narrative>SUDAN - Interim strategy note for the period FY2014-FY2015</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/07/23/000333037_20120723002431/Rendered/PDF/699130CASP0P130Official0Use0only090.pdf">
+      <title>
+        <narrative>SIERRA LEONE - Country assistance strategy progress report for the period FY2010-FY2013 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/01/29/000356161_20130129173312/Rendered/PDF/NonAsciiFileName0.pdf">
+      <title>
+        <narrative>SENEGAL- Country partnership strategy for the period FY2013-FY2017</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/12/16/000350881_20131216153242/Rendered/PDF/752120REVISED0000PUBLIC0disclosed00.pdf">
+      <title>
+        <narrative>SOMALIA - Interim strategy note for the period FY2014-FY2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/07/000333037_20130207110223/Rendered/PDF/747670ISN0P1290Official0Use0Only090.pdf">
+      <title>
+        <narrative>SOUTH SUDAN - Interim strategy note for FY2013-FY2014 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/07/11/000350881_20140711133944/Rendered/PDF/831440CAS0REVI0C0disclosed070100140.pdf">
+      <title>
+        <narrative>SAO TOME AND PRINCIPE - Country partnership strategy for the period FY2014-FY2018 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/06/02/000334955_20100602024817/Rendered/PDF/543350ISN0P091101Official0Use0Only1.pdf">
+      <title>
+        <narrative>CHAD - Interim strategy note for the period June 2010 to June 2012 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/01/05/000386194_20120105003145/Rendered/PDF/658740ISN0P1250official0use0only090.pdf">
+      <title>
+        <narrative>TOGO - Interim strategy note for the period FY2012-FY2013 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/20/000442464_20140520101548/Rendered/PDF/863720CAS0P146010Box385211B00OUO090.pdf">
+      <title>
+        <narrative>TAJIKISTAN - Country partnership strategy for the period FY2015-FY2018 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/03/27/000350881_20130327102857/Rendered/PDF/752630CORRIGEN0C0disclosed030260130.pdf">
+      <title>
+        <narrative>TIMOR-LESTE - Country partnership strategy for the period FY2013-FY2017 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/09/28/000334955_20100928023436/Rendered/PDF/566300CAS0P1161Official0use0only161.pdf">
+      <title>
+        <narrative>TONGA - Country assistance strategy for the period FY2011-FY2014 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/11/18/000333037_20111118011444/Rendered/PDF/652730CAS0IDAR0Official0Use0Only090.pdf">
+      <title>
+        <narrative>TUVALU - Country assistance strategy for the period FY2012-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/05/16/000333037_20110516030743/Rendered/PDF/602690CAS0IDA005B000public050120110.pdf">
+      <title>
+        <narrative>TANZANIA - Country Assistance Strategy (CAS) for the period FY2012-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/05/04/000334955_20100504033727/Rendered/PDF/541870CAS0P11610only10IDAR201010116.pdf">
+      <title>
+        <narrative>UGANDA - Country Assistance strategy for the period FY2011-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/11/13/000356161_20111113234356/Rendered/PDF/650280CAS0R201003030MIGA0R201100076.pdf">
+      <title>
+        <narrative>UZBEKISTAN - Country Partnership Strategy for FY2012-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+      <title>
+        <narrative>SAINT VINCENT AND THE GRENADINES - Organization of Eastern Caribbean States (OECS) - Regional partnership strategy for the period FY2015-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/11/22/000333037_20111122235636/Rendered/PDF/652000CAS0P1230Official0Use0Only090.pdf">
+      <title>
+        <narrative>VIETNAM - Country partnership strategy for the period FY2012-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+      <title>
+        <narrative>VANUATU - Organization of Eastern Caribbean States (OECS) - Regional partnership strategy for the period FY2015-FY2019 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/03/09/000386194_20120309010647/Rendered/PDF/671940CAS0P1300Official0Use0Only090.pdf">
+      <title>
+        <narrative>SAMOA - Country Partnership Strategy for the period FY2012-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/05/07/000406484_20120507085250/Rendered/PDF/668770IDA0R201001400MIGA0R201200024.pdf">
+      <title>
+        <narrative>KOSOVO - Country Partnership Strategy for the period FY2012-FY2015 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/10/11/000386194_20121011003923/Rendered/PDF/709430ISN0IDA00Official0Use0Only090.pdf">
+      <title>
+        <narrative>YEMEN - Interim strategy note for the period FY2013-FY2014 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/05/000350881_20130405104746/Rendered/PDF/750890CORRIGEN0IC00IDA0R20130002703.pdf">
+      <title>
+        <narrative>ZAMBIA - Country partnership strategy for the period FY2013-FY2016 (English)</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+<document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/08/000333037_20130408102210/Rendered/PDF/742260ISN0P1220Official0Use0Only090.pdf">
+      <title>
+        <narrative>ZIMBABWE - Interim strategy note for the period FY2013-FY2015</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

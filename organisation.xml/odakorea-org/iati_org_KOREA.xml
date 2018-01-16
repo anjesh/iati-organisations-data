@@ -1,0 +1,325 @@
+<iati-organisations generated-datetime="2017-12-22 14:27:34" version="2.02">
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-010"</organisation-identifier>
+             <name>
+                  <narrative>"Office for Government Policy Coordination"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">6440000000</value>
+            <budget-line >
+                <value currency="KRW">6440000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-020"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Strategy and Finance"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">124190000000</value>
+            <budget-line >
+                <value currency="KRW">7890000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">116300000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-021"</organisation-identifier>
+             <name>
+                  <narrative>"KEXIM(EDCF)"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="0">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">987110000000</value>
+            <budget-line >
+                <value currency="KRW">32610000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">954500000000</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-030"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Education"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">69760000000</value>
+            <budget-line >
+                <value currency="KRW">69760000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-040"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Science and ICT"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">12480000000</value>
+            <budget-line >
+                <value currency="KRW">11240000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">1240000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-050"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Foreign Affairs and Trade "</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">301450000000</value>
+            <budget-line >
+                <value currency="KRW">208320000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">93130000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-051"</organisation-identifier>
+             <name>
+                  <narrative>"KOICA"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">630400000000</value>
+            <budget-line >
+                <value currency="KRW">630400000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-060"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Justice"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">370000000</value>
+            <budget-line >
+                <value currency="KRW">370000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-070"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Interior"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">7340000000</value>
+            <budget-line >
+                <value currency="KRW">7340000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-080"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Culture, Sports, and Tourism"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">11080000000</value>
+            <budget-line >
+                <value currency="KRW">11080000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-090"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Agriculture, Food and Rural Affairs"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">26990000000</value>
+            <budget-line >
+                <value currency="KRW">18090000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">8900000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-100"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Trade, Industry and Energy"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">26710000000</value>
+            <budget-line >
+                <value currency="KRW">25270000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">1440000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-110"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Health and Welfare"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">49330000000</value>
+            <budget-line >
+                <value currency="KRW">29500000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">19830000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-120"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Environment"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">11050000000</value>
+            <budget-line >
+                <value currency="KRW">6720000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">4330000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-130"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Employment and Labor"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">7460000000</value>
+            <budget-line >
+                <value currency="KRW">1990000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">5470000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-140"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Gender Equality and Family"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">6550000000</value>
+            <budget-line >
+                <value currency="KRW">1990000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">4560000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+    <iati-organisation default-currency="KRW" last-updated-datetime="" xml:lang="en">
+        <organisation-identifier>"KR-GOV-150"</organisation-identifier>
+             <name>
+                  <narrative>"Ministry of Land, Infrastructure and Transport"</narrative>
+             </name>
+        <reporting-org ref="KR-GOV-021" type="10" secondary-reporter="1">
+             <narrative>KEXIM(EDCF)</narrative>
+        </reporting-org>
+        <total-budget>
+                <period-start iso-date="2017-01-01" />
+                <period-end iso-date="2017-12-31" />
+                <value currency="KRW">12920000000</value>
+            <budget-line >
+                <value currency="KRW">12760000000</value>
+                                <narrative>budget line for bilateral grants</narrative>                <value currency="KRW">0</value>
+                                <narrative>budget line for bilateral loan</narrative>                <value currency="KRW">160000000</value>
+                                <narrative>budget line for multilateral</narrative>            </budget-line>
+        </total-budget>
+    </iati-organisation>
+</iati-organisations>

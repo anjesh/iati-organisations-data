@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-11-06T13:01:43+00:00">
+  <iati-organisation last-updated-datetime="2017-11-06T13:01:43+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-33185213</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Royal Tropical Institute</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-33185213">
+      <narrative xml:lang="en">Royal Tropical Institute</narrative>
+      <narrative xml:lang="nl">Koninklijk Instituut voor de Tropen</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

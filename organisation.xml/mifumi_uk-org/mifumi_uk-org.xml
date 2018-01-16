@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-08-17T11:08:36+00:00">
+  <iati-organisation last-updated-datetime="2017-08-17T11:08:36+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-1038785</organisation-identifier>
+    <name>
+      <narrative>Mifumi UK</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-1038785">
+      <narrative xml:lang="en">Mifumi UK</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2017-03-31"/>
+      <value value-date="2014-11-18">249888</value>
+    </total-budget>
+    <recipient-org-budget status="1">
+      <recipient-org ref=" GPAF INN 039">
+        <narrative>MIFUMI UK.GB-CHC-1038785</narrative>
+      </recipient-org>
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2017-03-31"/>
+      <value value-date="2017-12-30">12790</value>
+    </recipient-org-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">
+        <narrative>Child Opportunity Trust Kenya(COT)</narrative>
+      </recipient-country>
+      <period-start iso-date="2014-04-01"/>
+      <period-end iso-date="2017-03-31"/>
+      <value value-date="2016-12-31">237098</value>
+    </recipient-country-budget>
+  </iati-organisation>
+</iati-organisations>

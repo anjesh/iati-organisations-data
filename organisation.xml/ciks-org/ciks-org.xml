@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-04-29T10:58:36+00:00" version="1.01">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-04-26T10:45:20+00:00" default-currency="GBP">
+    <reporting-org ref="ciks" type="23" xml:lang="en">CENTRE FOR INDIAN KNOWLEDGE SYSTEMS</reporting-org>
+    <iati-identifier>ciks</iati-identifier>
+    <name xml:lang="en">CENTRE FOR INDIAN KNOWLEDGE SYSTEMS</name>
+    <total-budget>
+      <value currency="GBP" value-date="2012-07-01">499180</value>
+      <period-start iso-date="2012-07-01">1ST JULY 2012</period-start>
+      <period-end iso-date="2015-06-30">30TH JUNE 2015</period-end>
+    </total-budget>
+    <recipient-org-budget>
+      <recipient-org ref="GPAF IMP -024" xml:lang="en">CENTRE FOR INDIAN KNOWLEDGE SYSTEMS</recipient-org>
+      <value currency="GBP" value-date="2012-07-01">499180</value>
+      <period-start iso-date="2012-07-01">1ST JULY 2012</period-start>
+      <period-end iso-date="2015-06-30">30TH JUNE 2015</period-end>
+    </recipient-org-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN" xml:lang="en">CENTRE FOR INDIAN KNOWLEDGE SYSTEMS</recipient-country>
+      <value currency="GBP" value-date="2012-07-01">499180</value>
+      <period-start iso-date="2012-07-01">1ST JULY 2012</period-start>
+      <period-end iso-date="2015-06-30">30TH JUNE 2015</period-end>
+    </recipient-country-budget>
+  </iati-organisation>
+</iati-organisations>

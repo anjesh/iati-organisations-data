@@ -1,0 +1,653 @@
+<?xml version='1.0' encoding='utf-8'?>
+<iati-organisations generated-datetime="2017-06-02T14:04:50" version="2.02">
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-06-02T14:04:50" xml:lang="it">
+    <organisation-identifier>XM-DAC-6-4</organisation-identifier>
+    <name>
+      <narrative>AICS - Agenzia Italiana per la Cooperazione allo Sviluppo</narrative>
+    </name>
+    <reporting-org ref="XM-DAC-6-4" type="10">
+      <narrative>AICS - Italian Agency for Cooperation and Development</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-12-31">594490392</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2016-12-31">534465333</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2016-12-31">534474731</value>
+    </total-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="89" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">2000000</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="289" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">15175910</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="298" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">6000</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="489" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">855676</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="550" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">13379011</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="589" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">18857147</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="998" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">140442240</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="298" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">24861863</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="489" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">8899995</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="589" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">16844385</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="889" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">60000</value>
+    </recipient-region-budget>
+    <recipient-region-budget status="1">
+      <recipient-region code="998" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">246991182</value>
+    </recipient-region-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">22609777.41</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AL" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">2716935.88</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AO" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">906382.15</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">2495622.07</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">2157274.85</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">656387.54</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">3000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1199799.01</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CU" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">434237.82</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DJ" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">685478.03</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">30376.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">679696.01</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">14590258.83</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">86854.48</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">11289.43</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">277012.11</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IQ" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">6893072.53</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">300280.49</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1620003.21</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">154863.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">14180188.62</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">4190000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">28931.48</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1297501.29</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">2390424.14</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1532287.19</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">4229573.5</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">169463.55</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">15000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">238968.45</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">692435.01</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">274239.33</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">288390.18</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RS" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">4856.5</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">113786.54</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">4269981.72</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">5715563.24</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">11328238.94</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">5062000.57</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">978530.38</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SY" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">12350000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">3134760.23</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">188578.64</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">478750.52</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="XK" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">370787.85</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1500000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">26732170.64</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AL" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">3556416</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BA" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">680000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">176638</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">7508962</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">6448531</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">5000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CU" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">4805500</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">445383.7</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">5955539</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ER" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">250000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">24308966.96</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">367400</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">31700</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">75940</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IQ" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">9730844</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">9265000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">3149071</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">1200000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">22552373</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LK" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">20000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">9000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">2200000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">7534562</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">18740561</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">8114353.69</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">15000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">641294</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">264462</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">7500000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RS" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">20000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">11544268.19</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">900000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">2652977</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">19071000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">3359665</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SY" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">30750000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">11397324.39</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">378129</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">93458</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VN" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">1675571</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="XK" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">67440</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">3000000</value>
+    </recipient-country-budget>
+    <document-link format="application/pdf" url="http://www.aics.gov.it/wp-content/uploads/2017/02/Relazione-illustrativa.pdf">
+      <title>
+        <narrative>Relazione illustrativa al budget economico per l’esercizio 2017</narrative>
+      </title>
+      <category code="B01" />
+      <language code="it" />
+    </document-link>
+    <document-link format="text/html" url="http://www.aics.gov.it/">
+      <title>
+        <narrative xml:lang="en">Organisation web page</narrative>
+      </title>
+      <category code="B16" />
+      <language code="it" />
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-02-07T11:52:58+00:00">
+  <iati-organisation last-updated-datetime="2017-02-07T11:52:58+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>DK-CVR-36980214</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">DanChurchAid</narrative>
+    </name>
+    <reporting-org type="21" ref="DK-CVR-36980214">
+      <narrative xml:lang="en">DanChurchAid</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

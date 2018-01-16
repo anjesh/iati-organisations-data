@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.01" generated-datetime="2017-12-05T14:53:01.157">
+<iati-organisation xml:lang="en" last-updated-datetime="2017-12-05T14:53:01.157" default-currency="NOK">
+<organisation-identifier>NO-BRC-971277882</organisation-identifier>
+<name>
+<narrative xml:lang="en">Norad - Norwegian Agency for Development Cooperation</narrative>
+</name>
+<reporting-org xml:lang="en" ref="NO-BRC-971277882" type="10">
+<narrative xml:lang="en">Norad - Norwegian Agency for Development Cooperation</narrative>
+</reporting-org>
+<!-- Norway Total budget -->
+<total-budget>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2017-01-01" currency="NOK">33889224000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2017-09-22" currency="NOK">35137507000</value>
+</total-budget>
+<!-- Document links -->
+<document-link format="text/html" url="https://www.regjeringen.no/no/dokumenter/prop.-1-s-ud-20162017/id2513642/">
+<title>
+<narrative xml:lang="no">Utenriksdepartementet - Ministry of Foreign Affairs - Prop. 1 S Tillegg nr. 1 (2016–2017) FOR BUDSJETTÅRET 2017 Utgiftskapitler: 100–172 Inntektskapitler: 3100</narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+<document-link format="https://www.regjeringen.no/no/dokumenter/prop.-1-s-kld-20162017/id2514083//">
+<title>
+<narrative xml:lang="no">Klima- og miljødepartementet - Ministry of Climate and Environment - Prop. 1 S (2016–2017) FOR BUDSJETTÅRET 2017 — Utgiftskapittel: 1400 – 1482 Inntektskapittel: 4400 – 4471 og 5578</narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+<document-link format="text/html" url="https://www.statsbudsjettet.no/upload/Revidert_2017/dokumenter/pdf/prop129.pdf">
+<title>
+<narrative xml:lang="no">FOR BUDSJETTÅRET 2017 — Prop. 129 S (2016–2017) Tilleggsbevilgninger og omprioriteringer i statsbudsjettet 2017</narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+<document-link format="text/html" url="http://www.statsbudsjettet.no/Statsbudsjettet-2017/English/">
+<title>
+<narrative xml:lang="en">National Budget 2017 - information in English</narrative>
+</title>
+<category code="A05"/>
+<language code="en"/>
+</document-link>
+<document-link format="text/html" url="http://www.statsbudsjettet.no/Statsbudsjettet-2017/">
+<title>
+<narrative xml:lang="no">Statsbudsjettet 2017</narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+<document-link format="text/html" url="https://www.regjeringen.no/no/dokumenter/prop.-1-s-ud-20172018/id2574542/">
+<title>
+<narrative xml:lang="no">Utenriksdepartementet - Ministry of Foreign Affairs - Prop. 1 S Tillegg nr. 1 (2017–2018) FOR BUDSJETTÅRET 2018 Utgiftskapitler: 100–172 Inntektskapitler: 3100 </narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+<document-link format="text/html" url="https://www.regjeringen.no/no/dokumenter/prop.-1-s-kld-20172018/id2574299/">
+<title>
+<narrative xml:lang="no">Klima- og miljødepartementet - Ministry of Climate and Environment - Prop. 1 S (2017–2018) FOR BUDSJETTÅRET 2018 — Utgiftskapittel: 1400 – 1482 Inntektskapittel: 4400 – 4471 og 5578</narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+<document-link format="text/html" url="https://www.regjeringen.no/no/dokumenter/prop.-23-s-20172018/id2579500/sec1">
+<title>
+<narrative xml:lang="no">FOR BUDSJETTÅRET 2017 — Prop. 23 S (2017–2018) Endringar i statsbudsjettet 2017 under Utanriksdepartementet </narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+<document-link format="text/html" url="http://www.statsbudsjettet.no/Statsbudsjettet-2018/English/">
+<title>
+<narrative xml:lang="en">National Budget 2018 - information in English</narrative>
+</title>
+<category code="A05"/>
+<language code="en"/>
+</document-link>
+<document-link format="text/html" url="http://www.statsbudsjettet.no/Statsbudsjettet-2018/">
+<title>
+<narrative xml:lang="no">Statsbudsjettet 2018</narrative>
+</title>
+<category code="A05"/>
+<language code="no"/>
+</document-link>
+</iati-organisation>
+</iati-organisations>

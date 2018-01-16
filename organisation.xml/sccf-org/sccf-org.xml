@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<iati-organisations version="2.02" generated-datetime="2017-07-10T11:27:28Z">
+  <iati-organisation xml:lang="fr" default-currency="EUR">
+    <organisation-identifier>FR-SIRET-77566669600015</organisation-identifier>
+    <name>
+      <narrative>Secours Catholique</narrative>
+    </name>
+    <reporting-org ref="FR-SIRET-77566669600015" type="21">
+      <narrative>Secours Catholique</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

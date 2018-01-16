@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-06-27T10:28:07+00:00">
+  <iati-organisation last-updated-datetime="2016-06-27T10:28:07+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>IE-CHY-6998</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Christian Aid Ireland</narrative>
+    </name>
+    <reporting-org type="21" ref="IE-CHY-6998">
+      <narrative xml:lang="en">Christian Aid Ireland</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2016-04-01"/>
+      <period-end iso-date="2017-03-31"/>
+      <value currency="EUR" value-date="2016-07-28">3915429</value>
+    </total-budget>
+    <document-link format="application/pdf" url="http://www.christianaid.ie/Images/1%20Annual%20Report%20and%20Combined%20Accounts%2031%20March%202015_tcm19-85556.pdf">
+      <title>
+        <narrative xml:lang="en">Annual Report 2014-2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2015-09-30"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

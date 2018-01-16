@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-09-24T08:56:31+00:00" version="1.02">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-09-24T08:56:03+00:00">
+    <reporting-org ref="oxfam_india" type="22" xml:lang="en">Oxfam India</reporting-org>
+    <name xml:lang="en">Oxfam India</name>
+    <total-budget>
+      <value currency="GBP" value-date="2013-03-31">2171553</value>
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2014-03-31"/>
+    </total-budget>
+    <recipient-org-budget>
+      <recipient-org ref="Oxfam India" xml:lang="en">Oxfam India</recipient-org>
+      <value currency="GBP" value-date="2012-04-01">1621317</value>
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+    </recipient-org-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN" xml:lang="en">Oxfam India</recipient-country>
+      <value currency="GBP" value-date="2013-01-31">1621317</value>
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+    </recipient-country-budget>
+    <document-link url="http://www.oxfamindia.org/what-we-do/news/project-improving-maternal-health-status-six-states-india" format="application/pdf">
+      <category code="A02" xml:lang="en">In the Annual Report and in the activities of partners. http://www.oxfamindia.org/search/node/GPAF</category>
+      <title xml:lang="en">Improving maternal health in the six states of India</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

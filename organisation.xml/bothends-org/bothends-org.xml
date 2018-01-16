@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-05-01T08:17:05+00:00">
+  <iati-organisation last-updated-datetime="2017-05-01T08:17:05+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41210098</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Both ENDS</narrative>
+    </name>
+    <reporting-org type="22" ref="NL-KVK-41210098">
+      <narrative xml:lang="en">Both ENDS</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

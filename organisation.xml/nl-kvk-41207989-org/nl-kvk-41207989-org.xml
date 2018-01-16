@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-11-23T09:00:11+00:00">
+  <iati-organisation last-updated-datetime="2016-11-23T09:00:11+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41207989</organisation-identifier>
+    <name>
+      <narrative>Aids Fonds - STOP AIDS NOW! - Soa Aids Nederland</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41207989">
+      <narrative xml:lang="en">Aids Fonds - STOP AIDS NOW! - Soa Aids Nederland</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">52013000</value>
+      <budget-line>
+        <narrative xml:lang="en">Annual forward planning budget for organisation 2016</narrative>
+      </budget-line>
+    </total-budget>
+    <document-link format="application/pdf" url="http://www.aidsfonds.nl/uploads/strategie_rapport_aidsfonds_2014.pdf">
+      <title>
+        <narrative xml:lang="en">Organisation Strategy 2014-2017</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+      <recipient-country code="NL"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

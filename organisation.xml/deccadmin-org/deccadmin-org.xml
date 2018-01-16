@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-05-20T14:44:51+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-05-20T02:44:45+00:00" default-currency="GBP">
+    <reporting-org ref="GB-4" type="10" xml:lang="en">UK Department of Energy and Climate Change </reporting-org>
+    <iati-identifier>GB-4</iati-identifier>
+    <name xml:lang="en">DECC spend under the International Climate Fund</name>
+    <total-budget>
+      <value currency="GBP" value-date="2011-04-01">1000000000</value>
+      <period-start iso-date="2010-04-01"/>
+      <period-end iso-date="2015-03-31"/>
+    </total-budget>
+    <document-link url="https://www.gov.uk/government/policies/taking-international-action-to-mitigate-climate-change/supporting-pages/international-climate-fund-icf">
+      <language>en</language>
+      <title>International Climate Fund</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

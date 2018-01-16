@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-09-20T16:10:53+00:00">
+  <iati-organisation last-updated-datetime="2016-09-20T16:10:53+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-1071886</organisation-identifier>
+    <name>
+      <narrative>TB Alert</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-1071886">
+      <narrative xml:lang="en">TB Alert</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-04-01"/>
+      <period-end iso-date="2017-03-31"/>
+      <value currency="GBP" value-date="2016-09-20">914518</value>
+    </total-budget>
+    <document-link format="text/html" url="http://www.tbalert.org/wp-content/uploads/2016/01/tb_alert_AR_2015_web.pdf">
+      <title>
+        <narrative xml:lang="en">TB Alert Annual Review 2014-2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

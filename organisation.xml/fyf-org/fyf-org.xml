@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-05-20T14:10:21+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-05-20T10:34:40+00:00" default-currency="GBP">
+    <reporting-org ref="GB-CHC-250456" type="21" xml:lang="en">Find Your Feet</reporting-org>
+    <iati-identifier>GB-CHC-250456</iati-identifier>
+    <name xml:lang="en">Find Your Feet</name>
+  </iati-organisation>
+</iati-organisations>

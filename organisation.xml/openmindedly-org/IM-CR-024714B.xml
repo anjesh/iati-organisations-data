@@ -1,0 +1,11 @@
+<iati-organisations generated-datetime="2016-12-14T08:00:00Z" version="2.01">
+<iati-organisation default-currency="GBP" last-updated-datetime="2016-12-14T08:00:00Z" xml:lang="en">
+<organisation-identifier>IM-CR-024714B</organisation-identifier>
+<name>
+<narrative>openmindedly</narrative>
+</name>
+<reporting-org ref="IM-CR-024714B" type="70" secondary-reporter="1">
+<narrative>openmindedly</narrative>
+</reporting-org>
+</iati-organisation>
+</iati-organisations>

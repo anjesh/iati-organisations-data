@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-10-11T21:27:20+00:00">
+  <iati-organisation last-updated-datetime="2017-10-11T21:27:20+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>US-EIN-27-3755556</organisation-identifier>
+    <name>
+      <narrative>IDEO.org</narrative>
+    </name>
+    <reporting-org type="21" ref="US-EIN-27-3755556">
+      <narrative xml:lang="en">IDEO.org</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2013-06-13"/>
+      <period-end iso-date="2019-06-30"/>
+      <value currency="GBP" value-date="2017-10-11">10100000</value>
+    </total-budget>
+    <document-link format="application/vnd.ms-excel.sheet.macroEnabled.12" url="http://iati.dfid.gov.uk/iati_documents/5081756.xlsx">
+      <title>
+        <narrative>Amplify Logframe</narrative>
+      </title>
+      <category code="A08"/>
+      <document-date iso-date="2017-01-12"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

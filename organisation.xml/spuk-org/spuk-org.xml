@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-02-26T13:58:33+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-02-26T01:56:16+00:00">
+    <reporting-org ref="GB-CHC-1001349" type="21" xml:lang="en">Samaritan's Purse UK</reporting-org>
+    <iati-identifier>GB-CHC-1001349</iati-identifier>
+    <name xml:lang="en">Samaritan's Purse UK</name>
+    <total-budget>
+      <value currency="GBP" value-date="2013-04-01">4406008</value>
+      <period-start iso-date="2013-04-01">2013/14 Total Budget (projected)</period-start>
+      <period-end iso-date="2014-03-31">2013/14 Total Budget (projected)</period-end>
+    </total-budget>
+    <total-budget>
+      <value currency="GBP" value-date="2014-04-01">4492813</value>
+      <period-start iso-date="2014-04-01">2014/15 Total Budget (projected)</period-start>
+      <period-end iso-date="2015-03-31">2014/15 Total Budget (projected)</period-end>
+    </total-budget>
+    <total-budget>
+      <value currency="GBP" value-date="2015-04-01">4524987</value>
+      <period-start iso-date="2015-04-01">2015/16 Total Budget (projected)</period-start>
+      <period-end iso-date="2016-03-31">2015/16 Total Budget (projected)</period-end>
+    </total-budget>
+    <document-link url="http://www.samaritans-purse.org.uk/Trustees-report" format="application/pdf">
+      <language>en</language>
+      <category code="B01" xml:lang="en"/>
+      <title xml:lang="en">Annual Trustee's Report</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.01" generated-datetime="2017-12-11T16:20:40+00:00">
+  <iati-organisation last-updated-datetime="2017-12-11T16:20:40+00:00" xml:lang="fr" default-currency="EUR">
+    <organisation-identifier>XI-IATI-FR-3</organisation-identifier>
+    <name>
+      <narrative>Agence Française de Développement</narrative>
+    </name>
+    <reporting-org type="15" ref="XI-IATI-FR-3">
+      <narrative xml:lang="fr">Agence Française de Développement</narrative>
+    </reporting-org>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/presentation-de-lafd-aux-investisseurs">
+      <title>
+        <narrative xml:lang="fr">Présentation de l'AFD aux investisseurs</narrative>
+      </title>
+      <category code="A02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/financer-les-projets">
+      <title>
+        <narrative xml:lang="fr">Moyens Intervention Les outils de financement de l'AFD</narrative>
+      </title>
+      <category code="A04"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/les-evaluations">
+      <title>
+        <narrative xml:lang="fr">Programme d évaluation de l'AFD</narrative>
+      </title>
+      <category code="A01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/la-politique-devaluation-de-lafd">
+      <title>
+        <narrative xml:lang="fr">Politique d'évaluation</narrative>
+      </title>
+      <category code="A07"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/rapport-responsabilite-societale-resultats">
+      <title>
+        <narrative xml:lang="fr">Rapport RSE 2015</narrative>
+      </title>
+      <category code="A07"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/charte-ethique-du-groupe-afd">
+      <title>
+        <narrative xml:lang="fr">La charte d'éthique professionnelle</narrative>
+      </title>
+      <category code="A07"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.afd.fr/webdav/site/afd/shared/PRESSE/communiques/Resultats-AFD-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Résultats 2016</narrative>
+      </title>
+      <category code="A07"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/les-evaluations">
+      <title>
+        <narrative xml:lang="fr">Composition et règlement intérieur du comite des évaluations</narrative>
+      </title>
+      <category code="A01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-10/guide-methodologique-dispositif-avis-developpement-durable.pdf">
+      <title>
+        <narrative>Guide de méthodologique du dispositif Avis Développement Durable</narrative>
+      </title>
+      <category code="A01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/responsabilite-societale-plan-action">
+      <title>
+        <narrative xml:lang="fr">Plan d actions RSO 2014 2016</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/politique-de-maitrise-des-risques-environnementaux-et-sociaux-lies-aux-operations-financees-par-lafd">
+      <title>
+        <narrative xml:lang="fr">Politique de maitrise des risques environnementaux et sociaux</narrative>
+      </title>
+      <category code="A01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/media/download/7913">
+      <title>
+        <narrative xml:lang="fr">Cycle de vie du projet</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/media/download/7492">
+      <title>
+        <narrative>Organigramme</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/media/download/7559">
+      <title>
+        <narrative xml:lang="fr">Statut de l'AFD</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/politique-transparence-afd-2007.pdf">
+      <title>
+        <narrative xml:lang="fr">Politique de transparence</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/politique-groupe-afd-lutte-contre-corruption.pdf">
+      <title>
+        <narrative xml:lang="fr">Politique générale de l’AFD et de PROPARCO en matière de lutte contre la corruption la fraude les pratiques anticoncurrentielles le blanchiment de capitaux et le financement du terrorisme</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/code-de-conduite-achat-2012.pdf">
+      <title>
+        <narrative xml:lang="fr">Code de conduite en matière d'achats appllicable à tout agent de la cellule achat</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/procedure-achats-afd-2012.pdf">
+      <title>
+        <narrative>Procédure d'achats de l'AFD</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-07/Directives-Passation-Marches-Etats-Etrangers.pdf">
+      <title>
+        <narrative xml:lang="fr">Directives pour la passation des marches finances par l AFD dans les Etats etrangers</narrative>
+      </title>
+      <category code="B05"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/media/download/307">
+      <title>
+        <narrative xml:lang="fr">Principes généraux de passation des marches</narrative>
+      </title>
+      <category code="B05"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-afrique-subsaharienne-2014-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Cadre Intervention regional Afrique Subsaharienne 2014 2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/plan-actions-asie-2013-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Plan d'actions Asie 2013 2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-amerique-latine-2012-2014.pdf">
+      <title>
+        <narrative xml:lang="fr">Cadre Intervention régional Amérique Latine 2012 2014</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-sahel">
+      <title>
+        <narrative xml:lang="fr">Stratégie Sahel 2015 2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-colombie">
+      <title>
+        <narrative xml:lang="fr">Stratégie Colombie 2014 2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="CO"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-polynesie-francaise">
+      <title>
+        <narrative>Stratégie Polynésie Française 2015 2019</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="PF"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-territoires-palestiniens">
+      <title>
+        <narrative xml:lang="fr">Stratégie Territoires Palestiniens 2016 2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="PS"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-guadeloupe">
+      <title>
+        <narrative xml:lang="fr">Stratégie Guadeloupe 2015 2019</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="GP"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-mali">
+      <title>
+        <narrative xml:lang="fr">Stratégie Mali 2015 2019</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="ML"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-martinique">
+      <title>
+        <narrative xml:lang="fr">Stratégie Martinique 2016 2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="MQ"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-republique-democratique-congo">
+      <title>
+        <narrative xml:lang="fr">Stratégie République Démocratique du Congo 2015 2019</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="CD"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-turquie">
+      <title>
+        <narrative xml:lang="fr">Stratégie Turquie 2014 2017</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="TR"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-nouvelle-caledonie">
+      <title>
+        <narrative xml:lang="fr">Stratégie Nouvelle Calédonie 2015 2018</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="NC"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-mayotte">
+      <title>
+        <narrative>Stratégie Mayotte 2016 2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="YT"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-guinee">
+      <title>
+        <narrative>Stratégie Guinée 2015 2020</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="GN"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-dintervention-maroc">
+      <title>
+        <narrative xml:lang="fr">Stratégie Maroc 2017 2021</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="MA"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-cara%C3%AFbes-2013-2015.pdf">
+      <title>
+        <narrative xml:lang="fr">Stratégie Caraïbes 2013 2015</narrative>
+      </title>
+      <category code="B17"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-outre-mer2014-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Stratégie Outre Mer 2014 2016</narrative>
+      </title>
+      <category code="B17"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-mediterranee-moyen-orient">
+      <title>
+        <narrative xml:lang="fr">Stratégie Méditerranée et Moyen-Orient 2015 2018</narrative>
+      </title>
+      <category code="B17"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-egypte-2014-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Cadre Intervention Pays Egypte 2014 2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="EG"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-indonesie-2013-2015.pdf">
+      <title>
+        <narrative xml:lang="fr">Cadre Intervention pays Indonésie 2013 2015</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="ID"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/sites/afd/files/2017-12/country-intervention-framework-2014-2016_0.pdf">
+      <title>
+        <narrative xml:lang="fr">Nigeria Strategy 2014 2016</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="fr"/>
+      <recipient-country code="NG"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-securite-alimentaire-afrique-subsaharienne-2013-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Cadre Intervention sectoriel 2013 2016 Sécurité alimentaire en Afrique subsaharienne</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-eau-assainissement">
+      <title>
+        <narrative xml:lang="fr">Stratégie Eau et Assainissement 2014 2018</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-energie-2012-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Cadre Intervention sectoriel Energie 2012 2016</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-climat-et-developpement-2017-2022">
+      <title>
+        <narrative xml:lang="fr">Stratégie Climat 2017 2022</narrative>
+      </title>
+      <category code="B11"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-sante-protection-sociale">
+      <title>
+        <narrative xml:lang="fr">Stratégie Sante et Protection Sociale 2015 2019</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-dintervention-biodiversite">
+      <title>
+        <narrative xml:lang="fr">Stratégie Biodiversité 2013 2016</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/evaluation-du-cadre-dintervention-sectoriel-cis-education-formation-et-emploi-2013-2015-0">
+      <title>
+        <narrative xml:lang="fr">Stratégie Education Formation Emploi 2013 2015</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-transversal-renforcement-des-capacites.pdf">
+      <title>
+        <narrative xml:lang="fr">Cadre Intervention transversal Soutenir le renforcement de capacité</narrative>
+      </title>
+      <category code="B12"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-villes-durables">
+      <title>
+        <narrative xml:lang="fr">Stratégie Villes Durables 2014 2017</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-appui-societe-civile-2013-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Stratégie appui aux Organisations de la Société Civile 2013 2016</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/cadre-intervention-genre-reduction-inegalites">
+      <title>
+        <narrative xml:lang="fr">Stratégie Genre 2014 2017</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/cadre-intervention-prevention-crises-sortie-conflit-2013-2015.pdf">
+      <title>
+        <narrative xml:lang="fr">Stratégie prévention crises et conflits 2013 2015</narrative>
+      </title>
+      <category code="B12"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="http://opendata.afd.fr/page/accueil/">
+      <title>
+        <narrative xml:lang="fr">Site Open Data AFD avec outils de datavisualisation</narrative>
+      </title>
+      <category code="A12"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-12/analyse-evolution-activite-afd-2010-2014.pdf">
+      <title>
+        <narrative xml:lang="fr">Données d analyse de l'activité de l AFD de 2010 à 2014</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-07/document-reference-AFD-2016.pdf">
+      <title>
+        <narrative xml:lang="fr">Document de reference</narrative>
+      </title>
+      <category code="A05"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.afd.fr/sites/afd/files/2017-07/AFD-Base-Prospectus-2017.pdf">
+      <title>
+        <narrative xml:lang="fr">Base prospectus</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/media/download/7773">
+      <title>
+        <narrative xml:lang="fr">Rapport financier semestriel</narrative>
+      </title>
+      <category code="A05"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/media/download/7765">
+      <title>
+        <narrative xml:lang="fr">Programme des titres négociables à court terme</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.afd.fr/fr/index-gri-2017-responsabilite-societale-rso">
+      <title>
+        <narrative xml:lang="fr">Rapport GRI G4 2015</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="fr"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

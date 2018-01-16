@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-05-03T12:00:00">
+  <iati-organisation last-updated-datetime="2016-09-23T12:00:00" xml:lang="en" default-currency="GBP">
+
+  <organisation-identifier>GB-COH-213890</organisation-identifier>
+  <name>
+	<narrative>Save the Children UK</narrative>
+  </name>
+
+  <reporting-org ref="GB-COH-213890" type="21">
+	<narrative>Save the Children UK</narrative>
+  </reporting-org>
+
+  <document-link url="http://www.savethechildren.org.uk/sites/default/files/images/Annual_Report_2015a.pdf" format="application/pdf">
+    <title><narrative>Save the Children UK Annual Report 2015</narrative></title>
+    <category code="B01"/>
+    <category code="B06"/>
+  </document-link>
+
+
+  <document-link url="http://www.savethechildren.org.uk/sites/default/files/images/Upholding_our_Values_2015_0.pdf" format="application/pdf">
+    <title><narrative>Accountability and Transparency Report 2015</narrative></title>
+    <category code="B01"/>
+  </document-link>
+
+
+  <document-link url="http://www.savethechildren.org.uk/about-us/who-we-are/accountability-transparency/access-to-information" 
+		format="text/html">
+    <title><narrative>Access to our information</narrative></title>
+    <category code="B16"/>
+  </document-link>
+
+
+</iati-organisation>
+</iati-organisations>

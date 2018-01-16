@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-04-10T13:12:56+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-04-10T01:12:31+00:00" default-currency="GBP">
+    <reporting-org ref="GB-CHC-1017255" type="21" xml:lang="en">Homeless International</reporting-org>
+    <iati-identifier>GB-CHC-1017255</iati-identifier>
+    <name xml:lang="en">Homeless International</name>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,2793 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-11-29T15:17:59+00:00">
+  <iati-organisation last-updated-datetime="2017-11-29T15:17:59+00:00" xml:lang="en" default-currency="CHF">
+    <organisation-identifier>XM-DAC-CH-4</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Swiss Agency for Development and Cooperation (SDC)</narrative>
+      <narrative xml:lang="de">Direktion für Entwicklung und Zusammenarbeit (DEZA)</narrative>
+      <narrative xml:lang="fr">Direction du développement et de la coopération (DDC)</narrative>
+      <narrative xml:lang="it">Direzione dello sviluppo e della cooperazione (DSC)</narrative>
+      <narrative xml:lang="ru">Швейцарское Управление по развитию и сотрудничеству (ШУРС)</narrative>
+      <narrative xml:lang="es">Agencia Suiza para el Desarrollo y la Cooperación COSUDE</narrative>
+    </name>
+    <reporting-org type="10" ref="XM-DAC-CH-4">
+      <narrative xml:lang="en">Swiss Agency for Development and Cooperation SDC</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value currency="CHF" value-date="2017-11-28">2103545900</value>
+      <budget-line ref="Total Budget SDC">
+        <value currency="CHF" value-date="2017-11-28">2103545900</value>
+        <narrative xml:lang="en">Total Budget SDC</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2021-01-01"/>
+      <period-end iso-date="2021-12-31"/>
+      <value currency="CHF" value-date="2017-11-28">2176138400</value>
+      <budget-line ref="Total Budget SDC">
+        <value currency="CHF" value-date="2017-11-28">2176138400</value>
+        <narrative xml:lang="en">Total Budget SDC</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="CHF" value-date="2017-11-28">2033689700</value>
+      <budget-line ref="Total Budget SDC">
+        <value currency="CHF" value-date="2017-11-28">2033689700</value>
+        <narrative xml:lang="en">Total Budget SDC</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="CHF" value-date="2017-11-28">2132021700</value>
+      <budget-line ref="Total Budget SDC">
+        <value currency="CHF" value-date="2017-11-28">2132021700</value>
+        <narrative xml:lang="en">Total Budget SDC</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="2">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="CHF" value-date="2017-01-13">2184334100</value>
+      <budget-line ref="Total Budget SDC">
+        <value currency="CHF" value-date="2017-01-13">2184334100</value>
+        <narrative xml:lang="en">Total Budget SDC</narrative>
+      </budget-line>
+    </total-budget>
+  
+<recipient-country-budget>
+<recipient-country code="AF">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">25421000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">19421000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Afghanistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">6000000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Afghanistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AF">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">25421000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">19421000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Afghanistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">6000000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Afghanistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AF">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">26421000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">20421000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Afghanistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">6000000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Afghanistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AL">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">12650000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">12650000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Albania</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AL">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14950000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">14950000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Albania</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AL">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">16650000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">16650000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Albania</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AM">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3230000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">3230000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Armenia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AM">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2510000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">2510000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Armenia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AM">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2850000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">2850000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Armenia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AO">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">106609</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">106609</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Angola</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AO">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">59109</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">59109</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Angola</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BA">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14250000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">14250000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Bosnia and
+Herzegovina</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BA">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14750000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">14750000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Bosnia and
+Herzegovina</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BA">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14750000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">14750000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Bosnia and
+Herzegovina</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BD">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">24325000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">24325000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Bangladesh</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BD">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">24325000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">24325000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Bangladesh</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BD">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">24325000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">24325000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Bangladesh</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BF">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21617049</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">20776000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Burkina Faso</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">841049</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Burkina Faso</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BF">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">22117049</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21276000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Burkina Faso</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">841049</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Burkina Faso</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BF">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21276000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21276000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Burkina Faso</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BI">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4446304</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3920000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Burundi</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">526304</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Burundi</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BI">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3826304</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3300000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Burundi</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">526304</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Burundi</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BI">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">5200000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">5200000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Burundi</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BJ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">20920000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">20920000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Benin</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BJ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21420000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21420000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Benin</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BJ">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21420000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21420000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Benin</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BO">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21918727</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">19514800</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Bolivia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2403927</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Bolivia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BO">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18569927</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">16666000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Bolivia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1903927</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Bolivia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BO">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">17176700</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">16476700</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Bolivia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">700000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Bolivia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BT">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">376000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">376000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Bhutan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CD">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4205000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3920000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Congo (Democratic Republic)</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">285000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Congo (Democratic Republic)</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CD">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4776005.5</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4776005.5</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Congo (Democratic Republic)</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CD">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4620000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4620000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Congo (Democratic Republic)</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CF">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">760000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">760000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Central African Rep.</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CI">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">571936</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">571936</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Ivory Coast</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CI">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">571936</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">571936</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Ivory Coast</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CM">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">100000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">100000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Cameroon</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CN">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8505990</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">8423160</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in China</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">82830</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in China</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CN">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2291474</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">2179654</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in China</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">111820</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in China</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CN">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1661820</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">1550000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in China</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">111820</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in China</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CO">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">10000000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">10000000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Colombia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CO">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">10000000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">10000000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Colombia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CO">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">10000000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">10000000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Colombia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CU">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11489846</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">10111620</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Cuba</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1378226</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Cuba</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CU">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">12110701</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">10732475</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Cuba</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1378226</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Cuba</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CU">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11143225</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">11143225</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Cuba</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CV">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1280196</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1280196</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Cape Verde</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CV">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1280196</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1280196</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Cape Verde</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="DJ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">133719</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">133719</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Djibouti</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="DJ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">133719</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">133719</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Djibouti</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="DZ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2433538</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2433538</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Algeria</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="DZ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2433538</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2433538</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Algeria</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="EG">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8238000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">7688000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Egypt</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Egypt</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="EG">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">5941000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">5391000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Egypt</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Egypt</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="EG">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">6058000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">5508000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Egypt</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Egypt</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ET">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4557000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4380000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Ethiopia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">177000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Ethiopia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ET">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3700000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3700000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Ethiopia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ET">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3300000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3300000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Ethiopia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GE">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">5380000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">5380000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Georgia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GE">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3220000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">3220000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Georgia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GE">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3080000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">3080000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Georgia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GH">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">25105</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">25105</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Ghana</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GH">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">25105</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">25105</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Ghana</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HN">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">12245128</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">12216728</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Honduras</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">28400</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Honduras</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HN">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">17076185</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">17076185</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Honduras</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HN">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">19654658</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">19654658</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Honduras</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HT">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">17531091</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">11198960</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Haiti</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">6332131</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Haiti</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HT">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18053906</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">12012475</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Haiti</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">6041431</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Haiti</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HT">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18123225</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">12423225</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Haiti</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">5700000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Haiti</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ID">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">6093</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">6093</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Indonesia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ID">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">6093</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">6093</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Indonesia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IN">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">7109853</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">6909853</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in India</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">200000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in India</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IN">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4503802</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4303802</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in India</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">200000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in India</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IN">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1564114</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">1464114</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in India</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">100000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in India</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IQ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8700000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">8700000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Iraq</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IQ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8700000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">8700000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Iraq</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IQ">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8700000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">8700000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Iraq</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="JO">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13489000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">13489000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Jordan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="JO">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13489000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">13489000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Jordan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="JO">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13489000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">13489000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Jordan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KE">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">6451686</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">5350000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Kenya</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1101686</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Kenya</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KE">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4911686</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4900000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Kenya</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">11686</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Kenya</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KE">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">6050000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">6050000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Kenya</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KG">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">10500000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">10500000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Kyrgyzstan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KG">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">10550000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">10550000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Kyrgyzstan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KG">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11450000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">11450000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Kyrgyzstan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KH">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13123000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">13123000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Cambodia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KH">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13000000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">13000000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Cambodia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KH">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13000000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">13000000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Cambodia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KP">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8728462</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">8728462</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in North Korea</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KP">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8728462</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">8728462</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in North Korea</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KP">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3190000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">3190000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in North Korea</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LA">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">17000000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">17000000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Laos</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LA">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">17000000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">17000000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Laos</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LA">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">17000000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">17000000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Laos</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LB">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11240000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">11240000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Lebanon</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LB">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11240000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">11240000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Lebanon</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LB">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11240000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">11240000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Lebanon</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LY">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Libya</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LY">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Libya</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LY">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Libya</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MA">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4000000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">4000000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Morocco</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MA">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2500000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2500000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Morocco</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MA">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1700000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1700000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Morocco</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MD">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">12978202</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">12950000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Moldova</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">28202</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Moldova</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MD">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13378202</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">13350000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Moldova</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">28202</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Moldova</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MD">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13650000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">13650000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Moldova</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MG">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1695936</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">70000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Madagascar</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1625936</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Madagascar</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MG">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1479936</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1479936</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Madagascar</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MK">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">10700000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">10700000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Macedonia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MK">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11400000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">11400000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Macedonia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MK">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11400000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">11400000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Macedonia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ML">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21396277</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">20631000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Mali</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">765277</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Mali</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ML">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21186277</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21131000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Mali</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">55277</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Mali</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ML">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21131000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21131000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Mali</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MM">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">35368000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">23313000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Myanmar</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">12055000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Myanmar</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MM">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">37368000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">26313000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Myanmar</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">11055000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Myanmar</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MM">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">37368000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">26313000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Myanmar</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">11055000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Myanmar</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MN">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18667500</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">18667500</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Mongolia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MN">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">16463000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">16463000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Mongolia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MN">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">16006000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">16006000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Mongolia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MZ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">24100000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">24100000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Mozambique</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MZ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">24100000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">24100000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Mozambique</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MZ">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">24100000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">24100000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Mozambique</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NE">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21195000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">20631000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Niger</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">564000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Niger</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NE">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21131000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21131000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Niger</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NE">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21131000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21131000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Niger</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NI">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18715010</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">17418271</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Nicaragua</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1296739</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Nicaragua</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NI">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">16692151</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">15415412</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Nicaragua</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1276739</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Nicaragua</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NI">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13991711</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">13991711</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Nicaragua</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NP">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">30601000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">29101000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Nepal</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1500000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Nepal</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NP">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">29601000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">29101000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Nepal</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">500000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Nepal</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NP">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">28601000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">28101000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Nepal</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">500000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Nepal</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PE">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">7261248</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">7261248</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Peru</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PE">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3531447</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3531447</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Peru</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PK">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18015000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">13015000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Pakistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">5000000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Pakistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PK">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18015000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">13015000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Pakistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">5000000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Pakistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PK">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">17015000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">12015000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Pakistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">5000000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Pakistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PS">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18693000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">16893000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Gaza and West Bank</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1800000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Gaza and West Bank</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PS">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">18206900</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">16119000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Gaza and West Bank</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2087900</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Gaza and West Bank</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PS">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">27032900</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">16745000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Gaza and West Bank</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">10287900</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Gaza and West Bank</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RS">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">12700000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">12700000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Serbia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RS">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">15000000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">15000000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Serbia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RS">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">16700000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">16700000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Serbia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RW">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3900000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3900000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Rwanda</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RW">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3600000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3600000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Rwanda</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RW">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3600000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3600000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Rwanda</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SD">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4480775</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">4480775</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Sudan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SD">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3080775</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">3080775</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Sudan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SO">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11105000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">8000000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Somalia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">3105000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Somalia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SO">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">10154000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">10154000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Somalia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SO">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11800000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">11800000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Somalia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SS">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">1848701</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">1848701</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in South Sudan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SS">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">202301</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">202301</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in South Sudan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SY">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">22800000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">22800000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Syria</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SY">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">22800000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">22800000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Syria</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SY">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">22800000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">22800000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Syria</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TD">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21126935</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">20650000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Chad</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">476935</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Chad</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TD">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21321935</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21150000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Chad</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">171935</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Chad</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TD">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">21150000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">21150000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Chad</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TG">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">200160</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">200160</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Togo</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TG">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">200160</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">200160</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Togo</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TJ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13332525</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">10800000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Tajikistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2532525</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Tajikistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TJ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">13273000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">10900000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Tajikistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2373000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Tajikistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TJ">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14223000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">11800000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Tajikistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2423000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Tajikistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TN">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11104000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">10554000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Tunisia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Tunisia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TN">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">11324000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">10774000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Tunisia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Tunisia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TN">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8498000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">7948000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Tunisia</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">550000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Tunisia</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TZ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">23900000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">23900000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Tanzania</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TZ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">23900000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">23900000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Tanzania</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TZ">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">23900000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">23900000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Tanzania</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UA">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">8604650</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">8600000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Ukraine</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">4650</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Ukraine</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UA">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">9104650</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">9100000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Ukraine</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">4650</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Ukraine</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UA">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">9100000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">9100000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Ukraine</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UZ">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2268850</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">2250000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Uzbekistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">18850</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Uzbekistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UZ">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">817900</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">800000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Uzbekistan</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">17900</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Uzbekistan</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="VU">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">43576</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">43576</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Vanuatu</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="XK">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14450000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">14450000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Cooperation with Eastern Europe and the CIS in Kosovo</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="XK">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14850000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">14850000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Cooperation with Eastern Europe and the CIS in Kosovo</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="XK">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">14850000</value>
+<budget-line ref="Cooperation with Eastern Europe and the CIS">
+<value value-date="2016-09-09" currency="CHF">14850000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Cooperation with Eastern Europe and the CIS in Kosovo</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="YE">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">9000000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">9000000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Yemen</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="YE">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">9000000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">9000000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Yemen</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="YE">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">9000000</value>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">9000000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Humanitarian aid in Yemen</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZA">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">3302540</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">3300000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in South Africa</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2540</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in South Africa</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZA">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4302540</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4300000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in South Africa</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">2540</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in South Africa</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZA">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2800000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">2800000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in South Africa</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZW">
+<narrative xml:lang="en">Budget total 2017</narrative>
+</recipient-country>
+<period-start iso-date="2017-01-01"/>
+<period-end iso-date="2017-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4980267</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4857000</value>
+<narrative xml:lang="en">SDC Budget 2017 of Development cooperation in Zimbabwe</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">123267</value>
+<narrative xml:lang="en">SDC Budget 2017 of Humanitarian aid in Zimbabwe</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZW">
+<narrative xml:lang="en">Budget total 2018</narrative>
+</recipient-country>
+<period-start iso-date="2018-01-01"/>
+<period-end iso-date="2018-12-31"/>
+<value value-date="2016-09-09" currency="CHF">4213267</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">4090000</value>
+<narrative xml:lang="en">SDC Budget 2018 of Development cooperation in Zimbabwe</narrative>
+</budget-line>
+<budget-line ref="Humanitarian aid">
+<value value-date="2016-09-09" currency="CHF">123267</value>
+<narrative xml:lang="en">SDC Budget 2018 of Humanitarian aid in Zimbabwe</narrative>
+</budget-line>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZW">
+<narrative xml:lang="en">Budget total 2019</narrative>
+</recipient-country>
+<period-start iso-date="2019-01-01"/>
+<period-end iso-date="2019-12-31"/>
+<value value-date="2016-09-09" currency="CHF">2290000</value>
+<budget-line ref="Development cooperation">
+<value value-date="2016-09-09" currency="CHF">2290000</value>
+<narrative xml:lang="en">SDC Budget 2019 of Development cooperation in Zimbabwe</narrative>
+</budget-line>
+</recipient-country-budget>
+
+  <total-expenditure>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="CHF" value-date="2016-12-31">2222974065</value>
+      <expense-line ref="Humanitarian Aid">
+        <value currency="CHF" value-date="2016-12-31">481069992</value>
+        <narrative xml:lang="en">The humanitarian aid operations of the SDC are an expression of Switzerland's solidarity towards population groups in distress. The Swiss Humanitarian Aid department focuses on emergency aid, the reconstruction and rehabilitation of disaster-stricken areas, and disaster risk reduction. It places the victims at the centre of its engagement in a spirit of neutrality, independence and impartiality.</narrative>
+      </expense-line>
+      <expense-line ref="Development cooperation">
+        <value currency="CHF" value-date="2016-12-31">1524122525</value>
+        <narrative xml:lang="en">Development cooperation with the South, Multilateral cooperation, Global challenges, Development Policy, Research and culture.</narrative>
+      </expense-line>
+      <expense-line ref="Cooperation with Eastern Europe and CIS">
+        <value currency="CHF" value-date="2016-12-31">155638760</value>
+        <narrative xml:lang="en">Swiss cooperation with Eastern Europe supports the Western Balkans and countries of the former Soviet Union in their transition to a social market economy and democracy.</narrative>
+      </expense-line>
+      <expense-line ref="Contribution to EU enlargement">
+        <value currency="CHF" value-date="2016-12-31">62142788</value>
+        <narrative xml:lang="en">Support to new EU member states. Through its enlargement contribution, Switzerland helps reduce the economic and social disparities within the enlarged European Union (not ODA).</narrative>
+      </expense-line>
+    </total-expenditure>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/dam/deza/fr/documents/publikationen/Jahresberichte/jahresbericht-deza-2012_FR.pdf">
+      <title>
+        <narrative xml:lang="fr">Rapport annuel DDC / SECO 2012</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/dam/deza/en/documents/publikationen/Jahresberichte/jahresbericht-deza-2012_EN.pdf">
+      <title>
+        <narrative>Annual Report SDC / SECO 2012</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2017-11-28"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.deza.admin.ch/fr/Dossiers/ressources/resource_fr_228366.pdf">
+      <title>
+        <narrative xml:lang="fr">Message concernant la coopération internationale de la Suisse 2013–2016</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+      <document-date iso-date="2017-11-28"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.deza.admin.ch/de/Dossiers/ressources/resource_de_228366.pdf">
+      <title>
+        <narrative xml:lang="de">Botschaft zur Internationalen Zusammenarbeit der Schweiz 2013–2016</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="de"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/fr/documents/publikationen/Jahresberichte/jahresbericht-deza-2013no_FR.pdf">
+      <title>
+        <narrative>Rapport annuel 2013 DDC / SECO – Coopération internationale de la Suisse</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="text/html" url="https://www.eda.admin.ch/deza/en/home/aktivitaeten_projekte/grundsaetze-transparenz.html">
+      <title>
+        <narrative>Transparency statement</narrative>
+      </title>
+      <category code="B15"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/en/documents/Publikationen/Diverses/gender-and-land-print-version_EN.pdf">
+      <title>
+        <narrative>Gender &amp; Land – Implications for Sustainable Development</narrative>
+      </title>
+      <category code="B12"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/eda/en/documents/publications/Voelkerrecht/CDI_Access_Manual_Web_Dec5.pdf">
+      <title>
+        <narrative>Humanitarian Access in situations of armed conflict</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/en/documents/Publikationen/Wirkungsberichte/234508-wirkungsbericht-2014-klimawandel_EN.pdf">
+      <title>
+        <narrative>Report on Effectiveness 2014: Swiss International Cooperation in Climate Change 2000–2012</narrative>
+      </title>
+      <category code="B09"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/dam/deza/en/documents/publikationen/Jahresberichte/Jahresbericht-deza-seco-2014_EN.pdf">
+      <title>
+        <narrative>Annual Report 2014 SDC/SECO - Swiss International Cooperation</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/dam/deza/fr/documents/publikationen/Jahresberichte/Jahresbericht-deza-seco-2014_FR.pdf">
+      <title>
+        <narrative>Rapport annuel 2014 DDC/SECO - Coopération internationale de la Suisse</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/en/documents/Publikationen/Jahresberichte/jahresbericht-deza-2013_EN.pdf">
+      <title>
+        <narrative>Annual Report 2013 SDC / SECO – Swiss International Cooperation</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/en/documents/Publikationen/Wirkungsberichte/234508-wirkungsbericht-2014-klimawandel_EN.pdf">
+      <title>
+        <narrative>Report on Effectiveness 2014: Swiss International Cooperation in Climate Change 2000–2012</narrative>
+      </title>
+      <category code="B09"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/fr/documents/publikationen/Jahresberichte/DEZA_Jahresbericht_2015_inkl_Statistik_FR.pdf">
+      <title>
+        <narrative xml:lang="fr">Rapport annuel 2015 DDC / SECO – Coopération internationale de la Suisse</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="fr"/>
+      <document-date iso-date="2016-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/dam/deza/en/documents/publikationen/Jahresberichte/DEZA_Jahresbericht_2015_inkl_Statistik_EN.pdf">
+      <title>
+        <narrative xml:lang="en">Annual Report 2015 SDC / SECO - Swiss International Cooperation</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2016-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/dam/deza/en/documents/publikationen/Jahresberichte/DEZA_Jahresbericht_2016_inkl_Statistik_EN.pdf">
+      <title>
+        <narrative xml:lang="en">Annual Report 2016 SDC / SECO - Swiss International Cooperation</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2017-05-15"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/dam/deza/en/documents/publikationen/Wirkungsberichte/Wirkungsbericht-IZA-Beschaeftigung-2005-2014_EN.PDF">
+      <title>
+        <narrative xml:lang="en">Report on Effectiveness 2017: Swiss International Cooperation in the Field of Employment</narrative>
+      </title>
+      <category code="B09"/>
+      <language code="en"/>
+      <document-date iso-date="2017-06-15"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/en/documents/publikationen/Wirkungsberichte/Wirkungsbericht-Gesundheit-2015_EN.pdf">
+      <title>
+        <narrative xml:lang="en">Report on effectiveness 2015: Swiss International Cooperation in Health 2000-2013</narrative>
+      </title>
+      <category code="B09"/>
+      <language code="en"/>
+      <document-date iso-date="2015-09-15"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.admin.ch/opc/fr/federal-gazette/2016/2179.pdf">
+      <title>
+        <narrative xml:lang="fr">Dispatch on Switzerland's International Cooperation 2017–2020</narrative>
+      </title>
+      <category code="B04"/>
+      <language code="fr"/>
+      <document-date iso-date="2017-02-17"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.eda.admin.ch/content/dam/deza/en/documents/publikationen/Wirkungsberichte/Bericht-zu-den-Resultaten-der-Botschaft-2013-2016_EN.pdf">
+      <title>
+        <narrative xml:lang="en">The SDC contribution : Report on the result of Swiss international cooperation 2013–2016</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+      <document-date iso-date="2016-02-01"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.eda.admin.ch/deza/en/home/results-impact/resultate/evaluationsberichte.html">
+      <title>
+        <narrative xml:lang="en">Overview of Evaluation and reports</narrative>
+      </title>
+      <category code="A07"/>
+      <language code="en"/>
+      <document-date iso-date="2017-11-24"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.admin.ch/opc/fr/classified-compilation/19940432/201601010000/172.056.1.pdf">
+      <title>
+        <narrative xml:lang="fr">Loi fédérale sur les marchés publics</narrative>
+      </title>
+      <category code="B05"/>
+      <language code="fr"/>
+      <document-date iso-date="2016-01-01"/>
+    </document-link>
+    <document-link format="application/link-format" url="https://www.eda.admin.ch/deza/en/home/publications-services/publications/alle-deza-publikationen.filterResults.html?term=country+strategy&amp;filtertopic%253Adeza%252Farea=Selection&amp;filtercountry%253Acountries-deza=Selection&amp;filtercountry%253Acountries-eb=Selection&amp;filterseries%253Adeza=Selection&amp;filtertopic%253Adeza%252Ftopic=Selection&amp;fromYear=&amp;toYear=">
+      <title>
+        <narrative xml:lang="en">SDC's Country Strategies</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+      <document-date iso-date="2017-01-11"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

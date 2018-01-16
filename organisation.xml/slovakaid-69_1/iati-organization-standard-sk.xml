@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2017-03-09T13:48:12" version="2.02">
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-1</organisation-identifier>
+    <name>
+      <narrative>Ministry of Foreign and European Affairs</narrative>
+      <narrative xml:lang="sk">Mnisterstvo zahraničných vecí a euróspkych záležitostí Slovenskej republiky</narrative>
+    </name>
+  </iati-organisation>
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-2</organisation-identifier>
+    <name>
+      <narrative>Slovak agency for Internal Development Cooperation</narrative>
+      <narrative xml:lang="sk">Slovenská agentúra pre medzinárodnú rozvojovú spoluprácu</narrative>
+    </name>
+  </iati-organisation>
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-3</organisation-identifier>
+    <name>
+      <narrative>Ministry of Finance</narrative>
+      <narrative xml:lang="sk">Ministerstvo financií Slovenskej republiky</narrative>
+    </name>
+  </iati-organisation>
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-4</organisation-identifier>
+    <name>
+      <narrative>Ministry of Education, Science, Research and Sport</narrative>
+      <narrative xml:lang="sk">Ministerstvo školstva, vedy, výskumu a športu</narrative>
+    </name>
+  </iati-organisation>
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-18</organisation-identifier>
+    <name>
+      <narrative>Other ministries</narrative>
+      <narrative xml:lang="sk">Ostatné ministerstvá</narrative>
+    </name>
+  </iati-organisation>
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-30</organisation-identifier>
+    <name>
+      <narrative>Local and regional governments</narrative>
+      <narrative xml:lang="sk">Vyššie územné celky</narrative>
+    </name>
+  </iati-organisation>
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-50</organisation-identifier>
+    <name>
+      <narrative>Export-Import bank</narrative>
+      <narrative xml:lang="sk">Eximbanka</narrative>
+    </name>
+  </iati-organisation>
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-03-09T13:48:12" xml:lang="en">
+    <organisation-identifier>XM-DAC-69-99</organisation-identifier>
+    <name>
+      <narrative>Miscellaneous</narrative>
+      <narrative xml:lang="sk">Ostatné organizácie</narrative>
+    </name>
+  </iati-organisation>
+</iati-organisations>

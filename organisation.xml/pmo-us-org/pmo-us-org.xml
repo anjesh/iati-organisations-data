@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-08-12T05:13:22+00:00">
+  <iati-organisation last-updated-datetime="2016-08-12T05:13:22+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>US-EIN-26-1931968</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Promundo-US</narrative>
+    </name>
+    <reporting-org type="21" ref="US-EIN-26-1931968">
+      <narrative xml:lang="en">Promundo is a global leader in promoting gender justice and preventing violence by engaging men and boys in partnership with women and girls. We believe that working with men and boys to transform harmful gender norms and unequal power dynamics is a critical part of the solution to achieve gender equality. For the empowerment of women and girls to continue advancing, men and boys must see themselves as allies in the process. Men and boys also benefit when harmful norms are challenged. Our research, programs, and advocacy efforts show that promoting healthy masculinity (or positive notions of “what it means to be a man”) and femininity (or “what is means to be a woman”) leads to improvements in men’s own lives, and in the lives of women and girls.</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

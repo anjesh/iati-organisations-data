@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-05-09T11:07:20+00:00" version="1.01">
+  <iati-organisation xml:lang="en" default-currency="PKR">
+    <reporting-org ref="21-PK-WWF" type="21" xml:lang="en">World Wide Fund for Nature - Pakistan</reporting-org>
+    <iati-identifier>21-PK-WWF</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

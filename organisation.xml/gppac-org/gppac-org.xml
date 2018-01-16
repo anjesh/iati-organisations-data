@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-04-27T08:23:24+00:00">
+  <iati-organisation last-updated-datetime="2016-04-27T08:23:24+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41217404</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">GPPAC Foundation</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41217404">
+      <narrative xml:lang="en">GPPAC</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-02-04">1176721</value>
+    </total-budget>
+  </iati-organisation>
+</iati-organisations>

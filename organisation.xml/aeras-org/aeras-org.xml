@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-10-30T20:32:50+00:00">
+  <iati-organisation last-updated-datetime="2017-10-30T20:32:50+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>US-EIN-522044704</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Aeras</narrative>
+    </name>
+    <reporting-org type="21" ref="US-EIN-522044704">
+      <narrative xml:lang="en">Aeras</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-12-14T13:23:02+00:00">
+  <iati-organisation last-updated-datetime="2017-12-14T13:23:02+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-58279199</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Access to Nutrition Foundation</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-58279199">
+      <narrative xml:lang="en">Access to Nutrition Foundation</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2017-12-31">2478000</value>
+      <budget-line ref="Staff costs">
+        <value currency="EUR" value-date="2017-11-23">778000</value>
+        <narrative>This budget includes ATNF salaries, trainings and local travel. Positions at ATNF are: Executive Director, Sr. Program Manager, Program Manager, Sr Research Manager, Research Analyst, Communications officer, Program Assistant</narrative>
+      </budget-line>
+      <budget-line ref="Travel Expenes">
+        <value currency="EUR" value-date="2017-12-31">80000</value>
+        <narrative>This budget amount is for ATNF international travelling.</narrative>
+      </budget-line>
+      <budget-line ref="Subawards">
+        <value currency="EUR" value-date="2017-12-31">750000</value>
+        <narrative>This budget includes index research, BMS audits, product profiling and data platform</narrative>
+      </budget-line>
+      <budget-line ref="Consulting">
+        <value currency="EUR" value-date="2017-12-31">500000</value>
+        <narrative>This budget includes consultancy costs, communication and PR Support and feasilbility study.</narrative>
+      </budget-line>
+      <budget-line ref="Operations">
+        <value currency="EUR" value-date="2017-12-31">200000</value>
+        <narrative>This budget includes consultancy costs, communication and PR Support and feasilbility study.</narrative>
+      </budget-line>
+      <budget-line ref="Indirect Costs">
+        <value value-date="2017-11-23">170000</value>
+        <narrative>Indirect costs are including the following expense items: rent office, energy costs, cleaning costs, telecommunication (fixed and mobile phone, internet access), other office expenses (supplies, domain names, ICT support etc.), financial and salary administration, use of software, external auditing costs, governance expenses, legal advise, meeting costs supervisory board bank costs, transfer costs of payments depreciation of equipment (laptops, furniture)</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="2">
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="EUR" value-date="2018-12-31">2169000</value>
+      <budget-line ref="Staff costs">
+        <value currency="EUR" value-date="2018-12-31">849000</value>
+        <narrative xml:lang="en">This budget includes ATNF salaries, trainings and local travel. Positions at ATNF are: Executive Director, Sr. Program Manager, Program Manager, Sr Research Manager, Research Analyst, Communications officer, Program Assistant</narrative>
+      </budget-line>
+      <budget-line ref="Travel expenses">
+        <value currency="EUR" value-date="2018-12-31">70000</value>
+        <narrative xml:lang="en">This budget amount is for international travelling.</narrative>
+      </budget-line>
+      <budget-line ref="Subawards">
+        <value currency="EUR" value-date="2018-12-31">425000</value>
+        <narrative>This budget includes index research, BMS audits, product profiling and data platform</narrative>
+      </budget-line>
+      <budget-line ref="Consulting">
+        <value currency="EUR" value-date="2018-12-31">460000</value>
+        <narrative xml:lang="en">This budget includes consultancy costs, communication and PR Support and feasilbility study.</narrative>
+      </budget-line>
+      <budget-line ref="Operations">
+        <value currency="EUR" value-date="2018-12-31">215000</value>
+        <narrative xml:lang="en">This budget includes costs for website and design, editing publications, stakeholder meetings, data licences, prints, meeting supplies, operational other</narrative>
+      </budget-line>
+      <budget-line ref="Indirect Costs">
+        <value currency="EUR" value-date="2018-12-31">150000</value>
+        <narrative xml:lang="en">Indirect costs are including the following expense items: rent office, energy costs, cleaning costs, telecommunication (fixed and mobile phone, internet access), other office expenses (supplies, domain names, ICT support etc.), financial and salary administration, use of software, external auditing costs, governance expenses, legal advise, meeting costs supervisory board bank costs, transfer costs of payments depreciation of equipment (laptops, furniture)</narrative>
+      </budget-line>
+    </total-budget>
+    <document-link format="application/pdf" url="https://www.accesstonutrition.org/sites/in16.atnindex.org/files/2016_annual_accounts.pdf">
+      <title>
+        <narrative xml:lang="en">Annual Accounts Access to Nutrition Foundation 2016</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2016-12-31"/>
+      <recipient-country code="NL"/>
+    </document-link>
+    <document-link format="application/http" url="http://mailchi.mp/e40dd90aeeee/atnf-newsletter">
+      <title>
+        <narrative xml:lang="en">ATNF Newsletter September 2017</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+      <document-date iso-date="2017-09-30"/>
+    </document-link>
+    <document-link format="application/http" url="https://www.accesstonutrition.org/sites/in16.atnindex.org/files/resources/activity_report_2017_jan-july-final.pdf">
+      <title>
+        <narrative xml:lang="en">ATNF Activity Report January - June 2017</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+      <document-date iso-date="2017-06-30"/>
+    </document-link>
+    <document-link format="application/http" url="https://www.accesstonutrition.org/sites/in16.atnindex.org/files/resources/2018_activity_plan_final.pdf">
+      <title>
+        <narrative xml:lang="en">Power Point ATNF Workplan 2018</narrative>
+      </title>
+      <category code="A02"/>
+      <document-date iso-date="2018-01-01"/>
+    </document-link>
+    <document-link format="application/http" url="https://www.accesstonutrition.org/resources/quarter-3-2017-report">
+      <title>
+        <narrative xml:lang="en">ATNF Activity Report July - September 2017</narrative>
+      </title>
+      <category code="A08"/>
+      <document-date iso-date="2017-09-30"/>
+    </document-link>
+    <document-link format="application/http" url="https://www.accesstonutrition.org/sites/in16.atnindex.org/files/resources/atnf_workplan_2018_final_iati.pdf">
+      <title>
+        <narrative xml:lang="en">ATNF Workplan 2018</narrative>
+      </title>
+      <category code="A02"/>
+      <language code="en"/>
+      <document-date iso-date="2017-11-01"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

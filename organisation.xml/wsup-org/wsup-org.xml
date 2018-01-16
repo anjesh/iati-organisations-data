@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-10-18T15:03:30+00:00" version="1.02">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-10-18T02:59:07+00:00">
+    <reporting-org ref="GB-COH-5419428" type="30" xml:lang="en">Water &amp; Sanitation for the Urban Poor (WSUP)</reporting-org>
+    <iati-identifier>GB-COH-5419428</iati-identifier>
+    <name xml:lang="en">Water and Sanitation for the Urban Poor (WSUP)</name>
+  </iati-organisation>
+</iati-organisations>

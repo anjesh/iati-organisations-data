@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-03-01T00:15:01+00:00">
+  <iati-organisation last-updated-datetime="2017-03-01T00:15:01+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>US-EIN-52-1238773</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Women's Environment and Development Organization</narrative>
+    </name>
+    <reporting-org type="21" ref="US-EIN-52-1238773">
+      <narrative xml:lang="en">Women's Environment &amp; Development Organization</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="USD" value-date="2017-02-28">1719463</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="USD" value-date="2016-01-01">946963</value>
+    </total-budget>
+  </iati-organisation>
+</iati-organisations>

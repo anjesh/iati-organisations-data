@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<iati-organisations generated-datetime="2017-07-31T10:00:00Z" version="2.02">
+
+  <iati-organisation default-currency="EUR" last-updated-datetime="2017-07-31T10:00:00Z" xml:lang="en">
+    <organisation-identifier>NL-KVK-40530953</organisation-identifier>
+    <name>
+      <narrative>Amnesty International The Netherlands</narrative>
+    </name>
+    <reporting-org ref="Amnesty International Nederland" type="21">
+      <narrative>Amnesty International The Netherlands</narrative>
+    </reporting-org>
+    <total-budget status="ac">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2017-07-31">763600</value>
+      <budget-line ref="1">
+        <value value-date="2017-07-31">60000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231101</narrative>
+      </budget-line>
+      <budget-line ref="2">
+        <value value-date="2017-07-31">2000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231102</narrative>
+      </budget-line>
+      <budget-line ref="3">
+        <value value-date="2017-07-31">25000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231103</narrative>
+      </budget-line>
+      <budget-line ref="4">
+        <value value-date="2017-07-31">1500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231104</narrative>
+      </budget-line>
+      <budget-line ref="5">
+        <value value-date="2017-07-31">48500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231105</narrative>
+      </budget-line>
+      <budget-line ref="6">
+        <value value-date="2017-07-31">20000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231105</narrative>
+      </budget-line>
+      <budget-line ref="7">
+        <value value-date="2017-07-31">3000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231106</narrative>
+      </budget-line>
+      <budget-line ref="8">
+        <value value-date="2017-07-31">25000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231107</narrative>
+      </budget-line>
+      <budget-line ref="9">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231108</narrative>
+      </budget-line>
+      <budget-line ref="10">
+        <value value-date="2017-07-31">40000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231201</narrative>
+      </budget-line>
+      <budget-line ref="11">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231202</narrative>
+      </budget-line>
+      <budget-line ref="12">
+        <value value-date="2017-07-31">13000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231203</narrative>
+      </budget-line>
+      <budget-line ref="13">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231204</narrative>
+      </budget-line>
+      <budget-line ref="14">
+        <value value-date="2017-07-31">50000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231205</narrative>
+      </budget-line>
+      <budget-line ref="15">
+        <value value-date="2017-07-31">3000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231206</narrative>
+      </budget-line>
+      <budget-line ref="16">
+        <value value-date="2017-07-31">25000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231207</narrative>
+      </budget-line>
+      <budget-line ref="17">
+        <value value-date="2017-07-31">8000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231208</narrative>
+      </budget-line>
+      <budget-line ref="18">
+        <value value-date="2017-07-31">99000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231209</narrative>
+      </budget-line>
+      <budget-line ref="19">
+        <value value-date="2017-07-31">1500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231210</narrative>
+      </budget-line>
+      <budget-line ref="20">
+        <value value-date="2017-07-31">20000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231301</narrative>
+      </budget-line>
+      <budget-line ref="21">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231302</narrative>
+      </budget-line>
+      <budget-line ref="22">
+        <value value-date="2017-07-31">33500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231303</narrative>
+      </budget-line>
+      <budget-line ref="23">
+        <value value-date="2017-07-31">1500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231304</narrative>
+      </budget-line>
+      <budget-line ref="24">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231305</narrative>
+      </budget-line>
+      <budget-line ref="25">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231306</narrative>
+      </budget-line>
+      <budget-line ref="26">
+        <value value-date="2017-07-31">27000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231307</narrative>
+      </budget-line>
+      <budget-line ref="27">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231308</narrative>
+      </budget-line>
+      <budget-line ref="28">
+        <value value-date="2017-07-31">27000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231309</narrative>
+      </budget-line>
+      <budget-line ref="29">
+        <value value-date="2017-07-31">3000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231310</narrative>
+      </budget-line>
+      <budget-line ref="30">
+        <value value-date="2017-07-31">17500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231401</narrative>
+      </budget-line>
+      <budget-line ref="31">
+        <value value-date="2017-07-31">1250</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231402</narrative>
+      </budget-line>
+      <budget-line ref="32">
+        <value value-date="2017-07-31">17500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231403</narrative>
+      </budget-line>
+      <budget-line ref="33">
+        <value value-date="2017-07-31">1250</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231404</narrative>
+      </budget-line>
+      <budget-line ref="34">
+        <value value-date="2017-07-31">500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231501</narrative>
+      </budget-line>
+      <budget-line ref="35">
+        <value value-date="2017-07-31">19500</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231502</narrative>
+      </budget-line>
+      <budget-line ref="36">
+        <value value-date="2017-07-31">60000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231503</narrative>
+      </budget-line>
+      <budget-line ref="37">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231504</narrative>
+      </budget-line>
+      <budget-line ref="38">
+        <value value-date="2017-07-31">6000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231505</narrative>
+      </budget-line>
+      <budget-line ref="39">
+        <value value-date="2017-07-31">32600</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231506</narrative>
+      </budget-line>
+      <budget-line ref="40">
+        <value value-date="2017-07-31">8000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231601</narrative>
+      </budget-line>
+      <budget-line ref="41">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231602</narrative>
+      </budget-line>
+      <budget-line ref="42">
+        <value value-date="2017-07-31">20000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231603</narrative>
+      </budget-line>
+      <budget-line ref="43">
+        <value value-date="2017-07-31">8000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231604</narrative>
+      </budget-line>
+      <budget-line ref="44">
+        <value value-date="2017-07-31">10000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231605</narrative>
+      </budget-line>
+      <budget-line ref="45">
+        <value value-date="2017-07-31">20000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231606</narrative>
+      </budget-line>
+      <budget-line ref="46">
+        <value value-date="2017-07-31">0</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231607</narrative>
+      </budget-line>
+      <budget-line ref="47">
+        <value value-date="2017-07-31">5000</value>
+        <narrative>Min. Buitenlandse zaken XM-XXX-X-XXX-XXXXX: NL-KVK-40530953-L0231608</narrative>
+      </budget-line>
+    </total-budget>
+  </iati-organisation>
+
+</iati-organisations>

@@ -1,0 +1,3320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2015-05-14T15:55:16" version="2.01">
+
+<iati-organisation xml:lang="en" default-currency="SEK" last-updated-datetime="2016-01-14T15:50:30">
+ 
+    <organisation-identifier>SE-0</organisation-identifier>
+    <name>
+    <narrative xml:lang="sv">Sverige, Sida/UD</narrative>
+    <narrative xml:lang="en">Sweden, Sida/MFA</narrative>
+    </name>
+    <reporting-org xml:lang="en" type="10" ref="SE-0">
+    <narrative xml:lang="sv">Sverige, Sida/UD</narrative>
+    <narrative xml:lang="en">Sweden, Sida/MFA</narrative>
+    </reporting-org>
+
+<!-- Sweden Total budget -->   
+  
+  <total-budget> 
+  	<period-start iso-date="2016-01-01" /> 
+  	<period-end iso-date="2016-12-31" /> 
+  	<value currency="SEK" value-date="2016-01-01">43400000000</value> 
+  
+  </total-budget>
+
+  <total-budget> 
+  	<period-start iso-date="2017-01-01" /> 
+  	<period-end iso-date="2017-12-31" /> 
+  	<value currency="SEK" value-date="2016-01-01">44311400000</value> 
+ 
+  </total-budget>
+  <total-budget> 
+	<period-start iso-date="2018-01-01" /> 
+	<period-end iso-date="2018-12-31" /> 
+	<value currency="SEK" value-date="2016-01-01">45064693800</value> 
+
+  </total-budget>
+  
+  <total-budget> 
+	<period-start iso-date="2019-01-01" /> 
+	<period-end iso-date="2019-12-31" /> 
+	<value currency="SEK" value-date="2016-01-01">45740664200</value>
+ </total-budget>
+<!-- Sida Recipient Organisations start here -->    
+   
+	<recipient-org-budget>
+	   <recipient-org ref="41143">
+	   <narrative>WHO-CVCA core voluntary account</narrative>
+	   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">170000000</value>
+	</recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="41143">
+	   <narrative>WHO-CVCA core voluntary account</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	</recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="41143">
+	   <narrative>WHO-CVCA core voluntary account</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	</recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="47015">
+	   <narrative>CGIAR</narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">115000000</value>
+	</recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="47015">
+	   <narrative>CGIAR</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">115000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="47015">
+	   <narrative>CGIAR</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">115000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="45001">
+	   <narrative>WTO-ITC Intern. Trade Centre </narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">30000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="45001">
+	   <narrative>WTO-ITC Intern. Trade Centre </narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">30000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="45001">
+	   <narrative>WTO-ITC Intern. Trade Centre </narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21004">
+	   <narrative>CODESRIA-Council Dev of Econom</narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">20000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21004">
+	   <narrative>CODESRIA-Council Dev of Econom</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21004">
+	   <narrative>CODESRIA-Council Dev of Econom</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21017">
+	   <narrative>ICTSD Intern CentreTrade Sust</narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">14000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21017">
+	   <narrative>ICTSD Intern CentreTrade Sust</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21017">
+	   <narrative>ICTSD Intern CentreTrade Sust</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21048">
+	   <narrative>AAU-Ass.of AfricanUniversities</narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">4000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21048">
+	   <narrative>AAU-Ass.of AfricanUniversities</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">3000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="21048">
+	   <narrative>AAU-Ass.of AfricanUniversities</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">3500000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30003">
+	   <narrative>GeSCI Glob e-School Comm.Init</narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">5000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30003">
+	   <narrative>GeSCI Glob e-School Comm.Init</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">5500000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30003">
+	   <narrative>GeSCI Glob e-School Comm.Init</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30004">
+	   <narrative>GWP Global Water Partnership </narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">15000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30004">
+	   <narrative>GWP Global Water Partnership </narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30004">
+	   <narrative>GWP Global Water Partnership</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30008">
+	   <narrative>Cities Alliance</narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">14000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30008">
+	   <narrative>Cities Alliance</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">14000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30008">
+	   <narrative>Cities Alliance</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30011">
+	   <narrative>IUCN Int Union Conserv. Nature</narrative>
+   </recipient-org>
+	   <period-start iso-date="2015-01-01" />
+	   <period-end iso-date="2015-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">30000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30011">
+	   <narrative>IUCN Int Union Conserv. Nature</narrative>
+   </recipient-org>
+	   <period-start iso-date="2016-01-01" />
+	   <period-end iso-date="2016-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">30000000</value>
+	  </recipient-org-budget>
+
+	<recipient-org-budget>
+	   <recipient-org ref="30011">
+	   <narrative>IUCN Int Union Conserv. Nature</narrative>
+   </recipient-org>
+	   <period-start iso-date="2017-01-01" />
+	   <period-end iso-date="2017-12-31" />
+	   <value currency="SEK" value-date="2014-01-01">0</value>
+	  </recipient-org-budget>
+  <!-- * Sida orgs end here * -->
+
+  <!-- ****************************************************************** -->
+  <!-- * Ministry for Foreign Affairs orgs below * -->
+  <!-- ****************************************************************** -->
+
+
+<recipient-org-budget>
+   <recipient-org ref="46002">
+	   <narrative>African Development Bank AfDB GCI-VI</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">57833604</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46002">
+	   <narrative>African Development Bank AfDB GCI-VI</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">57833604</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46002">
+	   <narrative>African Development Bank AfDB GCI-VI</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">57833604</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46002">
+	   <narrative>African Development Bank AfDB GCI-VI</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2015-01-01">57833604</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund AfDF 11-13</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">633455764</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund AfDF 11-13</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">667428929</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund AfDF 11-13</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">558901659</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund AfDF 11-13</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2015-01-01">446117638</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund AfDF 11-13</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2015-01-01">393131649</value>
+  </recipient-org-budget>
+  
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund AfDF 11-13</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">267057394</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46005">
+	   <narrative>Asian Development Fund AsDB 9-11</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2014-01-01">122360000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46005">
+	   <narrative>Asian Development Fund AsDB 9-11</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">132594000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46005">
+	   <narrative>Asian Development Fund AsDB 9-11</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">111348056</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46005">
+	   <narrative>Asian Development Fund AsDB 9-11</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2015-01-01">78792000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46005">
+	   <narrative>Asian Development Fund AsDB 9-11</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2015-01-01">69680000</value>
+  </recipient-org-budget>
+  
+<recipient-org-budget>
+   <recipient-org ref="46005">
+	   <narrative>Asian Development Fund AsDB 9-11</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">47704000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46004">
+	   <narrative>Asian Development Bank GCI V</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">18149939</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44001">
+	   <narrative>International Bank for Reconstruction and Development</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">56937660</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44001">
+	   <narrative>International Bank for Reconstruction and Development</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2016-01-01">47325542</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46013">
+	   <narrative>Inter-American Development Bank, Fund for Special Operations</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">3320996</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46012">
+	   <narrative>Inter-American Development Bank, Inter-American Investment Corporation and Multilateral Investment Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">8393839</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="41108">
+	   <narrative>International Fund for Agricultural Development</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">153519960</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2014-01-01">65037152</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2014-01-01">68790071</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2014-01-01">71566435</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2014-01-01">85036051</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2014-01-01">87461353</value>
+  </recipient-org-budget>
+  
+<recipient-org-budget>
+   <recipient-org ref="46003">
+	   <narrative>African Development Fund - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">88400469</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44007">
+	   <narrative>International Development Association - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2014-01-01">167210000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44007">
+	   <narrative>International Development Association - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2014-01-01">176680000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44007">
+	   <narrative>International Development Association - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2014-01-01">187340000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44007">
+	   <narrative>International Development Association - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2014-01-01">196020000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44007">
+	   <narrative>International Development Association - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2014-01-01">202730000</value>
+  </recipient-org-budget>
+  
+<recipient-org-budget>
+   <recipient-org ref="44007">
+	   <narrative>International Development Association - Multilateral Debt Relief Initiative</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">240510000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47128">
+	   <narrative>Nordic Development Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">62754722</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44002">
+	   <narrative>International Development Association</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">1596810000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44002">
+	   <narrative>International Development Association</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">1323370000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44002">
+	   <narrative>International Development Association</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">2772410000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44002">
+	   <narrative>International Development Association</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2015-01-01">2167240000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44002">
+	   <narrative>International Development Association</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2015-01-01">1968310000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="44002">
+	   <narrative>International Development Association</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">1636350000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="42003">
+	   <narrative>European Development Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">938608920</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="42003">
+	   <narrative>European Development Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">938608920</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="42003">
+	   <narrative>European Development Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">1242724295</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="42003">
+	   <narrative>European Development Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2015-01-01">979144950</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="42003">
+	   <narrative>European Development Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2015-01-01">1488672856</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="42003">
+	   <narrative>European Development Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">1488672856</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47044">
+   <narrative>Global Environment Facility Trust Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">149705000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47044">
+   <narrative>Global Environment Facility Trust Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">275535000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47044">
+	   <narrative>Global Environment Facility Trust Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">238210000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47044">
+	   <narrative>Global Environment Facility Trust Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2015-01-01">258235000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47044">
+	   <narrative>Global Environment Facility Trust Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2015-01-01">276660000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47044">
+	   <narrative>Global Environment Facility Trust Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">193575000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47045">
+	   <narrative>Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2014-01-01">850000000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47045">
+	   <narrative>Global Fund to Fight AIDS, Tuberculosis and Malaria</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2014-01-01">850000000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="45002">
+	   <narrative>World Trade Organisation - Advisory Centre on WTO Law</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2014-01-01">2800000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="45002">
+	   <narrative>World Trade Organisation - Advisory Centre on WTO Law</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2014-01-01">2800000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="45003">
+	   <narrative>World Trade Organisation - Doha Development Agenda Global Trust Fund</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">0</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47107">
+	   <narrative>International Finance Facility for Immunisation</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2014-01-01">18410000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47107">
+	   <narrative>International Finance Facility for Immunisation</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2014-01-01">18410000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47107">
+	   <narrative>International Finance Facility for Immunisation</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2014-01-01">18410000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47107">
+	   <narrative>International Finance Facility for Immunisation</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2014-01-01">18410000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47107">
+	   <narrative>International Finance Facility for Immunisation</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2014-01-01">18410000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47107">
+	   <narrative>International Finance Facility for Immunisation</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">18410000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47078">
+	   <narrative>Multilateral Fund for the Implementation of the Montreal Protocol</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">12682605</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47078">
+	   <narrative>Multilateral Fund for the Implementation of the Montreal Protocol</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">12682605</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="47078">
+	   <narrative>Multilateral Fund for the Implementation of the Montreal Protocol</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">12682605</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="41101">
+	   <narrative>Convention to Combat Desertification</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">688228</value>
+  </recipient-org-budget>
+
+
+<recipient-org-budget>
+   <recipient-org ref="41101">
+	   <narrative>Convention to Combat Desertification</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">352074</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org ref="41101">
+	   <narrative>Convention to Combat Desertification</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">352074</value>
+  </recipient-org-budget>
+  
+<recipient-org-budget>
+   <recipient-org>
+	   <narrative>Green Climate Fund, GCF</narrative>
+   </recipient-org>
+   <period-start iso-date="2015-01-01" />
+   <period-end iso-date="2015-12-31" />
+   <value currency="SEK" value-date="2015-01-01">300000000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org>
+	   <narrative>Green Climate Fund, GCF</narrative>
+   </recipient-org>
+   <period-start iso-date="2016-01-01" />
+   <period-end iso-date="2016-12-31" />
+   <value currency="SEK" value-date="2015-01-01">400000000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org>
+	   <narrative>Green Climate Fund, GCF</narrative>
+   </recipient-org>
+   <period-start iso-date="2017-01-01" />
+   <period-end iso-date="2017-12-31" />
+   <value currency="SEK" value-date="2015-01-01">560000000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org>
+	   <narrative>Green Climate Fund, GCF</narrative>
+   </recipient-org>
+   <period-start iso-date="2018-01-01" />
+   <period-end iso-date="2018-12-31" />
+   <value currency="SEK" value-date="2015-01-01">600000000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org>
+	   <narrative>Green Climate Fund, GCF</narrative>
+   </recipient-org>
+   <period-start iso-date="2019-01-01" />
+   <period-end iso-date="2019-12-31" />
+   <value currency="SEK" value-date="2015-01-01">560000000</value>
+  </recipient-org-budget>
+
+<recipient-org-budget>
+   <recipient-org>
+	   <narrative>Green Climate Fund, GCF</narrative>
+   </recipient-org>
+   <period-start iso-date="2020-01-01" />
+   <period-end iso-date="2020-12-31" />
+   <value currency="SEK" value-date="2015-01-01">440000000</value>
+  </recipient-org-budget>
+
+<!-- Sweden (total), Recipient Countries -->     
+    
+	<recipient-country-budget>
+		<recipient-country code="AL" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">75000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="AL" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">75000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="AL" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">75000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="AL" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">75000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BA"/>
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">170000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BA" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">170000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BA" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">170000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BA" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">170000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="XK" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">90000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="XK" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">90000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="XK" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">90000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="XK" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">90000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MD" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MD" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MD" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MD" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RS" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RS" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RS" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RS" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">110000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TR" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">73000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TR" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">73000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TR" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">73000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TR" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">73000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UA" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">217000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UA" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">217000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UA" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">217000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UA" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">217000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="89" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">38000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="89" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">38000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="89" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">38000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="89" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">38000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BF" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">170000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BF" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">130000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BF" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">50000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BF" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">0</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CD" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">248000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CD" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">248000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CD" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">248000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CD"/>
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">248000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ET" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">12500000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ET" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">12500000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ET" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">12500000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ET" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">12500000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KE" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KE" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KE" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KE" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="LR" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="LR" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="LR" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="LR" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ML" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">250000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ML" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">250000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ML" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">250000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ML" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">250000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MZ" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">657000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MZ" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">657000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MZ" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">657000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MZ" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">657000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RW" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">162000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RW" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">162000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RW" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">162000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="RW" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">162000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SO" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SO" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SO" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SO" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">300000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SS" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">175000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SS" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">175000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SS" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">175000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SD" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SD" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="SD" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TZ" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">785000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TZ" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">785000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TZ" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">785000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="TZ" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">785000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UG" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UG" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UG" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="UG" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">270000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZM" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">350000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZM" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">350000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZM" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">350000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZM" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">350000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZW" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">245000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZW" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">245000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZW" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">245000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="ZW" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">245000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="289" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">550000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="289" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">550000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="GT" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">180000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="GT" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">180000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="GT" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">180000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="GT" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">180000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BO" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">125000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BO" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">112000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BO" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">30000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BO" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">0</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CO" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CO" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CO" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="CO" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="IQ" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="IQ" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">60000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="PS" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="PS" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">340000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="PS" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">340000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="PS" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">340000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="589" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">525000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="589" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">525000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="AF" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">620000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="AF" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">800000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="AF" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">800000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="AF" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">800000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BD" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">235000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BD" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">235000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BD" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">235000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="BD" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">235000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="GE" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+		<recipient-country-budget>
+	<recipient-country code="GE" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="GE" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="GE" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">120000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MM" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MM" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="MM" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+		<recipient-country-budget>
+	<recipient-country code="MM" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">150000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="689" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="689" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="689" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="689" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KH" />
+		<period-start iso-date="2014-01-01" />
+		<period-end iso-date="2014-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KH" />
+		<period-start iso-date="2015-01-01" />
+		<period-end iso-date="2015-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KH" />
+		<period-start iso-date="2016-01-01" />
+		<period-end iso-date="2016-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+	<recipient-country-budget>
+		<recipient-country code="KH" />
+		<period-start iso-date="2017-01-01" />
+		<period-end iso-date="2017-12-31" />
+				<value currency="SEK" value-date="2014-01-01">200000000</value>
+
+	</recipient-country-budget>
+
+
+    
+
+
+<!-- Sida Document links -->
+
+    <document-link format="application/pdf" url="http://openaid.se/app/files_mf/1427185702Sidaarsredovisning2014.pdf">
+      	<title> <narrative xml:lang="sv">Sidas årsredovisning 2014</narrative>
+		</title>
+		<category code="B01" />
+		<language code="sv" />
+    </document-link>
+    
+    
+    
+    <document-link format="application/pdf" url="http://www.sida.se/globalassets/sida/sve/om-oss/sa-styrs-vi/regleringsbrev-2016.pdf">
+      	<title>
+      	<narrative xml:lang="sv">Regleringsbrev 2016</narrative>
+	</title>
+	
+		<category code="B02" />
+		<language code="sv"/>
+
+    </document-link>
+    
+        <document-link format="application/pdf" url="  http://www.sida.se/globalassets/sida/sve/om-oss/sa-styrs-vi/instruktion_fran_regeringen_uppdat_2015-07-06.pdf">
+      	<title>
+      	<narrative xml:lang="sv">Instruktion för Styrelsen för internationellt utvecklingssamarbete (Sida)</narrative>
+		</title>
+		<category code="B02" />
+		<language code="sv"/>
+    </document-link>
+
+    <document-link format="application/pdf" url="http://www.regeringen.se/contentassets/877bf84550a243cca631222e984d3d81/gemensamt-ansvar-sveriges-politik-for-global-utveckling">
+       <title>
+       <narrative xml:lang="en">Gemensamt ansvar: Sveriges politik för global utveckling</narrative>
+		</title>
+		<category code="B04" />
+       <language code="sv" />
+    </document-link> 
+   
+    <document-link format="application/pdf" url="http://www.sida.se/globalassets/global/partners/procurements/sida2450en_spg_2004_web.pdf">
+      <title>
+      <narrative xml:lang="en">Sida Procurement guidelines</narrative>
+      </title>
+	  <category code="B05" />
+      <language code="en"/>
+    </document-link>
+
+    <document-link format="application/pdf" url="http://www.riksrevisionen.se/PageFiles/20103/RÅR2%20SIDA.pdf">
+       	<title>
+       	<narrative xml:lang="sv">Intern styrning och kontroll samt Sidas årsredovisning 2013</narrative>
+		</title>
+		<category code="B06" />
+       	<language code="sv" />
+    </document-link>     
+       
+    <document-link format="application/pdf" url="http://www.statskontoret.se/upload/Publikationer/2013/201302.pdf">
+       	<title>
+       	<narrative xml:lang="sv">Bistånd genom svenska organisationer: En översyn av ramavtalssystemet</narrative>
+		</title>
+		<category code="B09" />
+       	<language code="sv" />
+    </document-link> 
+    
+    	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1397116422Results_strategy_Tanzania__20132019.pdf">
+		<title>
+       <narrative xml:lang="en">Results strategy for Sweden’s international development cooperation in Tanzania 2013-2019</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="TZ" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1397120335Results_strategy_Zambia__20132017.pdf">
+		<title>
+       <narrative xml:lang="en">Results strategy for Sweden’s international development cooperation in Zambia 2013 – 2017</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="ZM" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400097191StrategyfordeveopmentcooperationwithCambodia20122013.pdf">
+		<title>
+       <narrative xml:lang="en">Strategy for development cooperation with Cambodia January 2012 – December 2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="KH" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1403473078AsiafocusingonSoutheastAsiaStrategyforregionaldevelopmentcooperation20102015.pdf">
+		<title>
+       <narrative xml:lang="en">Strategy for regional development cooperation with Asia focusing on Southeast Asia until 30 June 2015</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.government.se/content/1/c6/16/74/67/c07fe83f.pdf">
+		<title>
+       <narrative xml:lang="en">Strategy for development cooperation with the Republic of Moldavia January 2011 - December 2014</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="MD" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1403469835SubSaharanAfricaCooperationstrategyforregionaldevelopmentcooperation20102015.pdf">
+		<title>
+       <narrative xml:lang="en">Cooperation Strategy for Regional Development Cooperation with Sub-Saharan Africa 2010-2015 - South of Sahara, Regional</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396858348Bosnia_and_Herzegovina_development_cooperation_strategy_20112014.pdf">
+		<title>
+       	<narrative xml:lang="en">Strategy for development cooperation with Bosnia and Herzegovina 2011-2014</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="BA" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1397134062MENA_development_cooperation_strategy_20102015.pdf">
+		<title>
+        <narrative xml:lang="en">Strategy for development cooperation with the Middle East and North Africa 2010-2015</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.government.se/content/1/c6/17/29/10/d4bb1993.pdf">
+		<title>
+        <narrative xml:lang="en">Saving lives and alleviating suffering Policy for Sweden's Humanitarian Asistance 2010-2016</narrative>
+		</title>
+		<category code="B02" />  
+		<language code="en"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1404719503ResultatstrategiförSverigesinternationellabiståndiAfghanistan20142019.pdf">
+		<title>
+        <narrative xml:lang="sv">Afghanistan - Resultatstrategi för Sveriges internationella bistånd 2014-2019</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="AF" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396855946Albanien_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Albanien - Samarbetsstrategi för utvecklingssamarbetet 2009-2012 - Albania</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="AL" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1431451714ResultatstrategiBangladesh20142020.pdf">
+		<title>
+        <narrative xml:lang="sv">Bangladesh - Resultatstrategi för Sveriges internationella bistånd 2014-2020</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="BD" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396857970Bolivia_samarbetsstrategi_2009_2013.pdf">
+		<title>
+        <narrative xml:lang="sv">Bolivia - Samarbetsstrategi för utvecklingssamarbetet  2009-2013 - Bolivia, Plurinational State Of</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="BO" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400731033BosnienHerzegovinaSamarbetsstrategiförutvecklingssamarbetet20062010.pdf">
+		<title>
+        <narrative xml:lang="sv">Bosnien-Herzegovina - Samarbetsstrategi för utvecklingssamarbetet 2011-2014</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="BA" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396862733Botswana_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Botswana - Strategi för selektivt samarbetet 2009-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="BW" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396874522Burundi_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Burundi - Strategi för utvecklingssamarbetet 2009-2012</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="BI" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396874948Colombia_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Colombia - Samarbetsstrategi för utvecklingssamarbetet 2009-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="CO" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/22/61/91/86834316.pdf">
+		<title>
+        <narrative xml:lang="en">Results strategy for Sweden's international development cooperation in Myanmar 2013-2017</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="MM" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/uploads/2014/04/Results-strategy-for-Swedens-international-development-cooperation-in-South-Sudan-2014-2016.pdf">
+		<title>
+        <narrative xml:lang="en">Results strategy for Sweden's international development cooperation in South Sudan 2014 - 2016</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="SS" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400210901ResultsstrategyforSwedensinternationaldevelopmentcooperationinSudan20142016.pdf">
+		<title>
+        <narrative xml:lang="en">Results strategy for Sweden's international development cooperation in Sudan 2014 - 2016</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="SD" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/23/59/07/bbb72a8b.pdf">
+		<title>
+        <narrative xml:lang="sv">Resultatstrategi för globala insatser för mänsklig säkerhet 2014-2017</narrative>
+		</title>
+		<category code="B02" />  
+		<language code="sv"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/uploads/2014/04/Resultatstrategi-f%C3%B6r-kapacitetsutveckling-och-utbyten-2014-2017.pdf">
+		<title>
+        <narrative xml:lang="sv">Resultatstrategi för kapacitetsutveckling och utbyten 2014-2017</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400208817ResultatstrategiförSverigesinternationellabiståndiSomalia20132017.pdf">
+		<title>
+        <narrative xml:lang="sv">Resultatstrategi för Sveriges internationella bistånd i Somalia 2013-2017</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="SO" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/23/59/08/76eebb2b.pdf">
+		<title>
+        <narrative xml:lang="sv">Resultatstrategi för globala insatser för miljö och klimatmässigt hållbar utveckling 2014-2017</narrative>
+		</title>
+		<category code="B02" />  
+		<language code="sv"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1403688755ResultsstrategyforSwedensreformcooperationwithEasternEuropetheWesternBalkansandTurkey20142020.pdf">
+		<title>
+        <narrative xml:lang="en">Results strategy for Sweden's reform cooperation with Eastern Europe, the Western Balkans and Turkey 2014-2020 - Europe, Regional</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/24/30/08/1d896541.pdf">
+		<title>
+        <narrative xml:lang="sv">Resultatstrategi för särskilda insatser för mänskliga rättigheter och demokratisering 2014-2017</narrative>
+		</title>
+		<category code="B02" />  
+		<language code="sv"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/24/30/13/9cff73c2.pdf">
+		<title>
+        <narrative xml:lang="sv">Resultatstrategi för globala insatser för socialt hållbar utveckling 2014-2017</narrative>
+		</title>
+		<category code="B02" />  
+		<language code="sv"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Afghanistan_strategirapport_2013.pdf?1391502727">
+		<title>
+        <narrative xml:lang="sv">Afghanistan Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="AF" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Albanien_strategirapport_2013.pdf?1391377562">
+		<title>
+        <narrative xml:lang="sv">Albanien strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="AL" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapportering_Bangladesh_2013.pdf?1391420363">
+		<title>
+        <narrative xml:lang="sv">Bangladesh Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="BD" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Bosnien_2013_OA.pdf?1391415676">
+		<title>
+        <narrative xml:lang="sv">Bosnien-Hercegovina Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="BA" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_U2_Burkina_Faso_2013.pdf?1391418219">
+		<title>
+        <narrative xml:lang="sv">Burkina Faso Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="BF" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_2013_Colombia.pdf?1391415764">
+		<title>
+        <narrative xml:lang="sv">Colombia Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="CO" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Etiopien_strategirapport_2013.pdf?1391516970">
+		<title>
+        <narrative xml:lang="sv">Etiopien Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="ET" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Georgien_2013.pdf?1391416068">
+		<title>
+        <narrative xml:lang="sv">Georgien Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="GE" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Guatemala_2013.pdf?1391416128">
+		<title>
+        <narrative xml:lang="sv">Guatemala Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="GT" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Indien_Strategirapport_2013.pdf?1391413911">
+		<title>
+        <narrative xml:lang="sv">Indien Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="IN" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396941360India_development_cooperation_strategy_20092013.pdf">
+		<title>
+        <narrative xml:lang="en">India – Strategy for selective cooperation 2009-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="IN" /> 
+		 </document-link> 
+		 
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Indonesien_strategirapport_2013.pdf?1391413978">
+		<title>
+        <narrative xml:lang="sv">Indonesien Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="ID" /> 
+		 </document-link> 
+		 
+		 	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396941747Indonesia_development_cooperation_strategy_20092013.pdf">
+		<title>
+        <narrative xml:lang="en">Indonesia – Strategy for development cooperation 2009-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="ID" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Irak_Strategirapport_2013.pdf?1391414043">
+		<title>
+        <narrative xml:lang="sv">Irak Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="IQ" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Kambodja_2013.pdf?1391416420">
+		<title>
+        <narrative xml:lang="sv">Kambodja Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="KH" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Kenya_2013.pdf?1391416511">
+		<title>
+        <narrative xml:lang="sv">Kenya Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="KE" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Kenya_development_cooperation_strategy_2009-2013.pdf?1316674222">
+		<title>
+        <narrative xml:lang="en">Kenya Development Cooperation Strategy 2009-2013 </narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="KE" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Kina_Strategirapport_2013.pdf?1391414099">
+		<title>
+        <narrative xml:lang="sv">Kina Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="CN" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/China_development_cooperation_strategy_2009-2013.pdf?1316675610">
+		<title>
+        <narrative xml:lang="en">China Development Cooperation Strategy 2009-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="CN" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/U2_Demokratiska_Republiken_Kongo_strategirapport_2013.pdf?1391422690">
+		<title>
+        <narrative xml:lang="sv">Demokratiska republiken Kongo Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" /> 
+		<language code="sv"/>
+		<recipient-country code="CD" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1446547764resultatstrategikongoklar20.pdf">
+		<title>
+        <narrative xml:lang="sv">Strategi för Sveriges utvecklingssamarbete med Demokratiska republiken Kongo 2015-2019 - The Democratic Republic of Congo</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="CD" /> 
+		 </document-link> 
+		 
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Kosovo_2013.pdf?1391416547">
+		<title><narrative xml:lang="sv">Kosovo Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="XK" /> 
+		 </document-link> 
+		 
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Kosovo_development_cooperation_strategy_2009-2012.pdf?1316676756">
+		<title>
+        <narrative xml:lang="sv">Kosovo Development Cooperation Strategy 2009-2012</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="XK" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Liberia_development_cooperation_strategy_2008-2013.pdf?1316674381">
+		<title>
+        <narrative xml:lang="en">Liberia Development Cooperation Strategy 2008-2013 </narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="LR" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Liberia__U2_Strategirapportering_2013.pdf?1391415277">
+		<title>
+        <narrative xml:lang="sv">Liberia Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="LR" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapportering_Mali_2013.pdf?1391422397">
+		<title>
+        <narrative xml:lang="sv">Mali Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="ML" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Moldavien_U2_2013_strategirapport.pdf?1391415392">
+		<title>
+        <narrative xml:lang="sv">Moldavien Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="MD" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Mocambique_Strategirapportering_2013.pdf?1391415321">
+		<title>
+        <narrative xml:lang="sv">Moçambique Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="MZ" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1446547568resultatstrategimocambiqueklar2.pdf">
+		<title>
+        <narrative xml:lang="en">Strategi för Sveriges utvecklingssamarbete med Moçambique 2015-2020 - Mozambique</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="MZ" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/U2_Myanmar_strategirapport_2013.pdf?1391422730">
+		<title>
+        <narrative xml:lang="sv">Myanmar Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="MM" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Namibia_Strategirapport_2013.pdf?1391415519">
+		<title>
+        <narrative xml:lang="sv">Namibia Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="NA" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400192809StrategyforselectivecooperationwithNamibia20092013.pdf">
+		<title>
+        <narrative xml:lang="en">Namibia Development Cooperation Strategy 2009-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="NA" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Rwanda_2013.pdf?1391416644">
+		<title>
+        <narrative xml:lang="sv">Rwanda Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="RW" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400207298StrategyfordevelopmentcooperationwithRwanda20102013.pdf">
+		<title>
+        <narrative xml:lang="en">Rwanda Development Cooperation strategy 2010 - 2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="RW" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Serbien_2013.pdf?1391416686">
+		<title>
+        <narrative xml:lang="sv">Serbien Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="RS" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Somalia_Strategirapportering_2013.pdf?1391415556">
+		<title>
+        <narrative xml:lang="sv">Somalia Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="SO" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Sudan___Sydsudan_Strategirapport_2013.pdf?1391422568">
+		<title>
+        <narrative xml:lang="sv">Strategirapport för Sydsudan och Sudan 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="SS" /> 
+		<recipient-country code="SD" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Tanzania_2013.pdf?1391416760">
+		<title>
+        <narrative xml:lang="sv">Tanzania Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="TZ" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1397117060Turkey_development_cooperation_strategy_20102013.pdf">
+		<title>
+        <narrative xml:lang="en">Turkey Development Cooperation Strategy 2010-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="TR" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Turkiet_2013.pdf?1391418185">
+		<title>
+        <narrative xml:lang="sv">Turkiet Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="TR" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Uganda_2013.pdf?1391416817">
+		<title>
+        <narrative xml:lang="sv">Uganda Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="UG" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400214113StrategyfordevelopmentcooperationwithUkraine20092013.pdf">
+		<title>
+        <narrative xml:lang="en">Ukraine development cooperation strategy 2009 - 2013 </narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="UA" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Ukraina_2013_OA.pdf?1391416881">
+		<title>
+        <narrative xml:lang="sv">Ukraina Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="UA" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapport_Vietnam_2013.pdf?1391419517">
+		<title>
+        <narrative xml:lang="sv">Vietnam Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="VN" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Vietnam_development_cooperation_strategy_2009-2013.pdf?1316676276">
+		<title>
+        <narrative xml:lang="en">Vietnam Development Cooperation Strategy 2009-2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="en"/>
+		<recipient-country code="VN" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapportering_Västbanken___Gaza_2013.pdf?1391424577">
+		<title>
+        <narrative xml:lang="sv">Västbanken - Gaza Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="PS" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400194221Samarbetsstrategif%C3%B6rutvecklingssamarbetetmedV%C3%A4stbankenGaza20082011.pdf">
+		<title>
+		<narrative xml:lang="sv">Samarbetsstrategi för utvecklingssamarbetet med Västbanken och Gaza juli 2008 – december 2011 - Palestinian Territory, Occupied</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="PS" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Strategirapportering_Zambia_2013.pdf?1391422426">
+		<title>
+        <narrative xml:lang="sv">Zambia Strategirapport 2013 </narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="ZM" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/openaid/original/Zimbabwe_strategirapport_2013.pdf?1391422764">
+		<title>
+        <narrative xml:lang="sv">Zimbabwe Strategirapport 2013</narrative>
+		</title>
+		<category code="B10" />  
+		<language code="sv"/>
+		<recipient-country code="ZW" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400215330Strategif%C3%B6rbist%C3%A5ndsinsatseriZimbabwe20112012.pdf">
+		<title>
+        <narrative xml:lang="sv">Strategi för biståndsinsatser i Zimbabwe 2011-2012</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="ZW" /> 
+		 </document-link>
+		 
+	<document-link format="application/pdf" url="http://iati.openaid.se/orgdocs/Openaid.se_exclusions_policy_2014_June.pdf">
+		<title>
+        <narrative xml:lang="en">Openaid.se, Exclusions Policy</narrative>
+		</title>
+		<category code="B08" />  
+		<language code="en"/>
+		 </document-link> 
+		 
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400207982SamarbetsstrategiförutvecklingssamarbetetmedSerbien20092012.pdf">
+		<title>
+        <narrative xml:lang="sv">Samarbetsstrategi för utvecklingssamarbetet med Serbien januari 2009 – december 2012 - Serbia</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="RS" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396864786BurkinaFaso_Samarbetsstrategi_20042006.pdf">
+		<title>
+        <narrative xml:lang="sv">Strategi för svenskt utvecklingssamarbete med Burkina Faso</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="BF" /> 
+		 </document-link>
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396881080Etiopien_samarbetsstrategi_20032007.pdf">
+		<title>
+        <narrative xml:lang="sv">Landstrategi Etiopien 1 januari 2003 - 31 december 2007 - Ethiopia </narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="ET" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396950600Mali_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Strategi för svenskt utvecklingssamarbete med Mali 2004-2006</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="ML" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1408448252UgandaResultatstrategiförSverigesinternationellabistånd20142018.pdf">
+		<title>
+        <narrative xml:lang="sv">Uganda - Resultatstrategi för Sveriges internationella bistånd 2014-2018</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="UG" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1403696388AfrikasöderomSaharaSamarbetsstrategiförutvecklingssamarbetet20102015.pdf">
+		<title>
+        <narrative xml:lang="sv">Samarbetsstrategi för utvecklingssamarbetet med Afrika söder om Sahara, januari 2010 - december 2015</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1403469767AfrikasöderomSaharaStrategiförregionaltarbetemedHIVAidsSRHRsamtHBTpersonersrättigheter20122013.pdf">
+		<title>
+        <narrative xml:lang="sv">Afrika söder om Sahara – Strategi för regionalt arbete med HIV och Aids, SRHR samt HBT-personers rättigheter 2012-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396940553Guatemala_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Samarbetsstrategi för utvecklingssamarbetet med Guatemala september 2008 – december 2012</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="GT" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396942090Irak_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Samarbetsstrategi för utvecklingssamarbetet med Irak juli 2009 – december 2014 - Iraq</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="IQ" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396942060Iraq_development_cooperation_strategy_20092014.pdf">
+		<title>
+        <narrative xml:lang="en">Iraq – Strategy for development cooperation 2009-2014</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="IQ" /> 
+		 </document-link> 
+
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396881522Georgien_samarbetsstrategi.pdf">
+		<title>
+        <narrative xml:lang="sv">Samarbetsstrategi för utvecklingssamarbetet med Georgien januari 2010 - december 2013 - Georgia</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+		<recipient-country code="GE" /> 
+		 </document-link> 
+    
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1396881491Georgia_development_cooperation_strategy_20102013.pdf">
+		<title>
+        <narrative xml:lang="en">Georgia – Strategy for development cooperation 2010-2013</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="GE" /> 
+		 </document-link>     
+    
+    <document-link format="application/pdf" url="http://www.openaid.se/wp-content/uploads/2014/04/Strategi-f%C3%B6r-globala-%C3%A4mnesstrategiska-utvecklingsinsatser-2011-2014.pdf">
+		<title>
+        <narrative xml:lang="sv">Strategi för globala ämnesstrategiska utvecklingsinsatser 2011-2014</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+ 		</document-link> 
+	
+	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/uploads/2014/04/Strategi-f%C3%B6r-Sidas-st%C3%B6d-till-forskningssamarbete-2010-2014.pdf">
+		<title>
+        <narrative xml:lang="sv">Strategi för Sidas stöd till forskningssamarbete 2010 - 2014</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="sv"/>
+ 		</document-link> 
+    
+    <document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1403473107CentralAsiaPhaseoutstrategyforbilateraldevelopmentcooperation20082010.pdf">
+		<title>
+        <narrative xml:lang="en">Phase-out strategy for bilateral development cooperation with Central Asia 2008–2010 - South and Central Asia, Regional</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+ 		</document-link> 
+ 		
+ 	<document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1400185523StrategyfordevelopmentcooperationwiththerepublicofMoldova20112014.pdf">
+		<title>
+        <narrative xml:lang="en">Strategy for development cooperation with the Republic of Moldavia January 2011 - December 2014 - Moldova, Republic Of</narrative>
+		</title>
+		<category code="B03" />  
+		<language code="en"/>
+		<recipient-country code="MD" /> 
+		</document-link> 
+
+
+    
+<!-- Ministry for Foreign Affairs Document links -->
+    
+    <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/22/37/09/c602b5d3.pdf">
+       <title>
+       <narrative xml:lang="sv">Regeringens proposition 2013/14:1 Budgetpropositionen för 2014: Internationellt Bistånd</narrative>
+		</title>
+		<category code="B01" />
+       <language code="sv" />
+    </document-link>
+    
+    <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/24/28/99/5718b7f6.pdf">
+       <title>
+       <narrative xml:lang="en">Aid Policy Framework</narrative>
+		</title>
+		<category code="B02" />
+       <language code="en" />
+    </document-link>
+      
+    <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/09/74/18/fa06e4b3.pdf">
+       <title>
+       <narrative xml:lang="en">Sweden's Strategy for Multilateral Development Cooperation</narrative>
+		</title>
+		<category code="B02" />
+       <language code="en" />
+    </document-link>
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/09/76/80/4a7cef2b.pdf">
+       <title>
+       <narrative xml:lang="en">Strategy for Multilateral Development Cooperation</narrative>
+		</title>
+		<category code="B02" />
+       <language code="en" />
+    </document-link>
+        
+    <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/17/05/24/5413bc77.pdf">
+       <title>
+       <narrative xml:lang="sv">Strategi för Sveriges samarbete med FN:s världslivsmedelsprogram 2011-2013</narrative>
+		</title>
+		<category code="B02" />
+       <language code="sv" />
+    </document-link>     
+       
+    <document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1431433965ResultatstrategiGlobalafondenGFATM20142016.pdf">
+       <title>
+       <narrative xml:lang="sv">Globala fonden mot aids, tuberkulos och malaria (GFATM) – Resultatstrategi för Sveriges samarbete 2014-2016</narrative>
+		</title>
+		<category code="B02" />
+       <language code="sv" />
+    </document-link>
+       
+    <document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1431453021ResultatstrategiFNsbarnfondUnicef20142017.pdf">
+       <title>
+       <narrative xml:lang="sv">UNICEF, FN:s barnfond – Resultatstrategi för Sveriges samarbete 2014-2017</narrative>
+		</title>
+		<category code="B02" />
+       <language code="sv" />
+    </document-link>
+               
+        
+    <document-link format="application/pdf" url="http://www.openaid.se/wp-content/files_mf/1431453646IndikativresultatstrategiDenglobalavaccinalliansenGAVI20152020.pdf">
+       <title>
+       <narrative xml:lang="sv">GAVI, Den globala vaccinalliansen – Indikativ resultatstrategi för Sveriges samarbete 2015-2020</narrative>
+		</title>
+		<category code="B02" />
+       <language code="sv" />
+    </document-link>        
+        
+    <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/16/00/39/da11f489.pdf">
+       <title>
+       <narrative xml:lang="sv">Strategi för Sveriges samarbete med FN:s jordbruks- och livsmedelsorganisation (FAO) 2011-2012</narrative>
+		</title>
+		<category code="B02" />
+       <language code="sv" />
+    </document-link>
+            
+    <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/17/25/73/d523b6a6.pdf">
+       <title>
+       <narrative xml:lang="sv">Strategi för Sveriges samarbete med FN:s utvecklingsprogram (UNDP) 2010-2013</narrative>
+		</title>
+		<category code="B02" />
+       <language code="sv" />
+    </document-link>
+            
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/23/70/68/59bf0e90.pdf">
+       <title>
+       <narrative xml:lang="sv">Strategi för Sveriges samarbete med Unesco, FN:s organisation för utbildning, vetenskap, kultur och kommunikation 2014-2017</narrative>
+		</title>
+		<category code="B02" />
+       <language code="sv" />
+    </document-link>
+        
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/09/76/80/4a7cef2b.pdf">
+       <title>
+       <narrative xml:lang="en">Strategy for Multilateral Development Cooperation</narrative>
+		</title>
+		<category code="B04" />
+       <language code="en" />
+    </document-link>
+    
+    <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/22/37/09/c602b5d3.pdf">
+       <title>
+       <narrative xml:lang="sv">Regeringens proposition 2013/14:1 Budgetpropositionen för 2014: Internationellt Bistånd</narrative>
+		</title>
+		<category code="B04" />
+       <language code="sv" />
+    </document-link>
+    
+   <document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/23/80/75/441b113c.pdf">
+       <title>
+       <narrative xml:lang="sv">Regeringens proposition 2013/14:99, Vårändringsbudget för 2014</narrative>
+		</title>
+		<category code="B04" />
+       <language code="sv" />
+    </document-link>
+
+    
+   <document-link format="application/pdf" url="http://www.openaid.se/wp-content/uploads/2014/04/Guidelines-for-results-strategies-within-Swedens-international-aid.pdf">
+       <title>
+       <narrative xml:lang="sv">Guidelines for results strategies within Swedens international aid</narrative>
+		</title>
+		<category code="B03" />
+       <language code="en" />
+    </document-link>
+
+   <document-link format="application/pdf" url="http://iati.openaid.se/orgdocs/Bilaga_till_RK_60_Upphandlingsforeskrifter_slutgiltig_20130618.pdf">
+       <title>
+       <narrative xml:lang="sv">Regeringskansliets föreskrifter om offentlig upphandling RKF 2013:6</narrative>
+		</title>
+		<category code="B05" />
+       <language code="sv" />
+    </document-link>    
+
+
+   <document-link format="application/pdf" url="http://www.riksrevisionen.se/PageFiles/20103/RÅR2%20SIDA.pdf">
+       <title>
+       <narrative xml:lang="sv">Intern styrning och kontroll samt Sidas årsredovisning 2013</narrative>
+		</title>
+		<category code="B06" />
+       <language code="sv" />
+    </document-link> 
+    
+   <document-link format="application/pdf" url="http://www.riksrevisionen.se/PageFiles/10853/Anpassad_11_14%20Svenska%20bidrag%20till%20internationella%20insatser.pdf">
+       <title>
+       <narrative xml:lang="sv">Svenska bidrag till internationella insatser</narrative>
+		</title>
+		<category code="B06" />
+       <language code="sv" />
+    </document-link> 
+    
+    <document-link format="application/pdf" url="http://www.riksrevisionen.se/sv/rapporter/Rapporter/EFF/2014/Swedfund-International-AB--Ar-finansieringen-av-bolaget-effektiv-for-staten/">
+       <title>
+       <narrative xml:lang="sv">Swedfund International AB – Är finansieringen av bolaget effektiv för staten? (RiR 2014:16)</narrative>
+		</title>
+		<category code="B06" />
+       <language code="sv" />
+    </document-link>
+    
+    
+   <document-link format="application/pdf" url="http://www.oecd.org/dac/stats/34086975.pdf">
+       <title>
+       <narrative xml:lang="en">Is it ODA?</narrative>
+		</title>
+		<category code="B08" />
+       <language code="en" />
+    </document-link> 
+    
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/18/05/65/83b15b05.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish Assessment of the GAVI Alliance 2011</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>   
+      
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/18/05/62/acbb9a5a.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish Assessment of the International Fund for Agricultural Development IFAD 2011</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+      
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/18/05/58/5a86a873.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish Assessment of United Nations Office for the Coordination of Humanitarian Affairs OCHA 2011</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+         
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/18/05/58/5a86a873.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish Assessment of United Nations Children's Fund UNICEF 2011</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+         
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/15/73/46/3d3e79ba.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations -African Development Bank 2010</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+         
+         
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/15/73/42/2729fc32.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations -Global Fund to Fight AIDS, Tubercolosis and Malaria 2010</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+                  
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/15/73/41/72b94466.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - United Nations Population Fund UNFPA 2010</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+                  
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/15/73/38/73f4aa01.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - United Nations Refugee Agency UNHCR 2010</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>    
+    
+  	<document-link format="application/pdf" url="http://www.riksrevisionen.se/PageFiles/19229/BÅR1%20RK.pdf">
+		<title><narrative xml:lang="sv">Revisionsberättelse för Regeringskansliet 2013</narrative>
+		</title>
+		<category code="B06" />  
+		<language code="sv"/>
+ 		</document-link> 
+ 		
+ 	<document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/16/06/90/9455575d.pdf">
+		<title><narrative xml:lang="sv">Strategi för Sveriges samarbete med Världshälsoorganisationen (WHO) 2011-2015</narrative>
+		</title>
+		<category code="B02" />  
+		<language code="sv"/>
+ 		</document-link> 
+ 
+	<document-link format="application/pdf" url="http://www.regeringen.se/content/1/c6/16/27/32/1edab469.pdf">
+		<title><narrative xml:lang="sv">Organisation2sstrategi för Världsbanksgruppen 2011-2014</narrative>
+		</title>
+		<category code="B02" />  
+		<language code="sv"/>
+ 		</document-link>
+                  
+   <document-link format="application/pdf" url="http://www.government.se/content/1/c6/15/73/35/1f142c43.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish Assessment of Multilateral Organisations - United Nations Relief and Works Agency the Near East UNRWA 2010</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>  
+    
+    <document-link format="application/pdf" url="http://www.government.se/sb/d/3365/a/121922">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - Asian Development Bank 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/16/958afd86.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The African Development Bank Group 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/25/5f0c2918.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The European Commission's development cooperation 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/26/c359b2b7.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The Food and Agriculture Organisation, FAO 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/31/4095a63e.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The Global Environmental Facility, GEF 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/20/01/6b4a1e6f.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The International Fund for for Agriculture Development, IFAD 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/33/9fc4b203.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The International Labour Organisation, ILO 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+        
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/57/2aff2ab4.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The UN Children's Fund, UNICEF 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+          
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/51/4eccd2b4.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Capital Development Fund 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+          
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/53/e62002ea.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Development Fund for Women, UNIFEM 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/sb/d/3365/a/121953">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Environment Programme, UNEP 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/56/305a6b5c.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations High Commissioner for Refugees, UNHCR 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/46/24078b6a.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Human Settlements Programme, UN-HABITAT 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>             
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/49/7f3ad69c.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Joint Programme on HIV/AIDS, UNAIDS 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/36/61d75a4e.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Office for the Coordination of Humanitarian Affairs, OCHA 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/69/94f5c470.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Office on Drugs and Crime, UNODC 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/54/a4646bd3.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Population Fund, UNFPA 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>             
+    
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/62/efbe0713.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations Relief and Works Agency for Palestine Refugees in the Near 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/20/00/eba6487a.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The United Nations World Food Programme, WFP 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/40/118c28eb.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The World Bank 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/20/02/36ae5a30.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations - The World Health Organisation, WHO 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>           
+      
+    <document-link format="application/pdf" url="http://www.government.se/content/1/c6/12/19/52/9e921332.pdf">
+       <title>
+       <narrative xml:lang="en">Swedish assessment of multilateral organisations -The United Nations Development Programme, UNDP 2008</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.sou.gov.se/content/1/c6/23/97/30/f73fc513.pdf">
+       <title>
+       <narrative xml:lang="en">Randomized Controlled Trials: Strengths, Weaknesses and Policy Relevance (EBA report 2014:1)</narrative>
+		</title>
+		<category code="B09" />
+       <language code="en" />
+    </document-link>     
+               
+    <document-link format="application/pdf" url="http://www.sou.gov.se/content/1/c6/22/90/88/74212400.pdf">
+       <title>
+       <narrative xml:lang="sv">Kartläggning av svenskt multilateralt bistånd under perioden 1997- 2012</narrative>
+		</title>
+		<category code="B09" />
+       <language code="sv" />
+    </document-link>     
+    		 
+	<document-link format="application/pdf" url="http://iati.openaid.se/orgdocs/Openaid.se_exclusions_policy_2014_June.pdf">
+		<title><narrative xml:lang="en">Openaid.se, Exclusions Policy</narrative>
+		</title>
+		<category code="B08" />  
+		<language code="en"/>
+		 </document-link> 
+          
+          
+               
+  </iati-organisation>
+  
+</iati-organisations>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.01" generated-datetime="2016-05-20T09:29:24+00:00">
+  <iati-organisation last-updated-datetime="2016-05-20T09:29:24+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KvK-54436222-27541</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">CNV International</narrative>
+    </name>
+    <reporting-org type="22" ref="NL-KvK-54436222-27541">
+      <narrative xml:lang="en">Strategic Partnership Lobbying en Advocacy</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">5070000</value>
+      <budget-line ref="Total">
+        <value currency="EUR" value-date="2016-01-28">783632</value>
+        <narrative xml:lang="en">Advance</narrative>
+      </budget-line>
+    </total-budget>
+    <recipient-org-budget>
+      <recipient-org ref="NL-KVK-54436222-27541">
+        <narrative xml:lang="en">CNV Internationaal</narrative>
+      </recipient-org>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">4622000</value>
+    </recipient-org-budget>
+  </iati-organisation>
+</iati-organisations>

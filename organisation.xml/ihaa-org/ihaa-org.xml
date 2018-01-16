@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-11-27T14:59:26+00:00">
+  <iati-organisation last-updated-datetime="2017-11-27T14:59:26+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>GB-CHC-1038860</organisation-identifier>
+    <name>
+      <narrative>International HIV/AIDS Alliance</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-1038860">
+      <narrative xml:lang="en">International HIV/AIDS Alliance</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="USD" value-date="2017-01-01">25211000</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2018-01-01">27701000</value>
+    </total-budget>
+    <total-expenditure>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="USD" value-date="2016-12-31">28193000</value>
+    </total-expenditure>
+    <document-link format="text/html" url="http://www.aidsalliance.org/resources/944-2016-report-and-accounts">
+      <title>
+        <narrative>International HIV/AIDS Alliance 2016 Report and Accounts</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2017-06-30"/>
+      <recipient-country code="GB"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.aidsalliance.org/resources/321-90626-hiv-health-and-rights-sustaining-community-action">
+      <title>
+        <narrative xml:lang="en">HIV, Health and Rights: Sustaining Community Action</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+      <document-date iso-date="2016-03-07"/>
+      <recipient-country code="GB">
+        <narrative xml:lang="en">The Alliance global strategy articulates our determination and our strengths as an Alliance. HIV, Health and Rights: Sustaining Community Action spans 2013-2020. The original strategy and the updated version for 2016-2020 are both available. It has been developed through wide consultation with Linking Organisations and other partners, and has been approved by our international board of trustees. Linking Organisations will use this strategy - together with their own national plans - to shape their future strategies. The international secretariat will use it to develop our operational plan.</narrative>
+      </recipient-country>
+    </document-link>
+    <document-link format="text/html" url="http://www.aidsalliance.org/resources/695-evaluation-of-the-alliance-strategy-and-theory-of-change">
+      <title>
+        <narrative xml:lang="en">Evaluation of the Alliance Strategy and Theory of Change</narrative>
+      </title>
+      <category code="B09"/>
+      <language code="en"/>
+      <document-date iso-date="2015-10-01"/>
+      <recipient-country code="GB">
+        <narrative>In August 2014, the International HIV/AIDS Alliance engaged Social Development Direct (SDDirect) to undertake an independent evaluation of its Strategy and Theory of Change, HIV, Health and Human Rights: Sustaining Community Action, 2013-2020. depth exploration of selected key processes of change. The Alliance has also produced a management response to the evaluation and its recommendations which is available on this page.</narrative>
+      </recipient-country>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

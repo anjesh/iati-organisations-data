@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-02-25T12:49:31+00:00">
+  <iati-organisation last-updated-datetime="2017-02-25T12:49:31+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>XI-IATI-BWCO20151011</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">ITPC</narrative>
+    </name>
+    <reporting-org type="21" ref="XI-IATI-BWCO20151011">
+      <narrative xml:lang="en">International Treatment Preparedness Coalition (ITPC)</narrative>
+    </reporting-org>
+    <document-link format="application/pdf" url="https://aidsfonds.nl/files/uploads/iati-publication-exclusion-policy.pdf">
+      <title>
+        <narrative xml:lang="en">Exclusion Policy</narrative>
+      </title>
+      <category code="B08"/>
+      <document-date iso-date="2017-01-01"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

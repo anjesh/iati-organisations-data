@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-03-13T09:00:21+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-03-13T08:59:45+00:00">
+    <reporting-org ref="CA-CRA_ARC-119304848" type="21" xml:lang="en">World University Service of Canada</reporting-org>
+    <iati-identifier>CA-CRA_ARC-119304848</iati-identifier>
+    <name>World University Service of Canada</name>
+    <total-budget>
+      <value value-date="2013-03-31">27011461</value>
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2013-03-31"/>
+    </total-budget>
+    <document-link url="http://assets.wusc.ca/IATI/WUSC%20Annual%20Report%202013.pdf" format="application/pdf">
+      <title>WUSC Annual Report 2013</title>
+    </document-link>
+    <document-link url="http://assets.wusc.ca/IATI/WUSC%20Anticorruption%20Statement.pdf" format="application/pdf">
+      <title>WUSC Anticorruption Statement</title>
+    </document-link>
+    <document-link url="http://assets.wusc.ca/IATI/WUSC%20Child%20Protection%20Policy.pdf" format="application/pdf">
+      <title>WUSC Child Protection Policy</title>
+    </document-link>
+    <document-link url="http://assets.wusc.ca/IATI/WUSC%20Protection%20from%20Sexual%20Exploitation%20and%20Abuse.pdf" format="application/pdf">
+      <title>WUSC Protection from Sexual Exploitation and Abuse</title>
+    </document-link>
+    <document-link url="http://www.aidstream.org/public/files/documents/IATI Open Aid Information Licensing Standard.pdf" format="application/pdf">
+      <title>IATI Open Aid Information Licensing Standard</title>
+    </document-link>
+    <document-link url="http://assets.wusc.ca/IATI/WUSC%20Whistleblowing%20Policy%20and%20Guidelines.pdf" format="application/pdf">
+      <title>WUSC Whistleblowing Policy and Guidelines</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

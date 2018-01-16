@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-12-29T19:47:53+00:00">
+  <iati-organisation last-updated-datetime="2017-12-29T19:47:53+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>US-EIN-46-3668128</organisation-identifier>
+    <name>
+      <narrative>Women's Refugee Commission</narrative>
+    </name>
+    <reporting-org type="21" ref="US-EIN-46-3668128">
+      <narrative xml:lang="en">Women's Refugee Commission</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2017-10-01"/>
+      <period-end iso-date="2018-09-30"/>
+      <value value-date="2017-10-01">8305488</value>
+    </total-budget>
+  </iati-organisation>
+</iati-organisations>

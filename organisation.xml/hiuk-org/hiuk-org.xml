@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-04-03T12:16:29+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="EUR" last-updated-datetime="2014-04-03T12:16:18+00:00">
+    <reporting-org ref="FR-PDR-W691075333" type="21" xml:lang="en">Handicap International Federation</reporting-org>
+    <iati-identifier>FR-PDR-W691075333</iati-identifier>
+    <name>Handicap International</name>
+    <document-link url="http://www.handicap-international.org/" format="text/html">
+      <language>en</language>
+      <title>HANDICAP INTERNATIONAL WEBSITE</title>
+    </document-link>
+    <document-link url="http://www.handicap-international.fr/fileadmin/documents/publications/Rapports_annuels/RA2012-FED-en.pdf" format="text/html">
+      <language>en</language>
+      <title>HI Federation Annual Report 2012</title>
+    </document-link>
+    <document-link url="http://www.handicap-international.fr/fileadmin/documents/publications/Rapports_annuels/ComptesCertifiesReseau2012-en.pdf" format="text/html">
+      <language>en</language>
+      <title>HI Federation Audited Accounts 2012</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

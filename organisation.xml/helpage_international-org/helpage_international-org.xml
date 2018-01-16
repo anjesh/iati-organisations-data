@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-04-09T13:48:24+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-04-09T01:46:14+00:00">
+    <reporting-org ref="GB-COH-1762840" type="21" xml:lang="en">HelpAge International</reporting-org>
+    <iati-identifier>GB-COH-1762840</iati-identifier>
+    <name xml:lang="en">HelpAge International</name>
+    <total-budget>
+      <value currency="GBP" value-date="2012-04-01">26700000</value>
+      <period-start iso-date="2012-04-01">Start date for the financial year 2012-2013</period-start>
+      <period-end iso-date="2013-03-31">End date for the financial year 2012-2013</period-end>
+    </total-budget>
+    <total-budget>
+      <value currency="GBP" value-date="2013-04-01">27250000</value>
+      <period-start iso-date="2013-04-01">Start date for the financial year 2013-2014</period-start>
+      <period-end iso-date="2014-03-31">End date for the financial year 2013-2014</period-end>
+    </total-budget>
+    <total-budget>
+      <value value-date="2014-04-01">27800000</value>
+      <period-start iso-date="2014-04-01">Start date for the financial year 2014-2015</period-start>
+      <period-end iso-date="2015-03-31">End date for the financial year 2014-2015</period-end>
+    </total-budget>
+    <document-link url="http://www.helpage.org/download/4c462c38a1e92" format="application/pdf">
+      <language>en</language>
+      <category code="B02" xml:lang="en">Corporate strategy 2010 to 2015</category>
+      <title xml:lang="en">Strategy to 2015</title>
+    </document-link>
+    <document-link url="http://www.helpage.org/download/50b774ef8ed42" format="application/pdf">
+      <language>en</language>
+      <category code="B01" xml:lang="en">Corporate annual report for 2011-2012</category>
+      <title xml:lang="en">Annual report and financial statements 31 March 2012</title>
+    </document-link>
+    <document-link url="http://www.helpage.org/download/4da58d2d43ffe" format="application/pdf">
+      <language>en</language>
+      <category code="B02" xml:lang="en">Corporate annual plan for 2011-2012</category>
+      <title xml:lang="en">Corporate annual plan to March 2012</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

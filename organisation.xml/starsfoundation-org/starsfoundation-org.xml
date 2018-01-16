@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-02-05T16:12:28+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-02-05T04:07:20+00:00">
+    <reporting-org ref="GB-CHC-1087997" type="60" xml:lang="en">Stars Foundation</reporting-org>
+    <iati-identifier>GB-CHC-1087997</iati-identifier>
+    <name xml:lang="en">Stars Foundation</name>
+    <total-budget>
+      <value currency="USD" value-date="2014-01-01">1360000</value>
+      <period-start iso-date="2014-01-01">The budget provided relates to funding disbursed to 2013 Stars Impact Award winners. Funding is available from January 2014 and is dependent on the submission and agreement of a plan and budget. </period-start>
+      <period-end iso-date="2014-12-31">The budget provided is the total amount of funding budgeted to be disbursed. The period end is one year after funding is available and matches Stars' accounting procedures - however, recipient organisations are able to spend their funding over a three year period. </period-end>
+    </total-budget>
+    <document-link url="http://www.starsfoundation.org.uk/resources/2012-annual-report" format="application/pdf">
+      <language>en</language>
+      <category code="B01" xml:lang="en"/>
+      <title>The Stars Foundation - Annual Report for Year Ended 31 July 2012 </title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

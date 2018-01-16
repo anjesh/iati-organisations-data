@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-04-19T08:12:30+00:00">
+  <iati-organisation last-updated-datetime="2016-04-19T08:12:30+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41118168</organisation-identifier>
+    <name>
+      <narrative xml:lang="nl">Stichting Woord en Daad</narrative>
+    </name>
+    <reporting-org type="22" ref="NL-KVK-41118168">
+      <narrative xml:lang="en">Woord en Daad</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2015-10-30">28187505</value>
+    </total-budget>
+    <document-link format="text/rtf" url="https://www.woordendaad.nl/resultaten/jaarverslag-2015">
+      <title>
+        <narrative xml:lang="en">Annual report 2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2016-03-31"/>
+      <recipient-country code="NL"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

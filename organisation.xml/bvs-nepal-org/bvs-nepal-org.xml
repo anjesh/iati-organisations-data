@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-07-29T14:41:46+00:00">
+  <iati-organisation last-updated-datetime="2017-07-29T14:41:46+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>NP-SWC-27288</organisation-identifier>
+    <name>
+      <narrative>Burns Violence Survivors Nepal</narrative>
+    </name>
+    <reporting-org type="22" ref="NP-SWC-27288">
+      <narrative xml:lang="en">Burns Violence Survivors Nepal</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2017-07-16"/>
+      <period-end iso-date="2018-07-15"/>
+      <value currency="GBP" value-date="2017-07-09">183859</value>
+    </total-budget>
+    <document-link format="text/html" url="http://www.bvsnepal.org.np/">
+      <title>
+        <narrative xml:lang="en">Burns Violence Survivors Nepal</narrative>
+      </title>
+      <category code="B16"/>
+      <language code="en"/>
+      <document-date iso-date="2017-07-15"/>
+      <recipient-country code="NP"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

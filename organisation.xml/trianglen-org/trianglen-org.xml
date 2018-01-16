@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-04-28T18:25:43+00:00">
+  <iati-organisation last-updated-datetime="2017-04-28T18:25:43+00:00" xml:lang="da" default-currency="DKK">
+    <organisation-identifier>DK-CVR-33985339</organisation-identifier>
+    <name>
+      <narrative>Trianglen</narrative>
+    </name>
+    <reporting-org type="22" ref="DK-CVR-33985339">
+      <narrative xml:lang="da">Trianglen</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="DKK" value-date="2016-05-19">1334810</value>
+      <budget-line ref="Activities">
+        <value value-date="2016-05-19">1235460</value>
+        <narrative xml:lang="en">Implementation of Activities</narrative>
+      </budget-line>
+      <budget-line ref="Administration Nepal">
+        <value currency="DKK" value-date="2016-05-19">24100</value>
+        <narrative xml:lang="en">Administration costs in Nepal</narrative>
+      </budget-line>
+      <budget-line ref="Administration Denmark">
+        <value value-date="2016-05-19">90250</value>
+        <narrative xml:lang="en">Administration costs in Denmark</narrative>
+      </budget-line>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP">
+        <narrative xml:lang="en">Activity implementation</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="DKK" value-date="2016-05-19">1229907</value>
+      <budget-line ref="Administration">
+        <value currency="DKK" value-date="2016-05-19">24100</value>
+        <narrative xml:lang="en">Administrative costs</narrative>
+      </budget-line>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative xml:lang="en">Activity completion</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="DKK" value-date="2016-05-19">5553</value>
+    </recipient-country-budget>
+  </iati-organisation>
+</iati-organisations>

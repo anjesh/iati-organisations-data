@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iati-organisations generated-datetime="2015-01-15T10:10:10.00" version="2.01">
+  <iati-organisation default-currency="EUR" last-updated-datetime="2015-01-15T10:10:10.00" xml:lang="en">
+  <organisation-identifier>21033</organisation-identifier>
+    <name><narrative>Transparency International</narrative> </name>
+    <reporting-org ref="21033" type="21" secondary-reporter="0">  <narrative>Transparency International</narrative></reporting-org>
+    <total-budget> <period-start iso-date="2012-01-01" />  <period-end iso-date="2012-12-31" />  <value value-date="2012-01-01">24515619</value> </total-budget>
+    <total-budget> <period-start iso-date="2013-01-01" />  <period-end iso-date="2013-12-31" />  <value value-date="2013-01-01">28155124</value> </total-budget>
+    <total-budget> <period-start iso-date="2014-01-01" />  <period-end iso-date="2014-12-31" />  <value value-date="2014-01-01">24512000</value> </total-budget>
+    <total-budget> <period-start iso-date="2015-01-01" />  <period-end iso-date="2015-12-31" />  <value value-date="2015-01-01">23027418</value> </total-budget>
+    <document-link format="application/pdf" url="http://www.transparency.org/whoweare/organisation/strategy_2015/0/">  <title> <narrative>Strategy 2015</narrative></title>     <category code="B02" />       <language code="en" />          </document-link>
+    <document-link format="application/pdf" url="http://www.transparency.org/whoweare/organisation/implementation_plan_for_strategy_2015/0/">  <title> <narrative>Implementation Plan for Strategy 2015</narrative></title>     <category code="B02" />       <language code="en" />          </document-link>
+    <document-link format="application/pdf" url="http://www.transparency.org/whoweare/organisation/secretariat">  <title> <narrative>Organisational Structure</narrative></title>     <category code="B02" />       <language code="en" />          </document-link>
+    <document-link format="application/link" url="http://www.transparency.org/whoweare/accountability/audited_financial_reports_with_independent_auditors_report/1/">  <title> <narrative>Audited Financial Reports since 1999</narrative></title>     <category code="B01" />       <language code="en" />          </document-link>
+    <document-link format="application/link" url="http://www.transparency.org/whoweare/accountability/current_operating_budget/1/">  <title> <narrative>Current Operating Budget</narrative></title>     <category code="B01" />       <language code="en" />          </document-link>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-06-06T08:34:34+00:00">
+  <iati-organisation last-updated-datetime="2016-06-06T08:34:34+00:00" xml:lang="en" default-currency="AUD">
+    <organisation-identifier>AU-ACNC-19242959685</organisation-identifier>
+    <name>
+      <narrative>International Women's Development Agency</narrative>
+    </name>
+    <reporting-org type="21" ref="AU-ACNC-19242959685">
+      <narrative xml:lang="en">International Women's Development Agency</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2015-07-01"/>
+      <period-end iso-date="2016-06-30"/>
+      <value currency="AUD" value-date="2016-04-14">8200281</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2016-07-01"/>
+      <period-end iso-date="2017-06-30"/>
+      <value currency="AUD" value-date="2016-05-12">12000000</value>
+    </total-budget>
+    <document-link format="application/pdf" url="https://www.iwda.org.au/assets/files/IWDA_AR-2014%E2%80%932015-web.pdf">
+      <title>
+        <narrative>Annual Report 2014-15</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2015-10-30"/>
+      <recipient-country code="AU"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

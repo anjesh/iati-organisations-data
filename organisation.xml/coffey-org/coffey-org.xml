@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-01-16T09:53:25+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-01-16T09:53:16+00:00">
+    <reporting-org ref="GB-COH-3799145" type="70" xml:lang="en">Coffey International Development</reporting-org>
+    <iati-identifier>GB-COH-3799145</iati-identifier>
+    <name>Coffey International Development</name>
+  </iati-organisation>
+</iati-organisations>

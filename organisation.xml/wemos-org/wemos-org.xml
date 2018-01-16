@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-04-28T14:53:33+00:00">
+  <iati-organisation last-updated-datetime="2016-04-28T14:53:33+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41201644</organisation-identifier>
+    <name>
+      <narrative>Wemos</narrative>
+    </name>
+    <reporting-org type="22" ref="NL-KVK-41201644">
+      <narrative xml:lang="en">Wemos </narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,7 @@
+<iati-organisations generated-datetime="2018-01-05T14:17:12Z">
+  <iati-organisation last-updated-datetime="2018-01-05T14:17:12Z" xml:lang="en" default-currency="USD">
+    <iati-identifier>US-EIN-13-2702768</iati-identifier>
+    <name>Pact Inc.</name>
+    <reporting-org ref="US-EIN-13-2702768" type="21">Pact</reporting-org>
+  </iati-organisation>
+</iati-organisations>

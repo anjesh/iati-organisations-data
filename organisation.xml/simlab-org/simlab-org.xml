@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-03-31T14:55:14+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-03-31T02:55:00+00:00">
+    <reporting-org ref="GB-COH-7557881" type="70" xml:lang="en">SIMLab Community Interest Company</reporting-org>
+    <iati-identifier>GB-COH-7557881</iati-identifier>
+    <name>SIMLab Community Interest Company</name>
+    <recipient-org-budget>
+      <recipient-org ref="GB-COH-7557881">SimLab Community Interest Company</recipient-org>
+      <value value-date="2014-03-28">209289</value>
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+    </recipient-org-budget>
+    <recipient-org-budget>
+      <recipient-org ref="GB-COH-7557881">SimLab Community Interest Company</recipient-org>
+      <value value-date="2014-03-28">209289</value>
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+    </recipient-org-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">Kenya</recipient-country>
+      <value value-date="2014-03-28">209289</value>
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+    </recipient-country-budget>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-01-27T13:32:40+00:00">
+  <iati-organisation last-updated-datetime="2017-01-27T13:32:40+00:00" xml:lang="en" default-currency="ZAR">
+    <organisation-identifier>ZA-PBO-064-502</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Sonke Gender Justice</narrative>
+    </name>
+    <reporting-org type="21" ref="ZA-PBO-064-502">
+      <narrative xml:lang="en">Sonke Gender Justice</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

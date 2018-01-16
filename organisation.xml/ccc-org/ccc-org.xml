@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-05-06T08:41:59+00:00">
+  <iati-organisation last-updated-datetime="2016-05-06T08:41:59+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41210820</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Clean Clothes Campaign</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41210820">
+      <narrative xml:lang="en">Clean Clothes Campaign</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

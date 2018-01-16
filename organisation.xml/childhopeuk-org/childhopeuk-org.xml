@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-03-19T14:36:57+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-03-18T06:38:17+00:00" default-currency="GBP">
+    <reporting-org ref="GB-CHC-328434" type="21" xml:lang="en">ChildHopeUK</reporting-org>
+    <iati-identifier>GB-CHC-328434</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

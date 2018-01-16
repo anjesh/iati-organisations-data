@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-08-21T09:49:31+00:00">
+  <iati-organisation last-updated-datetime="2017-08-21T09:49:31+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>US-EIN-943287156</organisation-identifier>
+    <name>
+      <narrative>Association for Progressive Communication</narrative>
+    </name>
+    <reporting-org type="21" ref="US-EIN-943287156">
+      <narrative xml:lang="en">Association for Progressive Communication</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

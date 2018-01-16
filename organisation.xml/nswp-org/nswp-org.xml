@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-02-03T04:25:26+00:00">
+  <iati-organisation last-updated-datetime="2017-02-03T04:25:26+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>GB-COH-SC349355</organisation-identifier>
+    <name>
+      <narrative>NSWP</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-COH-SC349355">
+      <narrative xml:lang="en">Global Network of Sex Work Projects</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

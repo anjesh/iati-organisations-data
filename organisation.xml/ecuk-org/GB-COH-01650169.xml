@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02">
+  <iati-organisation xml:lang="en-gb" default-currency="GBP">
+    <!-- cf. http://http://iatistandard.org/202/organisation-identifiers/ -->
+    <organisation-identifier>GB-COH-01650169</organisation-identifier>
+    <name>
+      <narrative>ECORYS UK</narrative>
+    </name>
+    <!-- cf. http://iatistandard.org/202/codelists/OrganisationType/ -->
+    <reporting-org ref="GB-COH-01650169" type="70">
+      <narrative>ECORYS UK</narrative>
+    </reporting-org>
+    <!-- DFID Requirement : The percentage of your organisation’s total budget for overseas 
+                            development work that will be covered by the information you are 
+                            sharing using the IATI data standard.
+    -->
+    <total-budget status="2">
+      <period-start iso-date="2014-09-14"/>
+      <period-end iso-date="2017-03-21"/>
+      <value value-date="2014-09-19">1602181</value>
+    </total-budget>
+    <!-- DFID Requirement -->
+    <document-link url="http://www.uk.ecorys.com/" format="text/html">
+      <title>
+        <narrative>Ecorys UK</narrative>
+      </title>
+      <!-- Organisation Web Page (cf. http://iatistandard.org/202/codelists/DocumentCategory/) -->
+      <category code="B16" />
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

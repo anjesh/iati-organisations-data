@@ -1,0 +1,532 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+       
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link rel="dns-prefetch" href="https://www.globalgiving.org">
+
+
+<title>Page Not Found - GlobalGiving</title>
+
+
+<link rel="mask-icon" sizes="any" href="https://www.globalgiving.org/favicon/favicon-48x48.svg" color="#F08B1D" />
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.globalgiving.org/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.globalgiving.org/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.globalgiving.org/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.globalgiving.org/favicon/apple-touch-icon-180x180.png" />
+<meta name="apple-mobile-web-app-title" content="GlobalGiving" />
+<link rel="icon" type="image/png" href="https://www.globalgiving.org/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://www.globalgiving.org/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="https://www.globalgiving.org/favicon/favicon-32x32.png" sizes="32x32" />
+<meta name="msapplication-TileColor" content="#9f00a7" />
+<meta name="msapplication-TileImage" content="https://www.globalgiving.org/favicon/mstile-144x144.png" />
+<meta name="application-name" content="GlobalGiving" />
+
+<meta property="og:image" content="https://www.globalgiving.org/img/logos/gg_white_over_orange_pixel_1200.png" />
+
+   <script type="text/javascript">
+      var deferred = [];
+
+      function loadOneJS( src, cb ){
+   "use strict";
+   var ref = window.document.getElementsByTagName( "script" )[ 0 ];
+   var script = window.document.createElement( "script" );
+   script.src = src;
+   script.async = true;
+   ref.parentNode.insertBefore( script, ref );
+   if (cb && typeof(cb) === "function") {
+      script.onload = cb;
+   }
+   return script;
+}
+function loadJS( srcs, cb ){
+   if (!(srcs instanceof Array)) {
+      return loadOneJS(srcs, cb);
+   }
+   var cnt = srcs.length;
+   var f = function() {
+      cnt -= 1;
+      if (cnt < 0) {
+         console.log('loadJS decremented too far');
+         return;
+      } if (cnt > 0) {
+         return;
+      }
+      if (cb && typeof(cb) === "string") {
+         var pathElms = cb.split('.');
+         var ctx = window;
+         while (pathElms.length > 0) {
+            ctx = ctx[pathElms.shift()];
+         }
+         cb = ctx;
+      }
+      if (cb && typeof(cb) === "function") {
+         cb();
+      }
+   };
+   var ret = [];
+   while (srcs.length > 0) {
+      var script = srcs.shift();
+      ret.push(loadOneJS(script, f));
+   }
+}
+      /*!
+loadCSS: load a CSS file asynchronously.
+[c]2015 @scottjehl, Filament Group, Inc.
+Licensed MIT
+*/
+(function(w){
+	"use strict";
+	/* exported loadCSS */
+	w.loadCSS = function( href, before, media ){
+		// Arguments explained:
+		// `href` [REQUIRED] is the URL for your CSS file.
+		// `before` [OPTIONAL] is the element the script should use as a reference for injecting our stylesheet <link> before
+			// By default, loadCSS attempts to inject the link after the last stylesheet or script in the DOM. However, you might desire a more specific location in your document.
+		// `media` [OPTIONAL] is the media type or query of the stylesheet. By default it will be 'all'
+		var ss = w.document.createElement( "link" );
+		var ref;
+		if( before ){
+			ref = before;
+		}
+		else if( w.document.querySelectorAll ){
+			var refs = w.document.querySelectorAll(  "style,link[rel=stylesheet],script" );
+			// No need to check length. This script has a parent element, at least
+			ref = refs[ refs.length - 1];
+		}
+		else {
+			ref = w.document.getElementsByTagName( "script" )[ 0 ];
+		}
+
+		var sheets = w.document.styleSheets;
+		ss.rel = "stylesheet";
+		ss.href = href;
+		// temporarily set media to something inapplicable to ensure it'll fetch without blocking render
+		ss.media = "only x";
+
+		// Inject link
+			// Note: the ternary preserves the existing behavior of "before" argument, but we could choose to change the argument to "after" in a later release and standardize on ref.nextSibling for all refs
+			// Note: `insertBefore` is used instead of `appendChild`, for safety re: http://www.paulirish.com/2011/surefire-dom-element-insertion/
+		ref.parentNode.insertBefore( ss, ( before ? ref : ref.nextSibling ) );
+		// A method (exposed on return object for external use) that mimics onload by polling until document.styleSheets until it includes the new sheet.
+		ss.onloadcssdefined = function( cb ){
+			var defined;
+			for( var i = 0; i < sheets.length; i++ ){
+				if( sheets[ i ].href && sheets[ i ].href === ss.href ){
+					defined = true;
+				}
+			}
+			if( defined ){
+				cb();
+			} else {
+				setTimeout(function() {
+					ss.onloadcssdefined( cb );
+				});
+			}
+		};
+
+		// once loaded, set link's media back to `all` so that the stylesheet applies once it loads
+		ss.onloadcssdefined(function() {
+			ss.media = media || "all";
+		});
+		return ss;
+	};
+}(this));
+      !function e(t,n,r){function o(i,s){if(!n[i]){if(!t[i]){var l="function"==typeof require&&require;if(!s&&l)return l(i,!0);if(a)return a(i,!0);var u=new Error("Cannot find module '"+i+"'");throw u.code="MODULE_NOT_FOUND",u}var c=n[i]={exports:{}};t[i][0].call(c.exports,function(e){var n=t[i][1][e];return o(n||e)},c,c.exports,e,t,n,r)}return n[i].exports}for(var a="function"==typeof require&&require,i=0;i<r.length;i++)o(r[i]);return o}({1:[function(e,t,n){var r=e("hbsfy/runtime");t.exports=r.template({1:function(e,t,n,r,o){var a,i,s=null!=t?t:{};return'   <a href="javascript:void(0)" class="layout_centerVertical js-loginName layout_rel">\n      <div class="layout_inlineBlock img-bg img-bg-cover" style="width:40px;height:40px;border-radius:40px; background-color: gray; background-image:url('+e.escapeExpression((i=null!=(i=n.pictureurl||(null!=t?t.pictureurl:t))?i:n.helperMissing,"function"==typeof i?i.call(s,{name:"pictureurl",hash:{},data:o}):i))+')"></div>\n      <div class="downArrow layout_abs" style="right: -20px;top: 10%;">&nbsp;</div>\n   </a>\n   <div class="grid-parent layout_abs layout_alignLeft zindex_popup link_block2 border_default border_top0 col_white col_ggPrimary3Text loginPerms">\n      <a class="grid-12 box_verticalPadded1 box_horizontalPadded6 col_inherit" href="/dy/user/view/gg.html?cmd=showprof">My Profile</a><br/>\n'+(null!=(a=n.each.call(s,null!=t?t.perms:t,{name:"each",hash:{},fn:e.program(2,o,0),inverse:e.noop,data:o}))?a:"")+'      <div class="grid-12 box_horizontalPadded6"><hr/></div>\n\n      <a class="grid-12 box_topPadded1 box_bottomPadded2 box_horizontalPadded6 js-logout" href="javascript:void(0)">Log out</a>\n   </div>\n'},2:function(e,t,n,r,o){var a,i=null!=t?t:{},s=n.helperMissing,l=e.escapeExpression;return'         <a class="grid-12 box_verticalPadded1 box_horizontalPadded6 col_inherit" href="'+l((a=null!=(a=n.value||(null!=t?t.value:t))?a:s,"function"==typeof a?a.call(i,{name:"value",hash:{},data:o}):a))+'">'+l((a=null!=(a=n.label||(null!=t?t.label:t))?a:s,"function"==typeof a?a.call(i,{name:"label",hash:{},data:o}):a))+"</a>\n"},4:function(e,t,n,r,o){var a;return'   <a id="login_link" href="/dy/v2/login/form.html?andthen='+e.escapeExpression((a=null!=(a=n.url||(null!=t?t.url:t))?a:n.helperMissing,"function"==typeof a?a.call(null!=t?t:{},{name:"url",hash:{},data:o}):a))+'">Login</a><br/>\n'},compiler:[7,">= 4.0.0"],main:function(e,t,n,r,o){var a;return null!=(a=n.if.call(null!=t?t:{},null!=t?t.succeeded:t,{name:"if",hash:{},fn:e.program(1,o,0),inverse:e.program(4,o,0),data:o}))?a:""},useData:!0})},{"hbsfy/runtime":38}],2:[function(e,t,n){var r=e("hbsfy/runtime");t.exports=r.template({compiler:[7,">= 4.0.0"],main:function(e,t,n,r,o){return'<div class="layout_center col_ggPrimary1 box_verticalPaddedHalf col_whiteText layout_centerVertical">\n   <strong>REMINDER: Logged in as another user.</strong> &nbsp;&nbsp;&nbsp;<a href="/dy/v2/admin/gg/logout-from-user.html" class="btn btn_ggPrimary2 btn_narrow btn_simple text_fontSizeSmaller">Return to my account</a>\n</div>'},useData:!0})},{"hbsfy/runtime":38}],3:[function(e,t,n){window.gg=window.gg||{},window.gg.templates=window.gg.templates||{},gg.cookie=e("./modules/cookies.bsfy"),gg.tracking=e("./modules/tracking.bsfy"),e("./helpers/common.bsfy"),e("./modules/login.bsfy"),e("./modules/userCurrency.bsfy"),e("./modules/cartItems.bsfy"),loadCSS("//fonts.googleapis.com/css?subset=latin&family=Open+Sans:400,400italic,700,700italic,800"),loadCSS("/v2/fonts/aleo/aleo.css")},{"./helpers/common.bsfy":5,"./modules/cartItems.bsfy":8,"./modules/cookies.bsfy":9,"./modules/login.bsfy":11,"./modules/tracking.bsfy":15,"./modules/userCurrency.bsfy":16}],4:[function(e,t,n){r=window,o=document,a=void 0,i=void 0,r.GoogleAnalyticsObject="ga",r.ga=r.ga||function(){(r.ga.q=r.ga.q||[]).push(arguments)},r.ga.l=1*new Date,a=o.createElement("script"),i=o.getElementsByTagName("script")[0],a.async=1,a.src="//www.google-analytics.com/analytics.js",i.parentNode.insertBefore(a,i);var r,o,a,i;if(ga("create","UA-1836649-1",{cookieDomain:"globalgiving.org",siteSpeedSampleRate:100}),ga("require","displayfeatures"),ga("require","linkid","linkid.js"),loadJS("/v2/js/deps/autotrack/autotrack.js"),ga("require","eventTracker"),ga("require","maxScrollTracker"),ga("require","pageVisibilityTracker"),ga("require","outboundLinkTracker"),ga("require","urlChangeTracker"),ga("require","cleanUrlTracker",{stripQuery:!1,indexFilename:"index.html",trailingSlash:"add"}),window.optimizely=window.optimizely||[],window.optimizely.push("activateUniversalAnalytics"),ga("send","pageview"),window.onerror=function(e,t,n){ga("send","exception",{exDescription:"["+t+" ("+n+")] "+e,exFatal:!1})},!gg.cookie.exists("gg_as_me")){var s=gg.cookie.getValue("JSESSIONID");null==s&&(s="");var l=window._sift=window._sift||[];l.push(["_setAccount","770cdd1478"]),l.push(["_setUserId",""]),l.push(["_setSessionId",s]),l.push(["_trackPageview"]),function(){function e(){var e=document.createElement("script");e.src="https://cdn.siftscience.com/s.js",document.body.appendChild(e)}window.attachEvent?window.attachEvent("onload",e):window.addEventListener("load",e,!1)}()}!function(e,t){if(!t.__SV){var n,r,o,a;window.mixpanel=t,t._i=[],t.init=function(e,n,r){function i(e,t){var n=t.split(".");2==n.length&&(e=e[n[0]],t=n[1]),e[t]=function(){e.push([t].concat(Array.prototype.slice.call(arguments,0)))}}var s=t;for(void 0!==r?s=t[r]=[]:r="mixpanel",s.people=s.people||[],s.toString=function(e){var t="mixpanel";return"mixpanel"!==r&&(t+="."+r),e||(t+=" (stub)"),t},s.people.toString=function(){return s.toString(1)+".people (stub)"},o="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" "),a=0;a<o.length;a++)i(s,o[a]);t._i.push([e,n,r])},t.__SV=1.2,(n=e.createElement("script")).type="text/javascript",n.async=!0,n.src="undefined"!=typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js",(r=e.getElementsByTagName("script")[0]).parentNode.insertBefore(n,r)}}(document,window.mixpanel||[]),window.location.hostname.toLowerCase().search("www.globalgiving.org")>=0&&mixpanel.init("1d62790938b60c23a48684ad3ebe5a36",{persistence:"localStorage",loaded:function(e){e.track_links("header a","click header link",{url:window.location.pathname,referrer:document.referrer}),e.track_links("footer a","click footer link",{url:window.location.pathname,referrer:document.referrer}),e.track("page viewed",{"page name":document.title,url:window.location.pathname})}}),"FS"!=window._fs_namespace&&(window._fs_namespace="FS",window._fs_debug=!1,window._fs_host="www.fullstory.com",window._fs_org="1Y7QS",u=window,c=document,d=window._fs_namespace,f=void 0,p=void 0,g=void 0,d in u&&u.console&&u.console.log?u.console.log('FullStory namespace conflict. Please set window["_fs_namespace"].'):((p=u[d]=function(e,t){p.q?p.q.push([e,t]):p._api(e,t)}).q=[],(f=c.createElement("script")).async=1,f.src="https://"+_fs_host+"/s/fs.js",(g=c.getElementsByTagName("script")[0]).parentNode.insertBefore(f,g),p.identify=function(e,t){p("user",{uid:e}),t&&p("user",t)},p.setUserVars=function(e){p("user",e)},p.identifyAccount=function(e,t){f="account",(t=t||{}).acctId=e,p(f,t)},p.clearUserCookie=function(e,t,n){if(!e||document.cookie.match("fs_uid=[`;`]*`[`;`]*`[`;`]*`"))for(t=c.domain;c.cookie="fs_uid=;domain="+t+";path=/;expires="+new Date(0),!((n=t.indexOf("."))<0);)t=t.slice(n+1)}));var u,c,d,f,p,g;m=window,h=document,v=void 0,y=void 0,b=void 0,m.fbq||(v=m.fbq=function(){v.callMethod?v.callMethod.apply(v,arguments):v.queue.push(arguments)},m._fbq||(m._fbq=v),v.push=v,v.loaded=!0,v.version="2.0",v.queue=[],(y=h.createElement("script")).async=!0,y.src="https://connect.facebook.net/en_US/fbevents.js",(b=h.getElementsByTagName("script")[0]).parentNode.insertBefore(y,b));var m,h,v,y,b;fbq("init","811977302308093"),fbq("track","PageView")},{}],5:[function(e,t,n){var r=e("hbsfy/runtime");e("./compare.js"),e("./math.js"),r.registerHelper("trunc",function(e,t,n){if(null==e)return n;var o=e.substring(0,t);return o==e?e:new r.SafeString(o+"&#8230;")}),r.registerHelper("formatNumber",function(e,t){var n=2===t?/(\d)(?=(\d{3})+\.)/g:/(\d)(?=(\d{3})+$)/g;return e.toFixed(t).replace(n,"$1,")})},{"./compare.js":6,"./math.js":7,"hbsfy/runtime":38}],6:[function(e,t,n){var r=r||e("hbsfy/runtime");r.registerHelper("compare",function(e,t,n,r){var o;if(arguments.length<3)throw new Error("Handlerbars Helper 'compare' needs 2 parameters");if(void 0===r&&(r=n,n=t,t="==="),!(o={"==":function(e,t){return e==t},"===":function(e,t){return e===t},"!=":function(e,t){return e!=t},"!==":function(e,t){return e!==t},"<":function(e,t){return e<t},">":function(e,t){return e>t},"<=":function(e,t){return e<=t},">=":function(e,t){return e>=t},typeof:function(e,t){return typeof e==t}})[t])throw new Error("Handlerbars Helper 'compare' doesn't know the operator "+t);return o[t](e,n)?r.fn(this):r.inverse(this)})},{"hbsfy/runtime":38}],7:[function(e,t,n){var r=r||e("hbsfy/runtime");r.registerHelper("math",function(e,t,n,r,o){var a={"+":(e=parseFloat(e))+(n=parseFloat(n)),"-":e-n,"*":e*n,"/":e/n,"%":e%n}[t];return r?a.toFixed(r):a})},{"hbsfy/runtime":38}],8:[function(e,t,n){var r=e("./myAjax.bsfy"),o=e("./runWhenPresent.bsfy"),a=e("../templates/cartItems.hbs"),i=gg.cookie.getValue("gg_CartId");i&&r("/dy/cart/ajax/gg.html",function(e){o("js-cartItems",function(t){for(var n=0;n<t.length;n++)t[n].innerHTML=a(JSON.parse(e))})},"cmd=countItems&gcart="+i)},{"../templates/cartItems.hbs":17,"./myAjax.bsfy":12,"./runWhenPresent.bsfy":14}],9:[function(e,t,n){function r(e,t){var n=e+"=",r=document.cookie,o=null;return r.length>0&&(offset=r.indexOf(n),-1!=offset&&(offset+=n.length,end=r.indexOf(";",offset),-1==end&&(end=r.length),o=decodeURIComponent(r.substring(offset,end)))),o}function o(e,t,n,r){var o=e+"="+t;if(null!=n){var a=new Date,i=new Date;i.setTime(a.getTime()+864e5*n),o+="; expires="+i.toGMTString()}return null!=r&&(o+="; PATH="+r),document.cookie=o,null}function a(e,t,n,r){o(e,t=function(e){null!=e&&""!=e&&'"'!=e.charAt(0)&&'"'!=e.charAt(e.length-1)&&(e='"'+e+'"');return e}(t),n,r)}t.exports={getValue:r,set:o,setUnescaped:a,exists:function(e){return null!=r(e)},remove:function(e,t){t||(t="/"),a(e,"Deleted",-1,t)}}},{}],10:[function(e,t,n){t.exports=function(e,t,n){var r=!1;$("html").on("click touchstart",function(){!r&&$(e).is(":visible")&&($(e).hide(),n&&"function"==typeof n&&n()),r=!1}).on("click touchstart",t,function(e){r=!0})}},{}],11:[function(e,t,n){e("./hide.bsfy");var r=e("./runWhenPresent.bsfy"),o=e("./myAjax.bsfy"),a=e("../../../login-static/headerContent.hbs"),i=e("../../../login-static/loggedInAsUser.hbs"),s=!1;function l(t){o(t,function(t){!function(t){var n=t||[];s&&console.log(n);n.url=window.location.href,n.modalLogin=gg.modalLogin;var o=a(n);r("js-login",function(t){for(var r=0;r<t.length;r++)t[r].innerHTML=o;n.succeeded?(e("./userCurrency.bsfy").updateDisplayedCurrencyCode(n.currencyCode),document.getElementsByClassName("js-loginName")[0].addEventListener("click",u,!1),document.getElementsByClassName("js-logout")[0].addEventListener("click",c,!1),deferred.push(function(){var e=!1;$("html").on("click touchstart",function(){!e&&$(".loginPerms").hasClass("loginPerms_open")&&u(),e=!1}).on("click touchstart",".js-loginName, .loginPerms",function(t){e=!0})})):gg.modalLogin&&deferred.push(modalInit)}),null!=n&&null!=n.uauserid?(ga("set","&uid",n.uauserid),s&&console.log("uauserid=["+n.uauserid+"]"),null!=mixpanel&&mixpanel.__loaded&&(mixpanel.register({uauserid:n.uauserid}),mixpanel.identify(n.uauserid),mixpanel.people.set({$first_name:n.fname,$last_name:n.lname}))):s&&console.log("anonymous")}(JSON.parse(t))})}function u(){document.getElementsByClassName("loginPerms")[0].classList.toggle("loginPerms_open")}function c(e){o("/dy/j_spring_security_logout?xlogout=true",function(){gg.cookie.remove("gg_rememberMe","/"),gg.cookie.remove("gg_globalgive","/"),gg.cookie.remove("ggLoginName","/"),e&&(location.href=location.protocol+"//"+location.host+"/index.html")})}null!=gg.cookie.getValue("ggLoginName")&&gg.cookie.exists("gg_globalgive")||!gg.cookie.exists("gg_rememberMe")?(s&&console.log("getting login info from /dy/v2/gg/login/json"),l("/dy/v2/gg/login/json")):l("/dy/j_spring_security_check?xautologin=true"),gg.cookie.getValue("gg_as_me")&&deferred.push(function(){$(document.body).prepend(i())})},{"../../../login-static/headerContent.hbs":1,"../../../login-static/loggedInAsUser.hbs":2,"./hide.bsfy":10,"./myAjax.bsfy":12,"./runWhenPresent.bsfy":14,"./userCurrency.bsfy":16}],12:[function(e,t,n){t.exports=function(e,t,n){var r=new XMLHttpRequest;r.onreadystatechange=function(){r.readyState==XMLHttpRequest.DONE&&(200==r.status?t(r.responseText):400==r.status?console.log("Login failed: error 400"):console.log("Login failed: unknown error"))},n?(r.open("POST",e,!0),r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.send(n)):(r.open("GET",e,!0),r.send())}},{}],13:[function(e,t,n){t.exports={getUrlParam:function(e,t){void 0==t&&(t=location.search);for(var n=!1,r=t.substring(1,t.length).split("&"),o=0;o<r.length;o++)param_name=r[o].substring(0,r[o].indexOf("=")),param_name==e&&(n=r[o].substring(r[o].indexOf("=")+1));return n||!1}}},{}],14:[function(e,t,n){t.exports=function e(t,n){var r=document.getElementsByClassName(t);r.length?n(r):setTimeout(function(){e(t,n)},100)}},{}],15:[function(e,t,n){e("../deps/thirdPartyTracking.bsfy");var r=e("./params.bsfy");function o(e){var t=document.referrer;if(-1==t.indexOf("globalgiving")||t.indexOf("globalgiving")>14||e&&null!=e){var n=gg.cookie.getValue("ggRefCode"),r=n||e||t;r&&gg.cookie.setUnescaped("ggRefCode",r,365,"/");var o=e||t||n;o&&gg.cookie.setUnescaped("ggConversionCode",o,null,"/")}}r.getUrlParam("rf")?o(r.getUrlParam("rf")):o(null),t.exports={assignRefAndConversionCode:o}},{"../deps/thirdPartyTracking.bsfy":4,"./params.bsfy":13}],16:[function(e,t,n){e("../helpers/compare.js"),t.exports={preferred:function(){return s.currencies[c()]},updateDisplayedCurrencyCode:u,setCurrentCartCurrencyCode:function(e){c(e),u(e)},disableUserSelection:function(){var e=document.getElementsByClassName(i);if(e.length)for(var t=0;t<e.length;t++)e[t].disabled=!0,e[t].classList.add("currency-locked"),e[t].parentNode.classList.add("icon-locked")}};var r=e("./runWhenPresent.bsfy"),o=e("../templates/currency.hbs"),a="preferredCurrency",i="js-global-user-currency-select";gg.userCurrencyModel=gg.userCurrencyModel||{currencies:{USD:{symbol:"$",code:"USD",name:"United States Dollars",minimunDonationAmount:10},GBP:{symbol:"£",code:"GBP",name:"United Kingdom Pounds",minimunDonationAmount:5}},preferredCurrencyCode:c(),displayCurrencyCode:c()};var s=gg.userCurrencyModel;r(i,l);function l(e){for(var t=o(s),n=0;n<e.length;n++)e[n].innerHTML=t,e[n].onchange=function(){c(this[this.selectedIndex].value),location.reload()}}function u(e){void 0!==e&&void 0!==s.currencies[e]&&(s.displayCurrencyCode=e,function(){var e=document.getElementsByClassName(i);e.length&&l(e)}())}function c(e){var t=function(){if(gg.cookie.exists(a))return gg.cookie.getValue(a);return"USD"}();if(0==arguments.length)return t;if(e)return n=e,gg.cookie.set(a,n,null,"/"),t;var n;return gg.cookie.remove(a),t}},{"../helpers/compare.js":6,"../templates/currency.hbs":18,"./runWhenPresent.bsfy":14}],17:[function(e,t,n){var r=e("hbsfy/runtime");t.exports=r.template({1:function(e,t,n,r,o){var a,i=null!=t?t:{},s=n.helperMissing;return(null!=(a=(n.compare||t&&t.compare||s).call(i,null!=t?t.numItems:t,">",9,{name:"compare",hash:{},fn:e.program(2,o,0),inverse:e.noop,data:o}))?a:"")+(null!=(a=(n.compare||t&&t.compare||s).call(i,null!=t?t.numItems:t,"<=",9,{name:"compare",hash:{},fn:e.program(4,o,0),inverse:e.noop,data:o}))?a:"")},2:function(e,t,n,r,o){return'      <div class="circleIcon col_ggSecondary3 layout_abs layout_abs_bottomRightOutside text_fontSizeSmallest">9+</div>\n'},4:function(e,t,n,r,o){var a;return'      <div class="circleIcon col_ggSecondary3 layout_abs layout_abs_bottomRightOutside text_fontSizeSmaller">'+e.escapeExpression((a=null!=(a=n.numItems||(null!=t?t.numItems:t))?a:n.helperMissing,"function"==typeof a?a.call(null!=t?t:{},{name:"numItems",hash:{},data:o}):a))+"</div>\n"},compiler:[7,">= 4.0.0"],main:function(e,t,n,r,o){var a;return null!=(a=(n.compare||t&&t.compare||n.helperMissing).call(null!=t?t:{},null!=t?t.numItems:t,">",0,{name:"compare",hash:{},fn:e.program(1,o,0),inverse:e.noop,data:o}))?a:""},useData:!0})},{"hbsfy/runtime":38}],18:[function(e,t,n){var r=e("hbsfy/runtime");t.exports=r.template({1:function(e,t,n,r,o,a,i){var s,l,u=null!=t?t:{},c=n.helperMissing,d=e.escapeExpression;return"   <option "+(null!=(s=(n.compare||t&&t.compare||c).call(u,o&&o.key,"===",null!=i[1]?i[1].displayCurrencyCode:i[1],{name:"compare",hash:{},fn:e.program(2,o,0,a,i),inverse:e.noop,data:o}))?s:"")+' value="'+d((l=null!=(l=n.key||o&&o.key)?l:c,"function"==typeof l?l.call(u,{name:"key",hash:{},data:o}):l))+'">'+d((l=null!=(l=n.symbol||(null!=t?t.symbol:t))?l:c,"function"==typeof l?l.call(u,{name:"symbol",hash:{},data:o}):l))+" "+d((l=null!=(l=n.code||(null!=t?t.code:t))?l:c,"function"==typeof l?l.call(u,{name:"code",hash:{},data:o}):l))+"</option>\n"},2:function(e,t,n,r,o){return"selected"},compiler:[7,">= 4.0.0"],main:function(e,t,n,r,o,a,i){var s;return null!=(s=n.each.call(null!=t?t:{},null!=t?t.currencies:t,{name:"each",hash:{},fn:e.program(1,o,0,a,i),inverse:e.noop,data:o}))?s:""},useData:!0,useDepths:!0})},{"hbsfy/runtime":38}],19:[function(e,t,n){"use strict";n.__esModule=!0;function r(e){return e&&e.__esModule?e:{default:e}}function o(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&(t[n]=e[n]);return t.default=e,t}var a=o(e("./handlebars/base")),i=r(e("./handlebars/safe-string")),s=r(e("./handlebars/exception")),l=o(e("./handlebars/utils")),u=o(e("./handlebars/runtime")),c=r(e("./handlebars/no-conflict"));function d(){var e=new a.HandlebarsEnvironment;return l.extend(e,a),e.SafeString=i.default,e.Exception=s.default,e.Utils=l,e.escapeExpression=l.escapeExpression,e.VM=u,e.template=function(t){return u.template(t,e)},e}var f=d();f.create=d,c.default(f),f.default=f,n.default=f,t.exports=n.default},{"./handlebars/base":20,"./handlebars/exception":23,"./handlebars/no-conflict":33,"./handlebars/runtime":34,"./handlebars/safe-string":35,"./handlebars/utils":36}],20:[function(e,t,n){"use strict";n.__esModule=!0,n.HandlebarsEnvironment=c;function r(e){return e&&e.__esModule?e:{default:e}}var o=e("./utils"),a=r(e("./exception")),i=e("./helpers"),s=e("./decorators"),l=r(e("./logger"));n.VERSION="4.0.3";n.COMPILER_REVISION=7;n.REVISION_CHANGES={1:"<= 1.0.rc.2",2:"== 1.0.0-rc.3",3:"== 1.0.0-rc.4",4:"== 1.x.x",5:"== 2.0.0-alpha.x",6:">= 2.0.0-beta.1",7:">= 4.0.0"};var u="[object Object]";function c(e,t,n){this.helpers=e||{},this.partials=t||{},this.decorators=n||{},i.registerDefaultHelpers(this),s.registerDefaultDecorators(this)}c.prototype={constructor:c,logger:l.default,log:l.default.log,registerHelper:function(e,t){if(o.toString.call(e)===u){if(t)throw new a.default("Arg not supported with multiple helpers");o.extend(this.helpers,e)}else this.helpers[e]=t},unregisterHelper:function(e){delete this.helpers[e]},registerPartial:function(e,t){if(o.toString.call(e)===u)o.extend(this.partials,e);else{if(void 0===t)throw new a.default("Attempting to register a partial as undefined");this.partials[e]=t}},unregisterPartial:function(e){delete this.partials[e]},registerDecorator:function(e,t){if(o.toString.call(e)===u){if(t)throw new a.default("Arg not supported with multiple decorators");o.extend(this.decorators,e)}else this.decorators[e]=t},unregisterDecorator:function(e){delete this.decorators[e]}};var d=l.default.log;n.log=d,n.createFrame=o.createFrame,n.logger=l.default},{"./decorators":21,"./exception":23,"./helpers":24,"./logger":32,"./utils":36}],21:[function(e,t,n){"use strict";n.__esModule=!0,n.registerDefaultDecorators=function(e){a.default(e)};var r,o=e("./decorators/inline"),a=(r=o,r&&r.__esModule?r:{default:r})},{"./decorators/inline":22}],22:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n.default=function(e){e.registerDecorator("inline",function(e,t,n,o){var a=e;return t.partials||(t.partials={},a=function(o,a){var i=n.partials;n.partials=r.extend({},i,t.partials);var s=e(o,a);return n.partials=i,s}),t.partials[o.args[0]]=o.fn,a})},t.exports=n.default},{"../utils":36}],23:[function(e,t,n){"use strict";n.__esModule=!0;var r=["description","fileName","lineNumber","message","name","number","stack"];function o(e,t){var n=t&&t.loc,a=void 0,i=void 0;n&&(e+=" - "+(a=n.start.line)+":"+(i=n.start.column));for(var s=Error.prototype.constructor.call(this,e),l=0;l<r.length;l++)this[r[l]]=s[r[l]];Error.captureStackTrace&&Error.captureStackTrace(this,o),n&&(this.lineNumber=a,this.column=i)}o.prototype=new Error,n.default=o,t.exports=n.default},{}],24:[function(e,t,n){"use strict";n.__esModule=!0,n.registerDefaultHelpers=function(e){o.default(e),a.default(e),i.default(e),s.default(e),l.default(e),u.default(e),c.default(e)};function r(e){return e&&e.__esModule?e:{default:e}}var o=r(e("./helpers/block-helper-missing")),a=r(e("./helpers/each")),i=r(e("./helpers/helper-missing")),s=r(e("./helpers/if")),l=r(e("./helpers/log")),u=r(e("./helpers/lookup")),c=r(e("./helpers/with"))},{"./helpers/block-helper-missing":25,"./helpers/each":26,"./helpers/helper-missing":27,"./helpers/if":28,"./helpers/log":29,"./helpers/lookup":30,"./helpers/with":31}],25:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n.default=function(e){e.registerHelper("blockHelperMissing",function(t,n){var o=n.inverse,a=n.fn;if(!0===t)return a(this);if(!1===t||null==t)return o(this);if(r.isArray(t))return t.length>0?(n.ids&&(n.ids=[n.name]),e.helpers.each(t,n)):o(this);if(n.data&&n.ids){var i=r.createFrame(n.data);i.contextPath=r.appendContextPath(n.data.contextPath,n.name),n={data:i}}return a(t,n)})},t.exports=n.default},{"../utils":36}],26:[function(e,t,n){"use strict";n.__esModule=!0;var r,o=e("../utils"),a=e("../exception"),i=(r=a,r&&r.__esModule?r:{default:r});n.default=function(e){e.registerHelper("each",function(e,t){if(!t)throw new i.default("Must pass iterator to #each");var n=t.fn,r=t.inverse,a=0,s="",l=void 0,u=void 0;t.data&&t.ids&&(u=o.appendContextPath(t.data.contextPath,t.ids[0])+"."),o.isFunction(e)&&(e=e.call(this)),t.data&&(l=o.createFrame(t.data));function c(t,r,a){l&&(l.key=t,l.index=r,l.first=0===r,l.last=!!a,u&&(l.contextPath=u+t)),s+=n(e[t],{data:l,blockParams:o.blockParams([e[t],t],[u+t,null])})}if(e&&"object"==typeof e)if(o.isArray(e))for(var d=e.length;a<d;a++)a in e&&c(a,a,a===e.length-1);else{var f=void 0;for(var p in e)e.hasOwnProperty(p)&&(void 0!==f&&c(f,a-1),f=p,a++);void 0!==f&&c(f,a-1,!0)}return 0===a&&(s=r(this)),s})},t.exports=n.default},{"../exception":23,"../utils":36}],27:[function(e,t,n){"use strict";n.__esModule=!0;var r,o=e("../exception"),a=(r=o,r&&r.__esModule?r:{default:r});n.default=function(e){e.registerHelper("helperMissing",function(){if(1!==arguments.length)throw new a.default('Missing helper: "'+arguments[arguments.length-1].name+'"')})},t.exports=n.default},{"../exception":23}],28:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n.default=function(e){e.registerHelper("if",function(e,t){return r.isFunction(e)&&(e=e.call(this)),!t.hash.includeZero&&!e||r.isEmpty(e)?t.inverse(this):t.fn(this)}),e.registerHelper("unless",function(t,n){return e.helpers.if.call(this,t,{fn:n.inverse,inverse:n.fn,hash:n.hash})})},t.exports=n.default},{"../utils":36}],29:[function(e,t,n){"use strict";n.__esModule=!0,n.default=function(e){e.registerHelper("log",function(){for(var t=[void 0],n=arguments[arguments.length-1],r=0;r<arguments.length-1;r++)t.push(arguments[r]);var o=1;null!=n.hash.level?o=n.hash.level:n.data&&null!=n.data.level&&(o=n.data.level),t[0]=o,e.log.apply(e,t)})},t.exports=n.default},{}],30:[function(e,t,n){"use strict";n.__esModule=!0,n.default=function(e){e.registerHelper("lookup",function(e,t){return e&&e[t]})},t.exports=n.default},{}],31:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("../utils");n.default=function(e){e.registerHelper("with",function(e,t){r.isFunction(e)&&(e=e.call(this));var n=t.fn;if(r.isEmpty(e))return t.inverse(this);var o=t.data;return t.data&&t.ids&&((o=r.createFrame(t.data)).contextPath=r.appendContextPath(t.data.contextPath,t.ids[0])),n(e,{data:o,blockParams:r.blockParams([e],[o&&o.contextPath])})})},t.exports=n.default},{"../utils":36}],32:[function(e,t,n){"use strict";n.__esModule=!0;var r=e("./utils"),o={methodMap:["debug","info","warn","error"],level:"info",lookupLevel:function(e){if("string"==typeof e){var t=r.indexOf(o.methodMap,e.toLowerCase());e=t>=0?t:parseInt(e,10)}return e},log:function(e){if(e=o.lookupLevel(e),"undefined"!=typeof console&&o.lookupLevel(o.level)<=e){var t=o.methodMap[e];console[t]||(t="log");for(var n=arguments.length,r=Array(n>1?n-1:0),a=1;a<n;a++)r[a-1]=arguments[a];console[t].apply(console,r)}}};n.default=o,t.exports=n.default},{"./utils":36}],33:[function(e,t,n){(function(e){"use strict";n.__esModule=!0,n.default=function(t){var n=void 0!==e?e:window,r=n.Handlebars;t.noConflict=function(){n.Handlebars===t&&(n.Handlebars=r)}},t.exports=n.default}).call(this,"undefined"!=typeof global?global:"undefined"!=typeof self?self:"undefined"!=typeof window?window:{})},{}],34:[function(e,t,n){"use strict";n.__esModule=!0,n.checkRevision=function(e){var t=e&&e[0]||1,n=s.COMPILER_REVISION;if(t!==n){if(t<n){var r=s.REVISION_CHANGES[n],o=s.REVISION_CHANGES[t];throw new i.default("Template was precompiled with an older version of Handlebars than the current runtime. Please update your precompiler to a newer version ("+r+") or downgrade your runtime to an older version ("+o+").")}throw new i.default("Template was precompiled with a newer version of Handlebars than the current runtime. Please update your runtime to a newer version ("+e[1]+").")}},n.template=function(e,t){if(!t)throw new i.default("No environment passed to template");if(!e||!e.main)throw new i.default("Unknown template object: "+typeof e);e.main.decorator=e.main_d,t.VM.checkRevision(e.compiler);var n={strict:function(e,t){if(!(t in e))throw new i.default('"'+t+'" not defined in '+e);return e[t]},lookup:function(e,t){for(var n=e.length,r=0;r<n;r++)if(e[r]&&null!=e[r][t])return e[r][t]},lambda:function(e,t){return"function"==typeof e?e.call(t):e},escapeExpression:o.escapeExpression,invokePartial:function(n,r,a){a.hash&&(r=o.extend({},r,a.hash),a.ids&&(a.ids[0]=!0));n=t.VM.resolvePartial.call(this,n,r,a);var s=t.VM.invokePartial.call(this,n,r,a);null==s&&t.compile&&(a.partials[a.name]=t.compile(n,e.compilerOptions,t),s=a.partials[a.name](r,a));{if(null!=s){if(a.indent){for(var l=s.split("\n"),u=0,c=l.length;u<c&&(l[u]||u+1!==c);u++)l[u]=a.indent+l[u];s=l.join("\n")}return s}throw new i.default("The partial "+a.name+" could not be compiled when running in runtime-only mode")}},fn:function(t){var n=e[t];return n.decorator=e[t+"_d"],n},programs:[],program:function(e,t,n,r,o){var a=this.programs[e],i=this.fn(e);return t||o||r||n?a=l(this,e,i,t,n,r,o):a||(a=this.programs[e]=l(this,e,i)),a},data:function(e,t){for(;e&&t--;)e=e._parent;return e},merge:function(e,t){var n=e||t;return e&&t&&e!==t&&(n=o.extend({},t,e)),n},noop:t.VM.noop,compilerInfo:e.compiler};function r(t){var o=arguments.length<=1||void 0===arguments[1]?{}:arguments[1],a=o.data;r._setup(o),!o.partial&&e.useData&&(a=function(e,t){t&&"root"in t||((t=t?s.createFrame(t):{}).root=e);return t}(t,a));var i=void 0,l=e.useBlockParams?[]:void 0;e.useDepths&&(i=o.depths?t!==o.depths[0]?[t].concat(o.depths):o.depths:[t]);function u(t){return""+e.main(n,t,n.helpers,n.partials,a,l,i)}return(u=c(e.main,u,n,o.depths||[],a,l))(t,o)}return r.isTop=!0,r._setup=function(r){r.partial?(n.helpers=r.helpers,n.partials=r.partials,n.decorators=r.decorators):(n.helpers=n.merge(r.helpers,t.helpers),e.usePartial&&(n.partials=n.merge(r.partials,t.partials)),(e.usePartial||e.useDecorators)&&(n.decorators=n.merge(r.decorators,t.decorators)))},r._child=function(t,r,o,a){if(e.useBlockParams&&!o)throw new i.default("must pass block params");if(e.useDepths&&!a)throw new i.default("must pass parent depths");return l(n,t,e[t],r,0,o,a)},r},n.wrapProgram=l,n.resolvePartial=function(e,t,n){e?e.call||n.name||(n.name=e,e=n.partials[e]):e="@partial-block"===n.name?n.data["partial-block"]:n.partials[n.name];return e},n.invokePartial=function(e,t,n){n.partial=!0,n.ids&&(n.data.contextPath=n.ids[0]||n.data.contextPath);var r=void 0;n.fn&&n.fn!==u&&(n.data=s.createFrame(n.data),(r=n.data["partial-block"]=n.fn).partials&&(n.partials=o.extend({},n.partials,r.partials)));void 0===e&&r&&(e=r);{if(void 0===e)throw new i.default("The partial "+n.name+" could not be found");if(e instanceof Function)return e(t,n)}},n.noop=u;var r,o=function(e){if(e&&e.__esModule)return e;var t={};if(null!=e)for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&(t[n]=e[n]);return t.default=e,t}(e("./utils")),a=e("./exception"),i=(r=a,r&&r.__esModule?r:{default:r}),s=e("./base");function l(e,t,n,r,o,a,i){function s(t){var o=arguments.length<=1||void 0===arguments[1]?{}:arguments[1],s=i;return i&&t!==i[0]&&(s=[t].concat(i)),n(e,t,e.helpers,e.partials,o.data||r,a&&[o.blockParams].concat(a),s)}return(s=c(n,s,e,i,r,a)).program=t,s.depth=i?i.length:0,s.blockParams=o||0,s}function u(){return""}function c(e,t,n,r,a,i){if(e.decorator){var s={};t=e.decorator(t,s,n,r&&r[0],a,i,r),o.extend(t,s)}return t}},{"./base":20,"./exception":23,"./utils":36}],35:[function(e,t,n){"use strict";n.__esModule=!0;function r(e){this.string=e}r.prototype.toString=r.prototype.toHTML=function(){return""+this.string},n.default=r,t.exports=n.default},{}],36:[function(e,t,n){"use strict";n.__esModule=!0,n.extend=s,n.indexOf=function(e,t){for(var n=0,r=e.length;n<r;n++)if(e[n]===t)return n;return-1},n.escapeExpression=function(e){if("string"!=typeof e){if(e&&e.toHTML)return e.toHTML();if(null==e)return"";if(!e)return e+"";e=""+e}if(!a.test(e))return e;return e.replace(o,i)},n.isEmpty=function(e){return!e&&0!==e||!(!c(e)||0!==e.length)},n.createFrame=function(e){var t=s({},e);return t._parent=e,t},n.blockParams=function(e,t){return e.path=t,e},n.appendContextPath=function(e,t){return(e?e+".":"")+t};var r={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#x27;","`":"&#x60;","=":"&#x3D;"},o=/[&<>"'`=]/g,a=/[&<>"'`=]/;function i(e){return r[e]}function s(e){for(var t=1;t<arguments.length;t++)for(var n in arguments[t])Object.prototype.hasOwnProperty.call(arguments[t],n)&&(e[n]=arguments[t][n]);return e}var l=Object.prototype.toString;n.toString=l;var u=function(e){return"function"==typeof e};u(/x/)&&(n.isFunction=u=function(e){return"function"==typeof e&&"[object Function]"===l.call(e)}),n.isFunction=u;var c=Array.isArray||function(e){return!(!e||"object"!=typeof e)&&"[object Array]"===l.call(e)};n.isArray=c},{}],37:[function(e,t,n){t.exports=e("./dist/cjs/handlebars.runtime").default},{"./dist/cjs/handlebars.runtime":19}],38:[function(e,t,n){t.exports=e("handlebars/runtime").default},{"handlebars/runtime":37}]},{},[3]);
+
+      
+
+      
+    	   
+
+            loadJS("/v2/js/deps/jquery-1.11.2.min.js",function(){
+               loadJS("/v2/js/minimal.js");
+            });
+
+     		
+      
+   </script>
+   <script type="text/javascript" src="/v2/js/eu_cookies.js" async></script>
+
+<!-- ****** STYLESHEETS ***** -->
+   
+
+   
+      <link rel="stylesheet" type="text/css" href="/v2/css/minimal.css">
+   
+
+   
+
+<!--[if lte IE 9]>
+   <link href="/css/patches/ie_patch.css" rel="stylesheet" type="text/css"/>
+   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+  
+   </head> 
+
+<body class='
+   
+	
+	
+'>
+   <script type="text/javascript">
+	  	//fontfaceobserver
+	(function(){'use strict';var f=[];function g(a){f.push(a);1===f.length&&l()}function m(){for(;f.length;)f[0](),f.shift()}if(window.MutationObserver){var n=document.createElement("div");(new MutationObserver(m)).observe(n,{attributes:!0});var l=function(){n.setAttribute("x",0)}}else l=function(){setTimeout(m)};function p(a){this.a=q;this.b=void 0;this.f=[];var b=this;try{a(function(a){r(b,a)},function(a){t(b,a)})}catch(c){t(b,c)}}var q=2;function u(a){return new p(function(b,c){c(a)})}function v(a){return new p(function(b){b(a)})}
+	function r(a,b){if(a.a===q){if(b===a)throw new TypeError("Promise settled with itself.");var c=!1;try{var d=b&&b.then;if(null!==b&&"object"===typeof b&&"function"===typeof d){d.call(b,function(b){c||r(a,b);c=!0},function(b){c||t(a,b);c=!0});return}}catch(e){c||t(a,e);return}a.a=0;a.b=b;w(a)}}function t(a,b){if(a.a===q){if(b===a)throw new TypeError("Promise settled with itself.");a.a=1;a.b=b;w(a)}}
+	function w(a){g(function(){if(a.a!==q)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0===a.a?"function"===typeof c?e(c.call(void 0,a.b)):e(a.b):1===a.a&&("function"===typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}p.prototype.g=function(a){return this.c(void 0,a)};p.prototype.c=function(a,b){var c=this;return new p(function(d,e){c.f.push([a,b,d,e]);w(c)})};
+	function x(a){return new p(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e===a.length&&b(h)}}var e=0,h=[];0===a.length&&b(h);for(var k=0;k<a.length;k+=1)a[k].c(d(k),c)})}function y(a){return new p(function(b,c){for(var d=0;d<a.length;d+=1)a[d].c(b,c)})};window.Promise||(window.Promise=p,window.Promise.resolve=v,window.Promise.reject=u,window.Promise.race=y,window.Promise.all=x,window.Promise.prototype.then=p.prototype.c,window.Promise.prototype["catch"]=p.prototype.g);}());
+
+	(function(){'use strict';function h(a){document.body?a():document.addEventListener("DOMContentLoaded",a)};function v(a){this.a=document.createElement("div");this.a.setAttribute("aria-hidden","true");this.a.appendChild(document.createTextNode(a));this.b=document.createElement("span");this.c=document.createElement("span");this.h=document.createElement("span");this.g=document.createElement("span");this.f=-1;this.b.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";this.c.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";
+	this.g.style.cssText="display:inline-block;position:absolute;height:100%;width:100%;overflow:scroll;font-size:16px;";this.h.style.cssText="display:inline-block;width:200%;height:200%;font-size:16px;";this.b.appendChild(this.h);this.c.appendChild(this.g);this.a.appendChild(this.b);this.a.appendChild(this.c)}
+	function w(a,c,b){a.a.style.cssText="min-width:20px;min-height:20px;display:inline-block;overflow:hidden;position:absolute;width:auto;margin:0;padding:0;top:-999px;left:-999px;white-space:nowrap;font-size:100px;font-family:"+c+";"+b}function x(a){var c=a.a.offsetWidth,b=c+100;a.g.style.width=b+"px";a.c.scrollLeft=b;a.b.scrollLeft=a.b.scrollWidth+100;return a.f!==c?(a.f=c,!0):!1}
+	function y(a,c){a.b.addEventListener("scroll",function(){x(a)&&null!==a.a.parentNode&&c(a.f)},!1);a.c.addEventListener("scroll",function(){x(a)&&null!==a.a.parentNode&&c(a.f)},!1);x(a)};function z(a,c){var b=c||{};this.family=a;this.style=b.style||"normal";this.variant=b.variant||"normal";this.weight=b.weight||"normal";this.stretch=b.stretch||"stretch";this.featureSettings=b.featureSettings||"normal"}var B=null;
+	z.prototype.a=function(a,c){var b=a||"BESbswy",C=c||3E3,k="font-style:"+this.style+";font-variant:"+this.variant+";font-weight:"+this.weight+";font-stretch:"+this.stretch+";font-feature-settings:"+this.featureSettings+";-moz-font-feature-settings:"+this.featureSettings+";-webkit-font-feature-settings:"+this.featureSettings+";",g=document.createElement("div"),l=new v(b),m=new v(b),n=new v(b),d=-1,e=-1,f=-1,q=-1,r=-1,t=-1,p=this;return new Promise(function(a,b){function c(){null!==g.parentNode&&g.parentNode.removeChild(g)}
+	function u(){if(-1!==d&&-1!==e||-1!==d&&-1!==f||-1!==e&&-1!==f)if(d===e||d===f||e===f){if(null===B){var b=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent);B=!!b&&(536>parseInt(b[1],10)||536===parseInt(b[1],10)&&11>=parseInt(b[2],10))}B?d===q&&e===q&&f===q||d===r&&e===r&&f===r||d===t&&e===t&&f===t||(c(),a(p)):(c(),a(p))}}h(function(){function a(){if(Date.now()-D>=C)c(),b(p);else{var A=document.hidden;if(!0===A||void 0===A)d=l.a.offsetWidth,e=m.a.offsetWidth,f=n.a.offsetWidth,
+	u();setTimeout(a,50)}}var D=Date.now();w(l,"sans-serif",k);w(m,"serif",k);w(n,"monospace",k);g.appendChild(l.a);g.appendChild(m.a);g.appendChild(n.a);document.body.appendChild(g);q=l.a.offsetWidth;r=m.a.offsetWidth;t=n.a.offsetWidth;a();y(l,function(a){d=a;u()});w(l,p.family+",sans-serif",k);y(m,function(a){e=a;u()});w(m,p.family+",serif",k);y(n,function(a){f=a;u()});w(n,p.family+",monospace",k)})})};window.FontFaceObserver=z;window.FontFaceObserver.prototype.check=z.prototype.a;}());
+
+	if(FontFaceObserver){
+		var o1 = new FontFaceObserver('Open Sans',{weight: 400});
+		var o2 = new FontFaceObserver('Open Sans',{weight: 400,style: "italic"});
+		var o3 = new FontFaceObserver('Open Sans',{weight: 700});
+		var o4 = new FontFaceObserver('Open Sans',{weight: 700,style: "italic"});
+		var o5 = new FontFaceObserver('Open Sans',{weight: 800});
+	    Promise.all([
+	       o1.check(null,10000),
+	       o2.check(null,10000),
+	       o3.check(null,10000),
+	       o4.check(null,10000),
+	       o5.check(null,10000)
+	    ]).then(function(){
+	       document.body.className += " text_sansLoaded";
+	    }, function () {
+	      console.log('Font is not available');
+	    });
+
+      var o6 = new FontFaceObserver('Aleo',{weight: 300});
+      var o7 = new FontFaceObserver('Aleo',{weight: 400});
+		var o8 = new FontFaceObserver('Aleo',{weight: 700});
+	    Promise.all([
+	       o6.check(null,10000),
+          o7.check(null,10000),
+          o8.check(null,10000)
+	    ]).then(function(){
+	       document.body.className += " text_titleLoaded";
+	    }, function () {
+	      console.log('Font is not available');
+	    });
+	} else {
+	    document.body.className += " text_sansLoaded";
+	    document.body.className += " text_titleLoaded";
+	}
+   </script>
+	
+<header class="border_default border_top0 border_left0 border_right0">
+	<!-- include header_callout here when active -->
+
+   <div class="grid-parent layout_centerVertical">
+      <div class="grid-12 grid-parent layout_centerVertical layout_rel">
+         <div class="grid-8 grid-md-9 grid-lg-5 grid-parent layout_centerVertical">
+            <a href="/" class="grid-12 grid-md-6 grid-xl-5 box_horizontalPadded2 box_verticalPadded2 layout_centerVertical">
+               <img src="/img/logos/gg_horizontal_color_300.png"
+                  srcset="/img/logos/gg_horizontal_color_300.png 1x,
+                          /img/logos/gg_horizontal_color_600.png 2x"
+                  alt="GlobalGiving homepage" style="width:220px; max-width:100%;"/>
+            </a>
+            
+            <span class="grid-0 grid-lg-flex box_leftPadded2 box_verticalPadded3 layout_rel layout_centerVertical headerSearch-parent">
+               &nbsp;<a href="/search/" class="box_leftPaddedHalf text_allCaps col_ggPrimary1DarkText zindex_popupTop layout_rel">Explore&nbsp;Projects</a>
+               &nbsp;&nbsp;
+               <img src="/img/svg/icons/search_orange.svg" width="16" height="16">
+
+               <div class="grid-parent layout_abs layout_abs_left layout_abs_top zindex_popup border_default box_horizontalPadded6 box_topPadded2 box_bottomPadded3 layout_centerVertical col_white headerSearch-box">
+                  <span class="grid-4"></span>
+                  <form class="grid-8 border_default layout_centerVertical layout_alignRight box_rightPadded2 box_topMarginHalf" action="/search/">
+                     <input class="grid-11 input_text test-searchInput" type="text" placeholder="Search by keyword" name="keywords" title="Search by keyword"/>
+                     <input type="image" src="/img/svg/icons/search.svg" width="18">
+                  </form>
+                  <div class="grid-4 box_topPadded4 text_7n text_fontSizeSmall">
+                     <div class="grid-12 col_defaultText box_bottomPadded2">Top Themes</div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=edu" class="col_ggPrimary5LightText">Education</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=children" class="col_ggPrimary5LightText">Children</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=gender" class="col_ggPrimary5LightText">Women&nbsp;and&nbsp;Girls</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=health" class="col_ggPrimary5LightText">Health</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=ecdev" class="col_ggPrimary5LightText">Economic&nbsp;Development</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=rights" class="col_ggPrimary5LightText">Human&nbsp;Rights</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=env" class="col_ggPrimary5LightText">Environment</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=hunger" class="col_ggPrimary5LightText">Hunger</a></div>
+                     <div class="box_bottomPadded1"><a href="/search/?selectedThemes=disaster" class="col_ggPrimary5LightText">Disaster&nbsp;Recovery</a></div>
+                     <a href="/search/?selectedThemes=animals" class="col_ggPrimary5LightText">Animals</a>
+                  </div>
+                  <div class="grid-8 box_topPadded4 text_7n text_fontSizeSmall">
+                     <div class="grid-parent">
+                        <div class="grid5-2">
+                           <div class="grid-12 col_defaultText box_bottomPadded2">Top Countries</div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00india" class="col_ggPrimary5LightText">India</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00unista" class="col_ggPrimary5LightText">United&nbsp;States</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00kenya" class="col_ggPrimary5LightText">Kenya</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00uganda" class="col_ggPrimary5LightText">Uganda</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00nepal" class="col_ggPrimary5LightText">Nepal</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00souafr" class="col_ggPrimary5LightText">South&nbsp;Africa</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00pakist" class="col_ggPrimary5LightText">Pakistan</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00guatem" class="col_ggPrimary5LightText">Guatemala</a></div>
+                           <div class="box_bottomPadded1"><a href="/search/?selectedCountries=00unikin" class="col_ggPrimary5LightText">United&nbsp;Kingdom</a></div>
+                           <a href="/search/?selectedCountries=00mexico" class="col_ggPrimary5LightText">Mexico</a>
+                        </div>
+                        <div class="grid5-3">
+                           <div class="grid-12 box_bottomPadded1"><a href="/search/?sortField=total_raised_usd" class="col_defaultText">Top&nbsp;Funded&nbsp;Projects</a></div>
+                           <div class="grid-12 box_bottomPadded1"><a href="/search/?sortField=approveddt_orig" class="col_defaultText">Newest&nbsp;Projects</a></div>
+                           <div class="grid-12 box_bottomPadded1"><a href="/search/?sortField=percent_funded" class="col_defaultText">Projects&nbsp;Closest&nbsp;to&nbsp;Goal</a></div>
+                           <div class="grid-12 box_bottomPadded1"><a href="/search/?selectedRecognitions=staffFavorite" class="col_defaultText">Staff&nbsp;Favorites</a></div>
+                           <div class="grid-12 box_bottomPadded1"><a href="/search/?selectedRecognitions=effectiveNonprofit" class="col_defaultText">Most&nbsp;Effective</a></div>
+                           <div class="grid-12 box_bottomPadded1"><a href="/search/?selectedRecognitions=siteVisitVerified" class="col_defaultText">Site&nbsp;Visit&nbsp;Verified</a></div>
+                           <a href="/search/?selectedRecognitions=topRanked" class="col_defaultText">Top&nbsp;Ranked&nbsp;Projects</a>
+                           <div class="grid-12 box_topPadded3 box_verticalMarginHalf box_bottomPadded3"><a href="/search/?selectedThemes=disaster" class="col_ggSecondary3Text">Disaster Relief Projects</a></div>
+                           <a href="/search/" class="btn btn_simple">Browse All Projects</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </span>
+            
+         </div>
+         
+         <div class="grid-0 grid24-lg-11 text_fontSizeSmall ">
+            <nav class="grid-parent layout_centerVertical layout_alignRight">
+               <div class="grid-12">
+                  <a href="/aboutus/" class="col_ggPrimary5Text link_subtle text_4n">About&nbsp;Us</a>
+                  <a href="/learn/" class="col_ggPrimary5Text link_subtle box_leftPadded2 text_4n">Learn&nbsp;Library</a>
+                  <a href="/companies/" class="col_ggPrimary5Text link_subtle box_leftPadded2 text_4n">Corporate&nbsp;Giving</a>
+                  <span class="box_leftPadded2 layout_centerVertical" id="js-applyToJoin0">
+                     <script type="text/javascript">if(gg.cookie.exists("ggHasPERole")){document.getElementById("js-applyToJoin0").style.display="none";}</script>
+                     <a href="/apply/" class="btn btn_simple btn_transparent btn_ggPrimary3">Apply&nbsp;to&nbsp;Join</a>
+                  </span>
+               </div>
+            </nav>
+         </div>
+         <div class="grid-4 grid-md-3 grid24-lg-3 layout_centerVertical layout_alignRight box_rightPadded2">
+            <a href="/dy/v2/checkout/billing/" class="layout_centerVertical layout_rel link_subtle">
+               <img src="/img/svg/icons/giving_cart.svg" width=35 height=35 class="layout_block"/>
+               <span class="js-cartItems"></span>
+            </a>
+            <span class="col_ggPrimary3Text box_leftPadded5 box_rightPadded6 js-login">
+               <img src="/img/animated_gif/loading_arrow.gif" alt="Loading..."/>
+            </span>
+         </div>
+      </div>
+      <nav class="grid-12 grid-lg-0 layout_centerVertical border_default border_left0 border_right0 border_bottom0 box_verticalPadded2 box_horizontalPadded1 text_fontSizeSmall layout_center">
+
+         <a href="/search/" class="grid-lg-0 text_allCaps col_ggPrimary1DarkText layout_rel layout_centerVertical"><img src="/img/svg/icons/search_orange.svg" width="16" height="16"><span>&nbsp;Explore</span><span class="grid-0 grid-md-inline">&nbsp;Projects</span><a
+         href="/aboutus/" class="col_ggPrimary5Text link_subtle text_4n box_leftPadded3"><span>About</span><span class="grid-0 grid-md-inline">&nbsp;Us</span></a><a
+         href="/learn/" class="col_ggPrimary5Text link_subtle text_4n box_horizontalPadded3">Learn<span class="grid-0 grid-md-inline">&nbsp;Library</span></a><a
+         href="/companies/" class="col_ggPrimary5Text link_subtle text_4n">Corporate<span class="grid-0 grid-md-inline">&nbsp;Giving</span></a>
+      </nav>
+      
+   </div>
+</header>
+
+
+
+<link href="/404-static/404.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">deferred.push(['loadJS','/404-static/404.js']);</script>
+
+<section class="proj js-proj layout_rel layout_center box_verticalPadded6 box_horizontalPadded3 col_whiteText">
+   <div class="box_verticalPadded6">
+      <div class="box_verticalPadded6">
+         <h2 class="box_bottomPadded2 col_whiteText text_7n text_fontSizeJumbo">Error 404</h2>
+         <div class="box_bottomMargin0 text_fontSizeLarger text_title">We're really sorry, but we can't find the page you requested.</div>
+         <div class="box_bottomMargin2 text_fontSizeLarger text_title">Let's get you back on track.</div>
+         <div class="box_bottomMargin1"><a href="/" class="btn btn_transparent btn_simple btn_tall btn_fullWidth">Return To Homepage</a></div>
+         <a href="/give" class="btn btn_transparent btn_simple btn_short btn_halfWidth box_bottomMargin1">Find a project</a>&nbsp;&nbsp;<a href="https://help.globalgiving.org/" class="btn btn_transparent btn_simple btn_short btn_halfWidth box_bottomMargin1">Help center</a>
+         <div class="proj_text layout_abs text_4i layout_alignLeft">
+            <span class="js-projDesc"></span>
+            <span class="text_4i js-projBy"></span>
+            <a href="" class="js-projOrg col_whiteText text_underline text_4n"></a>
+         </div>
+      </div>
+   </div>
+</section>
+
+<!-- deprecated as part of the 2015 redesign -->
+      
+      <footer>
+         
+         <div class="col_ggSecondary1Darker">
+            <div class="grid-parent grid-padder box_topPadded4 box_bottomPadded3 box_horizontalPadded2 print_noPrint layout_centerVertical">
+               <div class="grid-12 layout_center">
+                  <a href="/"><img src="/img/logos/gg_horizontal_white_400.png" alt="GlobalGiving" border="0" style="width:200px; max-width:100%"/></a>
+                  <div class="text_fontSizeSmaller col_ggSecondary1LighterText box_topPadded3">
+                     <span id="footer_descrip1">GlobalGiving makes it easy and safe for you to give to local projects anywhere in the world,</span>
+                     <br class="grid-0 grid-lg-12" />
+                     <span id="footer_descrip2">while providing nonprofits with the tools, training, and support they need to become more effective.</span>
+                  </div>
+                  <div class="box_topPadded3">
+                     <a href="http://facebook.com/globalgiving" class="layout_centerVertical box_rightPadded1">
+                        <div class="sprite sprite_facebook_tan text_fontSizeZero">facebook</div></a>
+                     <a href="http://twitter.com/globalgiving" class="layout_centerVertical box_horizontalPadded1">
+                        <div class="sprite sprite_twitter_tan text_fontSizeZero">twitter</div></a>
+                     <a href="http://plus.google.com/+globalgiving" class="layout_centerVertical box_horizontalPadded1">
+                        <div class="sprite sprite_googlePlus_tan text_fontSizeZero">google plus</div></a>
+                     <a href="http://instagram.com/globalgiving" class="layout_centerVertical box_leftPadded1">
+                        <div class="sprite sprite_instagram_tan text_fontSizeZero">instagram</div></a>
+                  </div>
+               </div>
+               <nav class="grid-12 grid-parent box_topPadded3">
+                  <hr class="grid-12 grid-lg-0" />
+                  <div class="grid-12 grid5-lg-1">
+                     <h4 class="grid-parent box_verticalMargin1 layout_centerVertical">
+                        <a href="/give/" class="grid-11 grid-lg-12 col_ggPrimary1Text">Donors</a>
+                        <a href="javascript:void(0)" class="grid-1 grid-lg-0 js-footerChevron">
+                           <img src="/img/svg/icons/icon_chevron.svg" alt="toggle arrow" class="icon_chevron" width="16">
+                        </a>
+                     </h4>
+                     <div class="grid-0 grid-lg-12 text_fontSizeSmaller">
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/dy/v2/content/browse.html">Give to a Project</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/gifts/">Give or Redeem Gift Cards</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/gifts/inhonor/">Donate in Honor</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/project-of-the-month-club/">Project of the Month Club</a></div>
+                     </div>
+                  </div>
+                  <hr class="grid-12 grid-lg-0" />
+                  <div class="grid-12 grid5-lg-1">
+                     <h4 class="grid-parent box_verticalMargin1 layout_centerVertical">
+                        <a href="/nonprofits/" class="grid-11 grid-lg-12 col_ggPrimary1Text">Nonprofits</a>
+                        <a href="javascript:void(0)" class="grid-1 grid-lg-0 js-footerChevron">
+                           <img src="/img/svg/icons/icon_chevron.svg" alt="toggle arrow" class="icon_chevron" width="16">
+                        </a>
+                     </h4>
+                     <div class="grid-0 grid-lg-12 text_fontSizeSmaller">
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/apply/">Start an Application</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/nonprofits/">Why Join?</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="http://tools.blog.globalgiving.org/">Tools + Training</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/fee/">Pricing</a></div>
+                     </div>
+                  </div>
+                  <hr class="grid-12 grid-lg-0" />
+                  <div class="grid-12 grid5-lg-1">
+                     <h4 class="grid-parent box_verticalMargin1 layout_centerVertical">
+                        <a href="/companies/" class="grid-11 grid-lg-12 col_ggPrimary1Text">Companies</a>
+                        <a href="javascript:void(0)" class="grid-1 grid-lg-0 js-footerChevron">
+                           <img src="/img/svg/icons/icon_chevron.svg" alt="toggle arrow" class="icon_chevron" width="16">
+                        </a>
+                     </h4>
+                     <div class="grid-0 grid-lg-12 text_fontSizeSmaller">
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/">Our Services</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/partners/">Our Partners</a></div>
+                        <!--<div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/case-studies/">Case Studies</a></div>-->
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/companies/gift-cards/">Order Corporate Gift Cards</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/csr/">CSR Made Simple</a></div>
+                     </div>
+                  </div>
+                  <hr class="grid-12 grid-lg-0" />
+                  <div class="grid-12 grid5-lg-1">
+                     <h4 class="grid-parent box_verticalMargin1 layout_centerVertical">
+                        <a href="/aboutus/" class="grid-11 grid-lg-12 col_ggPrimary1Text">About Us</a>
+                        <a href="javascript:void(0)" class="grid-1 grid-lg-0 js-footerChevron">
+                           <img src="/img/svg/icons/icon_chevron.svg" alt="toggle arrow" class="icon_chevron" width="16">
+                        </a>
+                     </h4>
+                     <div class="grid-0 grid-lg-12 text_fontSizeSmaller">
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/who-we-are/staff/">Our Team</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/impact/">Our Impact</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/jobs/">Jobs</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/aboutus/contact/">Contact Us</a></div>
+                     </div>
+                  </div>
+                  <hr class="grid-12 grid-lg-0" />
+                  <div class="grid-12 grid5-lg-1">
+                     <h4 class="grid-parent box_verticalMargin1 layout_centerVertical">
+                        <a href="/learn/" class="grid-11 grid-lg-12 col_ggPrimary1Text">Learn Library</a>
+                        <a href="javascript:void(0)" class="grid-1 grid-lg-0 js-footerChevron">
+                           <img src="/img/svg/icons/icon_chevron.svg" alt="toggle arrow" class="icon_chevron" width="16">
+                        </a>
+                     </h4>
+                     <div class="grid-0 grid-lg-12 text_fontSizeSmaller">
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/learn/nonprofits/">Nonprofit Resources</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/learn/companies/">Corporate Giving Resources</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/learn/donors/">Donor Resources</a></div>
+                        <div class="box_bottomPadded2"><a class="col_whiteText" href="/learn/category/success-stories/">Success Stories</a></div>
+                     </div>
+                  </div>
+                  <hr class="grid-12 grid-lg-0" />
+               </nav>
+            </div>
+            <div class="text_fontSizeZero"><div class="grid-0 grid-lg-12 barSpacer_short col_ggSecondary1Dark"></div></div>
+            <div class="grid-padder grid-parent layout_centerVertical box_horizontalPadded2 box_bottomPadded1">
+               <a href="/aboutus/news-media/" class="grid-12 grid-lg-6 box_topPadded1 layout_center layout_lg_alignLeft">
+                  <div class="text_fontSizeZero">
+                     <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_wp layout_inlineBlock">Washington Post</div></div>
+                     <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_cnn layout_inlineBlock">CNN</div></div>
+                     <div class="layout_inlineBlock box_rightPadded2"><div class="sprite sprite_npr layout_inlineBlock">NPR</div></div>
+                     <div class="sprite sprite_nyt layout_inlineBlock">New York Times</div>
+                  </div>
+               </a>
+               <div class="grid-parent layout_center layout_lg_alignRight grid-12 grid-lg-6 box_topPadded1 box_bottomPadded3 box_lg_bottomPadded0">
+                  <a href="http://www.bbb.org/charity-reviews/national/other/globalgiving-foundation-in-washington-dc-3204" target="_blank" class="box_rightPadded2 text_fontSizeZero"><div class="sprite sprite_bbb layout_inlineBlock">BBB Accredited Charity</div></a>
+                  <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=11648" target="_blank" class="box_rightPadded2 text_fontSizeZero"><div class="sprite sprite_charityNavigator layout_inlineBlock">Charity Navigator Four Star Charity</div></a>
+                  <a href="https://www.mcafeesecure.com/verify?host=www.globalgiving.org" target="_blank" class="text_fontSizeZero"><div class="sprite sprite_secureSite layout_inlineBlock">SSL- and PCI-Verified Secure Site</div></a>
+               </div>
+            </div>
+         </div>
+
+         <div class="col_ggSecondary1 layout_centerVertical">
+            <div class="grid-padder box_horizontalPadded2 grid-parent layout_centerVertical">
+               <div class="grid-12 grid-lg-7 layout_center layout_lg_alignLeft text_fontSizeSmallest box_topPadded2 box_lg_topPadded0">
+                  <address class="layout_inlineBlock col_ggSecondary1LighterText text_4n">
+                     <!-- #### The line of text below is used in site uptime monitors. Any edits to this line need to be coordinated with DevOps #### -->
+                     &copy;&nbsp;Copyright&nbsp;2000-2018&nbsp;GlobalGiving, a&nbsp;501(c)3&nbsp;organization (EIN:&nbsp;30&#8209;0108263;&nbsp;UK&nbsp;Charity&nbsp;#&nbsp;1122823)
+                     <!-- #### The line of text above is used in site uptime monitors. Any edits to this line need to be coordinated with DevOps #### -->
+                     <br/>
+                     <span class="col_ggSecondary1LighterText">1110 Vermont Ave NW, Ste 550, Washington, DC 20005, USA</span>
+                     <span class="col_whiteText">&nbsp;&nbsp;&nbsp;Questions?&nbsp;Call&nbsp;<a class="col_ggPrimary1Text" href="tel://+12022325784">+1.202.232.5784</a></span>
+                  </address>
+               </div>
+               <div class="grid-12 grid-lg-5 box_leftPadded1 layout_centerVertical grid-parent layout_center layout_lg_alignRight text_fontSizeSmallest print_noPrint text_allCaps text_7n col_ggPrimary1Text box_verticalPadded2">
+                  <div class="grid-12 grid-md-inline layout_center grid-parent layout_centerVertical text_fontSizeLarge layout_rel">
+                     <select class="col_ggPrimary1DarkText col_transparent border_primary1 border_thin input_preventDisplay js-global-user-currency-select"></select>
+                  </div>
+                  <span class="grid-0 grid-md-inline box_horizontalPadded1 box_lg_horizontalPadded0">&nbsp;&nbsp;&middot;&nbsp;&nbsp;</span>
+                  <a class="col_whiteText" href="/aboutus/privacy/">Privacy</a><span class="box_horizontalPadded1 box_lg_horizontalPadded0">&nbsp;&nbsp;&middot;&nbsp;&nbsp;</span>
+                  <a class="col_whiteText" href="/aboutus/terms/">Terms</a><span class="box_horizontalPadded1 box_lg_horizontalPadded0">&nbsp;&nbsp;&middot;&nbsp;&nbsp;</span>
+                  <a class="col_whiteText" href="/aboutus/fee/">Pricing</a><span class="box_horizontalPadded1 box_lg_horizontalPadded0">&nbsp;&nbsp;&middot;&nbsp;&nbsp;</span>
+                  <a class="col_whiteText" href="/api/">API&nbsp;+&nbsp;Data</a><span class="box_horizontalPadded1 box_lg_horizontalPadded0">&nbsp;&nbsp;&middot;&nbsp;&nbsp;</span>
+                  <a class="col_whiteText" href="//help.globalgiving.org/">Help</a>
+               </div>
+            </div>
+         </div>
+      </footer>
+      
+
+      
+
+      
+
+      <div class="col_ggPrimary1 text_7n box_padded1 grid_padder col_whiteText zindex_modal js-jsWarning" style="position:fixed;bottom:0;">
+         <script type="text/javascript">
+            <!-- hide the js warning when js is present (leaves the warning in place if js is not processed) -->
+            var noscripts = document.getElementsByClassName('js-jsWarning');
+            for (i = 0; i < noscripts.length; i++) {
+            	noscripts[i].style.display = 'none';
+            }
+         </script>
+         WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <span class="col_defaultText"><a class="col_inherit" href="http://www.enable-javascript.com/" target="_blank"> Please enable Javascript</a></span> and refresh this page.</div>
+      </div>
+
+      
+
+   
+
+
+
+
+
+   </body>
+</html>
+

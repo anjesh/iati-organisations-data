@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-09-05T22:15:49+00:00">
+  <iati-organisation last-updated-datetime="2017-09-05T22:15:49+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>XM-DAC-DAC-1601</organisation-identifier>
+    <name>
+      <narrative>Bill and Melinda Gates Organization</narrative>
+    </name>
+    <reporting-org type="60" ref="XM-DAC-DAC-1601">
+      <narrative xml:lang="en">Bill and Melinda Gates Foundation</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="USD" value-date="2017-01-01">3669800000</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value currency="USD" value-date="2018-01-01">3574400000</value>
+    </total-budget>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/Who-We-Are/General-Information/Financials">
+      <title>
+        <narrative xml:lang="en">Audited Financial Statements</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/What-We-Do">
+      <title>
+        <narrative xml:lang="en">Thematic Strategy</narrative>
+      </title>
+      <category code="B12"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/Who-We-Are/Resources-and-Media/Annual-Reports">
+      <title>
+        <narrative xml:lang="en">Annual Reports</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/Who-We-Are/General-Information/Financials">
+      <title>
+        <narrative xml:lang="en">IRS Form 990</narrative>
+      </title>
+      <category code="B07"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/Media-Center">
+      <title>
+        <narrative xml:lang="en">Media Center</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/How-We-Work">
+      <title>
+        <narrative xml:lang="en">Our Approach to Measurement and Evaluation</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/How-We-Work/General-Information/Evaluation-Policy">
+      <title>
+        <narrative xml:lang="en">Our Evaluation Policy</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/How-We-Work/General-Information/What-We-Do-Not-Fund">
+      <title>
+        <narrative xml:lang="en">Exclusions Policy</narrative>
+      </title>
+      <category code="B08"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/How-We-Work/Resources/Our-Commitment-to-Grantees">
+      <title>
+        <narrative xml:lang="en">Our Commitment to Grantees</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="text/html" url="http://www.gatesfoundation.org/How-We-Work/General-Information/Grant-Opportunities">
+      <title>
+        <narrative xml:lang="en">Grant Opportunities</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link format="application/vnd.ms-excel" url="https://docs.gatesfoundation.org/documents/TI_2016_Contributions.xlsx">
+      <title>
+        <narrative xml:lang="en">Revenue</narrative>
+      </title>
+      <category code="B01"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

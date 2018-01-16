@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-10-19T12:10:00">
+  <iati-organisation last-updated-datetime="2017-10-19T12:10:00" xml:lang="en" default-currency="GBP">
+  <organisation-identifier>GB-GOV-1</organisation-identifier>
+  <name>
+	<narrative>UK Department for International Development</narrative>
+  </name>
+  <reporting-org ref="GB-GOV-1" type="10">
+	<narrative>UK Department for International Development</narrative>
+  </reporting-org>
+  <total-budget>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value value-date="2017-07-06">11030754000</value>
+  </total-budget>
+  <total-budget>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value value-date="2017-07-06">10850140000</value>
+  </total-budget>
+  <total-budget>
+    <period-start iso-date="2019-04-01"/>
+    <period-end iso-date="2020-03-31"/>
+    <value value-date="2017-07-06">10543140000</value>
+  </total-budget>
+  <recipient-country-budget>
+    <recipient-country code="AF"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">155000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="AF"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">155000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="BD"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">159000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="BD"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">170000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="MM"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">94000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="MM"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">100000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="CD"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">147000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="CD"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">147000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="ET"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">332000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="ET"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">332000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="GH"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">52000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="GH"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">42000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="ID"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">14000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="ID"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">13000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="IN"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">60000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="IN"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">58000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="IQ"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">40000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="IQ"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">20000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="JO"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">70000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="JO"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">82000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="KE"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">117000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="KE"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">111000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="LB"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">94000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+   <recipient-country code="LB"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">100000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="MW"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">80000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="MW"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">80000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="MZ"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">52000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="MZ"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">52000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="NP"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">92000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="NP"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">82000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="NG"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">225000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="NG"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">235000000</value>
+  </recipient-country-budget>   
+  <recipient-country-budget>
+    <recipient-country code="PS"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">54000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="PS"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">64000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+    <recipient-country code="PK"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">373000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="PK"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">345000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+    <recipient-country code="RW"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">64000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="RW"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">62000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+    <recipient-country code="SL"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">107000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="SL"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">98000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+    <recipient-country code="SO"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">105000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="SO"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">118000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+  <recipient-country code="SS"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">145000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="SS"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">130000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+  <recipient-country code="SD"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">50000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="SD"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">50000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+  <recipient-country code="SY"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">162000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="SY"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">271000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+  <recipient-country code="TR"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">124000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="TR"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">65000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+  <recipient-country code="TZ"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">176000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="TZ"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">173000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+    <recipient-country code="UG"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">105000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="UG"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">100000000</value>
+  </recipient-country-budget>  
+  <recipient-country-budget>
+    <recipient-country code="YE"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">82000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="YE"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">72000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="ZM"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">48000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="ZM"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">47000000</value>
+  </recipient-country-budget> 
+  <recipient-country-budget>
+    <recipient-country code="ZW"/>
+    <period-start iso-date="2017-04-01"/>
+    <period-end iso-date="2018-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">86000000</value>
+  </recipient-country-budget>
+  <recipient-country-budget>
+    <recipient-country code="ZW"/>
+    <period-start iso-date="2018-04-01"/>
+    <period-end iso-date="2019-03-31"/>
+    <value currency="GBP" value-date="2017-07-20">86000000</value>
+  </recipient-country-budget> 
+<total-expenditure>
+    <period-start iso-date="2014-04-01"/>
+    <period-end iso-date="2015-03-31"/>
+    <value value-date="2017-07-06">9777267000</value>
+</total-expenditure>
+<total-expenditure>
+    <period-start iso-date="2015-04-01"/>
+    <period-end iso-date="2016-03-31"/>
+    <value value-date="2017-07-06">9885711000</value>
+</total-expenditure>
+<total-expenditure>
+    <period-start iso-date="2016-04-01"/>
+    <period-end iso-date="2017-03-31"/>
+    <value value-date="2017-07-06">10441904000</value>
+</total-expenditure>
+  <document-link url="https://www.gov.uk/government/publications/dfid-annual-report-and-accounts-2016-17" format="text/html">
+    <title><narrative>DFID Annual Report and Accounts 2016-17</narrative></title>
+    <category code="B01"/>
+    <category code="B06"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-06" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-single-departmental-plan-2015-to-2020/single-departmental-plan-2015-to-2020" format="text/html">
+    <title><narrative>DFID single departmental plan: 2015 to 2020</narrative></title>
+    <category code="B02"/>
+	<category code="B04"/>
+    <language code="en" />
+    <document-date iso-date="2016-09-01" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/spending-review-and-autumn-statement-2015-documents/spending-review-and-autumn-statement-2015#departmental-settlements" format="text/html">
+    <title><narrative>Spending Review and Autumn Statement 2015</narrative></title>
+    <category code="B04"/>
+	<language code="en" />
+    <document-date iso-date="2015-11-27" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/uk-aid-tackling-global-challenges-in-the-national-interest" format="text/html">
+    <title><narrative>UK aid: tackling global challenges in the national interest</narrative></title>
+    <category code="B02"/>
+	<language code="en" />
+    <document-date iso-date="2015-11-23" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/raising-the-standard-the-multilateral-development-review-2016" format="text/html">
+    <title><narrative>Multilateral Development Review</narrative></title>
+    <category code="B02"/>
+	<category code="B06"/>
+	<category code="B09"/>
+	<language code="en" />
+    <document-date iso-date="2016-12-01" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/rising-to-the-challenge-of-ending-poverty-the-bilateral-development-review-2016" format="text/html">
+    <title><narrative>Bilateral Development Review</narrative></title>
+    <category code="B03"/>
+	<category code="B04"/>
+	<language code="en" />
+    <document-date iso-date="2016-12-01" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-civil-society-partnership-review" format="text/html">
+    <title><narrative>Civil Society Parternship Review</narrative></title>
+    <category code="B02"/>
+	<category code="B04"/>
+	<category code="B05"/>
+	<language code="en" />
+    <document-date iso-date="2016-11-04" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/statistics/statistics-on-international-development-2016" format="text/html">
+    <title><narrative>Statistics in International Development 2015</narrative></title>
+    <category code="B01"/>
+	<language code="en" />
+    <document-date iso-date="2017-03-29" />
+  </document-link>
+  <document-link url="https://icai.independent.gov.uk/reports/" format="text/html">
+    <title><narrative>Independent Commission for Aid Impact (ICAI) Reports</narrative></title>
+    <category code="B06"/>
+	<language code="en" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/implementing-dfid-s-strengthened-approach-to-budget-support-technical-note" format="text/html">
+    <title><narrative>Strengthened Approach to Budget Support</narrative></title>
+    <category code="B02"/>
+	<category code="B04"/>
+	<language code="en" />
+    <document-date iso-date="2011-07-19" />
+  </document-link> 
+  <document-link url="https://www.gov.uk/government/organisations/department-for-international-development/about/procurement" format="text/html">
+    <title><narrative>Procurement at DFID</narrative></title>
+    <category code="B05"/>
+	<language code="en" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-afghanistan-profile-july-2017" format="text/html">
+    <title><narrative>DFID Afghanistan Profile: July 2017</narrative></title>
+    <category code="B03"/>
+    <language code="en" />
+    <document-date iso-date="2017-07-20" />
+    <recipient-country code="AF" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-bangladesh-profile-july-2017" format="text/html">
+    <title><narrative>DFID Bangladesh Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="BD" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-burma-profile-july-2017" format="text/html">
+    <title><narrative>DFID Burma Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="MM" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-democratic-republic-of-congo-profile-july-2017" format="text/html">
+    <title><narrative>DFID Democratic Republic of Congo Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="CD" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-ethiopia-profile-july-2017" format="text/html">
+    <title><narrative>DFID Ethiopia Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="ET" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-ghana-and-liberia-profile-july-2017" format="text/html">
+    <title><narrative>DFID Ghana and Liberia Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="GH" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-india-profile-july-2017" format="text/html">
+    <title><narrative>DFID India Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="IN" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-indonesia-uk-climate-change-unit" format="text/html">
+    <title><narrative>DFID Indonesia - UK Climate Change Unit</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="ID" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-iraq-profile-july-2017" format="text/html">
+    <title><narrative>DFID Iraq Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="IQ" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-jordan-profile-july-2017" format="text/html">
+    <title><narrative>DFID Jordan Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="JO" />
+  </document-link> 
+  <document-link url="https://www.gov.uk/government/publications/dfid-kenya-profile-july-2017" format="text/html">
+    <title><narrative>DFID Kenya Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="KE" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-lebanon-profile-july-2017" format="text/html">
+    <title><narrative>DFID Lebanon Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="LB" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-malawi-profile-july-2017" format="text/html">
+    <title><narrative>DFID Malawi Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="MW" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-mozambique-profile-july-2017" format="text/html">
+    <title><narrative>DFID Mozambique Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="MZ" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-nepal-profile-july-2017" format="text/html">
+    <title><narrative>DFID Nepal Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="NP" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-nigeria-profile-july-2017" format="text/html">
+    <title><narrative>DFID Nigeria Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="NG" />
+  </document-link>
+    <document-link url="https://www.gov.uk/government/publications/dfid-occupied-palestinian-territories-profile-july-2017" format="text/html">
+    <title><narrative>DFID Occupied Palestinian Territories Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="PS" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-pakistan-profile-july-2017" format="text/html">
+    <title><narrative>DFID Pakistan Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="PK" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-rwanda-profile-july-2017" format="text/html">
+    <title><narrative>DFID Rwanda Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="RW" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-sierra-leone-profile-july-20177" format="text/html">
+    <title><narrative>DFID Sierra Leone Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="SL" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-somalia-profile-july-2017" format="text/html">
+    <title><narrative>DFID Somalia Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="SO" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-south-sudan-profile-july-2017" format="text/html">
+    <title><narrative>DFID South Sudan Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="SS" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-sudan-profile-july-2017" format="text/html">
+    <title><narrative>DFID Sudan Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="SD" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-syria-profile-july-2017" format="text/html">
+    <title><narrative>DFID Syria Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="SY" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-tanzania-profile-july-2017" format="text/html">
+    <title><narrative>DFID Tanzania Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="TZ" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-uganda-profile-july-2017" format="text/html">
+    <title><narrative>DFID Uganda Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="UG" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-yemen-profile-july-2017" format="text/html">
+    <title><narrative>DFID Yemen Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="YE" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-zambia-profile-july-2017" format="text/html">
+    <title><narrative>DFID Zambia Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="ZM" />
+  </document-link>
+  <document-link url="https://www.gov.uk/government/publications/dfid-zimbabwe-profile-july-2017" format="text/html">
+    <title><narrative>DFID Zimbabwe Profile: July 2017</narrative></title>
+    <category code="B03"/>
+	<language code="en" />
+    <document-date iso-date="2017-07-20" />
+	<recipient-country code="ZW" />
+  </document-link> 
+</iati-organisation>
+</iati-organisations>

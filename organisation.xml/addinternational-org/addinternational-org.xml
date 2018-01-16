@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-12-06T04:46:28+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-12-06T04:28:26+00:00">
+    <reporting-org ref="GB-COH-294860" type="21" xml:lang="en">ADD International</reporting-org>
+    <iati-identifier>GB-COH-294860</iati-identifier>
+    <name>ADD International</name>
+    <total-budget>
+      <value currency="GBP" value-date="2013-01-01">3154000</value>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-01-01"/>
+    </total-budget>
+    <recipient-org-budget>
+      <recipient-org ref="GB-COH-294860" xml:lang="en">ADD International</recipient-org>
+      <value currency="GBP" value-date="2013-01-01">2112000</value>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+    </recipient-org-budget>
+  </iati-organisation>
+</iati-organisations>

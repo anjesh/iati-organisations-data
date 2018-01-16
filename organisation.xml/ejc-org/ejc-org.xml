@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-07-29T13:53:54+00:00">
+  <iati-organisation last-updated-datetime="2016-07-29T13:53:54+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41078390</organisation-identifier>
+    <name>
+      <narrative>European Journalism Centre</narrative>
+    </name>
+    <reporting-org type="22" ref="NL-KVK-41078390">
+      <narrative xml:lang="en">European Journalism Centre</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

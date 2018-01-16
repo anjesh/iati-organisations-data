@@ -1,0 +1,2018 @@
+<?xml version="1.0" encoding="UTF-8"?><iati-organisations version="1.05" generated-datetime="2017-01-26T09:26:58"><iati-organisation last-updated-datetime="2017-01-26T09:26:58" xml:lang="en" default-currency="USD"><reporting-org ref="47045" type="40">The Global Fund to Fight AIDS, Tuberculosis and Malaria</reporting-org><iati-identifier>47045</iati-identifier><name xml:lang="en">The Global Fund to Fight AIDS, Tuberculosis and Malaria</name><ir:registry-record xml:lang="en" file-id="GF-1" source-url="http://portfolio.theglobalfund.org/en/IATI/Organization" publisher-id="GF-1" publisher-role="Funding" contact-email="website@theglobalfund.org" donor-id="GF-1" donor-type="10" donor-country="CH" title="Global Fund Organisation File" activity-period="All Periods" last-updated-datetime="2017-01-26" generated-datetime="2017-01-26" verification-status="1" format="xml" license="IATI" xmlns:ir="http://iatistandard.org/downloads/iati-registry-record-schema.xsd" /><total-budget>
+<period-start iso-date="2002-01-01">2002</period-start>
+<period-end iso-date="2002-12-31">2002</period-end>
+<value currency="USD" value-date="2002-01-01">21000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2003-01-01">2003</period-start>
+<period-end iso-date="2003-12-31">2003</period-end>
+<value currency="USD" value-date="2003-01-01">39000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2004-01-01">2004</period-start>
+<period-end iso-date="2004-12-31">2004</period-end>
+<value currency="USD" value-date="2004-01-01">53000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2005-01-01">2005</period-start>
+<period-end iso-date="2005-12-31">2005</period-end>
+<value currency="USD" value-date="2005-01-01">66000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2006-01-01">2006</period-start>
+<period-end iso-date="2006-12-31">2006</period-end>
+<value currency="USD" value-date="2006-01-01">86000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2007-01-01">2007</period-start>
+<period-end iso-date="2007-12-31">2007</period-end>
+<value currency="USD" value-date="2007-01-01">131000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2008-01-01">2008</period-start>
+<period-end iso-date="2008-12-31">2008</period-end>
+<value currency="USD" value-date="2008-01-01">210000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2009-01-01">2009</period-start>
+<period-end iso-date="2009-12-31">2009</period-end>
+<value currency="USD" value-date="2009-01-01">252000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2010-01-01">2010</period-start>
+<period-end iso-date="2010-12-31">2010</period-end>
+<value currency="USD" value-date="2010-01-01">282000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2011-01-01">2011</period-start>
+<period-end iso-date="2011-12-31">2011</period-end>
+<value currency="USD" value-date="2011-01-01">333000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2012-01-01">2012</period-start>
+<period-end iso-date="2012-12-31">2012</period-end>
+<value currency="USD" value-date="2012-01-01">356000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2013-01-01">2013</period-start>
+<period-end iso-date="2013-12-31">2013</period-end>
+<value currency="USD" value-date="2013-01-01">301000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2014-12-31">2014</period-end>
+<value currency="USD" value-date="2014-01-01">300000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2014-12-31">2014</period-end>
+<value currency="USD" value-date="2014-12-31">300000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2015-01-01">2015</period-start>
+<period-end iso-date="2015-12-31">2015</period-end>
+<value currency="USD" value-date="2015-12-31">300000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2016-01-01">2016</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2016-12-31">300000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2017-01-01">2017</period-start>
+<period-end iso-date="2017-12-31">2017</period-end>
+<value currency="USD" value-date="2017-12-31">300000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2018-01-01">2018</period-start>
+<period-end iso-date="2018-12-31">2018</period-end>
+<value currency="USD" value-date="2018-12-31">300000000</value>
+</total-budget>
+<total-budget>
+<period-start iso-date="2019-01-01">2019</period-start>
+<period-end iso-date="2019-12-31">2019</period-end>
+<value currency="USD" value-date="2019-12-31">300000000</value>
+</total-budget>
+<recipient-country-budget>
+<recipient-country code="AF">Afghanistan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">72958255.02</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AL">Albania</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">6006281.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="DZ">Algeria</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">6533577.24</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AO">Angola</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">92220499.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AR">Argentina</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">832666.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AM">Armenia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">22416994.60</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="AZ">Azerbaijan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">37821193.32</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BD">Bangladesh</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">171973899.57</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BY">Belarus</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">38022840.48</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BZ">Belize</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">4504323.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BJ">Benin</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">175907472.13</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BT">Bhutan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">7570298.95</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BO">Bolivia (Plurinational State)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">41199778.28</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BA">Bosnia and Herzegovina</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">11928110.17</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BW">Botswana</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">32196548.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BG">Bulgaria</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">19497448.93</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BF">Burkina Faso</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">204615182.51</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="BI">Burundi</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">132355598.69</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KH">Cambodia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">152962619.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CM">Cameroon</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">289201434.49</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CV">Cape Verde</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">6279631.17</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CF">Central African Republic</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">80241566.73</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TD">Chad</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">175362936.53</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CN">China</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">22167416.47</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CO">Colombia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">28166054.55</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KM">Comoros</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">19710770.46</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CG">Congo</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">44920541.79</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CD">Congo (Democratic Republic)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">752483033.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CR">Costa Rica</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">4883404.54</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CI">Côte d&apos;Ivoire</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">301137602.88</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="CU">Cuba</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">21848333.25</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="DJ">Djibouti</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">20155390.92</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="DO">Dominican Republic</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">50527358.01</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="EC">Ecuador</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">20936122.29</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="EG">Egypt</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">18095157.69</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SV">El Salvador</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">37773316.09</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ER">Eritrea</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">84833827.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ET">Ethiopia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">601371335.04</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="FJ">Fiji</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">5394019.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GA">Gabon</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">5336610.89</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GM">Gambia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">53421468.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GE">Georgia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">56454091.67</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GH">Ghana</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">298373320.99</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GT">Guatemala</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">71038456.35</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GN">Guinea</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">155541476.73</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GW">Guinea-Bissau</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">53713708.40</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="GY">Guyana</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">18560007.61</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HT">Haiti</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">121331709.48</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="HN">Honduras</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">40926426.28</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IN">India</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">905498692.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ID">Indonesia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">330099115.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IR">Iran (Islamic Republic)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">29529040.29</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="IQ">Iraq</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">10664440.25</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="JM">Jamaica</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">19133367.65</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="JO">Jordan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">3584141.66</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KZ">Kazakhstan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">52059505.95</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KE">Kenya</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">529653171.48</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KP">Korea (Democratic Peoples Republic)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">58888371.96</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="XK">Kosovo</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">10012002.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="KG">Kyrgyzstan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">45384038.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LA">Lao (Peoples Democratic Republic)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">41528946.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LS">Lesotho</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">93233403.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LR">Liberia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">101882195.10</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MK">Macedonia (Former Yugoslav Republic)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">9805364.12</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MG">Madagascar</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">112420794.29</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MW">Malawi</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">616802644.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MY">Malaysia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">6827691.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ML">Mali</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">220356313.35</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MR">Mauritania</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">31999000.52</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MU">Mauritius</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">5128596.69</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MX">Mexico</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">307190.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MD">Moldova</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">39431784.28</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MN">Mongolia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">16777215.87</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ME">Montenegro</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">857101.74</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MA">Morocco</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">37427397.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MZ">Mozambique</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">499721397.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QML">Multicountry Africa (SADC)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">26043266.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMC">Multicountry Africa (West Africa Corridor Program)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">4870407.16</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QME">Multicountry Americas (CARICOM / PANCAP)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">9021929.69</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMG">Multicountry Americas (Meso)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">10000000.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMO">Multicountry Americas (REDTRASEX)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">7363052.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMP">Multicountry East Asia and Pacific (APN+)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">1550286.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMQ">Multicountry East Asia and Pacific (ISEAN-HIVOS)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">6194833.15</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMU">Multicountry East Asia and Pacific (RAI)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">100000000.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMT">Multicountry Eastern Europe - Central Asia (EHRN)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">6242587.37</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMS">Multicountry South Asia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">12719356.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QMJ">Multicountry Western Pacific</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">21202255.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="MM">Myanmar</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">256966772.02</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NA">Namibia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">111293124.61</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NP">Nepal</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">76590638.07</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NI">Nicaragua</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">40761202.56</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NE">Niger</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">167377902.44</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="NG">Nigeria</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">1209457916.28</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PK">Pakistan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">265879405.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PS">Palestine</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">6599810.16</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PA">Panama</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">7812373.06</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PG">Papua New Guinea</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">83264060.52</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PY">Paraguay</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">26271662.17</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PE">Peru</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">27795930.33</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="PH">Philippines</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">120593005.53</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RO">Romania</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">12821491.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RU">Russian Federation</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">15730308.86</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RW">Rwanda</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">395837435.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ST">Sao Tome and Principe</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">13630492.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SN">Senegal</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">131134477.51</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="RS">Serbia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">2311459.04</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SL">Sierra Leone</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">126453356.99</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SB">Solomon Islands</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">9692108.99</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SO">Somalia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">113863555.19</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZA">South Africa</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">514631618.69</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SS">South Sudan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">165436713.87</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="LK">Sri Lanka</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">45521097.57</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SD">Sudan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">176928386.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SR">Suriname</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">7692894.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SZ">Swaziland</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">80409460.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="SY">Syrian Arab Republic</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">12780937.37</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TJ">Tajikistan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">53504171.88</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TZ">Tanzania (United Republic)</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">711156112.01</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TH">Thailand</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">108957945.09</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TL">Timor-Leste</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">28735679.62</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TG">Togo</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">122273004.23</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TN">Tunisia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">13481682.93</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="TM">Turkmenistan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">9766809.08</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UG">Uganda</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">468260158.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UA">Ukraine</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">184578774.67</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UY">Uruguay</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">5658091.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="UZ">Uzbekistan</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">64572405.14</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="VN">Viet Nam</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">183403638.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="YE">Yemen</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">41796604.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZM">Zambia</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">333844291.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="QNB">Zanzibar</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">16514337.00</value>
+</recipient-country-budget>
+<recipient-country-budget>
+<recipient-country code="ZW">Zimbabwe</recipient-country>
+<period-start iso-date="2014-01-01">2014</period-start>
+<period-end iso-date="2016-12-31">2016</period-end>
+<value currency="USD" value-date="2014-01-01">511238398.83</value>
+</recipient-country-budget>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=AFG" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Afghanistan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ALB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Albania</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=DZA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Algeria</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=AGO" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Angola</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ARG" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Argentina</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ARM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Armenia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=AZE" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Azerbaijan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BGD" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Bangladesh</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BLR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Belarus</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BLZ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Belize</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BEN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Benin</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BTN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Bhutan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BOL" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Bolivia (Plurinational State)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BIH" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Bosnia and Herzegovina</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BWA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Botswana</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BRA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Brazil</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BGR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Bulgaria</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BFA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Burkina Faso</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=BDI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Burundi</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=KHM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Cambodia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CMR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Cameroon</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CPV" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Cape Verde</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CAF" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Central African Republic</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TCD" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Chad</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CHL" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Chile</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CHN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - China</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=COL" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Colombia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=COM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Comoros</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=COG" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Congo</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=COD" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Congo (Democratic Republic)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CRI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Costa Rica</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CIV" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Côte d&apos;Ivoire</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=HRV" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Croatia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=CUB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Cuba</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=DJI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Djibouti</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=DOM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Dominican Republic</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ECU" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Ecuador</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=EGY" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Egypt</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SLV" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - El Salvador</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GNQ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Equatorial Guinea</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ERI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Eritrea</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=EST" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Estonia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ETH" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Ethiopia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=FJI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Fiji</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GAB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Gabon</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GMB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Gambia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GEO" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Georgia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GHA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Ghana</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GTM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Guatemala</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GIN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Guinea</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GNB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Guinea-Bissau</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=GUY" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Guyana</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=HTI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Haiti</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=HND" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Honduras</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=IND" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - India</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=IDN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Indonesia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=IRN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Iran (Islamic Republic)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=IRQ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Iraq</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=JAM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Jamaica</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=JOR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Jordan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=KAZ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Kazakhstan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=KEN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Kenya</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PRK" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Korea (Democratic Peoples Republic)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QNA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Kosovo</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=KGZ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Kyrgyzstan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=LAO" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Lao (Peoples Democratic Republic)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=LSO" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Lesotho</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=LBR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Liberia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MKD" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Macedonia (Former Yugoslav Republic)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MDG" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Madagascar</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MWI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Malawi</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MYS" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Malaysia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MDV" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Maldives</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MLI" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Mali</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MRT" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Mauritania</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MUS" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Mauritius</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MEX" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Mexico</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MDA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Moldova</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MNG" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Mongolia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MNE" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Montenegro</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MAR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Morocco</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MOZ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Mozambique</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Africa (RMCC)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QML" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Africa (SADC)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMC" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Africa (West Africa Corridor Program)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QME" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Americas (CARICOM / PANCAP)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMG" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Americas (Meso)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMO" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Americas (REDTRASEX)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMP" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry East Asia and Pacific (APN+)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMQ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry East Asia and Pacific (ISEAN-HIVOS)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMU" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry East Asia and Pacific (RAI)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMT" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Eastern Europe - Central Asia (EHRN)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMS" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry South Asia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QMJ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Multicountry Western Pacific</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=MMR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Myanmar</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=NAM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Namibia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=NPL" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Nepal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=NIC" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Nicaragua</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=NER" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Niger</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=NGA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Nigeria</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PAK" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Pakistan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PSE" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Palestine</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PAN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Panama</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PNG" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Papua New Guinea</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PRY" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Paraguay</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PER" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Peru</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=PHL" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Philippines</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ROU" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Romania</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=RUS" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Russian Federation</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=RWA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Rwanda</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=STP" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Sao Tome and Principe</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SEN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Senegal</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SRB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Serbia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SLE" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Sierra Leone</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SLB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Solomon Islands</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SOM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Somalia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ZAF" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - South Africa</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SSD" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - South Sudan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=LKA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Sri Lanka</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SDN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Sudan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SUR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Suriname</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SWZ" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Swaziland</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=SYR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Syrian Arab Republic</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TJK" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Tajikistan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TZA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Tanzania (United Republic)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=THA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Thailand</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TLS" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Timor-Leste</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TGO" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Togo</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TUN" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Tunisia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TUR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Turkey</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=TKM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Turkmenistan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=UGA" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Uganda</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=UKR" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Ukraine</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=URY" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Uruguay</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=UZB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Uzbekistan</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=VNM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Viet Nam</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=YEM" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Yemen</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ZMB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Zambia</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=QNB" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Zanzibar</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/en/portfolio/country/?loc=ZWE" format="text/html">
+<language>en</language>
+<category code="B17">Country/Region web page</category>
+<title xml:lang="en">Global Fund Portfolio - Zimbabwe</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-17-009</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-17-008</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-17-004</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-17-005</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-17-006</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-17-007</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-176</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-175</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-178</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-174</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-177</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-159</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-172</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-171</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-170</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-169</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-168</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-167</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-166</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-165</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-164</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-163</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-161</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-160</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-157</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-148 </title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-151</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-147</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-146</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-144</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-145</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-135</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-142</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-143</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-140</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-139</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-137</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-134</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-136</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-111</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-104</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-129</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-128</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-127</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-120</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-118</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-082</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-054</title>
+</document-link>
+<document-link url="http://feedproxy.google.com/~r/globalfund/business/~3/dg4QUZB7BN4/" format="application/pdf">
+<language>en</language>
+<category code="A10">Tender</category>
+<title xml:lang="en">TGF-16-021</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/board/31/BM31_11-OIGAnnualReport2013_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional audit report</category>
+<title xml:lang="en">2013 Annual Report of the Office of the Inspector General</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/board/29/BM29_04-OIG_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional audit report</category>
+<title xml:lang="en">Report of the Inspector General</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/board/22/BM22_09OIG_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional audit report</category>
+<title xml:lang="en">Report of OIG</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/board/20/BM20_14OIG_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional audit report</category>
+<title xml:lang="en">Report of OIG PDF</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-015_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B07">Country Audit Report</category>
+<title xml:lang="en">Investigation of Global Fund Grants to Egypt 2015-09-24</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-014_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B07">Country Audit Report</category>
+<title xml:lang="en">Audit of Global Fund Grants to the Islamic Republic of Pakistan 2015-09-21</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-011_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B07">Country Audit Report</category>
+<title xml:lang="en">Audit of Global Fund Grants to the Republic of Kenya 2015-07-21</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-009_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B07">Country Audit Report</category>
+<title xml:lang="en">Audit of Global Fund Grants to the Republic of the Sudan 2015-06-04</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-007_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B07">Country Audit Report</category>
+<title xml:lang="en">Global Fund Grants to the Republic of Guinea 2015-03-31</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-006_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B07">Country Audit Report</category>
+<title xml:lang="en">Global Fund Grants to Tajikistan 2015-03-26</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-14-008_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional Audit Report</category>
+<title xml:lang="en">Governance Review 2014-12-11</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-005_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional Audit Report</category>
+<title xml:lang="en">Audit Report of Internal Financial Controls 2015-03-09</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-010_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional Audit Report</category>
+<title xml:lang="en">Audit of Global Fund’s Methodology for the Allocation of Funds Internal Controls, Risk Management, and Governance Processes 2015-07-08</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-014_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional Audit Report</category>
+<title xml:lang="en">Investigation Report of Global Fund Grants in Ukraine - The International Charitable Foundation &quot;International HIV/AIDS Alliance in Ukraine&quot;</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/oig/reports/OIG_GF-OIG-15-008_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B06">Institutional Audit Report</category>
+<title xml:lang="en">Procurement and Supply Chain Management at the Global Fund</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/fundingmodel/FundingModel_OverviewAllocation_Methodology_en/" format="application/pdf">
+<language>en</language>
+<category code="B04">Aid allocation policy</category>
+<title xml:lang="en">Overview of the Allocation Methodology 2014 - 2016)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2002To2003Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2002 - 2003 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2003Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2003 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2004Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2004 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2005Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2005 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2006Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2006 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2007Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2007 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2008Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2008 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2009Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2009 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2010Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2010 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2011Annual_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">Corporate 2011 Annual Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2014AnnualFinancial_Report_en/" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">The Global Fund 2014 Annual Financial Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/annual_reports/Corporate_2015ResultsReport_Report_en" format="application/pdf">
+<language>en</language>
+<category code="B01">Annual report</category>
+<title xml:lang="en">The Global Fund 2015 Results Report</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/Documents/psm/PSM_ProcurementSupplyManagement_Guidelines_en/" format="application/pdf">
+<language>en</language>
+<category code="B05">Procurement Policy and Procedure</category>
+<title xml:lang="en">Guide to Global Fund Policies on Procurement and Supply Management of Health Products (June 2012)</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/Documents/core/strategies/Core_GlobalFund_Strategy_en/" format="application/pdf">
+<language>en</language>
+<category code="B02">Strategy paper</category>
+<title xml:lang="en">The Global Fund Strategy 2012-2016</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/Documents/core/strategies/Core_GlobalFundStrategy_Framework_en/" format="application/pdf">
+<language>en</language>
+<category code="B02">Strategy paper</category>
+<title xml:lang="en">The Strategy Framework</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/Documents/core/strategies/Core_GlobalFundStrategy01_Attachment_en/" format="application/pdf">
+<language>en</language>
+<category code="B02">Strategy paper</category>
+<title xml:lang="en">Attachment 1 – Review of HIV/AIDS, tuberculosis and malaria landscape for the Global Fund Strategy 2012-2016</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/Documents/core/strategies/Core_GlobalFundStrategy02_Attachment_en/" format="application/pdf">
+<language>en</language>
+<category code="B02">Strategy paper</category>
+<title xml:lang="en">Attachment 2 – Summary report from the consultations on the Global Fund Strategy 2012-2016</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/Documents/core/strategies/Core_GlobalFundStrategy03_Attachment_en/" format="application/pdf">
+<language>en</language>
+<category code="B02">Strategy paper</category>
+<title xml:lang="en">Attachment 3 – Background information on the goals and targets for the Global Fund Strategy 2012-2016</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/publications/other/Publication_KeyPopulations_ActionPlan_en" format="application/pdf">
+<language>en</language>
+<category code="B02">Strategy paper</category>
+<title xml:lang="en">Key Populations Action Plan 2014-2017</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/core/strategies/Core_GenderEquality_Strategy_en" format="application/pdf">
+<language>en</language>
+<category code="B12">Thematic strategy</category>
+<title xml:lang="en">Gender Equality Strategy</title>
+</document-link>
+<document-link url="http://www.theglobalfund.org/documents/core/strategies/Core_SexualOrientationAndGenderIdentities_Strategy_en" format="application/pdf">
+<language>en</language>
+<category code="B12">Thematic strategy</category>
+<title xml:lang="en">Sexual Orientation and Gender Identity Strategy</title>
+</document-link>
+</iati-organisation></iati-organisations>

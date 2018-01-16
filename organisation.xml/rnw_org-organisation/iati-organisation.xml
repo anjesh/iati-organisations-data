@@ -1,0 +1,11 @@
+<iati-organisations version="2.02" generated-datetime="2017-04-19T13:30:00Z">
+    <iati-organisation default-currency="EUR" last-updated-datetime="2017-04-19T13:30:00Z" xml:lang="en">
+        <organisation-identifier>NL-KVK-32022621</organisation-identifier>
+        <name>
+            <narrative>RNW Media</narrative>
+        </name>
+        <reporting-org ref="NL-KVK-32022621" type="21">
+          <narrative>RNW Media</narrative>
+        </reporting-org>
+    </iati-organisation>
+</iati-organisations>

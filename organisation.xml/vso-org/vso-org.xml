@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-03-24T15:13:36+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-03-24T03:13:24+00:00">
+    <reporting-org ref="GB-CHC-313757" type="21" xml:lang="en">Voluntary Service Overseas (VSO)</reporting-org>
+    <iati-identifier>GB-CHC-313757</iati-identifier>
+    <name xml:lang="en">Voluntary Service Overseas (VSO)</name>
+    <total-budget>
+      <value currency="GBP" value-date="2012-04-01">122335027.17</value>
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2014-03-31"/>
+    </total-budget>
+    <recipient-org-budget>
+      <recipient-org ref="GB-CHC-313757" xml:lang="en">Voluntary Service Overseas (VSO)</recipient-org>
+      <value currency="GBP" value-date="2012-04-01">122335027.17</value>
+      <period-start iso-date="2012-04-01">Start Date</period-start>
+      <period-end iso-date="2014-03-31">End Date</period-end>
+    </recipient-org-budget>
+    <recipient-country-budget>
+      <recipient-country code="GB" xml:lang="en">UK</recipient-country>
+      <value currency="GBP" value-date="2012-04-01">122335027.17</value>
+      <period-start iso-date="2012-04-01"/>
+      <period-end iso-date="2014-03-31"/>
+    </recipient-country-budget>
+    <document-link url="http://www.vsointernational.org/vso-today/annual-review.asp" format="text/html">
+      <language>en</language>
+      <title xml:lang="en">Annual Report</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

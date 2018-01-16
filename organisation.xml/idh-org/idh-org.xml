@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-12-28T08:01:33+00:00">
+  <iati-organisation last-updated-datetime="2016-12-28T08:01:33+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-53521129</organisation-identifier>
+    <name>
+      <narrative>IDH, the Sustainable Trade Initiative</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-53521129">
+      <narrative xml:lang="en">IDH, the Sustainable Trade Initiative</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">33900000</value>
+    </total-budget>
+    <total-budget status="2">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="EUR" value-date="2017-01-01">38800000</value>
+    </total-budget>
+    <total-expenditure>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">24500000</value>
+    </total-expenditure>
+    <total-expenditure>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">29700000</value>
+    </total-expenditure>
+    <document-link format="application/pdf" url="https://www.idhsustainabletrade.com/uploaded/2016/08/myp-publicversion-october-2015.pdf">
+      <title>
+        <narrative xml:lang="en">IDH Multi Year Plan 2016-2020</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+      <document-date iso-date="2015-10-01"/>
+      <recipient-country code="NL"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.idhsustainabletrade.com/uploaded/2015/11/IDH_Annual-Report_2015_final_25072016.pdf">
+      <title>
+        <narrative xml:lang="en">IDH Annual Report 2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2016-07-01"/>
+      <recipient-country code="NL"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

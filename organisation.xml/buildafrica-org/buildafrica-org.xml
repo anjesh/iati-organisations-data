@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-09-26T17:01:01+00:00" version="1.02">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-09-26T17:00:54+00:00">
+    <reporting-org ref="GB-CHC-298316" type="21" xml:lang="en">Build Africa</reporting-org>
+  </iati-organisation>
+</iati-organisations>

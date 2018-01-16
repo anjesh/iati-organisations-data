@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-10-06T13:31:16+00:00">
+  <iati-organisation last-updated-datetime="2017-10-06T13:31:16+00:00" xml:lang="en" default-currency="USD">
+    <organisation-identifier>XM-DAC-30010</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Unitaid</narrative>
+    </name>
+    <reporting-org type="40" ref="XM-DAC-30010">
+      <narrative xml:lang="en">Unitaid</narrative>
+    </reporting-org>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/Strategic_Narrative_for_HIV_and_Areas_for_Intervention_April_2016-1.pdf">
+      <title>
+        <narrative xml:lang="en">Disease Narrative for HIV and Areas for Intervention</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="en"/>
+      <document-date iso-date="2016-04-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/Unitaid-Strategy-2017-2021_final.pdf">
+      <title>
+        <narrative xml:lang="en">Unitaid Strategy 2017-2021</narrative>
+      </title>
+      <category code="B12"/>
+      <language code="en"/>
+      <document-date iso-date="2017-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/KPI-report-2016.pdf">
+      <title>
+        <narrative xml:lang="en">Unitaid Key Performance Indicators Report 2016</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+      <document-date iso-date="2017-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/KPI_2015_WEB_v04.pdf">
+      <title>
+        <narrative xml:lang="en">2015 KPI report</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+      <document-date iso-date="2016-06-30"/>
+    </document-link>
+    <document-link format="application/http" url="https://unitaid.eu/#en">
+      <title>
+        <narrative>Unitaid web-site</narrative>
+      </title>
+      <category code="B16"/>
+      <language code="en"/>
+      <document-date iso-date="2017-05-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/KPI_report_2014.pdf">
+      <title>
+        <narrative xml:lang="en">2014 KPI report</narrative>
+      </title>
+      <category code="A08"/>
+      <language code="en"/>
+      <document-date iso-date="2015-06-30"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/Unitaid-strategy-2013-2016.pdf">
+      <title>
+        <narrative xml:lang="en">Unitaid Strategy 2013-2016</narrative>
+      </title>
+      <category code="B12"/>
+      <language code="en"/>
+      <document-date iso-date="2013-04-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/Unitaid-Audited-Financial-Report-for-the-year-ended-31-December-2016.pdf">
+      <title>
+        <narrative xml:lang="en">Audited Financial Statements for the year ended, 31 December 2016</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+      <document-date iso-date="2016-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/December_31_2015_Financial_Statements_with_auditors_report_FINAL.pdf">
+      <title>
+        <narrative xml:lang="en">Audited Financial Statements for the year ended 31 December 2015</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+      <document-date iso-date="2015-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://unitaid.eu/assets/December_31_2014_Financial_Statements.pdf">
+      <title>
+        <narrative xml:lang="en">Audited Financial Statements for the year ended 31 December 2014</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+      <document-date iso-date="2014-12-31"/>
+    </document-link>
+    <document-link format="application/http" url="https://unitaid.eu/publications/?pub-search=&amp;pub-type=annual-report&amp;pub-date=&amp;pub-cat=#en">
+      <title>
+        <narrative xml:lang="en">Annual reports link for years 2007-2013</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2013-12-31"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

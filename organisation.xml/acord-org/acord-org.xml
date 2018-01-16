@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-01-15T15:02:43+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-01-15T03:01:57+00:00">
+    <reporting-org ref="GB-CHC-283302" type="21" xml:lang="en">ACORD</reporting-org>
+    <iati-identifier>GB-CHC-283302</iati-identifier>
+    <name xml:lang="en">Agency for Cooperation and Research in Development</name>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<iati-organisations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.02">
+  <iati-organisation last-updated-datetime="2017-11-06T00:00:00">
+    <organisation-identifier xsi:type="xsd:string">IADB</organisation-identifier>
+    <name>
+      <narrative>Inter-American Development Bank</narrative>
+      <narrative xml:lang="es">Banco Inter-Americano de Desarrollo </narrative>
+      <narrative xml:lang="pt">Banco Interamericano de Desenvolvimento</narrative>
+      <narrative xml:lang="fr">Banque interaméricaine de développement</narrative>
+    </name>
+    <reporting-org ref="IADB" type="40">
+      <narrative>Inter-American Development Bank</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2015-01-01" />
+      <period-end iso-date="2015-12-31" />
+      <value value-date="2015-01-01">612533000.0000</value>
+	  <budget-line>
+	    <value currency="USD" value-date="2015-01-01">612533000.0000</value>
+	    <narrative>Approved Administrative Budget. Source: 2015 Approved Program and Budget</narrative>
+	  </budget-line>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">562530000.0000</value>
+	  <budget-line>
+	    <value currency="USD" value-date="2016-01-01">562530000.0000</value>
+	    <narrative>Approved Administrative Budget. Source: 2016 Approved Program and Budget</narrative>
+	  </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">579969000.0000</value>
+	  <budget-line>
+	    <value currency="USD" value-date="2017-01-01">579969000.0000</value>
+	    <narrative>Approved Administrative Budget. Source: 2017 Approved Program and Budget</narrative>
+	  </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">50690000.0000</value>
+	  <budget-line>
+	    <value currency="USD" value-date="2018-01-01">50690000.0000</value>
+	    <narrative>Estimated Capital Budget. Source: 2017 Approved Program and Budget</narrative>
+	  </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">32764000.0000</value>
+	  <budget-line>
+	    <value currency="USD" value-date="2019-01-01">32764000.0000</value>
+	    <narrative>Estimated Capital Budget. Source: 2017 Approved Program and Budget</narrative>
+	  </budget-line>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="AR" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1086000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AR" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">1375000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+    <recipient-country code="AR" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">1471000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AR" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">1500000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BS" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">30000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BS" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">38000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BB" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">30100000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BB" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">42100000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BB" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">53800000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BZ" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">8700000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BZ" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">12900000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">418500000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">468000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">506000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">535300000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO" />
+      <period-start iso-date="2020-01-01" />
+      <period-end iso-date="2020-12-31" />
+      <value value-date="2020-01-01">557800000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BR" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1000000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BR" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">1250000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BR" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">1350000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CL" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">110400000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CL" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">90700000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CL" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">65300000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1125000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">937000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">776000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CR" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">250500000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CR" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">223700000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CR" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">213700000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CR" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">213700000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DO" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">202000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">380000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">380000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">251000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">256000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">276000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">155000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">87000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GY" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">14000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT" />
+      <period-start iso-date="2014-01-01" />
+      <period-end iso-date="2014-12-31" />
+      <value value-date="2014-01-01">230000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT" />
+      <period-start iso-date="2015-01-01" />
+      <period-end iso-date="2015-12-31" />
+      <value value-date="2015-01-01">230000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">181000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">187000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">191000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MX" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">1350000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MX" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">1500000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MX" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">1500000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">204800000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">195800000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PA" />
+      <period-start iso-date="2015-01-01" />
+      <period-end iso-date="2015-12-31" />
+      <value value-date="2015-01-01">390000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PA" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">338100000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PA" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">348700000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PA" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">337600000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PA" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">349500000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">250000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">250000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">250000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" />
+      <period-start iso-date="2020-01-01" />
+      <period-end iso-date="2020-12-31" />
+      <value value-date="2020-01-01">250000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE" />
+      <period-start iso-date="2021-01-01" />
+      <period-end iso-date="2021-12-31" />
+      <value value-date="2021-01-01">250000000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="PY" />
+      <period-start iso-date="2014-01-01" />
+      <period-end iso-date="2014-12-31" />
+      <value value-date="2014-01-01">85000000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="PY" />
+      <period-start iso-date="2015-01-01" />
+      <period-end iso-date="2015-12-31" />
+      <value value-date="2015-01-01">110000000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="PY" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">140000000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="PY" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">160000000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="PY" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">130000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SR" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">85100000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SR" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">138100000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SR" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">78800000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SR" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">34100000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SR" />
+      <period-start iso-date="2020-01-01" />
+      <period-end iso-date="2020-12-31" />
+      <value value-date="2020-01-01">23500000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TT" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">60000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TT" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">60000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TT" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">80000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TT" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">80000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TT" />
+      <period-start iso-date="2020-01-01" />
+      <period-end iso-date="2020-12-31" />
+      <value value-date="2020-01-01">80000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">204000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">272000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">329000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">284000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UY" />
+      <period-start iso-date="2020-01-01" />
+      <period-end iso-date="2020-12-31" />
+      <value value-date="2020-01-01">221000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JM" />
+      <period-start iso-date="2016-01-01" />
+      <period-end iso-date="2016-12-31" />
+      <value value-date="2016-01-01">232000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JM" />
+      <period-start iso-date="2017-01-01" />
+      <period-end iso-date="2017-12-31" />
+      <value value-date="2017-01-01">150000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JM" />
+      <period-start iso-date="2018-01-01" />
+      <period-end iso-date="2018-12-31" />
+      <value value-date="2018-01-01">200000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JM" />
+      <period-start iso-date="2019-01-01" />
+      <period-end iso-date="2019-12-31" />
+      <value value-date="2019-01-01">200000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JM" />
+      <period-start iso-date="2020-01-01" />
+      <period-end iso-date="2020-12-31" />
+      <value value-date="2020-01-01">130000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JM" />
+      <period-start iso-date="2021-01-01" />
+      <period-end iso-date="2021-12-31" />
+      <value value-date="2021-01-01">90000000.0000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="VE" />
+      <period-start iso-date="2011-01-01" />
+      <period-end iso-date="2011-12-31" />
+      <value value-date="2011-01-01">371200000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="VE" />
+      <period-start iso-date="2012-01-01" />
+      <period-end iso-date="2012-12-31" />
+      <value value-date="2012-01-01">500500000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="VE" />
+      <period-start iso-date="2013-01-01" />
+      <period-end iso-date="2013-12-31" />
+      <value value-date="2013-01-01">618100000.0000</value>
+    </recipient-country-budget>
+	<recipient-country-budget>
+      <recipient-country code="VE" />
+      <period-start iso-date="2014-01-01" />
+      <period-end iso-date="2014-12-31" />
+      <value value-date="2014-01-01">672500000.0000</value>
+    </recipient-country-budget>
+    <document-link url="http://www.iadb.org/en/about-us/general-operational-policies,6235.html#procurement" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">General Operational Policies - Procurement of Goods and Services</narrative>
+      </title>
+      <category code="B05" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=EZSHARE-169603605-7152" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Argentina (2016-2019)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=38029746" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Bahamas (2013-2017)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=38251423" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Belize (2013-2017)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=EZSHARE-169603605-7061" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Bolivia (2016-2020)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=40167831" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Brazil (2016-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=EZSHARE-169603605-7012" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Colombia (2015-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=38274082" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Dominican Republic (2013-2016)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=37266197" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Ecuador (2012-2017)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=39906701" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with El Salvador (2015-2019)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="https://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=39601562" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Barbados (2015-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=37366389" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Guatemala (2012-2016)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=37305027" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Guyana (2012-2016)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=36600159" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Haiti (2011-2015)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=38274900" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Mexico (2013-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=37303954" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Nicaragua (2012-2017)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=40043025" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Panama (2015-2019)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-338576828-11" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Peru (2017-2021)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=EZSHARE-169603605-7157" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Suriname (2016-2020)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-823395894-3" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Trinidad and Tobago (2016-2020)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=EZSHARE-169603605-7028" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Uruguay(2016-2020)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=39906688" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Costa Rica (2015-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=39069168" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Chile (2014-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=39274119" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Honduras (2015-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=38846631" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Paraguay (2014-2018)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=40713849" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Jamaica (2016-2021)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=36174731" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Strategy with Venezuela (2011-2014)</narrative>
+      </title>
+      <category code="B03" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=38664585" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2013 Information Statement</narrative>
+      </title>
+      <category code="B06" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=39482840" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2014 Information Statement</narrative>
+      </title>
+      <category code="B06" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=40253882" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2015 Information Statement</narrative>
+      </title>
+      <category code="B06" />
+    </document-link>
+    <document-link url="http://www.iadb.org/document.cfm?id=40855217" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">2016 Information Statement</narrative>
+      </title>
+      <category code="B06" />
+    </document-link>
+    <document-link url="http://publications.iadb.org/bitstream/handle/11319/2516/Access%20to%20Information%20Policy.pdf?sequence=2" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Access to Information Policy</narrative>
+      </title>
+      <category code="B08" />
+    </document-link>
+    <document-link url="http://publications.iadb.org/bitstream/handle/11319/5846/Mid-term%20Evaluation%20of%20IDB-9%20Commitments.pdf?sequence=1" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Mid-term evaluation of IDB-9 Commitments</narrative>
+      </title>
+      <category code="B09" />
+    </document-link>
+    <document-link url="http://publications.iadb.org/bitstream/handle/11319/5861/IDB-9%3a%20Evaluation%20of%20IDB-9%20Commitments%20for%20Haiti.pdf?sequence=1" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">IDB-9: Evaluation of IDB-9 Commitments for Haiti</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6031/Belize_EN%20BRIK.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Belize (2008-2012)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6031/BelizeCPE_SPBRIK.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Belize (2008-2012)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5820/Country%20Program%20Evaluation%3a%20Mexico%20%282007-2011%29.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Mexico (2007-2011)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5820/Evaluaci%c3%b3ndelProgramadePa%c3%ads%3aM%c3%a9xico%282007-2011%29.pdf?sequence=9&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: México (2007-2011)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8298/Country-Program-Evaluation-Guyana-2012-2016.PDF?sequence=5&amp;isAllowed=y"  format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Guyana (2012-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8298/Evaluacion-del-Programa-de-Pais-Guyana-2012-2016.PDF?sequence=6&amp;isAllowed=y"  format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Guyana (2012-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5812/Country%20Program%20Evaluation%3a%20Nicaragua%20%282008-2012%29%2cEvaluaci%c3%b3n%20del%20Programa%20de%20Pa%c3%ads%3a%20Nicaragua%20%282008-2012%29.pdf?sequence=7&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Nicaragua (2008-2012)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5812/Country%20Program%20Evaluation%3a%20Nicaragua%20%282008-2012%29%2cEvaluaci%c3%b3n%20del%20Programa%20de%20Pa%c3%ads%3a%20Nicaragua%20%282008-2012%29FINAL.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Nicaragua (2008-2012)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5540/Country%20Program%20Evaluation%20of%20Ecuador%3a%202007-2011.pdf?sequence=10&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Ecuador (2007-2011)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5540/Country%20Program%20Evaluation%20of%20Ecuador%3a%202007-2011%2cEvaluaci%c3%b3n%20del%20programa%20de%20pa%c3%ads%3a%20Ecuador%202007-2011.pdf?sequence=9&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Ecuador (2007-2011)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8061/Country-Program-Evaluation-Guatemala-2012-2016.pdf?sequence=7&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Guatemala (2012-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8061/Evaluacion-del-Programa-de-Pais-Guatemala-2012-2016.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Guatemala (2012-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8065/Country-Program-Evaluation-Peru-2012-2016.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Peru (2012-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8065/Evaluacion-del-Programa-de-Pais-Peru-2012-2016.pdf?sequence=7&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Peru (2012-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7252/Country-Program-Evaluation-Brazil-2011-2014.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Brazil (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7252/Evaluacion-del-Programa-de-Pais-Brasil-2011-2014.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Brasil (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7252/Avaliacao-do-Programa-de-Pais-Brasil-2011-2014.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="pt">Avaliação do programa de país: Brasil (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8057/Country-Program-Evaluation-Haiti-2011-2015.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Haiti (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8057/Evaluacion-del-Programa-de-Pais-Haiti-2011-2015.pdf?sequence=7&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Haití (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8057/Evaluation-du-Programme-de-Pays-Haiti-2011-2015.PDF?sequence=9&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Évaluation du programme de pays: Haïti (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6942/Country_Program_Evaluation_Colombia_2011_2014.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Colombia (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6942/Evaluacion_Programa_Pais_Colombia_2011_2014.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Colombia (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7230/Country-Program-Evaluation-Bolivia-2011-2015.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Bolivia (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7230/Evaluacion-programa-pais-Bolivia-2011-2015.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Bolivia (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7299/CPE_UR_BRIK_EN.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Uruguay (2010-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7299/CPE_UR_BRIK_ES.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Uruguay (2010-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7780/Country-Program-Evaluation-Suriname-2011-2015.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Suriname (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7780/Evaluacion-del-Programa-de-Pais-Suriname-2011-2015.pdf?sequence=7&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Suriname (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8344/Country-Program-Evaluation-Dominican-Republic-2013-2016.PDF?sequence=4&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Dominican Republic (2013-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8344/Evaluacion-del-Programa-de-Pais-Republica-Dominicana-2013-2016.PDF?sequence=3&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: República Dominicana (2013-2016)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6800/CPE_ES_BRIKENG.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: El Salvador (2009-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6800/CPE_ES_BRIKESPA.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: El Salvador (2009-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7687/Country-Program-Evaluation-Argentina-2009-2015.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Argentina (2009-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7687/Evaluacion-del-Programa-de-Pais-Argentina-2009-2015.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Argentina (2009-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/2485/Country%20Program%20Evaluation%20The%20Bahamas%202001-2008.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: The Bahamas (2001-2008)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/2485/Evaluaci%C3%B3n%20del%20Programa%20de%20Pa%C3%ADs%20Bahamas%202001-2008.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Bahamas (2001-2008)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6971/Country_Program_Evaluation_Panama_2010_2014.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Panama (2010-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6971/Evaluacion_Programa_Pais_Panama_2010_2014.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Panamá (2010-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8060/Country-Program-Evaluation-Trinidad-and-Tobago-2011-2015.pdf?sequence=8&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Trinidad and Tobago (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8060/Evaluacion-del-Programa-de-Pais-Trinidad-y-Tobago-2011-2015.pdf?sequence=7&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Trinidad y Tobago (2011-2015)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5788/Country%20Program%20Evaluation%20Venezuela%201999-2007.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Venezuela (1999-2007)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/5788/Evaluaci%C3%B3n%20del%20Programa%20de%20Pa%C3%ADs%20Venezuela1999-2007.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Venezuela (1999-2007)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6782/CPE_CR_BRIK_ENG.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Costa Rica (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6782/CPE_CR_BRIK_ESP.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Costa Rica (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6723/Country-Program-Evaluation-Jamaica-2009-2014.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Jamaica (2009-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6723/Evaluaci%c3%b3n-de-Programa-de-Pa%c3%ads-Jamaica-2009-2014.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Jamaica (2009-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6688/Honduras_English_BRIK.pdf?sequence=3&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Honduras (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6688/Honduras_Spanish_BRIK.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Honduras (2011-2014)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6540/CPECH_ENBRIK.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Chile (2011-2013)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6540/CPECH_ESBRIK.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Evaluación del programa de país: Chile (2011-2013)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6347/Country_Program_Evaluation__Paraguay_2009-2013__Revised_version.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Paraguay (2009-2013)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6347/Evaluaci%c3%83%c2%b3n_del_Programa_de_Pa%c3%83%c2%ads__Paraguay_2009-2013__Versi%c3%83%c2%b3n_revisada.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es"> Evaluación del programa de país: Paraguay (2009-2013)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6419/CPE%20Barbados%20ENG%20BRIK.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Country Program Evaluation: Barbados (2010-2013)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6419/CPE%20Barbados%20ESPA%20BRIK.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es"> Evaluación del programa de país: Barbados (2010-2013)</narrative>
+      </title>
+      <category code="B10" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6855/Informe%20anual%202014.%20%20Rese%c3%b1a%20del%20a%c3%b1o.pdf?sequence=16" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Inter-American Development Bank Informe anual 2014: Reseña del año</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6855/2014%20Annual%20Report.%20%20The%20Year%20in%20Review.pdf?sequence=13" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Inter-American Development Bank Annual Report 2014: The Year in Review</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6855/Rapport%20annuel%202014.%20%20Bilan%20de%20l%27ann%c3%a9e.pdf?sequence=15" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Banque interaméricaine de développement Rapport annuel 2014: Bilan de l’année</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/6855/Relat%c3%b3rio%20Anual%202014.%20%20Resenha%20do%20ano.pdf?sequence=14" format="application/pdf">
+      <title>
+        <narrative xml:lang="pt">Banco Interamericano de Desenvolvimento Relatório Annual 2014: Resenha do Ano</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7554/Banco-Interamericano-de-Desarrollo-informe-anual-2015-Resena-del-ano.pdf?sequence=15&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Inter-American Development Bank Informe anual 2015: Reseña del año</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7554/IDB-Annual-Report-2015-The-Year-in-Review.pdf?sequence=5&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Inter-American Development Bank Annual Report 2015: The Year in Review</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7554/Banque-Interamericaine-de-Developpement-rapport-annuel-2015-Bilan-de-lannee.pdf?sequence=14&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Banque interaméricaine de développement Rapport annuel 2015: Bilan de l’année</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/7554/Relatorio-Anual-do-BID-2015-Resenha-do-ano.pdf?sequence=3&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="pt">Banco Interamericano de Desenvolvimento Relatório Annual 2015: Resenha do Ano</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8218/Informe-anual-del-Banco-Interamericano-de-Desarrollo-2016-Resena-del-ano.pdf?sequence=3&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="es">Inter-American Development Bank Informe anual 2016: Reseña del año</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8218/Inter-American-Development-Bank-Annual-Report-2016-The-Year-in-Review.pdf?sequence=4&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Inter-American Development Bank Annual Report 2016: The Year in Review</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8218/Rapport-annuel-de-la-Banque-interamericaine-de-developpement-2016-Bilan%20de-l-annee.pdf?sequence=1&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="fr">Banque interaméricaine de développement Rapport annuel 2016: Bilan de l’année</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="https://publications.iadb.org/bitstream/handle/11319/8218/Relatorio-Anual-do-Banco-Interamericano-de-Desenvolvimento-2016-Resenha-do-Ano.pdf?sequence=2&amp;isAllowed=y" format="application/pdf">
+      <title>
+        <narrative xml:lang="pt">Banco Interamericano de Desenvolvimento Relatório Annual 2016: Resenha do Ano</narrative>
+      </title>
+      <category code="B01" />
+    </document-link>
+    <document-link url="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=39556684" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Update to the Institutional Strategy 2010–2020</narrative>
+      </title>
+      <category code="B02" />
+    </document-link>
+    <document-link url="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=39413765" format="application/pdf">
+      <title>
+        <narrative xml:lang="en">Fund for special operations. Proposal for the allocation of resources 2015-2016</narrative>
+      </title>
+      <category code="B04" />
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-09-08T07:37:01+00:00">
+  <iati-organisation last-updated-datetime="2017-09-08T07:37:01+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>XM-DAC-47058</organisation-identifier>
+    <name>
+      <narrative>International IDEA</narrative>
+    </name>
+    <reporting-org type="40" ref="XM-DAC-47058">
+      <narrative xml:lang="en">International IDEA</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

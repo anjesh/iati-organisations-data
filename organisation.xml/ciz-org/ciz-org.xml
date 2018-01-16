@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-12-08T10:47:30+00:00">
+  <iati-organisation last-updated-datetime="2017-12-08T10:47:30+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>ZW-PVO-15/2003</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">CARE International in Zimbabwe</narrative>
+    </name>
+    <reporting-org type="22" ref="ZW-PVO-15/2003">
+      <narrative xml:lang="en">CARE INTERNATIONAL IN ZIMBABWE</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

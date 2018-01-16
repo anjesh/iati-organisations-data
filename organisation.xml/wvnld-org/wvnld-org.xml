@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-06-23T06:48:28+00:00">
+  <iati-organisation last-updated-datetime="2016-06-23T06:48:28+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41179943</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">World Vision Netherlands</narrative>
+    </name>
+    <reporting-org type="60" ref="NL-KVK-41179943">
+      <narrative xml:lang="en">World Vision Netherlands</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2015-10-01"/>
+      <period-end iso-date="2016-09-30"/>
+      <value currency="EUR" value-date="2015-10-01">11773356</value>
+      <budget-line ref="Contribution to aid programmes">
+        <value currency="EUR" value-date="2015-10-01">11285344</value>
+        <narrative>Budget for contribution to aid programmes for FY16</narrative>
+      </budget-line>
+      <budget-line ref="Information and awareness">
+        <value currency="EUR" value-date="2015-10-01">488012</value>
+        <narrative>Budget for information and awareness for FY16</narrative>
+      </budget-line>
+    </total-budget>
+    <document-link format="text/html" url="http://www.worldvision.nl/over-world-vision/betrouwbaarheid">
+      <title>
+        <narrative xml:lang="nl">Annual reports World Vision Netherlands</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2016-03-31"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

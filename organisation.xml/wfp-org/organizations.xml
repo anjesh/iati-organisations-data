@@ -1,0 +1,2146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2018-01-15T15:46:25">
+  <iati-organisation default-currency="USD" last-updated-datetime="2018-01-15T15:46:25">
+    <organisation-identifier>XM-DAC-41140</organisation-identifier>
+    <name>
+      <narrative>World Food Programme</narrative>
+      <narrative xml:lang="fr">Programme Alimentaire Mondial</narrative>
+      <narrative xml:lang="es">Programa Mundial de Alimentos</narrative>
+      <narrative xml:lang="ar">برنامج الأغذية العالمي</narrative>
+    </name>
+    <reporting-org ref="XM-DAC-41140" type="40">
+      <narrative>World Food Programme</narrative>
+    </reporting-org>
+    <total-budget>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-12-06">8460785476</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-12-06">6989440614</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-12-06">6477396728</value>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF">
+        <narrative>Afghanistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">146108869</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DZ">
+        <narrative>Algeria</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">18153981.26</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AO">
+        <narrative>Angola</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">10813523.28</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AM">
+        <narrative>Armenia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">5088828.276</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TH">
+        <narrative>Bangkok RB</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">4134885</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD">
+        <narrative>Bangladesh</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">53658780.47</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BJ">
+        <narrative>Benin</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">5240065.581</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BT">
+        <narrative>Bhutan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">1140988.15</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO">
+        <narrative>Bolivia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">2273414.207</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF">
+        <narrative>Burkina Faso</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">23872191.28</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI">
+        <narrative>Burundi</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">54577476.98</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH">
+        <narrative>Cambodia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">17121028.12</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM">
+        <narrative>Cameroon</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">59677739.06</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF">
+        <narrative>Central African Republic</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">91152384.45</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD">
+        <narrative>Chad</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">189332615.4</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CN">
+        <narrative>China</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">4573647.954</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO">
+        <narrative>Colombia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">32802811.33</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CG">
+        <narrative>Congo, Republic of</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">15635498.84</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD">
+        <narrative>Congo DRC</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">168782736.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI">
+        <narrative>Côte d'Ivoire</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">16847597.46</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CU">
+        <narrative>Cuba</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">4297618.134</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN">
+        <narrative>Dakar RB</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">4141351.606</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DJ">
+        <narrative>Djibouti</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">16487189.01</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DO">
+        <narrative>Dominican Republic</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">1506827.515</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KP">
+        <narrative>North Korea</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">49194946.55</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC">
+        <narrative>Ecuador</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">7973302.08</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG">
+        <narrative>Egypt</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">59503382.54</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV">
+        <narrative>El Salvador</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">23899069</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">401169250.7</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GM">
+        <narrative>Gambia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">7228306.665</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH">
+        <narrative>Ghana</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">9617351.842</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT">
+        <narrative>Guatemala</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">15398248.06</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN">
+        <narrative>Guinea</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">10466864.1</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW">
+        <narrative>Guinea-Bissau</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">12260979.75</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT">
+        <narrative>Haiti</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">35368174.09</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN">
+        <narrative>Honduras</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">30222449.09</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN">
+        <narrative>India</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">4907080</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ID">
+        <narrative>Indonesia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">3138481.6</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IR">
+        <narrative>Iran</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">5531653</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IQ">
+        <narrative>Iraq</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">210202273.5</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA">
+        <narrative>South Africa</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">3998293</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO">
+        <narrative>Jordan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">246271472.4</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">
+        <narrative>Kenya</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">161400847.4</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KG">
+        <narrative>Kyrgyzstan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">11143424.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LA">
+        <narrative>Laos</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">16817460.94</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB">
+        <narrative>Lebanon</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">306304416.8</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LS">
+        <narrative>Lesotho</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">12353542.6</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR">
+        <narrative>Liberia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">27429418.84</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY">
+        <narrative>Libya</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">26169974.6</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG">
+        <narrative>Madagascar</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">35880476.24</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">159383707.7</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML">
+        <narrative>Mali</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">81449260.94</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR">
+        <narrative>Mauritania</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">35228591.77</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA">
+        <narrative>Morocco</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">200000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">31657172.22</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM">
+        <narrative>Myanmar</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">66044329.87</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NA">
+        <narrative>Namibia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">1386613.165</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP">
+        <narrative>Nepal</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">33965426.12</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI">
+        <narrative>Nicaragua</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">9550156.106</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE">
+        <narrative>Niger</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">211999443.7</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG">
+        <narrative>Nigeria</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">266695543.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK">
+        <narrative>Pakistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">107588696.8</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PS">
+        <narrative>Palestine</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">42737179.89</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PY">
+        <narrative>Paraguay</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">50985</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE">
+        <narrative>Peru</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">2280779</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH">
+        <narrative>Philippines</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">9074979.997</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW">
+        <narrative>Rwanda</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">38931322.04</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ST">
+        <narrative>São Tomé and Príncipe</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">237138.44</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN">
+        <narrative>Senegal</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">20023931.18</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">18494785.07</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO">
+        <narrative>Somalia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">322417397.2</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS">
+        <narrative>South Sudan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">994041400.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LK">
+        <narrative>Sri Lanka</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">11080033.67</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD">
+        <narrative>Sudan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">377038992.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SZ">
+        <narrative>Swaziland</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">5988703.499</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SY">
+        <narrative>Syria</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">818026266.2</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TJ">
+        <narrative>Tajikistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">17289447.72</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">126145839.2</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TL">
+        <narrative>Timor-Leste</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">6799423.527</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG">
+        <narrative>Togo</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">423757.32</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN">
+        <narrative>Tunisia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">993562.0875</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TR">
+        <narrative>Turkey</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">631271607.1</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">206981325.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UA">
+        <narrative>Ukraine</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">16495736.22</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE">
+        <narrative>Yemen</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">1018064026</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">9158899.475</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW">
+        <narrative>Zimbabwe</narrative>
+      </recipient-country>
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2017-11-20">80315825.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF">
+        <narrative>Afghanistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">127088069.1</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DZ">
+        <narrative>Algeria</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">17860291.36</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AO">
+        <narrative>Angola</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AM">
+        <narrative>Armenia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">5024647.692</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TH">
+        <narrative>Bangkok RB</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">2798181</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD">
+        <narrative>Bangladesh</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">47628260.54</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BJ">
+        <narrative>Benin</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">5502068.86</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BT">
+        <narrative>Bhutan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">659000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO">
+        <narrative>Bolivia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">2273414.207</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF">
+        <narrative>Burkina Faso</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">27945746.39</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI">
+        <narrative>Burundi</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">54577476.98</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH">
+        <narrative>Cambodia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">12803167.55</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM">
+        <narrative>Cameroon</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">57481168.56</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF">
+        <narrative>Central African Republic</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">89696390</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD">
+        <narrative>Chad</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">182313418</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CN">
+        <narrative>China</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">6743339</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO">
+        <narrative>Colombia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">16424256.31</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CG">
+        <narrative>Congo, Republic of</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">9830785</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD">
+        <narrative>Congo DRC</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">172648963.4</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI">
+        <narrative>Côte d'Ivoire</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">16113990.56</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CU">
+        <narrative>Cuba</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">4297618.134</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN">
+        <narrative>Dakar RB</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">3558294.857</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DJ">
+        <narrative>Djibouti</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">16527853.01</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DO">
+        <narrative>Dominican Republic</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">1536963.623</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KP">
+        <narrative>North Korea</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">49194946.55</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC">
+        <narrative>Ecuador</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">8563196</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG">
+        <narrative>Egypt</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">62722411</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV">
+        <narrative>El Salvador</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">16687663.68</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">402910602.8</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GM">
+        <narrative>Gambia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">8640839.679</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH">
+        <narrative>Ghana</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">9616740</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT">
+        <narrative>Guatemala</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">15874553.33</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN">
+        <narrative>Guinea</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">5395382.804</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW">
+        <narrative>Guinea-Bissau</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">13487077.73</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT">
+        <narrative>Haiti</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">35368174.09</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN">
+        <narrative>Honduras</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">31807013</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN">
+        <narrative>India</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">5096000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ID">
+        <narrative>Indonesia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">3080858</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IR">
+        <narrative>Iran</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">5696596</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IQ">
+        <narrative>Iraq</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">165653297.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA">
+        <narrative>South Africa</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">2337049</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO">
+        <narrative>Jordan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">
+        <narrative>Kenya</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">131691579.6</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KG">
+        <narrative>Kyrgyzstan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">11635337</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LA">
+        <narrative>Laos</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">16279737</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB">
+        <narrative>Lebanon</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">293587326</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LS">
+        <narrative>Lesotho</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">6414024</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR">
+        <narrative>Liberia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">29618586.88</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY">
+        <narrative>Libya</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">17723770</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG">
+        <narrative>Madagascar</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">35880476.24</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">166621861.6</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML">
+        <narrative>Mali</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">78262755.46</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR">
+        <narrative>Mauritania</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">35228591.77</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA">
+        <narrative>Morocco</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">199999.66</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">31570633</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM">
+        <narrative>Myanmar</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">62848289.54</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NA">
+        <narrative>Namibia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">1239093</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP">
+        <narrative>Nepal</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">32677427.82</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI">
+        <narrative>Nicaragua</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">9550156</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE">
+        <narrative>Niger</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">199738426</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG">
+        <narrative>Nigeria</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">206301209</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK">
+        <narrative>Pakistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">100626773.2</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PS">
+        <narrative>Palestine</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">46218953</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PY">
+        <narrative>Paraguay</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE">
+        <narrative>Peru</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">2405383</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH">
+        <narrative>Philippines</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">9074979.997</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW">
+        <narrative>Rwanda</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">38971647.26</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ST">
+        <narrative>São Tomé and Príncipe</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">237138.44</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN">
+        <narrative>Senegal</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">6135000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">15939678.83</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO">
+        <narrative>Somalia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">275594107.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS">
+        <narrative>South Sudan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">989035851.7</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LK">
+        <narrative>Sri Lanka</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">10724340</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD">
+        <narrative>Sudan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">376539405.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SZ">
+        <narrative>Swaziland</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">1619152.441</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SY">
+        <narrative>Syria</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">713281205.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TJ">
+        <narrative>Tajikistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">16056116.76</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">127752164</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TL">
+        <narrative>Timor-Leste</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">5188232.923</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG">
+        <narrative>Togo</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">425659.12</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN">
+        <narrative>Tunisia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">1137558.184</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TR">
+        <narrative>Turkey</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">5000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">177154093</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UA">
+        <narrative>Ukraine</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE">
+        <narrative>Yemen</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">917947391.4</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">7444491.433</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW">
+        <narrative>Zimbabwe</narrative>
+      </recipient-country>
+      <period-start iso-date="2019-01-01"/>
+      <period-end iso-date="2019-12-31"/>
+      <value value-date="2017-11-20">54396246</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AF">
+        <narrative>Afghanistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">127752960.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DZ">
+        <narrative>Algeria</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">17860291.36</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AO">
+        <narrative>Angola</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="AM">
+        <narrative>Armenia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">4645626.227</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TH">
+        <narrative>Bangkok RB</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">2798181</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD">
+        <narrative>Bangladesh</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">38794904.08</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BJ">
+        <narrative>Benin</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">5777172.303</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BT">
+        <narrative>Bhutan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">659000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BO">
+        <narrative>Bolivia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">2273414.207</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF">
+        <narrative>Burkina Faso</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">28833964.38</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BI">
+        <narrative>Burundi</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">54577476.98</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KH">
+        <narrative>Cambodia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">12803167.55</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM">
+        <narrative>Cameroon</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">53759456.72</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CF">
+        <narrative>Central African Republic</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">89057200</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TD">
+        <narrative>Chad</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">178694242.1</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CN">
+        <narrative>China</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">6850395</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CO">
+        <narrative>Colombia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">14764702.57</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CG">
+        <narrative>Congo, Republic of</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">9830785</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CD">
+        <narrative>Congo DRC</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">176926348.2</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI">
+        <narrative>Côte d'Ivoire</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">15400241.18</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CU">
+        <narrative>Cuba</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">4297618.134</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN">
+        <narrative>Dakar RB</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">2984180.248</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DJ">
+        <narrative>Djibouti</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">16527853.01</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="DO">
+        <narrative>Dominican Republic</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">1567702.895</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KP">
+        <narrative>North Korea</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">49194946.55</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EC">
+        <narrative>Ecuador</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">7614824</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="EG">
+        <narrative>Egypt</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">64389437</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SV">
+        <narrative>El Salvador</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">13960707.65</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative>Ethiopia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">368538453.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GM">
+        <narrative>Gambia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">4626840</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH">
+        <narrative>Ghana</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">9616744</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GT">
+        <narrative>Guatemala</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">16035499.85</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN">
+        <narrative>Guinea</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">12560237.41</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW">
+        <narrative>Guinea-Bissau</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">14835785.5</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HT">
+        <narrative>Haiti</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">35368174.09</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="HN">
+        <narrative>Honduras</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">31807013</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN">
+        <narrative>India</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">5345000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ID">
+        <narrative>Indonesia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">3292831</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IR">
+        <narrative>Iran</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">5693586</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IQ">
+        <narrative>Iraq</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">99314849.19</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZA">
+        <narrative>South Africa</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">2132238</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="JO">
+        <narrative>Jordan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE">
+        <narrative>Kenya</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">134663804</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KG">
+        <narrative>Kyrgyzstan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">11445058</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LA">
+        <narrative>Laos</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">16433872</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LB">
+        <narrative>Lebanon</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">231524784</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LS">
+        <narrative>Lesotho</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">6414024</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR">
+        <narrative>Liberia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">31253981.06</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LY">
+        <narrative>Libya</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MG">
+        <narrative>Madagascar</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">35880476.24</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW">
+        <narrative>Malawi</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">146581540.5</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML">
+        <narrative>Mali</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">78470160.46</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MR">
+        <narrative>Mauritania</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">35228591.77</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MA">
+        <narrative>Morocco</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">199999.66</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ">
+        <narrative>Mozambique</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">26820382</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MM">
+        <narrative>Myanmar</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">57176080.56</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NA">
+        <narrative>Namibia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">1090440</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NP">
+        <narrative>Nepal</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">32677427.82</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NI">
+        <narrative>Nicaragua</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">9550156</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NE">
+        <narrative>Niger</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">209586419.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG">
+        <narrative>Nigeria</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">130309926</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK">
+        <narrative>Pakistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">97718602.91</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PS">
+        <narrative>Palestine</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">46896618</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PY">
+        <narrative>Paraguay</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PE">
+        <narrative>Peru</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">2402166</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PH">
+        <narrative>Philippines</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">9074979.997</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="RW">
+        <narrative>Rwanda</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">38971647.26</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ST">
+        <narrative>São Tomé and Príncipe</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">237138.44</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN">
+        <narrative>Senegal</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">6135000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL">
+        <narrative>Sierra Leone</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">15939678.83</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SO">
+        <narrative>Somalia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">275594107.9</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS">
+        <narrative>South Sudan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">992494750.6</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LK">
+        <narrative>Sri Lanka</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">8740429</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD">
+        <narrative>Sudan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">376539408.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SZ">
+        <narrative>Swaziland</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SY">
+        <narrative>Syria</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">545653366.3</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TJ">
+        <narrative>Tajikistan</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">15099039.79</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ">
+        <narrative>Tanzania</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">116778729</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TL">
+        <narrative>Timor-Leste</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">3825326.259</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG">
+        <narrative>Togo</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">427670.12</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TN">
+        <narrative>Tunisia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">822585.7163</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TR">
+        <narrative>Turkey</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">5000000</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG">
+        <narrative>Uganda</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">139261163</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UA">
+        <narrative>Ukraine</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">0</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="YE">
+        <narrative>Yemen</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">917947391.4</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM">
+        <narrative>Zambia</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">7828234.92</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW">
+        <narrative>Zimbabwe</narrative>
+      </recipient-country>
+      <period-start iso-date="2020-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value value-date="2017-11-20">46937520</value>
+    </recipient-country-budget>
+    <document-link url=" http://documents.wfp.org/stellent/groups/public/documents/eb/wfp293113.pdf" format="application/pdf">
+      <title>
+        <narrative>WFP Management Plan (2018-2020)</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="en"/>
+    </document-link>
+    <document-link url=" http://documents.wfp.org/stellent/groups/public/documents/eb/wfp293114.pdf" format="application/pdf">
+      <title>
+        <narrative>Plan de gestion du PAM (2018-2020)</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="fr"/>
+    </document-link>
+    <document-link url=" http://documents.wfp.org/stellent/groups/public/documents/eb/wfp293115.pdf" format="application/pdf">
+      <title>
+        <narrative>Plan de Gestión del PMA (2018-2020)</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="es"/>
+    </document-link>
+    <document-link url="http://documents.wfp.org/stellent/groups/public/documents/eb/wfp293116.pdf" format="application/pdf">
+      <title>
+        <narrative>(2020-2018)خطة البرنامج لإلدارة</narrative>
+      </title>
+      <category code="B02"/>
+      <language code="ar"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

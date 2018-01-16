@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<iati-organisations version="1.01" generated-datetime="2013-07-05T09:17:21Z">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-07-04T15:42:50Z" default-currency="EUR">
+    <reporting-org xml:lang="en" ref="EU-4" type="40">Humanitarian Aid Office of the European Commission</reporting-org>
+    <iati-identifier>EU-4</iati-identifier>
+    <name>Humanitarian Aid Office of the European Commission</name>
+    <total-budget>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1306035437</value>
+    </total-budget>
+    <total-budget>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">893937746</value>
+    </total-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CI">Ivory Coast (Côte d'Ivoire)</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">9175000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MM">Myanmar</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">25800000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CG">Congo</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1250000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BZ">Belize</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">32335</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SS">South Sudan Republic</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PK">Pakistan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">72200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="IN">India</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">7399499</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CU">Cuba</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="ML">Mali</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">5149044</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="KZ">Kazakhstan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1450899</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="LK">Sri Lanka</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4700000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BR">Brazil</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="ZW">Zimbabwe</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">8000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="IQ">Iraq</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4100000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="AF">Afghanistan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">27000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="GN">Guinea</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">215000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TZ">Tanzania, United Republic of</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="AO">Angola</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">20219891</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MG">Madagascar</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4816215</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="LS">Lesotho</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">5500000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="ID">Indonesia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1569415</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BF">Burkina Faso</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">3046902</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="KE">Kenya</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">34200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SV">El Salvador</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1774573</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="KG">Kyrgyzstan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">540000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="KM">Comoros</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="AM">Armenia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1950000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CR">Costa Rica</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">697696</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SD">Sudan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">157176000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SY">Syrian Arab Republic</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">155732843</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CO">Colombia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">13393315</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="LB">Lebanon</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">10500000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="DJ">Djibouti</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">2000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="DZ">Algeria</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">10000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BO">Bolivia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="LA">Lao People's Democratic Republic</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">2659623</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PH">Philippines</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">10015000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="GT">Guatemala</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4323807</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SO">Somalia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">60800000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TH">Thailand</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">7100000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="GH">Ghana</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">122337</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="NE">Niger</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">3462935</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="VN">Viet Nam</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4650000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="NI">Nicaragua</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">3210000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BI">Burundi</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">12736757</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TJ">Tajikistan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4645105</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="ET">Ethiopia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">45000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="UG">Uganda</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">536768</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="HN">Honduras</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">2534550</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="IR">Iran, Islamic Republic of</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">2000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="KP">Korea, Democratic People's Republic of</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">325277</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="KH">Cambodia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">5020000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MZ">Mozambique</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">3249949</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PS">Palestinian Territory, Occupied</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">42059863</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MW">Malawi</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">5512928</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CD">Congo, the Democratic Republic of the</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">70359964</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MN">Mongolia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TD">Chad</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">50200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="FJ">Fiji</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PA">Panama</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">65230</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CM">Cameroon</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PE">Peru</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">348235</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MR">Mauritania</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">2500000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="YE">Yemen</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">40000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="LR">Liberia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">4000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="NA">Namibia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">410000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TM">Turkmenistan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">339821</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="GE">Georgia</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1268555</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BE">Belgium</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1100000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BJ">Benin</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">255819</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PY">Paraguay</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">138055</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="UZ">Uzbekistan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">100000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="NP">Nepal</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SL">Sierra Leone</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1702869</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="JO">Jordan</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1900000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="GW">Guinea-Bissau</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BY">Belarus</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">39580</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="NG">Nigeria</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">3200000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="DO">Dominican Republic</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">1163797</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="RW">Rwanda</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">85965</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="HT">Haiti</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">34250000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CF">Central African Republic</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">8000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="EC">Ecuador</recipient-country>
+      <period-start iso-date="2012-01-01"/>
+      <period-end iso-date="2012-12-31"/>
+      <value value-date="2012-01-01" currency="EUR">223993</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="JM">Jamaica</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">500000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CI">Ivory Coast (Côte d'Ivoire)</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">10000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PH">Philippines</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">7000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SO">Somalia</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">40000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MM">Myanmar</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">14500000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TH">Thailand</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">4500000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CG">Congo</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SS">South Sudan Republic</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PK">Pakistan</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">52000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="IN">India</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">6000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="NE">Niger</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">12000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="ML">Mali</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">42000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="ZW">Zimbabwe</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">3000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BI">Burundi</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="IQ">Iraq</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">7000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="AF">Afghanistan</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">27150000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="ET">Ethiopia</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">24000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TZ">Tanzania, United Republic of</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="UG">Uganda</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="IR">Iran, Islamic Republic of</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">2850000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="BF">Burkina Faso</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="KE">Kenya</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">20500000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MZ">Mozambique</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">3000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="PS">Palestinian Territory, Occupied</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">35000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CD">Congo, the Democratic Republic of the</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">64000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="TD">Chad</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">29000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="MR">Mauritania</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="YE">Yemen</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">33000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="LR">Liberia</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SD">Sudan</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">80000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="SY">Syrian Arab Republic</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">100000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CO">Colombia</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">13000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="NP">Nepal</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">1000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="DJ">Djibouti</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">2000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="DZ">Algeria</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">10000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="RW">Rwanda</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">0</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="DO">Dominican Republic</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">1000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="HT">Haiti</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">15000000</value>
+    </country-budget>
+    <country-budget>
+      <recipient-country xml:lang="en" code="CF">Central African Republic</recipient-country>
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value value-date="2013-01-01" currency="EUR">12000000</value>
+    </country-budget>
+  </iati-organisation>
+</iati-organisations>

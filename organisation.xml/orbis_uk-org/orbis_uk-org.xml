@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-09-12T09:27:16+00:00">
+  <iati-organisation last-updated-datetime="2017-09-12T09:27:16+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-1061352</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Orbis Charitable Trust</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-1061352">
+      <narrative xml:lang="en">Orbis Charitable Trust</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2016-11-11">5603437.00</value>
+      <budget-line ref="Orbis Charitable Trust AFC 2017">
+        <value currency="GBP" value-date="2016-11-11">5603437.00</value>
+        <narrative xml:lang="en">Orbis Charitable Trust Annual Funding Commitment 2017 (Total Direct Programme Funding)</narrative>
+      </budget-line>
+    </total-budget>
+    <document-link format="application/pdf" url="http://s3-eu-west-1.amazonaws.com/gb.files.orbis.epevaluation.co.uk/files/Final-Annual-Report-2016.pdf?mtime=20170815125421">
+      <title>
+        <narrative xml:lang="en">Orbis UK Annual Report &amp; Financial Statements 2016</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2017-07-15"/>
+      <recipient-country code="GB">
+        <narrative xml:lang="en">UK</narrative>
+      </recipient-country>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

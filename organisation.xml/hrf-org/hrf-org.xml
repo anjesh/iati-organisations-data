@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-10-31T11:08:10+00:00">
+  <iati-organisation last-updated-datetime="2017-10-31T11:08:10+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-1126281</organisation-identifier>
+    <name>
+      <narrative>Human Relief Foundation</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-1126281">
+      <narrative xml:lang="en">Human Relief Foundation</narrative>
+    </reporting-org>
+    <document-link format="application/pdf" url="https://hrf-live.storage.googleapis.com/upload/www.hrf.org.uk/media-centre/publications/Kenya%20Strategy%20Brochure%202017.pdf?inline=true">
+      <title>
+        <narrative xml:lang="en">This document is for NGOs, donors, partners, private and public sector institutions working toward meeting Kenya's Vision 2030 and beyond, who are interested in understanding HRFs Kenya Development Strategy</narrative>
+      </title>
+      <category code="B03"/>
+      <language code="en"/>
+      <document-date iso-date="2017-01-01"/>
+      <recipient-country code="KE">
+        <narrative xml:lang="en">HRF has been involved in the East African region for over 5 years, in various countries, working to solidify bridges that connect the region. Our effort has always been global, built on firm developmental values that we will continue to bring to the region.</narrative>
+      </recipient-country>
+    </document-link>
+    <document-link format="application/pdf" url="https://hrf-live.storage.googleapis.com/upload/www.hrf.org.uk/media-centre/publications/Human%20Relief%20Foundation%20accounts%202016%20%281%29.pdf?inline=true">
+      <title>
+        <narrative xml:lang="en">Please find HRF's Report and Financial Statements for the year ended 31 December 2016</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+      <document-date iso-date="2016-12-31"/>
+      <recipient-country code="GB">
+        <narrative xml:lang="en">We are pleased to present our annual report together with the consolidated financial statements of the charity and its subsidiary for the year ending 31 December 2016.</narrative>
+      </recipient-country>
+    </document-link>
+    <document-link format="application/pdf" url="https://hrf-live.storage.googleapis.com/upload/www.hrf.org.uk/media-centre/publications/HRF%20Accounts%202015%20%281%29%20%281%29%20%286%29.pdf?inline=true">
+      <title>
+        <narrative xml:lang="en">Please find HRFs Report and Financial Statements for the year ended 31 December 2015.</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+      <document-date iso-date="2015-12-31"/>
+      <recipient-country code="GB">
+        <narrative>We are pleased to present our annual report together with the consolidated financial statements of the charity and its subsidiary for the year ending 31 December 2015.</narrative>
+      </recipient-country>
+    </document-link>
+    <document-link format="application/pdf" url="https://hrf-live.storage.googleapis.com/upload/www.hrf.org.uk/media-centre/publications/HRF%20accounts-%202014%20%281%29%20%281%29.pdf?inline=true">
+      <title>
+        <narrative xml:lang="en">Please find below HRFs Report and Financial Statements for the year ended 31 December 2014.</narrative>
+      </title>
+      <category code="B06"/>
+      <language code="en"/>
+      <document-date iso-date="2014-12-31"/>
+      <recipient-country code="GB">
+        <narrative xml:lang="en">We are pleased to present our annual report together with the consolidated financial statements of the charity and its subsidiary for the year ending 31 December 2014.</narrative>
+      </recipient-country>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

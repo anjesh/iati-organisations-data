@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-07-28T14:10:21+00:00">
+  <iati-organisation last-updated-datetime="2016-07-28T14:10:21+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-40594571</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">These links include Simavi's Annual Report 2015 and 2014, Theory of Change and a worldmap of Simavi projects, to give insight in Simavi's way of working.</narrative>
+    </name>
+    <reporting-org type="22" ref="NL-KVK-40594571">
+      <narrative xml:lang="en">Simavi </narrative>
+    </reporting-org>
+    <document-link format="text/html" url="http://simavi.org/who-we-are/annual-report/">
+      <title>
+        <narrative xml:lang="en">Simavi Annual Report 2014</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2015-06-03"/>
+      <recipient-country code="NL"/>
+    </document-link>
+    <document-link format="text/html" url="http://simavi.org/thinking/approach/">
+      <title>
+        <narrative xml:lang="en">Simavi Theory of Change</narrative>
+      </title>
+      <category code="B11"/>
+      <language code="en"/>
+      <document-date iso-date="2015-06-03"/>
+      <recipient-country code="NL"/>
+    </document-link>
+    <document-link format="text/html" url="http://simavi.org/what-we-do/work/">
+      <title>
+        <narrative xml:lang="en">Simavi World Map Projects</narrative>
+      </title>
+      <category code="A12"/>
+      <language code="en"/>
+      <document-date iso-date="2015-06-03"/>
+      <recipient-country code="NL"/>
+    </document-link>
+    <document-link format="text/html" url="http://simavi.org/quick-read/annual-report-2015/">
+      <title>
+        <narrative xml:lang="en">Simavi Annual Report 2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2016-06-01"/>
+      <recipient-country code="NL"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

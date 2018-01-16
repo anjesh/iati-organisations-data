@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-07-16T13:18:03+00:00" version="1.02">
+  <iati-organisation xml:lang="en" last-updated-datetime="2013-07-16T01:17:51+00:00" default-currency="GBP">
+    <reporting-org ref="GB-COH-3008440" type="21" xml:lang="en">Forests Monitor</reporting-org>
+    <iati-identifier>GB-COH-3008440</iati-identifier>
+    <name xml:lang="en">Forests Monitor</name>
+  </iati-organisation>
+</iati-organisations>

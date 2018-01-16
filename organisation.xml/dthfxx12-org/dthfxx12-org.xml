@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-04-09T06:52:33+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-04-09T06:49:58+00:00">
+    <reporting-org ref="ZA-ROC-1999/05072/08" type="80" xml:lang="en">Desmond Tutu HIV Foundation</reporting-org>
+    <iati-identifier>ZA-ROC-1999/05072/08</iati-identifier>
+    <name xml:lang="en">Desmond Tutu HIV Foundation</name>
+    <recipient-org-budget>
+      <recipient-org ref="ZA-ROC-1999/05072/08">Family Planning Integration into HIV Services in Western Cape, South Africa</recipient-org>
+      <value value-date="2013-04-01">307223</value>
+      <period-start iso-date="2013-04-01"/>
+      <period-end iso-date="2014-03-31"/>
+    </recipient-org-budget>
+  </iati-organisation>
+</iati-organisations>

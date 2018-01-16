@@ -1,0 +1,932 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:product="http://ogp.me/ns/product#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script>var dataLayer = [{"drupalLanguage":"en","drupalCountry":"GB","siteName":"WaterAid UK","entityType":"node","entityBundle":"flexible_content","entityId":"656","entityTitle":"It all starts with clean water...","entityLangcode":"en","entityVid":"45141","entityUid":"121","entityCreated":"1496314070","entityStatus":"1","entityName":"RachelCrews","entityTaxonomy":{"countries":{"261":"Madagascar"},"themes":{"226":"Water","216":"Toilets","166":"Hygiene"}},"userUid":0}];</script>
+<meta name="title" content="Why WaterAid? | WaterAid UK" />
+<meta name="geo.placename" content="UK" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="We&#039;re committed to getting clean water, decent toilets and good hygiene to everyone, everywhere within a generation. Thanks to amazing people like you, we&#039;ve already changed millions of lives." />
+<meta name="description" content="With the help of amazing people like you, we&#039;re working with our partners in some of the toughest places in the world to get clean water, decent toilets and good hygiene to everyone, everywhere." />
+<meta property="og:title" content="It all starts with clean water... | WaterAid UK" />
+<meta property="og:description" content="We&#039;re committed to getting clean water, decent toilets and good hygiene to everyone, everywhere within a generation. Thanks to amazing people like you, we&#039;ve already changed millions of lives." />
+<meta name="twitter:image" content="https://www.wateraid.org/uk/themes/custom/wateraid_base_theme/wateraid-social-logo.jpg" />
+<meta property="og:image:url" content="https://www.wateraid.org/uk/themes/custom/wateraid_base_theme/wateraid-social-logo.jpg" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- Start Visual Website Optimizer Synchronous Code -->
+<script type='text/javascript'>
+var _vis_opt_account_id = 54618;
+var _vis_opt_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://');
+document.write('<s' + 'cript src="' + _vis_opt_protocol +
+'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
++encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
+</script>
+
+<script type='text/javascript'>
+if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol +
+'d5phz18u4wuww.cloudfront.net/vis_opt.js" type="text/javascript">' + '<\/s' + 'cript>'); }
+/* if your site already has jQuery 1.4.2, replace vis_opt.js with vis_opt_no_jquery.js above */
+</script>
+
+<script type='text/javascript'>
+if(typeof(_vis_opt_settings_loaded) == "boolean" && typeof(_vis_opt_top_initialize) == "function") {
+        _vis_opt_top_initialize(); vwo_$(document).ready(function() { _vis_opt_bottom_initialize(); });
+}
+</script>
+<!-- End Visual Website Optimizer Synchronous Code -->
+<!-- Hotjar Tracking Code for http://www.wateraid.org/uk -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:302215,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<link rel="shortcut icon" href="/uk/themes/custom/wateraid_base_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/uk/why-wateraid" />
+<link rel="shortlink" href="/uk/node/656" />
+<link rel="revision" href="/uk/why-wateraid" />
+<script src="/uk/sites/g/files/jkxoof211/files/js/google_tag.data_layer.js?ovr5sw"></script>
+<script src="/uk/sites/g/files/jkxoof211/files/js/google_tag.script.js?ovr5sw"></script>
+
+    <title>Why WaterAid? | WaterAid UK</title>
+    <link rel="stylesheet" href="/uk/sites/g/files/jkxoof211/files/css/css_ZcS-TbJ02vktvUNv8N3-hRzKtM_3JTPBFj10gU_eD54.css?ovr5sw" media="all" />
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" media="all" />
+<link rel="stylesheet" href="/uk/sites/g/files/jkxoof211/files/css/css_Y45YHufbPfe5IHIRNyljTh9-lf9pGxn9Hby1lXag3iQ.css?ovr5sw" media="all" />
+<link rel="stylesheet" href="/uk/sites/g/files/jkxoof211/files/css/css_c_aBZbNc-bTIovnoweF7w4SfdK_Jnzsc7SkiTu2V1dI.css?ovr5sw" media="all" />
+
+    
+<!--[if lte IE 8]>
+<script src="/uk/sites/g/files/jkxoof211/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+  </head>
+  <body class="node-type-flexible-content node-nid-656 hero--present">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NFPXXW9" height="0" width="0"></iframe></noscript>
+    <div class="layout-container"><!-- light--header, hero--video -->
+  <div class="header--color">
+    <div class="header--container control-width">
+      <div class="header--container__holder">
+                  <div class="header-top">
+                  <div id="block-views-block-global-site-selector-global-site-selector">
+  
+    
+      <div class="view view-global-site-selector view-id-global_site_selector view-display-id-global_site_selector js-view-dom-id-18e55207e7beeacb59e70d2f98b5cd887b3135d41d1bd7f444507b2d72972a3b">
+  
+    
+      
+      <div class="view-content">
+      
+                <div  class="first-item">
+            <div class="views-field views-field-name"><span class="field-content"><a href="/uk/homepage" title="United Kingdom " class="country-flag country-flag--GBR">United Kingdom</a></span></div>
+        </div>
+                                                    <div class="list-items dropdown-content">
+    <div class="dropdown-inner">
+                    
+                                
+                            <div class="views-row list-item">
+                    <div class="views-field views-field-name"><span class="field-content"><a href="http://www.wateraid.org/au" title="Australia " class="country-flag country-flag--AUS">Australia</a></span></div>
+                </div>
+                                
+                            <div class="views-row list-item">
+                    <div class="views-field views-field-name"><span class="field-content"><a href="https://www.wateraidcanada.com/" title="Canada " class="country-flag country-flag--CAN">Canada</a></span></div>
+                </div>
+                                
+                            <div class="views-row list-item">
+                    <div class="views-field views-field-name"><span class="field-content"><a href="http://wateraidindia.in/" title="India " class="country-flag country-flag--IND">India</a></span></div>
+                </div>
+                                
+                            <div class="views-row list-item">
+                    <div class="views-field views-field-name"><span class="field-content"><a href="http://www.wateraid.org/jp" title="Japan " class="country-flag country-flag--JPN">Japan</a></span></div>
+                </div>
+                                
+                            <div class="views-row list-item">
+                    <div class="views-field views-field-name"><span class="field-content"><a href="http://www.wateraid.org/se" title="Sweden " class="country-flag country-flag--SWE">Sweden</a></span></div>
+                </div>
+                                
+                            <div class="views-row list-item">
+                    <div class="views-field views-field-name"><span class="field-content"><a href="https://www.wateraidamerica.org/" title="United States " class="country-flag country-flag--USA">United States</a></span></div>
+                </div>
+                        </div>
+</div>
+
+
+    </div>
+  
+          </div>
+
+  </div>
+<div id="block-washmatters">
+  
+    
+      <div class="field field-name-field-link">
+  
+      <a href="http://www.wateraid.org/policy-practice-and-advocacy">Policy, practice and advocacy</a>
+  </div>
+
+  </div>
+
+
+          </div>
+        
+        <header role="banner">
+            <div>
+  <a id="hamburger" href="#block-mainnavigation"></a>
+    <div id="block-sitebranding">
+  
+    
+        <a href="/uk/" title="Home" rel="home">
+      <svg viewBox="0 0 445 91" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>WaterAid</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="444.083 44.716 444.083 88.94 0 88.94 0 0.492 444.083 0.492 444.083 44.716"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WaterAid">
+            <path d="M39.075,42.339 C36.822,50.73 34.906,61.68 26.853,66.587 C15.019,73.801 2.175,63.142 6.32,50.014 C7.937,44.898 11.319,36.26 23.155,27.568 C34.297,19.386 51.263,18.507 51.263,18.507 C45.652,24.916 40.801,35.92 39.075,42.339" id="Fill-1" fill="#FFFFFF"></path>
+            <path d="M129.949,76.502 L110.638,76.502 L106.998,56.079 C105.481,47.586 103.866,38.389 103.563,33.938 L103.461,33.938 C103.259,37.478 101.742,46.877 100.023,56.079 L96.281,76.502 L76.567,76.502 L59.479,6.032 L78.589,6.032 L82.532,25.04 C85.868,40.916 86.475,47.785 86.577,50.417 L86.677,50.417 C87.082,44.755 88.294,35.958 90.216,25.545 L93.854,6.032 L113.974,6.032 L118.523,29.59 C119.536,34.951 120.952,41.723 121.354,50.315 L121.457,50.315 C121.859,44.046 123.984,30.401 125.399,23.525 L128.939,6.032 L148.249,6.032" id="Fill-2" fill="#1A1918"></path>
+            <path d="M175.754,73.468 C173.225,75.592 168.878,77.816 162.711,77.816 C149.771,77.816 144.815,70.132 144.815,60.83 C144.815,50.922 153.41,43.845 167.968,43.845 C168.675,43.845 170.396,43.845 170.901,43.949 L170.901,40.71 C170.901,37.68 170.496,35.859 166.654,35.859 C160.791,35.859 156.239,37.983 151.791,41.317 L145.422,30.401 C151.891,26.458 160.284,23.016 168.878,23.016 C178.784,23.016 185.762,26.356 187.683,32.523 C188.392,34.849 188.494,36.769 188.494,40.613 L188.29,58.606 C188.29,62.955 188.695,66.49 192.334,68.815 L182.222,78.625 C179.697,77.816 176.561,75.084 175.754,73.468 M161.903,60.626 C161.903,63.663 163.722,65.684 166.756,65.684 C168.271,65.684 170.294,64.771 170.901,63.967 L170.901,54.865 C163.518,54.663 161.903,57.594 161.903,60.626" id="Fill-3" fill="#1A1918"></path>
+            <path d="M216.092,24.331 L225.696,24.331 L223.37,35.859 L216.092,35.859 L216.092,56.887 C216.092,64.168 217.104,65.783 221.552,65.783 C223.169,65.783 224.888,65.38 226,64.771 L228.122,74.883 C223.674,77.008 219.227,77.918 214.878,77.918 C205.074,77.918 198.499,75.391 198.499,65.281 L198.499,35.859 L194.252,35.859 L194.252,24.331 L198.499,24.331 C198.499,19.177 198.601,14.829 199.106,11.391 L216.597,8.764 C215.989,14.324 216.092,19.48 216.092,24.331" id="Fill-4" fill="#1A1918"></path>
+            <path d="M254.314,65.479 C258.864,65.479 263.514,63.766 268.066,60.226 L274.84,70.333 C267.862,75.693 261.395,77.816 253.605,77.816 C236.926,77.816 227.724,67.604 227.724,50.72 C227.724,33.536 236.724,23.016 251.483,23.016 C268.268,23.016 275.144,33.737 275.041,51.631 L275.041,55.979 L245.924,55.979 C245.924,59.213 247.035,65.479 254.314,65.479 M252.088,35.252 C248.349,35.252 245.924,37.578 245.924,44.554 L257.65,44.554 C257.854,38.794 256.337,35.252 252.088,35.252" id="Fill-5" fill="#1A1918"></path>
+            <path d="M309.214,38.489 C307.394,37.478 306.08,37.073 304.058,37.073 C301.022,37.073 299.103,38.692 297.888,40.814 L297.888,76.502 L280.298,76.502 L280.298,44.755 C280.298,38.085 280.094,31.511 278.681,25.849 L294.855,23.118 C295.36,24.938 295.97,27.163 295.97,29.287 C298.092,26.458 301.124,22.816 306.687,22.816 C309.214,22.816 310.829,23.319 313.255,24.331" id="Fill-6" fill="#1A1918"></path>
+            <path d="M351.069,76.502 L347.43,62.955 L330.747,62.955 L326.906,76.502 L307.898,76.502 L330.546,6.032 L349.351,6.032 L370.682,76.502 L351.069,76.502 Z M340.755,36.163 C340.049,33.028 339.544,28.881 339.442,26.254 C339.24,28.881 338.733,32.725 337.519,37.478 L334.69,49.001 L343.79,49.001 L340.755,36.163 Z" id="Fill-7" fill="#35A0CE"></path>
+            <path d="M383.117,20.493 C377.659,20.493 373.107,16.042 373.107,10.582 C373.107,5.124 377.759,0.674 383.419,0.674 C388.981,0.674 393.329,5.124 393.329,10.582 C393.329,16.042 388.782,20.493 383.117,20.493 M374.421,76.502 L374.421,25.143 L392.014,23.525 L392.014,76.502" id="Fill-8" fill="#35A0CE"></path>
+            <g id="Group-12" transform="translate(0.000000, 2.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <path d="M428.813,74.502 C428.311,73.289 428.109,72.275 428.007,71.365 C425.579,74.199 421.942,75.816 416.681,75.816 C403.337,75.816 395.755,66.01 395.755,49.429 C395.755,34.163 402.73,21.016 418.198,21.016 C420.726,21.016 423.759,21.931 425.174,22.839 C424.87,21.319 424.567,17.177 424.567,14.55 L424.567,0.492 L442.159,2.821 L442.159,53.775 C442.159,67.018 442.565,70.457 444.083,74.502 L428.813,74.502 Z M424.567,36.588 C424.066,35.478 422.445,34.568 420.828,34.568 C416.278,34.568 414.865,37.904 414.865,49.73 C414.865,57.213 415.674,62.574 420.726,62.574 C422.55,62.574 423.965,61.766 424.567,60.852 L424.567,36.588 Z" id="Fill-9" fill="#35A0CE" mask="url(#mask-2)"></path>
+                <path d="M51.911,14.737 C20.064,15.533 3.516,33.701 0.381,57.483 C-2.755,81.27 14.196,89 24.204,89 C34.21,89 51.982,82.582 49.219,56.558 C46.49,30.841 52.778,20.326 53.742,17.83 C54.701,15.331 51.911,14.737 51.911,14.737 M37.404,39.922 C35.428,47.293 33.743,56.917 26.666,61.229 C16.265,67.566 4.982,58.199 8.624,46.666 C10.044,42.17 13.016,34.578 23.415,26.942 C33.206,19.75 48.114,18.981 48.114,18.981 C43.183,24.611 38.922,34.279 37.404,39.922" id="Fill-11" fill="#35A0CE" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+    </a>
+      
+</div>
+<nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation">
+            
+  <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+  
+
+        
+                    <ul class="menu menu-level-0">
+              <li>
+        
+                  <a href="/uk/get-involved-landing-page" class="trigger" target="">Get involved</a>
+                                                  
+            <div  class="sub-nav sub-nav--0 sub-nav--col-2">
+              <div class="sub-nav__inner">
+          
+                                    <ul class="submenu menu-level-1">
+              <li>
+        
+                  <a href="/uk/get-involved/all/everyone" class="trigger" target="" data-drupal-link-system-path="get-involved/all/everyone">Ways to get you started:</a>
+          <a href="/uk/get-involved/all/everyone" class="trigger" target="" data-drupal-link-system-path="get-involved/all/everyone">All</a>
+                          
+                                    <ul class="submenu menu-level-2">
+              <li>
+        
+                  <a href="/uk/get-involved/campaigns" target="" data-drupal-link-system-path="get-involved/666/everyone">Campaigns</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/corporate-engagement" target="" data-drupal-link-system-path="get-involved/686/everyone">Corporate engagement</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/events" target="" data-drupal-link-system-path="get-involved/16/everyone">Events</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/fundraising" target="" data-drupal-link-system-path="get-involved/86/everyone">Fundraising</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/giving/include-a-gift-in-your-will" target="" data-drupal-link-system-path="node/896">Gifts in wills</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/volunteering-and-jobs" target="">Jobs and volunteering</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/giving" target="" data-drupal-link-system-path="get-involved/616/everyone">Other ways to give</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/philanthropy/philanthropy" target="" data-drupal-link-system-path="get-involved/philanthropy/philanthropy">Philanthropy</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/teaching" target="" data-drupal-link-system-path="get-involved/91/everyone">Teaching</a>
+                        </li>
+        </ul>
+  
+              
+                              <span class="sub-nav__view-all-text"><a href="/uk/get-involved/all/everyone" class="trigger" target="" data-drupal-link-system-path="get-involved/all/everyone">All</a></span>
+              
+                                  </li>
+          <li>
+        
+                  <a href="/uk/get-involved/all/everyone" class="trigger" target="" data-drupal-link-system-path="get-involved/all/everyone">Ideas for:</a>
+          <a href="/uk/get-involved/all/everyone" class="trigger" target="" data-drupal-link-system-path="get-involved/all/everyone">Everyone</a>
+                          
+                                    <ul class="submenu menu-level-2">
+              <li>
+        
+                  <a href="/uk/get-involved/all/employees-and-companies" target="" data-drupal-link-system-path="get-involved/all/36">Employees and companies</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/all/faith-groups" target="" data-drupal-link-system-path="get-involved/all/61">Faith groups</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/all/groups-and-clubs" target="" data-drupal-link-system-path="get-involved/all/636">Groups and clubs</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/all/individuals" target="" data-drupal-link-system-path="get-involved/all/76">Individuals</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/all/schools-and-teachers" target="" data-drupal-link-system-path="get-involved/all/26">Schools and teachers</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/all/scouts" target="" data-drupal-link-system-path="get-involved/all/41">Scouts</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/get-involved/all/students-and-universities" target="" data-drupal-link-system-path="get-involved/all/31">Students and universities</a>
+                        </li>
+        </ul>
+  
+              
+                              <span class="sub-nav__view-all-text"><a href="/uk/get-involved/all/everyone" class="trigger" target="" data-drupal-link-system-path="get-involved/all/everyone">Everyone</a></span>
+              
+                                  </li>
+        </ul>
+  
+              
+              
+                                </div>
+                </div>
+                                  </li>
+          <li>
+        
+                  <a href="/uk/why-wateraid" class="in-active-trail trigger is-active" target="" data-drupal-link-system-path="node/656">Why WaterAid?</a>
+                                                  
+            <div  class="sub-nav sub-nav--0 sub-nav--col-1">
+              <div class="sub-nav__inner">
+          
+                                    <ul class="submenu menu-level-1">
+              <li>
+        
+                  <a href="/uk/where-we-work" target="" data-drupal-link-system-path="node/1471">Where we work</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/stories-from-our-work-around-the-world" target="" data-drupal-link-system-path="node/1386">Stories</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/our-fundraising-promise" target="" data-drupal-link-system-path="node/701">Our promise to you         </a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/our-global-strategy" target="" data-drupal-link-system-path="node/666">Our strategy</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/facts-and-statistics" target="" data-drupal-link-system-path="node/711">Facts and statistics</a>
+                        </li>
+          <li>
+        
+                  <a href="/uk/our-history" target="" data-drupal-link-system-path="node/1646">Our history</a>
+                        </li>
+        </ul>
+  
+              
+              
+                                </div>
+                </div>
+                                  </li>
+          <li>
+        
+                  <a href="/uk/articles" target="">Blog</a>
+                        </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-searchform" role="search">
+    
+        
+            <gcse:searchbox-only queryParameterName="search" resultsUrl="/uk/search/wasearch"></gcse:searchbox-only>
+
+        <a class="search-mobile" href="https://www.wateraid.org/uk/search/wasearch">Search</a>
+    </div>
+<div class="button__primary__wrapper" id="block-wateraiddonationctawidget">
+  
+    
+      <a href="/uk/donate" class="button button__primary">Donate</a>
+  </div>
+
+  </div>
+
+        </header>
+
+
+        
+        
+
+          
+        
+      </div>
+    </div>
+  </div>
+
+  
+
+  
+
+    <div>
+    <div id="block-hero-from-content">
+  
+    
+      <div class="field field-name-field-hero">
+  
+      
+
+
+
+    <style scoped>
+        /* 0 to 479 */
+        .field-name-field-hero .hero--container {
+            background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_portrait_2x/public/VFMAD67_014.JPG?itok=KFf0ilFu'); 
+        }
+        /* 480 to 767 */
+        @media (min-width: 480px) {
+            .field-name-field-hero .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_4_3_2x/public/VFMAD67_014.JPG?itok=-ovtsC5n');
+            }
+        }
+        /* 768 to X */
+        @media (min-width: 768px) {
+            .field-name-field-hero .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/full_grid_image_2x/public/VFMAD67_014.JPG?itok=KFD8Ceq7');
+            }
+        }
+        /* ipad pro protrait */
+        @media (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: portrait) {
+            .field-name-field-hero .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_portrait_2x/public/VFMAD67_014.JPG?itok=KFf0ilFu');
+            }
+        }
+        /* ipad mini protrait */
+        @media (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+            .field-name-field-hero .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_portrait_2x/public/VFMAD67_014.JPG?itok=KFf0ilFu');
+            }
+        }
+    </style>
+    <div class="hero-bottom-left hero-style--hero_tall hero--video paragraph paragraph--type-hero paragraph--view-mode-default hero--container">
+        <video autoplay loop playsinline muted class="hero__video-background">
+        <source src="https://player.vimeo.com/external/225848169.sd.mp4?s=034b83fcfa26431f93add604fabe7f100a7c147c&amp;profile_id=165" type=video/mp4>
+    </video>
+
+
+    <div class="hero--container__inner">
+        <div class="hero--container__block secondary-light-green__bg">
+                                  <h1  class="heading heading--medium">
+        
+                  It all starts with clean water...
+      
+  
+    </h1>
+
+      <p >
+        
+                  How do you celebrate turning on the taps for the very first time? Let 85-year-old Dadabe show you his dance moves. 
+      
+  
+    </p>
+
+      <a class="arrow-link--light arrow-link--light--bold-text"
+    href="https://www.youtube.com/watch?v=_CR5PmltpSI">Watch the film</a>
+  
+                    </div>
+    </div>
+</div>
+    
+
+  <cite class="media-credit">WaterAid/Ernest Randriarimalala</cite>
+
+
+
+  </div>
+
+
+
+  </div>
+
+  </div>
+
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+        <div>
+    
+<article class="node node--type-flexible-content node--view-mode-full flexible-content">
+    
+    <div class="header header--flexible-content">
+        <div class="page-title">
+            
+        </div>
+    </div>
+
+        <div class="flex_content-area--top control-width">
+        <div class="flex__content">
+            <div class="field field-name-body">
+  
+      <h2>Clean water, decent toilets and good hygiene are basic human rights. They should be a normal part of daily life for everyone, everywhere – but they aren't. That's why we're here.</h2>
+  </div>
+
+        </div>
+    </div>
+    
+        <div class="flex_content-area">
+        <div class="flex__content">
+            <div class="field field-name-field-modules">
+  
+      
+<div class="paragraph paragraph--type-variable-content-module paragraph--view-mode-default variable-content-module vcm control-width clearfix flex">
+    <div class="column--left">
+          </div>
+    <div class="column--middle"><div class="field field-name-field-vcm-main">
+  
+        <div class="paragraph paragraph--type--general-text-area paragraph--view-mode--default">
+          <div class="field field-name-field-paragraph-content">
+  
+      <p>With the help of amazing people like you, we're working with our partners in some of the toughest places in the world. Together, we've already reached millions of people with these three essentials, enabling entire communities to unlock their potential, break free from poverty and change their lives for good.</p>
+
+<p>And while installing taps and toilets is essential to our work, we do so much more.</p>
+
+<p>We convince governments to change laws, link policy makers with people on the ground, pool knowledge and resources and rally support from people and organisations around the world, making lasting change happen on a massive scale.</p>
+
+<p><strong>In the last year alone, you helped us reach:</strong></p>
+  </div>
+
+      </div>
+
+  </div>
+</div>
+    <div class="column--right"></div>
+</div>
+
+
+      
+  <div class="paragraph paragraph--type--statistics paragraph--view-mode--default control-width">
+
+      
+                <div class="field field-name-field-statistic statistics-modules">
+  
+      <div class="statistics-module">        <div class="statistics-module__summary">
+        <h3 class="heading heading--small u-bold"><div class="field field-name-field-statistic-title">
+  
+      <p><span class="wa-blue">1.9 million</span> people with clean water</p>
+  </div>
+</h3>
+                  <div class="field field-name-field-statistic-details">
+  
+      <p>For Fatima, Lourdes and Amelia in Timor-Leste, that means being able to drink from the tap without worrying about deadly diseases. </p>
+  </div>
+
+        
+                  <div class="field field-name-field-call-to-action-link">
+  
+      <a href="/uk/seven-ways-water-changes-everything" class="arrow-link--dark arrow-link--dark--bold-text">Seven ways water changes everything</a>
+  </div>
+
+            </div>
+          <div class="field field-name-field-image">
+  
+          <picture>
+            <img src="/uk/sites/g/files/jkxoof211/files/styles/wateraid_square_large/public/TIM6_262_3.jpg?itok=cgdgfRO4" alt="Thumbnail" typeof="foaf:Image" />
+
+  </picture>
+
+
+
+  <cite class="media-credit">WaterAid/Tom Greenwood</cite>
+
+  </div>
+
+        </div>
+      <div class="statistics-module">        <div class="statistics-module__summary">
+        <h3 class="heading heading--small u-bold"><div class="field field-name-field-statistic-title">
+  
+      <p><span class="wa-blue">3 million</span> people with decent toilets</p>
+  </div>
+</h3>
+                  <div class="field field-name-field-statistic-details">
+  
+      <p>A decent toilet means the chance for children like Henitsoa in Madagascar to stay in school, taking them closer to reaching their dreams.</p>
+  </div>
+
+        
+                  <div class="field field-name-field-call-to-action-link">
+  
+      <a href="/uk/meet-our-sanitation-superheroes" class="arrow-link--dark arrow-link--dark--bold-text">Meet our sanitation superheroes</a>
+  </div>
+
+            </div>
+          <div class="field field-name-field-image">
+  
+          <picture>
+            <img src="/uk/sites/g/files/jkxoof211/files/styles/wateraid_square_large/public/VFMAD60_023.jpg?itok=eJupzWdj" alt="Thumbnail" typeof="foaf:Image" />
+
+  </picture>
+
+
+
+  <cite class="media-credit">WaterAid/Ernest Randriarimalala</cite>
+
+  </div>
+
+        </div>
+      <div class="statistics-module">        <div class="statistics-module__summary">
+        <h3 class="heading heading--small u-bold"><div class="field field-name-field-statistic-title">
+  
+      <p><span class="wa-blue">4.7 million</span> people with hygiene promotion</p>
+  </div>
+</h3>
+                  <div class="field field-name-field-statistic-details">
+  
+      <p>How do you make the benefits of clean water and decent toilets last for generations? The key is good hygiene, as Anil  has been discovering in Pakistan.</p>
+  </div>
+
+        
+                  <div class="field field-name-field-call-to-action-link">
+  
+      <a href="/uk/breaking-down-the-hygiene-barriers" class="arrow-link--dark arrow-link--dark--bold-text">Breaking down the hygiene barriers</a>
+  </div>
+
+            </div>
+          <div class="field field-name-field-image">
+  
+          <picture>
+            <img src="/uk/sites/g/files/jkxoof211/files/styles/wateraid_square_large/public/PAK13_078.jpg?itok=d1GZIufA" alt="Thumbnail" typeof="foaf:Image" />
+
+  </picture>
+
+
+
+  <cite class="media-credit">WaterAid/Mustafah Abdulaziz</cite>
+
+  </div>
+
+        </div>
+  </div>
+
+        </div>
+
+      
+
+
+
+    <div style="background-image: url(https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/2017-06/wateraid-where-we-work-map_0.png);" class="storytelling-map paragraph--type--storytelling-map paragraph--view-mode--default grid-container control-width">
+      <div class="storytelling-map__overlay">
+                    <div class="storytelling-map__content">
+              <div class="field field-name-field-paragraph-content">
+  
+      <p>We're changing lives for the better in 35 countries around the world.</p>
+  </div>
+
+          </div>
+                              <div class="storytelling-map__cta-link">
+              <div class="field field-name-field-call-to-action-link">
+  
+      <a href="/uk/where-we-work" class="arrow-link--dark arrow-link--dark--bold-text">See where we work</a>
+  </div>
+
+          </div>
+                </div>
+    </div>
+
+      
+
+
+
+    <style scoped>
+        /* 0 to 479 */
+        .field-name-field-modules .hero--container {
+            background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_portrait_2x/public/MLW8_244_2.jpg?itok=ZpWTGj1N'); 
+        }
+        /* 480 to 767 */
+        @media (min-width: 480px) {
+            .field-name-field-modules .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_4_3_2x/public/MLW8_244_2.jpg?itok=VGLoH3M5');
+            }
+        }
+        /* 768 to X */
+        @media (min-width: 768px) {
+            .field-name-field-modules .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/full_grid_image_2x/public/MLW8_244_2.jpg?itok=syESyxy8');
+            }
+        }
+        /* ipad pro protrait */
+        @media (min-device-width: 1024px) and (max-device-width: 1366px) and (orientation: portrait) {
+            .field-name-field-modules .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_portrait_2x/public/MLW8_244_2.jpg?itok=ZpWTGj1N');
+            }
+        }
+        /* ipad mini protrait */
+        @media (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
+            .field-name-field-modules .hero--container {   
+                background-image: url('https://www.wateraid.org/uk/sites/g/files/jkxoof211/files/styles/wateraid_portrait_2x/public/MLW8_244_2.jpg?itok=ZpWTGj1N');
+            }
+        }
+    </style>
+    <div class="hero-top-left paragraph paragraph--type-hero-in-content paragraph--view-mode-default hero--container">
+    
+    <div class="hero--container__inner">
+        <div class="hero--container__block">
+                                  <h2  class="heading heading--medium">
+        
+                  We’ve made amazing progress, but we can&#039;t stop now
+      
+  
+    </h2>
+
+      <p >
+        
+                  With your help, we can reach the millions of people still living without the essentials they need to live dignified, healthy lives.
+      
+  
+    </p>
+
+
+                    </div>
+    </div>
+</div>
+    
+
+  <cite class="media-credit">WaterAid/Alexia Webster</cite>
+
+
+
+      
+<div class="paragraph paragraph--type-variable-content-module paragraph--view-mode-default variable-content-module vcm control-width clearfix flex">
+    <div class="column--left">
+          </div>
+    <div class="column--middle"><div class="field field-name-field-vcm-main">
+  
+        <div class="paragraph paragraph--type--quotes paragraph--view-mode--default control-width">
+          
+
+  <div class="quote-item">  <div class="quote paragraph paragraph--type--quote paragraph--view-mode--quote-content clearfix">
+            <div class="quote quote--text"><div class="field field-name-field-quote-text">
+  
+      Having a water point would mean having enough time to farm. It would mean a change for our children’s future. They would live a free life because they would be able to attend school.
+  </div>
+</div>
+        <div class="quote quote--attribution"><div class="field field-name-field-quote-attribution">
+  
+      Mary, 22, Malawi
+  </div>
+</div>
+        <div class="quote quote--image"></div>
+      </div>
+</div>
+
+      </div>
+
+        <div class="paragraph paragraph--type--general-text-area paragraph--view-mode--default">
+          <div class="field field-name-field-paragraph-content">
+  
+      <p>We all know that <span class="wa-blue">844 million</span> people living without clean water shouldn’t be normal. That <span class="wa-blue">2.3 billion</span> people not having a decent toilet shouldn’t be normal. That poverty shouldn’t be normal.</p>
+
+<p>Thanks to remarkable people like you, we’ve already made huge progress. But there’s still so much more we need to do. And creating lasting change isn’t just a dream.</p>
+
+<p>Together, we can reach everyone, everywhere with clean water, decent toilets and good hygiene within a generation – and change normal for good.</p>
+  </div>
+
+      </div>
+
+  </div>
+</div>
+    <div class="column--right"></div>
+</div>
+
+
+        <div class="paragraph paragraph--type--activation-bar paragraph--view-mode--default activation-bar control-width clearfix">
+          
+                <div class="activation-bar__item">            <div class="activation-bar__item--title"><div class="field field-name-field-activation-bar-title">
+  
+      <p><span class="wa-blue"><strong>Make a donation today</strong></span></p>
+  </div>
+</div>
+
+                <div class="activation-bar__item--details">
+            <p>Ready to make a difference? Just £2 a month can help change someone&#039;s life.</p>
+      </div>
+        
+                <div class="activation-bar__item--cta"><div class="field field-name-field-call-to-action-link">
+  
+      <a href="/uk/donate" class="arrow-link--dark arrow-link--dark--bold-text">Donate now</a>
+  </div>
+</div>
+        
+    </div>
+              <div class="activation-bar__item">            <div class="activation-bar__item--title"><div class="field field-name-field-activation-bar-title">
+  
+      <p><span class="secondary-light-green"><strong>Get involved, your way</strong></span></p>
+  </div>
+</div>
+
+                <div class="activation-bar__item--details">
+            <p>Join an event, fundraise with friends or find your own way to transform lives.</p>
+      </div>
+        
+                <div class="activation-bar__item--cta"><div class="field field-name-field-call-to-action-link">
+  
+      <a href="/uk/get-involved" class="arrow-link--dark arrow-link--dark--bold-text">Get involved</a>
+  </div>
+</div>
+        
+    </div>
+              <div class="activation-bar__item">            <div class="activation-bar__item--title"><div class="field field-name-field-activation-bar-title">
+  
+      <p><strong><span class="secondary-purple">Give an unforgettable gift</span></strong></p>
+  </div>
+</div>
+
+                <div class="activation-bar__item--details">
+            <p>We&#039;ve got the perfect presents for every occasion in our Shop for Life.</p>
+      </div>
+        
+                <div class="activation-bar__item--cta"><div class="field field-name-field-call-to-action-link">
+  
+      <a href="https://shop.wateraid.org/" class="arrow-link--dark arrow-link--dark--bold-text">Start shopping</a>
+  </div>
+</div>
+        
+    </div>
+        
+      </div>
+
+  </div>
+
+        </div>
+    </div>
+    </article>
+
+
+  </div>
+
+
+    
+    
+  </main>
+
+      <footer class="control-width" role="contentinfo">
+        <div class="footer-top">
+              <div>
+    
+
+<nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="site-footer footer-menu-elements-wrapper block block-menu navigation block-system-menublock menu--footer">
+                        
+    <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+    
+
+                                                            <div class="footer-col">
+                    <h4>Get in touch</h4>
+                                                                        <ul>
+                                    <li>
+                        <a href="/uk/contact-us" target="" data-drupal-link-system-path="node/1546">Contact us</a>
+                                            </li>
+                                    <li>
+                        <a href="/uk/media" target="" data-drupal-link-system-path="node/2561">Media</a>
+                                            </li>
+                                    <li>
+                        <a href="/uk/wateraid-in-scotland-and-northern-ireland" target="" data-drupal-link-system-path="node/1311">Scotland and NI</a>
+                                            </li>
+                            </ul>
+            
+                                    </div>
+                            <div class="footer-col">
+                    <h4>Useful info</h4>
+                                                                        <ul>
+                                    <li>
+                        <a href="https://jobs.wateraid.org/" target="">Jobs</a>
+                                            </li>
+                                    <li>
+                        <a href="/uk/frequently-asked-questions" target="" data-drupal-link-system-path="node/1246">FAQs</a>
+                                            </li>
+                                    <li>
+                        <a href="http://www.wateraid.org/what-we-do/our-approach/research-and-publications" target="">Publications</a>
+                                            </li>
+                                    <li>
+                        <a href="/uk/working-in-partnership-with-the-uk-water-industry" target="" data-drupal-link-system-path="node/1286">Our founding partners</a>
+                                            </li>
+                            </ul>
+            
+                                    </div>
+                            <div class="footer-col">
+                    <h4>Start shopping</h4>
+                                                                        <ul>
+                                    <li>
+                        <a href="https://shop.wateraid.org/" target="">Shop</a>
+                                            </li>
+                                    <li>
+                        <a href="https://greetings.wateraid.org/" target="">Send a free ecard</a>
+                                            </li>
+                            </ul>
+            
+                                    </div>
+                        
+
+    </nav>
+<div class="button__primary__wrapper donate-wrapper" id="block-wateraiddonationctawidget-2">
+  
+    
+      <a href="/uk/donate" class="button button__primary">Donate</a>
+  </div>
+
+  </div>
+
+        </div>
+        <div class="footer-bottom">
+              <div>
+    <div id="block-copyright-and-registration" class="charity-footer">
+  
+    
+      <div class="field field-name-body">
+  
+      <p class="fine-print">Registration numbers: England and Wales 288701, Scotland SC039479. 47-49 Durham Street, London, SE11 5JD.<br />
+WaterAid - water charity | © Copyright WaterAid - All rights reserved.<br /><a href="/uk/terms-and-conditions">Terms and conditions</a> | <a href="/uk/privacy-policy">Privacy policy</a></p>
+  </div>
+
+  </div>
+<div id="block-socialmedialinks" class="footer-social-media-links block-social-media-links">
+  
+    
+      
+
+<ul class="social-media-links--platforms platforms inline horizontal">
+      <li>
+      <a href="https://www.facebook.com/wateraid/"  >
+        <span class='fa fa-facebook fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.instagram.com/wateraid/"  >
+        <span class='fa fa-instagram fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.twitter.com/wateraid/"  >
+        <span class='fa fa-twitter fa-2x'></span>
+      </a>
+
+          </li>
+      <li>
+      <a href="https://www.youtube.com/WaterAid"  >
+        <span class='fa fa-youtube fa-2x'></span>
+      </a>
+
+          </li>
+  </ul>
+
+  </div>
+
+  </div>
+
+        </div>
+    </footer>
+  
+</div>
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/uk\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/656","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","dataLayer":{"defaultLang":"en","languages":{"en":{"id":"en","name":"English","direction":"ltr","weight":0}}},"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":true,"popup_html_info":"\n\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022popup-text vertical-middle\u0022\u003E\n      \u003Ch2\u003EWe use cookies to give you the best experience and to help improve our website.\u003C\/h2\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022popup-buttons vertical-middle\u0022\u003E\n      \u003Ca class=\u0022agree-button\u0022\u003EAccept\u003C\/a\u003E\n      \u003Ca class=\u0022find-more-button\u0022\u003ENo, give me more info\u003C\/a\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"https:\/\/www.wateraid.org\/uk\/cookies-policy","popup_link_new_window":true,"popup_position":false,"popup_language":"en","popup_bg_hex":false,"popup_text_hex":false,"domain":""},"wateraidForms":{"url_parameters":["utm_campaign","utm_source","utm_content","utm_medium","id"]},"wateraidSearch":{"cx":"001674967260102179216:lsgaex0k8_w"},"user":{"uid":0,"permissionsHash":"13a64e4b9e5984cdcd4ac0882aeaf28fa53d980525f7b3805b52eb449dbf7c19"}}</script>
+<script src="/uk/sites/g/files/jkxoof211/files/js/js_EttwuHKYRwHnCQlQ49-Tgd20NUaYvgycFDXQn09IWpc.js"></script>
+
+  </body>
+</html>

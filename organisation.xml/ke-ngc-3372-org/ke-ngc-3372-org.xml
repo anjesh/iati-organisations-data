@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-12-04T17:06:00+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-12-04T02:35:22+00:00">
+    <reporting-org ref="KE-NGC-3372" type="22" xml:lang="en">I CHOOSE LIFE AFRICA</reporting-org>
+    <iati-identifier>KE-NGC-3372</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

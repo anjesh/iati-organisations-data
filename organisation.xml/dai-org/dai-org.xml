@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-11-22T13:54:44+00:00">
+  <iati-organisation last-updated-datetime="2016-11-22T13:54:44+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41236410</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Dorcas Aid International</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41236410">
+      <narrative xml:lang="en">Dorcas Aid International</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

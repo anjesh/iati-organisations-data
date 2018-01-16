@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-05-17T07:27:19+00:00">
+  <iati-organisation last-updated-datetime="2016-05-17T07:27:19+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NI-MIGOB-3602</organisation-identifier>
+    <name>
+      <narrative>Fondo Centroamericano de Mujeres</narrative>
+    </name>
+    <reporting-org type="60" ref="NI-MIGOB-3602">
+      <narrative xml:lang="en">Founded in 2003, the Fondo Centroamericano de Mujeres - FCAM (Central American Women's Fund) - is a feminist fund based in the region, dedicating to mobilizing resources to strengthen the women's movement and support the initiatives of women's groups and organizations, particularly young women's organizations, that promote and defend women's human rights. FCAM has reinforced its strategic role in the search of new and more financing sources to support women´s rights in a decade that has been defined by progressive reduction of the financing to civil society organizations and particularly to women´s organizations.</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

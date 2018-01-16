@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-12-21T10:59:17+00:00">
+  <iati-organisation last-updated-datetime="2016-12-21T10:59:17+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-COH-1364201</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Plan International UK</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-COH-1364201">
+      <narrative xml:lang="en">Plan International UK</narrative>
+    </reporting-org>
+    <document-link format="application/dialog-info+xml" url="http://www.plan-uk.org/iati">
+      <title>
+        <narrative>Additional information about Plan UK's projects</narrative>
+      </title>
+      <category code="A12"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

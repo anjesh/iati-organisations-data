@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-08-07T07:24:18+00:00">
+  <iati-organisation last-updated-datetime="2017-08-07T07:24:18+00:00" xml:lang="en" default-currency="MWK">
+    <organisation-identifier>MW-RG-2977</organisation-identifier>
+    <name>
+      <narrative>Palliative Care Support Trust</narrative>
+    </name>
+    <reporting-org type="22" ref="MW-RG-2977">
+      <narrative>Palliative Care Support Trust</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2017-07-01"/>
+      <period-end iso-date="2018-06-30"/>
+      <value currency="MWK" value-date="2017-07-01">159133599.68</value>
+    </total-budget>
+    <total-expenditure>
+      <period-start iso-date="2013-07-01"/>
+      <period-end iso-date="2016-06-30"/>
+      <value currency="MWK" value-date="2013-07-31">467674187</value>
+    </total-expenditure>
+  </iati-organisation>
+</iati-organisations>

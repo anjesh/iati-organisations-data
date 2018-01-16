@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-04-04T09:09:16+00:00">
+  <iati-organisation last-updated-datetime="2017-04-04T09:09:16+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-1141028</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">AfriKids</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-1141028">
+      <narrative xml:lang="en">AfriKids</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="GBP" value-date="2016-01-01">1477474</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-03">2079408</value>
+    </total-budget>
+    <document-link format="text/uri-list" url="https://issuu.com/afrikids/docs/afrikids_annual_report_2014_0161ea15a9c727">
+      <title>
+        <narrative xml:lang="en">2014 annual report</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2014-12-31"/>
+      <recipient-country code="GH"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

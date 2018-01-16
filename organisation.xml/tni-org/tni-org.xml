@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-04-28T07:45:13+00:00">
+  <iati-organisation last-updated-datetime="2016-04-28T07:45:13+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41201806</organisation-identifier>
+    <name>
+      <narrative>Transnational Institute</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41201806">
+      <narrative xml:lang="en">Transnational Institute</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

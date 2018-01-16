@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-12-18T11:27:59+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-12-18T11:27:49+00:00">
+    <reporting-org ref="GB-CHC-1098752" type="21" xml:lang="en">Target Tuberculosis</reporting-org>
+    <iati-identifier>GB-CHC-1098752</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

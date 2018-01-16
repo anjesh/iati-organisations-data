@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2018-01-09T17:43:27+00:00">
+  <iati-organisation last-updated-datetime="2018-01-09T17:43:27+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-COH-07321996</organisation-identifier>
+    <name>
+      <narrative>Integrity Research and Consultancy Ltd</narrative>
+    </name>
+    <reporting-org type="70" ref="GB-COH-07321996">
+      <narrative xml:lang="en">Integrity Research and Consultancy Ltd</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

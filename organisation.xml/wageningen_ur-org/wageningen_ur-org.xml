@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-07-04T15:19:32+00:00">
+  <iati-organisation last-updated-datetime="2016-07-04T15:19:32+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-09098104</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Wageningen University &amp; Research - Stichting Wageningen Research</narrative>
+    </name>
+    <reporting-org type="80" ref="NL-KVK-09098104">
+      <narrative xml:lang="en">Wageningen University &amp; Research - Stichting Wageningen Research</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

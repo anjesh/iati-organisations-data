@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-01-13T15:13:38+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-12-03T10:52:31+00:00">
+    <reporting-org ref="GB-COH-1858644" type="70" xml:lang="en">DAI Europe</reporting-org>
+    <iati-identifier>GB-COH-1858644</iati-identifier>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2013-10-16T14:03:21+00:00" version="1.02">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2013-10-16T02:02:47+00:00">
+    <reporting-org ref="GB-CHC-1050327" type="21" xml:lang="en">The Leprosy Mission England and Wales</reporting-org>
+    <iati-identifier>GB-CHC-1050327</iati-identifier>
+    <name xml:lang="en">The Leprosy Mission England and Wales</name>
+  </iati-organisation>
+</iati-organisations>

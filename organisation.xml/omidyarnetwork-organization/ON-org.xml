@@ -1,0 +1,11 @@
+<iati-organisations generated-datetime="2016-12-12T09:30:30" version="2.02">
+  <iati-organisation default-currency="USD" last-updated-datetime="2016-12-12T09:30:30" xml:lang="en">
+    <organisation-identifier>US-EIN-20-1173866</organisation-identifier>
+    <name>
+      <narrative>OMIDYAR NETWORK FUND INC</narrative>
+    </name>
+    <reporting-org ref="US-EIN-20-1173866" type="60">
+      <narrative>OMIDYAR NETWORK FUND INC</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

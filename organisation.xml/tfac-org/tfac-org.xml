@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-02-20T15:37:52+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-02-20T02:44:15+00:00">
+    <reporting-org ref="GB-CHC-1104458" type="21" xml:lang="en">Theatre for a Change UK</reporting-org>
+    <iati-identifier>GB-CHC-1104458</iati-identifier>
+    <name xml:lang="en">Theatre for a Change UK</name>
+    <document-link url="http://apps.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=1104458&amp;SubsidiaryNumber=0" format="application/pdf">
+      <language>en</language>
+      <category code="B01" xml:lang="en">Annual accounts</category>
+      <title xml:lang="en">Theatre for a Change UK annual audited accounts</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

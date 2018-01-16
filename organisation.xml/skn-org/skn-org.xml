@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-03-21T08:07:20+00:00">
+  <iati-organisation last-updated-datetime="2017-03-21T08:07:20+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41167934</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Stichting Kinderpostzegels Nederland</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41167934">
+      <narrative xml:lang="en">Stichting Kinderpostzegels Nederland</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">6911600</value>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="ET">
+        <narrative xml:lang="en">Ethiopia</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">1727234</value>
+      <budget-line>
+        <value currency="EUR" value-date="2016-01-01">1727234</value>
+        <narrative xml:lang="en">ET - Ethiopia</narrative>
+      </budget-line>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML">
+        <narrative xml:lang="en">ML - Mali</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">2112984</value>
+      <budget-line>
+        <value currency="EUR" value-date="2016-01-01">2112984</value>
+        <narrative xml:lang="en">ML - Mali</narrative>
+      </budget-line>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF">
+        <narrative xml:lang="en">BF - Burkina Faso</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">1655984</value>
+      <budget-line>
+        <value currency="EUR" value-date="2016-01-01">1655984</value>
+        <narrative xml:lang="en">BF - Burkina Faso</narrative>
+      </budget-line>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN">
+        <narrative xml:lang="en">SN - Senegal</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">1058548</value>
+      <budget-line>
+        <value currency="EUR" value-date="2016-01-01">1058548</value>
+        <narrative xml:lang="en">SN - Senegal</narrative>
+      </budget-line>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NL">
+        <narrative xml:lang="en">NL - Netherlands</narrative>
+      </recipient-country>
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2020-12-31"/>
+      <value currency="EUR" value-date="2016-01-01">356850</value>
+      <budget-line>
+        <value currency="EUR" value-date="2016-01-01">356850</value>
+        <narrative xml:lang="en">NL - Netherlands</narrative>
+      </budget-line>
+    </recipient-country-budget>
+  </iati-organisation>
+</iati-organisations>

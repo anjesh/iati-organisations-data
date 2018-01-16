@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="iati-organisations-schema.xsd" version="2.01" generated-datetime="2015-11-26T17:00:00">
+	<iati-organisation last-updated-datetime="2015-11-26T00:00:00" xml:lang="en" default-currency="EUR">
+		<organisation-identifier>ES-DIR3-E04585801-009-001091</organisation-identifier>
+		<name>
+			<narrative xml:lang="en">Ministry of Foreign Affairs and Cooperation, Spain</narrative>
+		</name>
+		<reporting-org ref="ES-DIR3-E04585801" type="10">
+			<narrative xml:lang="en">ES-DIR3-E04585801-009-001091</narrative>
+		</reporting-org>	
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planes%20directores/PD%202013-2016.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">PLAN DIRECTOR DE LA COOPERACIÓN ESPAÑOLA 2013-2016</narrative>
+			</title>
+			<category code="B02"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/pacode_2015-2018_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Plan Andaluz de Cooperación para el Desarrollo 2015-2018</narrative>
+			</title>
+			<category code="B02"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/plan_director_2012-2015_gobierno_aragon_0.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Plan Director 2012-2015 del Gobierno de Aragón</narrative>
+			</title>
+			<category code="B02"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificación%20multilateral/ESTRATEGIA_MULTILATERAL.PDF" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Estrategia Multilateral de la Cooperación Española para el Desarrollo</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%C3%B3n%20multilateral/documento%20priorizaci%C3%B3n%20organizaciones%20multilaterales%20desarrollo%20cooperacion%20espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Prioridades para la cooperación multilateral en el ámbito del desarrollo</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%c3%b3n%20multilateral/documento_bases_mae_fnuap_2015_2016_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">MAE con Fondo Población de Naciones Unidas (UNFPA) - Doc Bases</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%c3%b3n%20multilateral/documento_administrativo_mae_fnuap_2015_2016_cooperacion_espanola_en.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">MAE con Fondo Población de Naciones Unidas (UNFPA) - Doc Administrativo</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%c3%b3n%20multilateral/documento_bases_mae_pnud_2015_2016_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">MAE con Programa de Naciones Unidas para el Desarrollo (PNUD) - Doc Bases</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%c3%b3n%20multilateral/documento_administrativo_mae_pnud_2015_2016_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">MAE con Programa de Naciones Unidas para el Desarrollo (PNUD) - Doc Administrativo</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%c3%b3n%20multilateral/documento_programatico_mae_onu_mujeres_2015_2016_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">MAE con ONU Mujeres - Doc Programático</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%c3%b3n%20multilateral/documento_administrativo_mae_onu_mujeres_2015_2016_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">MAE con ONU Mujeres - Doc Administrativo</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.aecid.es/Centro-Documentacion/Documentos/Seguimiento%20y%20transparencia/151117%20MEMORIAAECID2014-Baja.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Memoria Anual AECID 2014</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/FONPRODE/Informe%20FONPRODE%202013%20cooperacion%20espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Informe de Actividad FONPRODE 2013</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/FONPRODE/BOE-A-2015-6757%20cooperacion%20espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Resumen Cuentas Anuales FONPRODE 2013 </narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/FONPRODE/Informe_Fonprode_2012-FINAL-COMPLETO.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Resumen Cuentas Anuales FONPRODE 2012 </narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespanola.es/sites/default/files/20130701_politica_de_evaluacion_on-line_0.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Política de Evaluación de la Cooperación Española</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/plan_bienal_de_evaluaciones_2015-2016.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Plan Bienal de Evaluaciones 2015-2016</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.xn--cooperacionespaola-10b.es/es/publicaciones-de-evaluacion" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Metodología y Herramientas de Evaluación</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.xn--cooperacionespaola-10b.es/es/publicaciones?title=&amp;field_autor_value=&amp;field_anio_value[value][year]=&amp;field_pais_evaluacion_tid_i18n=All&amp;field_actor_que_publica_tid_i18n=All&amp;field_tipo_publicacion_tid_i18n=11&amp;field_tipo_de_publicacion_nueva_tid_i18n=122&amp;field_mas_informacion_title=" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Informes de Evaluación</narrative>
+			</title>
+			<category code="B09"/>
+			<category code="B10"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.xn--cooperacionespaola-10b.es/es/publicaciones?title=&amp;field_autor_value=&amp;field_anio_value[value][year]=&amp;field_pais_evaluacion_tid_i18n=All&amp;field_actor_que_publica_tid_i18n=All&amp;field_tipo_publicacion_tid_i18n=11&amp;field_tipo_de_publicacion_nueva_tid_i18n=241&amp;field_mas_informacion_title=" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Evaluaciones Conjuntas</narrative>
+			</title>
+			<category code="B09"/>
+			<category code="B10"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.xn--cooperacionespaola-10b.es/es/publicaciones?title=&amp;field_autor_value=&amp;field_anio_value[value][year]=&amp;field_pais_evaluacion_tid_i18n=All&amp;field_actor_que_publica_tid_i18n=All&amp;field_tipo_publicacion_tid_i18n=11&amp;field_tipo_de_publicacion_nueva_tid_i18n=160&amp;field_mas_informacion_title=" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Peer Reviews</narrative>
+			</title>
+			<category code="B09"/>
+			<category code="B10"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://web.worldbank.org/WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/EXTHDNETWORK/EXTHDOFFICE/0,,contentMDK:22390002~menuPK:6575735~pagePK:64168445~piPK:64168309~theSitePK:5485727,00.html" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Fondo Español para la Evaluación del Impacto</narrative>
+			</title>
+			<category code="A01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/informe_2014.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Informe Anual de Evaluación 2014</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.xn--cooperacionespaola-10b.es/sites/default/files/inf_anual_evaluacion_lecciones_ing_web.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="en">Annual Evaluation Report 2014</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="en"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/informe_anual_evaluacion_2013_0.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Informe Anual de Evaluación 2013</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/lessons_learned_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="en">Annual Evaluation Report 2013</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="en"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_bolivia_2015_2017_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País BOLIVIA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_colombia.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País COLOMBIA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_costa_rica.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País COSTA RICA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%C3%B3n%20pais/MAP%20Cuba.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País CUBA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_ecuador_2014_2018_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País ECUADOR</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/matriz_resultados_map_ecuador_2014_2018_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Matriz de Resultados MAP ECUADOR 2014-2018</narrative>
+			</title>
+			<category code="A08"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_filipinas_esp_0.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País FILIPINAS</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_guatemala.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País GUATEMALA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_haiti_2015_2017_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País HAITI</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_espana_honduras_2014_2018_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País HONDURAS</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_el_salvador_2010_2014_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País EL SALVADOR</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_etiopia.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País ETIOPÍA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/comision_mixta_map_2014_2016_marruecos_espana_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País MARRUECOS</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/commission_mixte_cpp_2014_2016_maroc_espagne_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="fr">Cadre D'Association Pays MAROCO</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="fr"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_mauritania_es_0.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País MAURITANIA (ES)</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_mexico.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País MÉXICO</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_mozambique_2014_2016_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País MOZAMBIQUE</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_namibia.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País NAMIBIA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_nicaragua_espana_2015_2017_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País NICARAGUA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_niger_2014_2016_cooperacion_espanola_espanol.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País NIGER</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_niger_2014_2016_cooperacion_espanola_fr_es.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="en">Country Partnership Framework NIGER</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="en"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_niger_2014_2016_cooperacion_espanola_francais.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="fr">Cadre D'Association Pays NIGER</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="fr"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_palestina_2015_2017_cooperacion_espanola.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País PALESTINA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.xn--cooperacionespaola-10b.es/sites/default/files/map_palestina_2015_2017_cooperacion_espanola_en.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="en">Country Partnership Framework PALESTINE</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="en"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_panama.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País PANAMÁ</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_paraguay.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País PARAGUAY</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_peru_1.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País PERÚ</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_rep_dom_espana.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País REPÚBLICA DOMINICANA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_senegal_espana_2014-2017_3.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País SENEGAL</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/map_uruguay.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Marco de Asociación País URUGUAY</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificaci%C3%B3n%20pais/DEP%20Cabo%20Verde.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Documento Estrategia País CABO VERDE</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.aecid.es/Centro-Documentacion/Documentos/Planificaci%C3%B3n%20estrat%C3%A9gica%20por%20pa%C3%ADses/DEP_Angola_2005_2008.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Documento Estrategia País ANGOLA</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.aecid.es/Centro-Documentacion/Documentos/Planificaci%C3%B3n%20estrat%C3%A9gica%20por%20pa%C3%ADses/DEP_Filipinas_2005_2008.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Documento Estrategia País FILIPINAS</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.aecid.es/Centro-Documentacion/Documentos/Planificaci%C3%B3n%20estrat%C3%A9gica%20por%20pa%C3%ADses/DEP_Vietnam_2005_2008.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Documento Estrategia País VIETNAM</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.aecid.es/Centro-Documentacion/Documentos/Planificaci%C3%B3n%20estrat%C3%A9gica%20por%20pa%C3%ADses/DEP_Poblacion_Saharaui_2005_2008.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Documento Estrategia País POBLACIÓN SAHARAUI</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.aecid.es/Centro-Documentacion/Documentos/Planificaci%C3%B3n%20estrat%C3%A9gica%20por%20pa%C3%ADses/DEP_Tunez_2005_2008.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Documento Estrategia País TUNEZ</narrative>
+			</title>
+			<category code="B03"/>
+			<category code="B04"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.cooperacionespañola.es/sites/default/files/estrategia_infancia_cooperacion_espanola_0.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Estrategia de Infancia</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Accion%20Humanitaria.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: ACCIÓN HUMANITARIA</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Construccion%20de%20la%20Paz.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: CONSTRUCCIÓN DE PAZ .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Crecimiento%20Economico%20y%20promocion%20del%20tejido%20empresarial.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: CRECIMIENTO ECONÓMICO Y PROMOCIÓN DEL TEJIDO EMPRESARIAL .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Cultura%20y%20Desarrollo.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: CULTURA Y DESARROLLO .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Educacion.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: EDUCACIÓN .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Educaci%C3%B3n%20para%20el%20Desarrollo.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: EDUCACIÓN PARA EL DESARROLLO .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Genero%20en%20desarrollo.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: GÉNERO EN DESARROLLO . </narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Gobernabililidad.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: GOBERNABILIDAD .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Lucha%20contra%20el%20Hambre.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: LUCHA CONTRA EL HAMBRE .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Medioambiente%20y%20Sostenibilidad%20Ambiental%20Anexos.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: MEDIOAMBIENTE Y SOSTENIBILIDAD AMBIENTAL .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/Pueblos%20Indigenas.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: PUEBLOS INDÍGENAS .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Planificacion/Planificacion%20sectores/SALUD.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Planificación Estratégica Sector: SALUD .</narrative>
+			</title>
+			<category code="B02"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2014/150907_Volcado_AOD_2014_usuarios.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2014</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2013/141010%20Volcado%20AOD%202013%20usuarios%20-%20final.zip" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2013</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2012/Seguimiento%20Anual%202012%20web.pdf" format="application/excel">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2012</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2011/Seg%20PACI%202011.xls" format="application/excel">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2011</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2010/Seg%20PACI%202010.xls" format="application/excel">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2010</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2009/Seg%20PACI%202009.xls" format="application/excel">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2009</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2008/091218_JSP%20Totn08.zip" format="application/excel">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2008</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Seguimiento/PACI/2007/VolcadoAOD07.zip" format="application/excel">
+			<title>
+				<narrative xml:lang="es">Seguimiento PACI 2007</narrative>
+			</title>
+			<category code="B01"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Evaluacion/InformesEvaluacion/31.%20Eval%20intermedia%20del%20III%20Plan%20Director%20de%20la%20Cooperación%20Española%202009-2012.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Evaluación Intermedia del III Plan Director 2009-2012</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Evaluacion/EvaluacionCooperacionES/20130712%20Plan%20BienalREV%20%281%29.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Plan Bienal de Evaluaciones 2013-2014</narrative>
+			</title>
+			<category code="B09"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Otras%20Publicaciones/Normativa/Ley%20general%20de%20subvenciones.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Ley General de Subvenciones</narrative>
+			</title>
+			<category code="B05"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Otras%20Publicaciones/Normativa/Real%20Decreto%20887-2006%20Reglamento%20Ley%2038-2003.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">RD 887-2006 Reglamento Ley General de Subvenciones</narrative>
+			</title>
+			<category code="B05"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Otras%20Publicaciones/Normativa/Real%20Decreto%20794-2010%20Subvenciones%20Cooperacion.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">RD 794-2010 Subvenciones Cooperación</narrative>
+			</title>
+			<category code="B05"/>
+			<language code="es"/>
+		</document-link>
+		<document-link url="http://www.exteriores.gob.es/Portal/es/SalaDePrensa/Multimedia/Publicaciones/Documents/Cooperacion/Otras%20Publicaciones/Normativa/Orden%20AEC-2909-2011%20Bases%20Subvenciones%20Cooperacion.pdf" format="application/pdf">
+			<title>
+				<narrative xml:lang="es">Orden AEC-2909-2011 Bases Subvenciones Cooperacion</narrative>
+			</title>
+			<category code="B05"/>
+			<language code="es"/>
+		</document-link>
+	</iati-organisation>
+</iati-organisations>

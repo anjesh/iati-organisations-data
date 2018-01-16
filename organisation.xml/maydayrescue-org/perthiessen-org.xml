@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-01-04T09:04:34+00:00">
+  <iati-organisation last-updated-datetime="2017-01-04T09:04:34+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-855689493</organisation-identifier>
+    <name>
+      <narrative xml:lang="en">Stichting Mayday Rescue Foundation</narrative>
+    </name>
+    <reporting-org type="60" ref="NL-KVK-855689493">
+      <narrative xml:lang="en">Stichting Mayday Rescue Foundation</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

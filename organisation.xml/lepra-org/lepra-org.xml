@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-10-06T16:19:08+00:00">
+  <iati-organisation last-updated-datetime="2016-10-06T16:19:08+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-213251</organisation-identifier>
+    <name>
+      <narrative>Lepra</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-213251">
+      <narrative xml:lang="en">Lepra</narrative>
+    </reporting-org>
+    <total-budget status="2">
+      <period-start iso-date="2015-04-01"/>
+      <period-end iso-date="2016-03-31"/>
+      <value currency="GBP" value-date="2016-09-30">5053532</value>
+      <budget-line>
+        <value value-date="2016-09-30">5053532</value>
+        <narrative>Expenditure for 1 April 2015 - 31 March 2016</narrative>
+      </budget-line>
+    </total-budget>
+    <document-link format="text/html" url="https://issuu.com/lepra/docs/lepra_a4_brochure_8pp_low_res_web">
+      <title>
+        <narrative xml:lang="en">Restoring Lives: Our strategy 2016-2020</narrative>
+      </title>
+      <category code="B02"/>
+      <document-date iso-date="2016-09-30"/>
+    </document-link>
+    <document-link format="text/html" url="https://www.lepra.org.uk/annual-reports-and-finances">
+      <title>
+        <narrative>Overview of Lepra's Annual Accounts and Annual Impact Reports</narrative>
+      </title>
+      <category code="B01"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

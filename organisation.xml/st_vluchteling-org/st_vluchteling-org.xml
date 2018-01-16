@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2016-08-08T11:04:11+00:00">
+  <iati-organisation last-updated-datetime="2016-08-08T11:04:11+00:00" xml:lang="en" default-currency="EUR">
+    <organisation-identifier>NL-KVK-41149486</organisation-identifier>
+    <name>
+      <narrative xml:lang="nl">Stichting Vluchteling</narrative>
+    </name>
+    <reporting-org type="21" ref="NL-KVK-41149486">
+      <narrative xml:lang="nl">Stichting Vluchteling</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value value-date="2015-01-01">18399000</value>
+      <budget-line ref="Totale begroting 2015">
+        <value value-date="2015-01-01">18399000</value>
+        <narrative xml:lang="en">Overall estimated budget for the year 2015</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value value-date="2016-01-01">18777000</value>
+      <budget-line ref="Totale begroting 2016">
+        <value value-date="2015-12-01">18777000</value>
+        <narrative xml:lang="en">Overall estimated budget for the year 2016</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2016-01-01">14163000</value>
+      <budget-line ref="Totale begroting 2017">
+        <value value-date="2015-12-01">14163000</value>
+        <narrative xml:lang="en">Total estimated budget for the year 2017</narrative>
+      </budget-line>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2018-01-01"/>
+      <period-end iso-date="2018-12-31"/>
+      <value value-date="2016-01-01">15718000</value>
+      <budget-line ref="Totale begroting 2018">
+        <value value-date="2015-12-01">15718000</value>
+        <narrative xml:lang="en">Total estimated budget for the year 2018</narrative>
+      </budget-line>
+    </total-budget>
+    <total-expenditure>
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value currency="EUR" value-date="2014-12-31">13864163</value>
+      <expense-line ref="Totale bestedingen 2014">
+        <value currency="EUR" value-date="2014-12-31">13864163</value>
+        <narrative xml:lang="en">Overall organizational spending in the year 2014</narrative>
+      </expense-line>
+    </total-expenditure>
+    <total-expenditure>
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="EUR" value-date="2015-12-31">22714385</value>
+      <expense-line ref="Totale bestedingen 2015">
+        <value currency="EUR" value-date="2015-12-31">22714385</value>
+        <narrative>Overall organizational spending in the year 2015</narrative>
+      </expense-line>
+    </total-expenditure>
+    <document-link format="application/pdf" url="https://www.vluchteling.nl/~/media/Files/Jaarverslag/Jaarverslag-2014/Jaarverslag-2014-Interact.ashx">
+      <title>
+        <narrative xml:lang="nl">Stichting Vluchteling - Jaarverslag 2014 (narratief)</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2016-07-06"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.vluchteling.nl/~/media/Files/Jaarverslag/Jaarverslag-2014/Financieel-JV-2014-Interact-pdf.ashx">
+      <title>
+        <narrative xml:lang="nl">Stichting Vluchteling - Financieel Jaarverslag 2014</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2016-07-06"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.digitaalpubliceren.com/stichting-vluchteling/">
+      <title>
+        <narrative xml:lang="nl">Stichting Vluchteling - Jaarverslag 2015 (narratief)</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2016-06-27"/>
+    </document-link>
+    <document-link format="application/pdf" url="https://www.vluchteling.nl/~/media/Files/Jaarverslag/Financieel-verslag-2015-def.ashx">
+      <title>
+        <narrative xml:lang="nl">Stichting Vluchteling - Financieel jaarverslag 2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="nl"/>
+      <document-date iso-date="2016-06-27"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

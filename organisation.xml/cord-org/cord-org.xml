@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations generated-datetime="2014-01-08T09:38:39+00:00" version="1.03">
+  <iati-organisation xml:lang="en" default-currency="GBP" last-updated-datetime="2014-01-08T09:36:31+00:00">
+    <reporting-org ref="GB-CHC-1070684" type="21" xml:lang="en">Cord</reporting-org>
+    <iati-identifier>GB-CHC-1070684</iati-identifier>
+    <name xml:lang="en">Cord</name>
+    <document-link url="https://dl.dropboxusercontent.com/u/44087943/Annual%20Review%202012%20FINAL%20(HiRes)%20v1.02.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B01" xml:lang="en">Cord 2012 Annual Review including Annual Audited Accounts</category>
+      <title xml:lang="en">Cord Annual Review 2012</title>
+    </document-link>
+    <document-link url="https://dl.dropboxusercontent.com/u/44087943/Strategy%202012-2016%20EN.pdf" format="application/pdf">
+      <language>en</language>
+      <category code="B02" xml:lang="en">Cord 2012-2016 Strategic Framework</category>
+      <title xml:lang="en">Peace Through Partnership - Cord Strategic Framework 2012-16</title>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>

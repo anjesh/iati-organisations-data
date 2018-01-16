@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2017-04-06T07:23:08+00:00">
+  <iati-organisation last-updated-datetime="2017-04-06T07:23:08+00:00" xml:lang="en" default-currency="DKK">
+    <organisation-identifier>DK-CVR-29439915</organisation-identifier>
+    <name>
+      <narrative>Caritas Denmark</narrative>
+    </name>
+    <reporting-org type="22" ref="DK-CVR-29439915">
+      <narrative>Caritas Denmark</narrative>
+    </reporting-org>
+  </iati-organisation>
+</iati-organisations>

@@ -1,0 +1,1921 @@
+<iati-organisations version="1.05" generated-datetime="2017-09-27T12:15:43">
+						<iati-organisation  xml:lang="en" default-currency="USD" last-updated-datetime="2017-09-27T12:15:43">
+		<reporting-org ref="44000" type="40" xml:lang="en">World Bank Group</reporting-org> 		
+		<iati-identifier>44000</iati-identifier>
+		<name xml:lang="en">World Bank Group</name><total-budget>
+		<period-start iso-date="2017-07-01">Start of IDA 18 Replenishment</period-start>
+		<period-end iso-date="2020-06-30">End of IDA 20 Replenishment</period-end>
+		<value value-date="2017-07-01">75000000000</value>
+		</total-budget>
+
+<recipient-country-budget><recipient-country code="289" xml:lang="en">South of Sahara, regional</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">388075200</value></recipient-country-budget><recipient-country-budget><recipient-country code="289" xml:lang="en">South of Sahara, regional</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">561012900</value></recipient-country-budget><recipient-country-budget><recipient-country code="289" xml:lang="en">South of Sahara, regional</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">718225900</value></recipient-country-budget><recipient-country-budget><recipient-country code="889" xml:lang="en">Oceania, regional</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">17374800</value></recipient-country-budget><recipient-country-budget><recipient-country code="889" xml:lang="en">Oceania, regional</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">26163100</value></recipient-country-budget><recipient-country-budget><recipient-country code="889" xml:lang="en">Oceania, regional</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">34786000</value></recipient-country-budget><recipient-country-budget><recipient-country code="389" xml:lang="en">North &amp; Central America, regional</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">7733600</value></recipient-country-budget><recipient-country-budget><recipient-country code="389" xml:lang="en">North &amp; Central America, regional</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">8141800</value></recipient-country-budget><recipient-country-budget><recipient-country code="389" xml:lang="en">North &amp; Central America, regional</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">8499400</value></recipient-country-budget><recipient-country-budget><recipient-country code="619" xml:lang="en">Central Asia, regional</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">9849800</value></recipient-country-budget><recipient-country-budget><recipient-country code="619" xml:lang="en">Central Asia, regional</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">13569200</value></recipient-country-budget><recipient-country-budget><recipient-country code="619" xml:lang="en">Central Asia, regional</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">17720700</value></recipient-country-budget><recipient-country-budget><recipient-country code="679" xml:lang="en">South Asia, regional</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">43782900</value></recipient-country-budget><recipient-country-budget><recipient-country code="679" xml:lang="en">South Asia, regional</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">72433500</value></recipient-country-budget><recipient-country-budget><recipient-country code="679" xml:lang="en">South Asia, regional</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">100616000</value></recipient-country-budget><recipient-country-budget><recipient-country code="AF" xml:lang="en">AFGHANISTAN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">189346300</value></recipient-country-budget><recipient-country-budget><recipient-country code="AF" xml:lang="en">AFGHANISTAN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">183453100</value></recipient-country-budget><recipient-country-budget><recipient-country code="AF" xml:lang="en">AFGHANISTAN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">176184200</value></recipient-country-budget><recipient-country-budget><recipient-country code="AL" xml:lang="en">ALBANIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">1917300</value></recipient-country-budget><recipient-country-budget><recipient-country code="AL" xml:lang="en">ALBANIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">787900</value></recipient-country-budget><recipient-country-budget><recipient-country code="AL" xml:lang="en">ALBANIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">85400</value></recipient-country-budget><recipient-country-budget><recipient-country code="AM" xml:lang="en">ARMENIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">17302700</value></recipient-country-budget><recipient-country-budget><recipient-country code="AM" xml:lang="en">ARMENIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">12592500</value></recipient-country-budget><recipient-country-budget><recipient-country code="AM" xml:lang="en">ARMENIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">8029500</value></recipient-country-budget><recipient-country-budget><recipient-country code="AO" xml:lang="en">ANGOLA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">46421500</value></recipient-country-budget><recipient-country-budget><recipient-country code="AO" xml:lang="en">ANGOLA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">25356400</value></recipient-country-budget><recipient-country-budget><recipient-country code="AO" xml:lang="en">ANGOLA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">16101700</value></recipient-country-budget><recipient-country-budget><recipient-country code="AZ" xml:lang="en">AZERBAIJAN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">16643400</value></recipient-country-budget><recipient-country-budget><recipient-country code="AZ" xml:lang="en">AZERBAIJAN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">10254500</value></recipient-country-budget><recipient-country-budget><recipient-country code="AZ" xml:lang="en">AZERBAIJAN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">6567800</value></recipient-country-budget><recipient-country-budget><recipient-country code="BA" xml:lang="en">BOSNIA AND HERZEGOVINA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">40548600</value></recipient-country-budget><recipient-country-budget><recipient-country code="BA" xml:lang="en">BOSNIA AND HERZEGOVINA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">29987500</value></recipient-country-budget><recipient-country-budget><recipient-country code="BA" xml:lang="en">BOSNIA AND HERZEGOVINA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">19556800</value></recipient-country-budget><recipient-country-budget><recipient-country code="BD" xml:lang="en">BANGLADESH</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">1178391000</value></recipient-country-budget><recipient-country-budget><recipient-country code="BD" xml:lang="en">BANGLADESH</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">1057255699</value></recipient-country-budget><recipient-country-budget><recipient-country code="BD" xml:lang="en">BANGLADESH</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">1107522800</value></recipient-country-budget><recipient-country-budget><recipient-country code="BF" xml:lang="en">BURKINA FASO</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">216340500</value></recipient-country-budget><recipient-country-budget><recipient-country code="BF" xml:lang="en">BURKINA FASO</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">176707200</value></recipient-country-budget><recipient-country-budget><recipient-country code="BF" xml:lang="en">BURKINA FASO</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">170456200</value></recipient-country-budget><recipient-country-budget><recipient-country code="BI" xml:lang="en">BURUNDI</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">84841700</value></recipient-country-budget><recipient-country-budget><recipient-country code="BI" xml:lang="en">BURUNDI</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">83947700</value></recipient-country-budget><recipient-country-budget><recipient-country code="BI" xml:lang="en">BURUNDI</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">82731300</value></recipient-country-budget><recipient-country-budget><recipient-country code="BJ" xml:lang="en">BENIN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">75035000</value></recipient-country-budget><recipient-country-budget><recipient-country code="BJ" xml:lang="en">BENIN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">60814900</value></recipient-country-budget><recipient-country-budget><recipient-country code="BJ" xml:lang="en">BENIN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">59002100</value></recipient-country-budget><recipient-country-budget><recipient-country code="BO" xml:lang="en">BOLIVIA, PLURINATIONAL STATE OF</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">78161900</value></recipient-country-budget><recipient-country-budget><recipient-country code="BO" xml:lang="en">BOLIVIA, PLURINATIONAL STATE OF</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">57963600</value></recipient-country-budget><recipient-country-budget><recipient-country code="BO" xml:lang="en">BOLIVIA, PLURINATIONAL STATE OF</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">41454000</value></recipient-country-budget><recipient-country-budget><recipient-country code="BT" xml:lang="en">BHUTAN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">7238400</value></recipient-country-budget><recipient-country-budget><recipient-country code="BT" xml:lang="en">BHUTAN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">7596000</value></recipient-country-budget><recipient-country-budget><recipient-country code="BT" xml:lang="en">BHUTAN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">7960000</value></recipient-country-budget><recipient-country-budget><recipient-country code="CF" xml:lang="en">CENTRAL AFRICAN REPUBLIC</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">45614000</value></recipient-country-budget><recipient-country-budget><recipient-country code="CF" xml:lang="en">CENTRAL AFRICAN REPUBLIC</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">37243000</value></recipient-country-budget><recipient-country-budget><recipient-country code="CF" xml:lang="en">CENTRAL AFRICAN REPUBLIC</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">38929000</value></recipient-country-budget><recipient-country-budget><recipient-country code="CG" xml:lang="en">CONGO</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">22292300</value></recipient-country-budget><recipient-country-budget><recipient-country code="CG" xml:lang="en">CONGO</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">22024700</value></recipient-country-budget><recipient-country-budget><recipient-country code="CG" xml:lang="en">CONGO</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">23273100</value></recipient-country-budget><recipient-country-budget><recipient-country code="CI" xml:lang="en">COTE D''IVOIRE</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">174398100</value></recipient-country-budget><recipient-country-budget><recipient-country code="CI" xml:lang="en">COTE D''IVOIRE</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">157990500</value></recipient-country-budget><recipient-country-budget><recipient-country code="CI" xml:lang="en">COTE D''IVOIRE</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">181575800</value></recipient-country-budget><recipient-country-budget><recipient-country code="CM" xml:lang="en">CAMEROON</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">132182700</value></recipient-country-budget><recipient-country-budget><recipient-country code="CM" xml:lang="en">CAMEROON</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">110158400</value></recipient-country-budget><recipient-country-budget><recipient-country code="CM" xml:lang="en">CAMEROON</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">106796800</value></recipient-country-budget><recipient-country-budget><recipient-country code="CV" xml:lang="en">CAPE VERDE</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">14434900</value></recipient-country-budget><recipient-country-budget><recipient-country code="CV" xml:lang="en">CAPE VERDE</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">12814300</value></recipient-country-budget><recipient-country-budget><recipient-country code="CV" xml:lang="en">CAPE VERDE</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">16295500</value></recipient-country-budget><recipient-country-budget><recipient-country code="DJ" xml:lang="en">DJIBOUTI</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">9805900</value></recipient-country-budget><recipient-country-budget><recipient-country code="DJ" xml:lang="en">DJIBOUTI</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">9651800</value></recipient-country-budget><recipient-country-budget><recipient-country code="DJ" xml:lang="en">DJIBOUTI</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">9046300</value></recipient-country-budget><recipient-country-budget><recipient-country code="DM" xml:lang="en">DOMINICA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">3474500</value></recipient-country-budget><recipient-country-budget><recipient-country code="DM" xml:lang="en">DOMINICA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">3815600</value></recipient-country-budget><recipient-country-budget><recipient-country code="DM" xml:lang="en">DOMINICA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">4272100</value></recipient-country-budget><recipient-country-budget><recipient-country code="ET" xml:lang="en">ETHIOPIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">917448700</value></recipient-country-budget><recipient-country-budget><recipient-country code="ET" xml:lang="en">ETHIOPIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">968443600</value></recipient-country-budget><recipient-country-budget><recipient-country code="ET" xml:lang="en">ETHIOPIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">1038776000</value></recipient-country-budget><recipient-country-budget><recipient-country code="FM" xml:lang="en">MICRONESIA, FEDERATED STATES OF</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">10167500</value></recipient-country-budget><recipient-country-budget><recipient-country code="FM" xml:lang="en">MICRONESIA, FEDERATED STATES OF</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">12610700</value></recipient-country-budget><recipient-country-budget><recipient-country code="FM" xml:lang="en">MICRONESIA, FEDERATED STATES OF</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">15546600</value></recipient-country-budget><recipient-country-budget><recipient-country code="GD" xml:lang="en">GRENADA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">9314000</value></recipient-country-budget><recipient-country-budget><recipient-country code="GD" xml:lang="en">GRENADA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">1703100</value></recipient-country-budget><recipient-country-budget><recipient-country code="GD" xml:lang="en">GRENADA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">922000</value></recipient-country-budget><recipient-country-budget><recipient-country code="GE" xml:lang="en">GEORGIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">18496700</value></recipient-country-budget><recipient-country-budget><recipient-country code="GE" xml:lang="en">GEORGIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">11809300</value></recipient-country-budget><recipient-country-budget><recipient-country code="GE" xml:lang="en">GEORGIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">6772000</value></recipient-country-budget><recipient-country-budget><recipient-country code="GH" xml:lang="en">GHANA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">288978100</value></recipient-country-budget><recipient-country-budget><recipient-country code="GH" xml:lang="en">GHANA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">217877200</value></recipient-country-budget><recipient-country-budget><recipient-country code="GH" xml:lang="en">GHANA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">186811700</value></recipient-country-budget><recipient-country-budget><recipient-country code="GM" xml:lang="en">GAMBIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">43728400</value></recipient-country-budget><recipient-country-budget><recipient-country code="GM" xml:lang="en">GAMBIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">29982700</value></recipient-country-budget><recipient-country-budget><recipient-country code="GM" xml:lang="en">GAMBIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">31748100</value></recipient-country-budget><recipient-country-budget><recipient-country code="GN" xml:lang="en">GUINEA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">68618000</value></recipient-country-budget><recipient-country-budget><recipient-country code="GN" xml:lang="en">GUINEA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">60861000</value></recipient-country-budget><recipient-country-budget><recipient-country code="GN" xml:lang="en">GUINEA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">57857500</value></recipient-country-budget><recipient-country-budget><recipient-country code="GW" xml:lang="en">GUINEA-BISSAU</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">22708400</value></recipient-country-budget><recipient-country-budget><recipient-country code="GW" xml:lang="en">GUINEA-BISSAU</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">23413700</value></recipient-country-budget><recipient-country-budget><recipient-country code="GW" xml:lang="en">GUINEA-BISSAU</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">21177300</value></recipient-country-budget><recipient-country-budget><recipient-country code="GY" xml:lang="en">GUYANA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">7067300</value></recipient-country-budget><recipient-country-budget><recipient-country code="GY" xml:lang="en">GUYANA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">7196000</value></recipient-country-budget><recipient-country-budget><recipient-country code="GY" xml:lang="en">GUYANA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">7179900</value></recipient-country-budget><recipient-country-budget><recipient-country code="HN" xml:lang="en">HONDURAS</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">29012200</value></recipient-country-budget><recipient-country-budget><recipient-country code="HN" xml:lang="en">HONDURAS</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">27154800</value></recipient-country-budget><recipient-country-budget><recipient-country code="HN" xml:lang="en">HONDURAS</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">29328100</value></recipient-country-budget><recipient-country-budget><recipient-country code="HT" xml:lang="en">HAITI</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">94543900</value></recipient-country-budget><recipient-country-budget><recipient-country code="HT" xml:lang="en">HAITI</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">77951600</value></recipient-country-budget><recipient-country-budget><recipient-country code="HT" xml:lang="en">HAITI</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">63059300</value></recipient-country-budget><recipient-country-budget><recipient-country code="IN" xml:lang="en">INDIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">1735208300</value></recipient-country-budget><recipient-country-budget><recipient-country code="IN" xml:lang="en">INDIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">1261835600</value></recipient-country-budget><recipient-country-budget><recipient-country code="IN" xml:lang="en">INDIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">889632000</value></recipient-country-budget><recipient-country-budget><recipient-country code="IQ" xml:lang="en">IRAQ</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">16322900</value></recipient-country-budget><recipient-country-budget><recipient-country code="IQ" xml:lang="en">IRAQ</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">6771700</value></recipient-country-budget><recipient-country-budget><recipient-country code="IQ" xml:lang="en">IRAQ</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">2325100</value></recipient-country-budget><recipient-country-budget><recipient-country code="KE" xml:lang="en">KENYA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">753905300</value></recipient-country-budget><recipient-country-budget><recipient-country code="KE" xml:lang="en">KENYA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">651613500</value></recipient-country-budget><recipient-country-budget><recipient-country code="KE" xml:lang="en">KENYA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">599090000</value></recipient-country-budget><recipient-country-budget><recipient-country code="KG" xml:lang="en">KYRGYZSTAN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">74073200</value></recipient-country-budget><recipient-country-budget><recipient-country code="KG" xml:lang="en">KYRGYZSTAN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">49226600</value></recipient-country-budget><recipient-country-budget><recipient-country code="KG" xml:lang="en">KYRGYZSTAN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">50646100</value></recipient-country-budget><recipient-country-budget><recipient-country code="KH" xml:lang="en">CAMBODIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">27875000</value></recipient-country-budget><recipient-country-budget><recipient-country code="KH" xml:lang="en">CAMBODIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">34581600</value></recipient-country-budget><recipient-country-budget><recipient-country code="KH" xml:lang="en">CAMBODIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">41825700</value></recipient-country-budget><recipient-country-budget><recipient-country code="KI" xml:lang="en">KIRIBATI</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">6247100</value></recipient-country-budget><recipient-country-budget><recipient-country code="KI" xml:lang="en">KIRIBATI</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">5525200</value></recipient-country-budget><recipient-country-budget><recipient-country code="KI" xml:lang="en">KIRIBATI</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">5358600</value></recipient-country-budget><recipient-country-budget><recipient-country code="KM" xml:lang="en">COMOROS</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">12579200</value></recipient-country-budget><recipient-country-budget><recipient-country code="KM" xml:lang="en">COMOROS</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">11984000</value></recipient-country-budget><recipient-country-budget><recipient-country code="KM" xml:lang="en">COMOROS</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">13544800</value></recipient-country-budget><recipient-country-budget><recipient-country code="LA" xml:lang="en">LAO PEOPLE''S DEMOCRATIC REPUBLIC</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">43257700</value></recipient-country-budget><recipient-country-budget><recipient-country code="LA" xml:lang="en">LAO PEOPLE''S DEMOCRATIC REPUBLIC</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">47596400</value></recipient-country-budget><recipient-country-budget><recipient-country code="LA" xml:lang="en">LAO PEOPLE''S DEMOCRATIC REPUBLIC</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">52049000</value></recipient-country-budget><recipient-country-budget><recipient-country code="LC" xml:lang="en">SAINT LUCIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">7678000</value></recipient-country-budget><recipient-country-budget><recipient-country code="LC" xml:lang="en">SAINT LUCIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">5362000</value></recipient-country-budget><recipient-country-budget><recipient-country code="LC" xml:lang="en">SAINT LUCIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">3705800</value></recipient-country-budget><recipient-country-budget><recipient-country code="LK" xml:lang="en">SRI LANKA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">221772800</value></recipient-country-budget><recipient-country-budget><recipient-country code="LK" xml:lang="en">SRI LANKA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">221338800</value></recipient-country-budget><recipient-country-budget><recipient-country code="LK" xml:lang="en">SRI LANKA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">210354200</value></recipient-country-budget><recipient-country-budget><recipient-country code="LR" xml:lang="en">LIBERIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">105479400</value></recipient-country-budget><recipient-country-budget><recipient-country code="LR" xml:lang="en">LIBERIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">97240000</value></recipient-country-budget><recipient-country-budget><recipient-country code="LR" xml:lang="en">LIBERIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">100160600</value></recipient-country-budget><recipient-country-budget><recipient-country code="LS" xml:lang="en">LESOTHO</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">39573200</value></recipient-country-budget><recipient-country-budget><recipient-country code="LS" xml:lang="en">LESOTHO</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">41654000</value></recipient-country-budget><recipient-country-budget><recipient-country code="LS" xml:lang="en">LESOTHO</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">50872900</value></recipient-country-budget><recipient-country-budget><recipient-country code="MD" xml:lang="en">MOLDOVA, REPUBLIC OF</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">57570900</value></recipient-country-budget><recipient-country-budget><recipient-country code="MD" xml:lang="en">MOLDOVA, REPUBLIC OF</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">29668600</value></recipient-country-budget><recipient-country-budget><recipient-country code="MD" xml:lang="en">MOLDOVA, REPUBLIC OF</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">28215000</value></recipient-country-budget><recipient-country-budget><recipient-country code="MG" xml:lang="en">MADAGASCAR</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">106576700</value></recipient-country-budget><recipient-country-budget><recipient-country code="MG" xml:lang="en">MADAGASCAR</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">106415600</value></recipient-country-budget><recipient-country-budget><recipient-country code="MG" xml:lang="en">MADAGASCAR</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">131411300</value></recipient-country-budget><recipient-country-budget><recipient-country code="MH" xml:lang="en">MARSHALL ISLANDS</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">2392400</value></recipient-country-budget><recipient-country-budget><recipient-country code="MH" xml:lang="en">MARSHALL ISLANDS</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">4388400</value></recipient-country-budget><recipient-country-budget><recipient-country code="MH" xml:lang="en">MARSHALL ISLANDS</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">6193900</value></recipient-country-budget><recipient-country-budget><recipient-country code="ML" xml:lang="en">MALI</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">165235700</value></recipient-country-budget><recipient-country-budget><recipient-country code="ML" xml:lang="en">MALI</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">139586000</value></recipient-country-budget><recipient-country-budget><recipient-country code="ML" xml:lang="en">MALI</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">138195000</value></recipient-country-budget><recipient-country-budget><recipient-country code="MM" xml:lang="en">MYANMAR</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">324131800</value></recipient-country-budget><recipient-country-budget><recipient-country code="MM" xml:lang="en">MYANMAR</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">346529300</value></recipient-country-budget><recipient-country-budget><recipient-country code="MM" xml:lang="en">MYANMAR</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">352817100</value></recipient-country-budget><recipient-country-budget><recipient-country code="MN" xml:lang="en">MONGOLIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">28327600</value></recipient-country-budget><recipient-country-budget><recipient-country code="MN" xml:lang="en">MONGOLIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">30892100</value></recipient-country-budget><recipient-country-budget><recipient-country code="MN" xml:lang="en">MONGOLIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">29806900</value></recipient-country-budget><recipient-country-budget><recipient-country code="MR" xml:lang="en">MAURITANIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">44457600</value></recipient-country-budget><recipient-country-budget><recipient-country code="MR" xml:lang="en">MAURITANIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">41771400</value></recipient-country-budget><recipient-country-budget><recipient-country code="MR" xml:lang="en">MAURITANIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">37030600</value></recipient-country-budget><recipient-country-budget><recipient-country code="MV" xml:lang="en">MALDIVES</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">5540600</value></recipient-country-budget><recipient-country-budget><recipient-country code="MV" xml:lang="en">MALDIVES</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">6287400</value></recipient-country-budget><recipient-country-budget><recipient-country code="MV" xml:lang="en">MALDIVES</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">6888900</value></recipient-country-budget><recipient-country-budget><recipient-country code="MW" xml:lang="en">MALAWI</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">166279900</value></recipient-country-budget><recipient-country-budget><recipient-country code="MW" xml:lang="en">MALAWI</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">134704800</value></recipient-country-budget><recipient-country-budget><recipient-country code="MW" xml:lang="en">MALAWI</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">137380300</value></recipient-country-budget><recipient-country-budget><recipient-country code="MZ" xml:lang="en">MOZAMBIQUE</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">298896800</value></recipient-country-budget><recipient-country-budget><recipient-country code="MZ" xml:lang="en">MOZAMBIQUE</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">283563900</value></recipient-country-budget><recipient-country-budget><recipient-country code="MZ" xml:lang="en">MOZAMBIQUE</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">285213000</value></recipient-country-budget><recipient-country-budget><recipient-country code="NE" xml:lang="en">NIGER</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">218898700</value></recipient-country-budget><recipient-country-budget><recipient-country code="NE" xml:lang="en">NIGER</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">187296800</value></recipient-country-budget><recipient-country-budget><recipient-country code="NE" xml:lang="en">NIGER</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">189188100</value></recipient-country-budget><recipient-country-budget><recipient-country code="NG" xml:lang="en">NIGERIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">992585600</value></recipient-country-budget><recipient-country-budget><recipient-country code="NG" xml:lang="en">NIGERIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">1031254400</value></recipient-country-budget><recipient-country-budget><recipient-country code="NG" xml:lang="en">NIGERIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">963902500</value></recipient-country-budget><recipient-country-budget><recipient-country code="NI" xml:lang="en">NICARAGUA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">62896200</value></recipient-country-budget><recipient-country-budget><recipient-country code="NI" xml:lang="en">NICARAGUA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">71662800</value></recipient-country-budget><recipient-country-budget><recipient-country code="NI" xml:lang="en">NICARAGUA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">77197400</value></recipient-country-budget><recipient-country-budget><recipient-country code="NP" xml:lang="en">NEPAL</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">303044200</value></recipient-country-budget><recipient-country-budget><recipient-country code="NP" xml:lang="en">NEPAL</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">237235800</value></recipient-country-budget><recipient-country-budget><recipient-country code="NP" xml:lang="en">NEPAL</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">233055800</value></recipient-country-budget><recipient-country-budget><recipient-country code="PG" xml:lang="en">PAPUA NEW GUINEA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">57011900</value></recipient-country-budget><recipient-country-budget><recipient-country code="PG" xml:lang="en">PAPUA NEW GUINEA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">67552100</value></recipient-country-budget><recipient-country-budget><recipient-country code="PG" xml:lang="en">PAPUA NEW GUINEA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">78696400</value></recipient-country-budget><recipient-country-budget><recipient-country code="PK" xml:lang="en">PAKISTAN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">620530300</value></recipient-country-budget><recipient-country-budget><recipient-country code="PK" xml:lang="en">PAKISTAN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">718739400</value></recipient-country-budget><recipient-country-budget><recipient-country code="PK" xml:lang="en">PAKISTAN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">805784900</value></recipient-country-budget><recipient-country-budget><recipient-country code="RW" xml:lang="en">RWANDA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">189165900</value></recipient-country-budget><recipient-country-budget><recipient-country code="RW" xml:lang="en">RWANDA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">209800000</value></recipient-country-budget><recipient-country-budget><recipient-country code="RW" xml:lang="en">RWANDA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">229447500</value></recipient-country-budget><recipient-country-budget><recipient-country code="YE" xml:lang="en">YEMEN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">132093100</value></recipient-country-budget><recipient-country-budget><recipient-country code="YE" xml:lang="en">YEMEN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">106857000</value></recipient-country-budget><recipient-country-budget><recipient-country code="YE" xml:lang="en">YEMEN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">76250800</value></recipient-country-budget><recipient-country-budget><recipient-country code="SB" xml:lang="en">SOLOMON ISLANDS</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">5852500</value></recipient-country-budget><recipient-country-budget><recipient-country code="SB" xml:lang="en">SOLOMON ISLANDS</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">8471800</value></recipient-country-budget><recipient-country-budget><recipient-country code="SB" xml:lang="en">SOLOMON ISLANDS</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">11812600</value></recipient-country-budget><recipient-country-budget><recipient-country code="SL" xml:lang="en">SIERRA LEONE</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">70139400</value></recipient-country-budget><recipient-country-budget><recipient-country code="SL" xml:lang="en">SIERRA LEONE</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">71765300</value></recipient-country-budget><recipient-country-budget><recipient-country code="SL" xml:lang="en">SIERRA LEONE</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">92205900</value></recipient-country-budget><recipient-country-budget><recipient-country code="SN" xml:lang="en">SENEGAL</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">164254000</value></recipient-country-budget><recipient-country-budget><recipient-country code="SN" xml:lang="en">SENEGAL</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">158346700</value></recipient-country-budget><recipient-country-budget><recipient-country code="SN" xml:lang="en">SENEGAL</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">166811300</value></recipient-country-budget><recipient-country-budget><recipient-country code="ST" xml:lang="en">SAO TOME AND PRINCIPE</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">6253200</value></recipient-country-budget><recipient-country-budget><recipient-country code="ST" xml:lang="en">SAO TOME AND PRINCIPE</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">6618700</value></recipient-country-budget><recipient-country-budget><recipient-country code="ST" xml:lang="en">SAO TOME AND PRINCIPE</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">8799600</value></recipient-country-budget><recipient-country-budget><recipient-country code="TD" xml:lang="en">CHAD</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">74223300</value></recipient-country-budget><recipient-country-budget><recipient-country code="TD" xml:lang="en">CHAD</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">69584200</value></recipient-country-budget><recipient-country-budget><recipient-country code="TD" xml:lang="en">CHAD</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">85217400</value></recipient-country-budget><recipient-country-budget><recipient-country code="TG" xml:lang="en">TOGO</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">32995700</value></recipient-country-budget><recipient-country-budget><recipient-country code="TG" xml:lang="en">TOGO</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">31850500</value></recipient-country-budget><recipient-country-budget><recipient-country code="TG" xml:lang="en">TOGO</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">38213900</value></recipient-country-budget><recipient-country-budget><recipient-country code="TJ" xml:lang="en">TAJIKISTAN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">86921200</value></recipient-country-budget><recipient-country-budget><recipient-country code="TJ" xml:lang="en">TAJIKISTAN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">81071900</value></recipient-country-budget><recipient-country-budget><recipient-country code="TO" xml:lang="en">TONGA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">9340400</value></recipient-country-budget><recipient-country-budget><recipient-country code="TO" xml:lang="en">TONGA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">7967600</value></recipient-country-budget><recipient-country-budget><recipient-country code="TO" xml:lang="en">TONGA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">7357000</value></recipient-country-budget><recipient-country-budget><recipient-country code="TL" xml:lang="en">TIMOR-LESTE</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">8595500</value></recipient-country-budget><recipient-country-budget><recipient-country code="TL" xml:lang="en">TIMOR-LESTE</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">9740500</value></recipient-country-budget><recipient-country-budget><recipient-country code="TL" xml:lang="en">TIMOR-LESTE</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">10684200</value></recipient-country-budget><recipient-country-budget><recipient-country code="TV" xml:lang="en">TUVALU</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">6365100</value></recipient-country-budget><recipient-country-budget><recipient-country code="TV" xml:lang="en">TUVALU</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">7705400</value></recipient-country-budget><recipient-country-budget><recipient-country code="TV" xml:lang="en">TUVALU</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">9005100</value></recipient-country-budget><recipient-country-budget><recipient-country code="TZ" xml:lang="en">TANZANIA, UNITED REPUBLIC OF</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">841310500</value></recipient-country-budget><recipient-country-budget><recipient-country code="TZ" xml:lang="en">TANZANIA, UNITED REPUBLIC OF</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">816068900</value></recipient-country-budget><recipient-country-budget><recipient-country code="TZ" xml:lang="en">TANZANIA, UNITED REPUBLIC OF</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">761319200</value></recipient-country-budget><recipient-country-budget><recipient-country code="UG" xml:lang="en">UGANDA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">420029500</value></recipient-country-budget><recipient-country-budget><recipient-country code="UG" xml:lang="en">UGANDA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">405627300</value></recipient-country-budget><recipient-country-budget><recipient-country code="UG" xml:lang="en">UGANDA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">379092400</value></recipient-country-budget><recipient-country-budget><recipient-country code="UZ" xml:lang="en">UZBEKISTAN</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">241244200</value></recipient-country-budget><recipient-country-budget><recipient-country code="UZ" xml:lang="en">UZBEKISTAN</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">241249900</value></recipient-country-budget><recipient-country-budget><recipient-country code="UZ" xml:lang="en">UZBEKISTAN</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">228499400</value></recipient-country-budget><recipient-country-budget><recipient-country code="VC" xml:lang="en">SAINT VINCENT AND THE GRENADINES</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">8074100</value></recipient-country-budget><recipient-country-budget><recipient-country code="VC" xml:lang="en">SAINT VINCENT AND THE GRENADINES</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">4651700</value></recipient-country-budget><recipient-country-budget><recipient-country code="VC" xml:lang="en">SAINT VINCENT AND THE GRENADINES</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">2566300</value></recipient-country-budget><recipient-country-budget><recipient-country code="VN" xml:lang="en">VIET NAM</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">1280005900</value></recipient-country-budget><recipient-country-budget><recipient-country code="VN" xml:lang="en">VIET NAM</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">1219710200</value></recipient-country-budget><recipient-country-budget><recipient-country code="VN" xml:lang="en">VIET NAM</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">1046855100</value></recipient-country-budget><recipient-country-budget><recipient-country code="VU" xml:lang="en">VANUATU</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">9115800</value></recipient-country-budget><recipient-country-budget><recipient-country code="VU" xml:lang="en">VANUATU</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">11178000</value></recipient-country-budget><recipient-country-budget><recipient-country code="VU" xml:lang="en">VANUATU</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">13646700</value></recipient-country-budget><recipient-country-budget><recipient-country code="WS" xml:lang="en">SAMOA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">17130300</value></recipient-country-budget><recipient-country-budget><recipient-country code="WS" xml:lang="en">SAMOA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">17796800</value></recipient-country-budget><recipient-country-budget><recipient-country code="WS" xml:lang="en">SAMOA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">17604400</value></recipient-country-budget><recipient-country-budget><recipient-country code="XK" xml:lang="en">Kosovo</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">20482900</value></recipient-country-budget><recipient-country-budget><recipient-country code="XK" xml:lang="en">Kosovo</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">22241900</value></recipient-country-budget><recipient-country-budget><recipient-country code="XK" xml:lang="en">Kosovo</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">25353100</value></recipient-country-budget><recipient-country-budget><recipient-country code="ZM" xml:lang="en">ZAMBIA</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">157589300</value></recipient-country-budget><recipient-country-budget><recipient-country code="ZM" xml:lang="en">ZAMBIA</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">153408200</value></recipient-country-budget><recipient-country-budget><recipient-country code="ZM" xml:lang="en">ZAMBIA</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">166070000</value></recipient-country-budget><recipient-country-budget><recipient-country code="CD" xml:lang="en">CONGO, THE DEMOCRATIC REPUBLIC OF THE</recipient-country>
+							<period-start iso-date="2017-01-01"> Start of Financial Year  2017/17</period-start>
+							<period-end iso-date="2017-12-31"> End of Financial Year  2017/17</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2017-01-01">477092400</value></recipient-country-budget><recipient-country-budget><recipient-country code="CD" xml:lang="en">CONGO, THE DEMOCRATIC REPUBLIC OF THE</recipient-country>
+							<period-start iso-date="2018-01-01"> Start of Financial Year  2018/18</period-start>
+							<period-end iso-date="2018-12-31"> End of Financial Year  2018/18</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+							   </budget-line>
+							<value currency="USD" value-date="2018-01-01">408684900</value></recipient-country-budget><recipient-country-budget><recipient-country code="CD" xml:lang="en">CONGO, THE DEMOCRATIC REPUBLIC OF THE</recipient-country>
+							<period-start iso-date="2019-01-01"> Start of Financial Year  2019/19</period-start>
+							<period-end iso-date="2019-12-31"> End of Financial Year  2019/19</period-end>
+							   <budget-line>
+									<narrative>indicative country budget</narrative>
+
+							   </budget-line>
+							<value currency="USD" value-date="2019-01-01">383888300</value></recipient-country-budget>
+<document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Regional Partnership Framework for Kiribati, Nauru, the Republic of Marshall Islands, Federated States of Micronesia, Palau, Independent State of Samoa, Kingdom of Tonga, Tuvalu and Vanuatu for the period FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/163401481660770129/pdf/108727-REVISED-PUBLIC-Afghanistan-CPF-27-Oct-final-12082016.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR ISLAMIC REPUBLIC OF AFGHANISTAN FOR THE PERIOD FY17 to FY20</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">ANTIGUA AND BARBUDA-Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/233701467980441550/pdf/94636-CAS-P147570-R2015-0087-IFC-R2015-0115-MIGA-R2015-0026-Box391421B-OUO-9.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR ALBANIA FOR THE PERIOD FY15-FY19</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/10/17/000456286_20131017113417/Rendered/PDF/816470CAS0AM0C00Box379845B00PUBLIC0.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">ARMENIA-Country partnership strategy for the period FY2014-FY2017</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/06/000442464_20130906093626/Rendered/PDF/762250CAS0Ango0800OUO0900Box379823B.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">ANGOLA-Country partnership strategy for the period FY2014-FY2016</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/748271467998502035/pdf/95860-REVISED-Box385353B-OUO-9-R2015-0122-2.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR AZERBAIJAN FOR THE PERIOD FY16-FY20</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/215221450204091066/WBG-Bosnia-and-Herzegovina-period-FY2016-2020.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR BOSNIA AND HERZEGOVINA FOR THE PERIOD FY16-FY20</title>
+							</document-link><document-link format="application/pdf" url="COUNTRY PARTNERSHIP FRAMEWORK FOR BANGLADESH FOR THE PERIOD FY16-FY20">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR BANGLADESH FOR THE PERIOD FY16-FY20</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/10/000442464_20130910102201/Rendered/PDF/787930REVISEDb0IC00IDA0R20130022503.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">BURKINA FASO-Country Partnership Strategy FY2013-FY2016</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/10/01/000350881_20121001113803/Rendered/PDF/723340CAS0P1280Official0Use0Only090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">BURUNDI-Country assistance strategy for the period FY2013-FY2016 </title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/03/20/000356161_20130320114638/Rendered/PDF/757740CASP0P120Official0use0only090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">BENIN-Country partnership strategy for the period FY2013-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/921771468186539912/pdf/100985-REVISED-OUO-9-R2015-0221.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE PLURINATIONAL STATE OF BOLIVIA FOR THE PERIOD FY16-FY20</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/09/03/000442464_20140903111410/Rendered/PDF/885970CPS0P148000Box385310B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">BHUTAN-Country partnership strategy for the period FY2015-2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/08/11/000334955_20090811015524/Rendered/PDF/495830CAS0P113101Official0Use0Only1.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">CENTRAL AFRICAN REPUBLIC-Country partnership strategy for the period FY2009-FY2012 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/11/16/000350881_20121116110226/Rendered/PDF/NonAsciiFileName0.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">REPUBLIC OF CONGO-Country partnership strategy for the period FY2013-FY2016</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2015/09/08/090224b0830c6065/1_0/Rendered/PDF/Cote0d0Ivoire00period0FY20160FY2019.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COTE D''IVOIRE-Country partnership strategy for the period FY2016-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/480711490925662402/pdf/CPF-CM-Board-vf-February-28-03062017.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF CAMEROON FOR THE PERIOD FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/12/12/000470435_20141212094153/Rendered/PDF/922480REVISED00UPDATE0BOARD0NUMBERS.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">CAPE VERDE-Country partnership strategy for the period FY2015-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/03/12/000333037_20140312152815/Rendered/PDF/838740REVISED0010Box382156B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">DJIBOUTI-Country partnership strategy for the period FY2014-2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">DOMINICA-Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/09/09/000442464_20140909111630/Rendered/PDF/895510CPS0P133030Box385316B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">DOMINICAN REPUBLIC-Country partnership strategy for the period FY2015-FY2018 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/480711490925662402/pdf/CPF-CM-Board-vf-February-28-03062017.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE FEDERAL DEMOCRATIC REPUBLIC OF ETHIOPIA FOR THE PERIOD FY18-FY22</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">FIJI-Country engagement note for the period FY2015-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">MICRONESIA, FEDERATED STATES OF-Country partnership strategy for the period FY2014-FY2017</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">GRENADA-Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/08/20/000334955_20090820040116/Rendered/PDF/489180CAS0p116101Official0Use0only1.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">GEORGIA-Country partnership strategy for the period FY2014-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/25/000442464_20130925100825/Rendered/PDF/763690CAS0Ghan000PUBLIC00Box379829B.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">GHANA-Country partnership strategy for the period FY2013-FY2016</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/18/000350881_20130418085848/Rendered/PDF/721400CAS0REVI00900IDA0R20130006102.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">GAMBIA-Second joint partnership strategy for FY2013-FY2016 </title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/06/000333037_20130906083708/Rendered/PDF/762300CAS0P115000OUO0900Box379823B0.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">GUINEA-Country partnership strategy for the period FY2014-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/05/28/000333038_20090528002431/Rendered/PDF/484660ISN0p077101Official0Use0Only1.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Guinea-Bissau-Country engagement note for the period FY2015-FY2016 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2009/05/22/000350881_20090522101401/Rendered/PDF/479830CAS0P106101Official0Use0Only1.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">GUYANA-Country assistance strategy for the period FY2009-FY2012 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/431191468179338816/pdf/98367-CPF-P149580-IDA-R2015-0290-IFC-R2015-0317-MIGA-R2015-0092-Box393255B-OUO-9.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF HONDURAS FOR THE PERIOD FY16-FY20</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/673911467986337757/pdf/98132-CPS-IDA-R2015-0243-IFC-R2015-0256-MIGA-R2015-0076-Box393199B-OUO-9.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">HAITI-Country partnership framework for the period FY2016-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/15/000350881_20130415145549/Rendered/PDF/7617600CAS0REV0PUBLIC00R20130005004.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">INDIA-Country partnership strategy for the period FY2013-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/186221468263335393/pdf/NonAsciiFileName0.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP STRATEGY FOR THE REPUBLIC OF IRAQ FOR THE PERIOD FY13-FY16</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/06/25/000442464_20140625105403/Rendered/PDF/889400CAS0P1440Kenya0CPS000Volume02.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">KENYA-Country partnership strategy for the period FY2014-FY2018 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/07/04/000445729_20130704110056/Rendered/PDF/785000KG0CAS0C00Box0377356B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">KYRGYZ REPUBLIC- Country partnership strategy for the period FY2014-FY2017 </title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/173801467999088768/pdf/104843-CEN-P120312-IDA-R2016-0068-IFC-R2016-0088-MIGA-R2016-0022-Box394888B-OUO-9.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY ENGAGEMENT NOTE FOR THE KINGDOM OF CAMBODIA FOR THE PERIOD FY2016-2017</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Regional Partnership Framework for Kiribati, Nauru, the Republic of Marshall Islands, Federated States of Micronesia, Palau, Independent State of Samoa, Kingdom of Tonga, Tuvalu and Vanuatu for the period FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2010/05/06/000334955_20100506032352/Rendered/PDF/525220ISN0Box31only10IDA1R201010124.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COMOROS-Country partnership strategy for the period FY2014-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SAINT KITTS AND NEVIS-Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/617471493517642342/pdf/Lao-Country-Partnership-Framework-2-March-2017-clean-03152017.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR LAO PEOPLE''S DEMOCRATIC REPUBLIC FOR THE PERIOD FY2017-FY2021</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SAINT LUCIA-Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/906781467305543915/pdf/104606-CPS-P156996-OUO-9-R2016-0105-Box396268B.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE DEMOCRATIC SOCIALIST REPUBLIC OF SRI LANKA FOR THE PERIOD FY17-FY20</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/07/29/000112742_20130729094758/Rendered/PDF/746180IDA0R20130019102.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">LIBERIA-Country partnership strategy for the period FY2013-FY2017</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/786561468327941232/pdf/97823-CAS-P152099-Box396265B-OUO-9-IDA-R2016-0148.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR KINGDOM OF LESOTHO FOR THE PERIOD FY16-20</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/08/16/000333037_20130816110107/Rendered/PDF/797010CAS0R2010p00OUO0900Box379801B.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">MOLDOVA-Country partnership strategy for the period FY2014-FY2017 </title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/725881498788115661/pdf/Madagascar-CPF-FinalBoardapprovalJune5-2017-06052017.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF MADAGASCAR FOR THE PERIOD FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Regional Partnership Framework for Kiribati, Nauru, the Republic of Marshall Islands, Federated States of Micronesia, Palau, Independent State of Samoa, Kingdom of Tonga, Tuvalu and Vanuatu for the period FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/839461468198005347/pdf/94005-CPF-P151414-IDA-R2015-0283-IFC-R2015-0309-MIGA-R2015-0089-Box393245B-OUO-9.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF MALI FOR THE PERIOD FY16-19</title>
+							</document-link><document-link format="application/pdf" url="https://www.worldbank.org/content/dam/Worldbank/Publications/eap/myanmar-2015-2017-country-partnership-framework.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">MYANMAR-Country partnership framework for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/04/27/000333037_20120427010240/Rendered/PDF/675670CAS0P1250Official0Use0Only090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">MONGOLIA-Country partnership strategy for the period FY2013-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/09/18/000356161_20130918152343/Rendered/PDF/750300CAS0P1280100OUO0900Box379827B.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Mauritania-Country partnership strategy for the period FY2014-FY2016</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/125521468195563512/pdf/103724-CPF-P157051-IDA-R2016-0053-IFC-R2016-0077-MIGA-R2016-0016-Box394878B-OUO-9.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF MALDIVES FOR THE PERIOD FY16-FY19</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/08/000350881_20130208104235/Rendered/PDF/741590CORRIGENDUM0IDA0R20130000302.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Malawi-Country Assistance Strategy for the period FY2013-FY2016 (ext. trough 2017) </title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/540001493517702187/pdf/MZ-CPF-Final-clean-March-23-04052017.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF MOZAMBIQUE FOR THE PERIOD FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/10/000356161_20130410122506/Rendered/PDF/762320CAS0P127050Box374366B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">NIGER-Country Partnership Strategy for the period FY2013-FY2016 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/04/04/000333037_20140404110523/Rendered/PDF/825010CAS0P133040Box385166B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">NIGERIA-Country partnership strategy for the period FY2014-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/10/24/000386194_20121024011712/Rendered/PDF/692310CAS0P1280Official0Use0Only090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">NICARAGUA-Country partnership strategy for the period FY2013-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/08/000442464_20140508100553/Rendered/PDF/831480CAS0P133080Box385199B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">NEPAL-Country partnership strategy note for the period FY2014-FY2018 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/12/18/000333037_20121218001233/Rendered/PDF/NonAsciiFileName0.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">PAPUA NEW GUINEA-Country partnership strategy for the period FY2013-FY2016 Ext. through 2018)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/04/15/000442464_20140415102619/Rendered/PDF/846450CAS0P146090Box385177B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">PAKISTAN-Country partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/15/000333037_20140515101839/Rendered/PDF/870250CPS0P130090Box385211B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">RWANDA-Country assistance strategy for the period FY2014-FY2018 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/458181467103791708/pdf/106118-CEN-P157686-IDA-R2016-0175-Box396255B-OUO-9.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY ENGAGEMENT NOTE FOR THE REPUBLIC OF YEMEN FOR THE PERIOD FY17-FY18</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/05/23/000333037_20130523091840/Rendered/PDF/763490CAS0P131060Box377300B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SOLOMON ISLANDS-Country partnership strategy for the period FY2013-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/07/23/000333037_20120723002431/Rendered/PDF/699130CASP0P130Official0Use0only090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SIERRA LEONE-Country assistance strategy progress report for the period FY2010-FY2013 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/01/29/000356161_20130129173312/Rendered/PDF/NonAsciiFileName0.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SENEGAL- Country partnership strategy for the period FY2013-FY2017</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/02/07/000333037_20130207110223/Rendered/PDF/747670ISN0P1290Official0Use0Only090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SOUTH SUDAN-Interim strategy note for FY2013-FY2014 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/07/11/000350881_20140711133944/Rendered/PDF/831440CAS0REVI0C0disclosed070100140.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SAO TOME AND PRINCIPE-Country partnership strategy for the period FY2014-FY2018 (English)</title>
+							</document-link><document-link format="application/pdf" url="https://openknowledge.worldbank.org/bitstream/handle/10986/23664/Chad000Country0r0the0period0FY16020.pdf?sequence=1&amp;isAllowed=y">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF CHAD FOR THE PERIOD FY16-20</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2012/01/05/000386194_20120105003145/Rendered/PDF/658740ISN0P1250official0use0only090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">TOGO-Interim strategy note for the period FY2012-FY2013 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/05/20/000442464_20140520101548/Rendered/PDF/863720CAS0P146010Box385211B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">TAJIKISTAN-Country partnership strategy for the period FY2015-FY2018 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Regional Partnership Framework for Kiribati, Nauru, the Republic of Marshall Islands, Federated States of Micronesia, Palau, Independent State of Samoa, Kingdom of Tonga, Tuvalu and Vanuatu for the period FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/03/27/000350881_20130327102857/Rendered/PDF/752630CORRIGEN0C0disclosed030260130.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">TIMOR-LESTE-Country partnership strategy for the period FY2013-FY2017 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Regional Partnership Framework for Kiribati, Nauru, the Republic of Marshall Islands, Federated States of Micronesia, Palau, Independent State of Samoa, Kingdom of Tonga, Tuvalu and Vanuatu for the period FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2011/05/16/000333037_20110516030743/Rendered/PDF/602690CAS0IDA005B000public050120110.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">TANZANIA-Country Assistance Strategy (CAS) for the period FY2012-FY2015 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/170721468179663842/pdf/101173-CAS-P155948-OUO-9-IDA-R2016-0049-2-Box394874B.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR THE REPUBLIC OF UGANDA FOR THE PERIOD FY16-21</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/537091467993490904/pdf/105771-CAS-P153590-OUO-9-R2016-0098-Box360260B.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR UZBEKISTAN FOR THE PERIOD FY16-FY20</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">SAINT VINCENT AND THE GRENADINES-Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/173771496368868576/pdf/05-04-2017-Vietnam-CPF-to-SECPO-05052017.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Country partnership strategy for the Socialist Republic of Vietnam for the period FY2018-FY2022</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2014/10/27/000333037_20141027011440/Rendered/PDF/851560CPS0R201000Box385343B00OUO090.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">VANUATU-Organization of Eastern Caribbean States (OECS)-Regional partnership strategy for the period FY2015-FY2019 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://pubdocs.worldbank.org/en/118921488323842915/R2017-0028.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">Regional Partnership Framework for Kiribati, Nauru, the Republic of Marshall Islands, Federated States of Micronesia, Palau, Independent State of Samoa, Kingdom of Tonga, Tuvalu and Vanuatu for the period FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/297951496160148830/pdf/112337-REVISED-PUBLIC-5-30-17-Kosovo-CPF-with-Corrigendum-May-8-clean-w-scd-box-edits-May-24-2017.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">COUNTRY PARTNERSHIP FRAMEWORK FOR REPUBLIC OF KOSOVO FOR THE PERIOD FY17-FY21</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/04/05/000350881_20130405104746/Rendered/PDF/750890CORRIGEN0IC00IDA0R20130002703.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">ZAMBIA-Country partnership strategy for the period FY2013-FY2016 (English)</title>
+							</document-link><document-link format="application/pdf" url="http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2013/05/16/000350881_20130516171004/Rendered/PDF/661580CAS0Box30C0disclosed050160130.pdf">
+							<language>en</language>
+							<category code="B03">Country strategy paper</category>
+							<title xml:lang="en">DEMOCRATIC REPUBLIC OF CONGO-Country Assistance Strategy for the period FY2013-FY2016</title>
+							</document-link>
+<document-link format="application/pdf" url="https://openknowledge.worldbank.org/bitstream/handle/10986/24985/9781464808524.pdf">
+							<language>en</language>
+							<category code="B01">Annual report</category>
+							<title xml:lang="en">The World Bank Annual Report 2016</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/348661486654455091/IDA18-deputies-report-additions-to-IDA-Resources-Towards-2030-investing-in-growth-resilience-and-opportunity">
+							<language>en</language>
+							<category code="B02">Strategy paper</category>
+							<title xml:lang="en">IDA18 Replenishment Agreement</title>
+							</document-link><document-link format="application/pdf" url="http://documents.worldbank.org/curated/en/348661486654455091/IDA18-deputies-report-additions-to-IDA-Resources-Towards-2030-investing-in-growth-resilience-and-opportunity">
+							<language>en</language>
+							<category code="B04">Aid Allocation Policy</category>
+							<title xml:lang="en">IDA18 Replenishment Agreement</title>
+							</document-link><document-link format="application/pdf" url="https://policies.worldbank.org/sites/ppf3/PPFDocuments/Forms/DispPage.aspx?docid=4005&amp;ver=current">
+							<language>en</language>
+							<category code="B05">Procurement Policy and Procedure</category>
+							<title xml:lang="en">Procurement in Investment Project Financing: Goods, Works, Non-Consulting and Consulting Services, July 2016</title>
+							</document-link><document-link format="application/pdf" url="https://policies.worldbank.org/sites/ppf3/PPFDocuments/Forms/DispPage.aspx?docid=4003&amp;ver=current">
+							<language>en</language>
+							<category code="B05">Procurement Policy and Procedure</category>
+							<title xml:lang="en">Bank Directive Procurement in IPF and Other Operational Procurement Matters, June 2016</title>
+							</document-link><document-link format="application/pdf" url="https://policies.worldbank.org/sites/ppf3/PPFDocuments/Forms/DispPage.aspx?docid=4004&amp;ver=current">
+							<language>en</language>
+							<category code="B05">Procurement Policy and Procedure</category>
+							<title xml:lang="en">Bank Procedure: Procurement in IPF and Other Operational Procurement Matters, June 2016</title>
+							</document-link><document-link format="application/pdf" url="http://siteresources.worldbank.org/EXTABOUTUS/Resources/29707-1280852909811/IDA_Jun_16.pdf">
+							<language>en</language>
+							<category code="B06">Institutional Audit Report</category>
+							<title xml:lang="en">International Development Association: Managements Discussion &amp; Analysis  and  Financial Statements. June 30 2016</title>
+							</document-link>
+			</iati-organisation></iati-organisations>
+

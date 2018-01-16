@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iati-organisations version="2.02" generated-datetime="2018-01-11T10:26:42+00:00">
+  <iati-organisation last-updated-datetime="2018-01-11T10:26:42+00:00" xml:lang="en" default-currency="GBP">
+    <organisation-identifier>GB-CHC-207544</organisation-identifier>
+    <name>
+      <narrative>Sightsavers</narrative>
+    </name>
+    <reporting-org type="21" ref="GB-CHC-207544">
+      <narrative xml:lang="en">Sightsavers</narrative>
+    </reporting-org>
+    <total-budget status="1">
+      <period-start iso-date="2013-01-01"/>
+      <period-end iso-date="2013-12-31"/>
+      <value currency="GBP" value-date="2013-01-01">50420000</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2014-01-01"/>
+      <period-end iso-date="2014-12-31"/>
+      <value currency="GBP" value-date="2014-01-01">44500000</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2015-01-01"/>
+      <period-end iso-date="2015-12-31"/>
+      <value currency="GBP" value-date="2015-01-01">66605145</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2016-01-01"/>
+      <period-end iso-date="2016-12-31"/>
+      <value currency="GBP" value-date="2016-01-01">66784349</value>
+    </total-budget>
+    <total-budget status="1">
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">71234513</value>
+    </total-budget>
+    <recipient-country-budget>
+      <recipient-country code="AG"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">12391</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="KE"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1549724</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MW"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">997703</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="MZ"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">588859</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SD"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">684230</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SS"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">280484</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TZ"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1210791</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="UG"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1377601</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZM"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1255187</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ZW"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">88854</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="IN"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">4730402</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BD"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1463313</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="PK"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">1342481</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BJ"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">98031</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="BF"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">125310</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CM"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1425443</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="CI"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">417497</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GM"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">114558</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GH"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">296024</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GW"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">449140</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="GN"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">211675</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="LR"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">722476</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="ML"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value value-date="2017-01-01">986875</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="NG"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1647522</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SN"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">672042</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="SL"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">1215866</value>
+    </recipient-country-budget>
+    <recipient-country-budget>
+      <recipient-country code="TG"/>
+      <period-start iso-date="2017-01-01"/>
+      <period-end iso-date="2017-12-31"/>
+      <value currency="GBP" value-date="2017-01-01">83672</value>
+    </recipient-country-budget>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/19864_SSFinReport2012PLoRes.pdf">
+      <title>
+        <narrative>Annual Report and Financial Statements 31 December 2012</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2012-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/21376_21369_Sightsavers-Annual-Report-2013_Final.pdf">
+      <title>
+        <narrative>Annual Report and Financial Statements 31 December 2013</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2013-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Annual-report-and-financial-statement-2014.pdf">
+      <title>
+        <narrative>Annual Report and Financial Statements 31 December 2014</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2016-05-20"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/21601_Annual-Review-2013e.pdf">
+      <title>
+        <narrative>Annual Review 2013</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2013-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/SIM-Card-2017_images.png">
+      <title>
+        <narrative>Strategy Map</narrative>
+      </title>
+      <category code="B02"/>
+      <document-date iso-date="2012-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/19377_0303_SS-Oncho-Report-Lowres.pdf">
+      <title>
+        <narrative>Elimination of Onchocerciasis</narrative>
+      </title>
+      <category code="B12"/>
+      <document-date iso-date="2012-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/19375_0311_SS-Trachoma-Report-Lowres.pdf">
+      <title>
+        <narrative>Elimination of Blinding Trachoma</narrative>
+      </title>
+      <category code="B12"/>
+      <document-date iso-date="2012-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/19511_INGO_Charter_report_2011.pdf">
+      <title>
+        <narrative>INGO Accountability Charter Report 2011</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2011-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/19511_INGO_Charter_report_2011.pdf">
+      <title>
+        <narrative>INGO Accountability Charter Feedback Report 2011</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2011-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/20925_INGO-Accountability-Charter-Report-2012.pdf">
+      <title>
+        <narrative>INGO Accountability Charter Report 2012</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2012-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/20925_INGO-Accountability-Charter-Report-2012.pdf">
+      <title>
+        <narrative>INGO Accountability Charter Feedback Report 2012</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2012-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/INGO-Charter-Report-2013.pdf">
+      <title>
+        <narrative>INGO Accountability Charter Report 2013</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2013-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/INGO-Charter-Report-2013.pdf">
+      <title>
+        <narrative>INGO Accountability Feedback Report 2013</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2013-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/INGO-Accountability-Charter-Annual-Report-2014.pdf">
+      <title>
+        <narrative>INGO Accountability Charter Report 2014</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2014-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/15870_Sustainability-Statement.pdf">
+      <title>
+        <narrative>Sustainability Statement</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2009-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Annual-review-2014.pdf">
+      <title>
+        <narrative>Annual Review 2014</narrative>
+      </title>
+      <category code="B01"/>
+      <document-date iso-date="2014-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/19631_Financial-Framework-2013-2015.pdf">
+      <title>
+        <narrative>Financial Framework</narrative>
+      </title>
+      <category code="B16"/>
+      <document-date iso-date="2015-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/21357_EyeHealth_Strat_Web.pdf">
+      <title>
+        <narrative>Eye Health Strategy</narrative>
+      </title>
+      <category code="B02"/>
+      <document-date iso-date="2013-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/21356_Sightsavers_Edu_Strategy_Web1.pdf">
+      <title>
+        <narrative>Education Strategy</narrative>
+      </title>
+      <category code="B02"/>
+      <document-date iso-date="2013-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Strategic-Framework-2015_ACCESSIBLE.pdf">
+      <title>
+        <narrative>Social Inclusion Strategy</narrative>
+      </title>
+      <category code="B02"/>
+      <document-date iso-date="2015-01-01"/>
+    </document-link>
+    <document-link format="application/http" url="http://www.sightsavers.org">
+      <title>
+        <narrative>Sightsavers website</narrative>
+      </title>
+      <category code="A12"/>
+      <document-date iso-date="2016-01-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/13070_Insight-No-1.pdf">
+      <title>
+        <narrative>Strengthening Health Systems in Nigeria</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2009-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/13071_Insight-No-2.pdf">
+      <title>
+        <narrative>Creating Accessibility in Sri Lanka</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2010-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/15172_Insight-3-FINAL-Mar-2011.pdf">
+      <title>
+        <narrative>Strengthening Health Systems and Education in Zambia, Uganda and Tanzania</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2011-03-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/13081_InsightPlus_HRD_Final.pdf">
+      <title>
+        <narrative>Insight Plus - Developing Human Resources for Eye Health</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2010-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/14755_Insight-Plus-Issue-2-FINAL.pdf">
+      <title>
+        <narrative>Insight Plus - Community Approaches to Eye Health</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2010-12-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/15745_Insight-Plus-Issue-3-FINAL.pdf">
+      <title>
+        <narrative>Insight Plus - Perspectives on Social Inclusion</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2011-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/17744_Insight-Plus-Issue-4-FINAL.pdf">
+      <title>
+        <narrative>Insight Plus - Advocacy in Action</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2011-12-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/18940_Insight-plus-towards-inclusive-education.pdf">
+      <title>
+        <narrative>Insights Plus - Towards Inclusive Education</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2012-06-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/19490_Insight-Plus-Issue-6.pdf">
+      <title>
+        <narrative>Insight Plus - Positive Failure</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2012-12-01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Irish_Aid_End_of_Term_Evaluation_Final_Report.pdf">
+      <title>
+        <narrative>Strengthening Sightsavers reach and impact in West Africa End of Term Evaluation</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2015-11-15"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Evaluation_Management_Response_final.pdf">
+      <title>
+        <narrative>Strengthening Sightsavers reach and impact in West Africa End of Term Evaluation Management Response</narrative>
+      </title>
+      <category code="A07"/>
+      <document-date iso-date="2016-02-05"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/2015_AnnualReport_Accessible_WEB.pdf">
+      <title>
+        <narrative xml:lang="en">Annual Report and Financial Statements 31 December 2015</narrative>
+      </title>
+      <category code="B01"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Annual-review-2012.pdf">
+      <title>
+        <narrative xml:lang="en">Annual Review 2012</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2012-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Sightsavers_Annual_review_UK_2015_Accessible_WEB.pdf">
+      <title>
+        <narrative xml:lang="en">Annual Review 2015</narrative>
+      </title>
+      <category code="B01"/>
+      <language code="en"/>
+      <document-date iso-date="2015-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/INGO-Charter-Report-2015-1.pdf">
+      <title>
+        <narrative xml:lang="en">INGO Accountability Charter Report 2015</narrative>
+      </title>
+      <category code="B16"/>
+      <language code="en"/>
+      <document-date iso-date="2015-12-31"/>
+    </document-link>
+    <document-link format="application/pdf" url="http://www.sightsavers.org/wp-content/uploads/2017/11/Panel-Feedback-Letter-2015.pdf">
+      <title>
+        <narrative xml:lang="en">INGO Accountability Charter Feedback Letter 2015</narrative>
+      </title>
+      <category code="B16"/>
+      <language code="en"/>
+      <document-date iso-date="2016-06-27"/>
+    </document-link>
+  </iati-organisation>
+</iati-organisations>
